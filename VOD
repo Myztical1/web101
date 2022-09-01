@@ -352,11 +352,11 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/72a77e5f0eac089a24c1fcf6a20e1d3e.png",ROOT SPORTS NORTHWEST
 http://ky-iptv.com:80/live/robertd/robertd/1197933.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",RUSH SPORTS PLUS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH SPORTS PLUS
 http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvepg.eu/img/italy/logo/sky_sport_arena.png",Sky Sport NBA HD
 http://ky-iptv.com:80/live/robertd/robertd/1846772.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",SKY SPORTS CRICKET
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98785
@@ -408,6 +408,1002 @@ http://ky-iptv.com:80/robertd/robertd/220452.ts
 http://ky-iptv.com:80/live/robertd/robertd/220448.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
 http://ky-iptv.com:80/live/robertd/robertd/1116408.ts
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s33178_ll_h3_ab.png",Sports",US Fox Sports 2 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215962
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 20
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173176
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN Longhorn Network (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136201
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Spectrum SportsNet Lakers Alternate (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167100
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/foxsportssun.png",Sports",US Bally Sports Sun (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215944
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 14 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142864
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports South (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167363
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Washington Alternate (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167099
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US EVENT 4 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195967
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports North Out of Market (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143752
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 21
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173177
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NFL RedZone (Lower) (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992113887
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/espnews.png",Sports",US ESPN News (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215930
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Florida Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143758
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Sun (Alt) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143761
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US VENN (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992132643
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBA TV (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136198
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 2 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992117184
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports South (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143730
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg",Sports",US WWE Network FHD (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992115451
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg",Sports",US WWE Network HD (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992119959
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC News Now FHD (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992125139
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Pac 12 Arizona (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130951
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US EVENT 3 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195966
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Ohio (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215947
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Great Lake (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167368
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Sun (ALT2) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143762
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MSG ALT 2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992163396
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Root Sports Northwest Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167108
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 3 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142642
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US WWE Network FHD (MULTI AUDIO) (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/799921101284
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US WWE Network SD (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992124392
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Pac 12 Bay Area (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130952
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US EVENT 2 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195965
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Fox Sports NetBase (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215938
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167367
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Great Lakes (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215939
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Sun (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167361
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MSG ALT 3 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992163397
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Root Sports Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167101
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 4 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142643
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",DAZN LaLiga (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/799921101283
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US RFD TV (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114301
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US beIN SPORTS 4 (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130946
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Pac 12 Los Angeles (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130953
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US EVENT 1 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195964
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio   Zone 5 (Louisville Lexington) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143747
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN 1 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123006
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN SEC Network (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215928
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Sportsman Channel (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136204
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Sun (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143759
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MSG Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136192
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 5 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142644
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports South Georgia (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143727
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US beIN SPORTS 5 (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130947
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US AT&T SportsNet Pittsburgh (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134800
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 22
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173178
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Pac 12 Mountain (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130954
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio 11 (Evansville) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143745
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN 2 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123007
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Warner TV  (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171186
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Indiana (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143741
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s49030_ll_h3_ae.png",Sports",US Sportsman Channel (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216002
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/msgplus.png",Sports",US MSG Plus (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215986
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 6 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142645
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s103926_ll_h3_aa.png",Sports",US Eleven Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216006
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",DAZN F1 Spanish (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196049
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 7 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142646
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",DAZN 2 Spanish (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196048
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76372_ll_h3_ab.png",Sports",US PAC12 Arizona (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216007
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US beIN SPORTS 6 (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130948
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Bay Area (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136252
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 23
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173179
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Pac 12 Oregon (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130955
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio 11 Plus (Evansville) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143746
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN News (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123008
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB Big Inning (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992190233
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US SportsNet New York (SNY) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999219039
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 8 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142647
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",DAZN 1 Spanish (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196047
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US FNTSY Sports Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215992
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports South Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142496
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76370_ll_h3_ab.png",Sports",US PAC12 BayArea (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216008
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US beIN SPORTS 7 (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130949
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s11109_ll_h3_ad.png",Sports",US NBC Sports Bay Area (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216019
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 24
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173180
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Pac 12 Washington (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130956
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPNU College Sports (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123009
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US (Spanish) beIN SPORTS en EspaÃ±ol (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130945
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s11109_ll_h3_ad.png",Sports",US NBC Sports Bay Area (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130929
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Indiana Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143742
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Sun Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143760
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s46147_ll_h3_aa.png",Sports",US Bally Sports Tennessee (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215942
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MSG2 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215984
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB Strike Zone (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114175
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 9 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142648
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",EUROSPORT 2 Spanish (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196046
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/sportsouth.png",Sports",US Bally Sports Southeast (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215955
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76375_ll_h3_ab.png",Sports",US PAC12 LosAngeles (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216012
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Yes Network HD ALT (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992163391
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US beIN SPORTS 8 (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130950
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 25
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173181
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992193133
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN ACC Network (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123010
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US (Spanish) beIN SPORTS LaLiga (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130944
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s10179_ll_h3_aa.png",Sports",US ESPN 1 (HD) (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114285
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Kansas City (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215960
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Stadium (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215977
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports West (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143743
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",EUROSPORT 1 Spanish (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196045
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southeast (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167364
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76374_ll_h3_ab.png",Sports",US PAC12 Mountain (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216011
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Yes Network HD ALT 2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992163394
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US BeIN Sports LaLiga (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114176
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 26
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173182
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 15 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992193132
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN SEC Network (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123011
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76942_ll_h3_ab.png",Sports",US BeIN 4 Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215969
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN 2 (Backup)  (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130805
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fox Soccer Plus (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134127
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Kansas City Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215959
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MASN (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134803
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s104089_ll_h3_aa.png",Sports",US Olympic Channel (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215964
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports West (A) (Fresno) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143756
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",EUROSPORT 2 ITALY (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196044
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ACC Network (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136190
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76366_ll_h3_ab.png",Sports",US PAC12 Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216013
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Boston (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136253
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 27
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173183
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio 9 (Charleston Huntington Feed) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142504
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fox Sports 1 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123012
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76942_ll_h3_ab.png",Sports",US BeIN Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215971
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports California (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130928
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB EXTRA INNINGS MULTI VIEW (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195987
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN 2 (HD) (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114286
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s113768_ll_h3_aa.png",Sports",US Marquee Sports Network (FHD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123975
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 13 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195986
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN ESPNU (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130957
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Midwest  St. Louis (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143740
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s104089_ll_h3_aa.png",Sports",US Olympic Channel (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123017
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports West (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167371
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MSG2 Plus (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215983
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MotorTrend (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130926
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",EUROSPORT 1 ITALY (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196043
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ACC Network (Backup) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114409
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US AT&T Sportsnet Rocky Mountain (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134802
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76371_ll_h3_ab.png",Sports",US PAC12 Oregon (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216009
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/comcastsportsnet.png",Sports",US NBC Sports Boston (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216851
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 28
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173184
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Channel (FHD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114148
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fight Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215991
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio Plus 5 (Louisville Lex) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143748
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MAV TV (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141073
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fox Sports 2 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123013
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",=== NCAAF PACK===
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173156
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1176225365800423424/w8vafBJ4_400x400.png",Sports",US Marquee Sports Network (HD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123976
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Network (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130924
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPNU College Sports (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215932
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 12 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195985
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN Longhorn Network (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215929
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Midwest (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215949
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MASN2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134804
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southeast Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142499
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US AT&T Sportsnet Rocky Mountain Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167106
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76373_ll_h3_ab.png",Sports",US PAC12 Washington (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216010
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Big 10 Alt (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130939
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 29
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173185
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Channel (HD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114153
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fight Network (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992186434
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio Plus 9 (Charleston) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143749
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Big Ten Network (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123014
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 01 Austin Peay @ Western Kentucky 12PM Saturday
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173157
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1176225365800423424/w8vafBJ4_400x400.png",Sports",US Marquee Sports Network (SD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123977
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 11 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195984
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN News (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130958
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Midwest (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167366
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Olympic Channel (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130962
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Stadium1 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215976
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Yes Network HD ALT 3 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992163393
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s11059_ll_h3_ab.png",Sports",US AT&T SportsNet Rocky Mountain West (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167107
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports California (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136254
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 30
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173186
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Channel (SD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114158
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US FOX Sports 1 (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130930
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US SportsNet New York (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123015
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MotorTrend (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123016
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US BeIN Sports La Liga  (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215970
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 02 Nebraska vs. Northwestern 1230PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173158
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports Indiana (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123978
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 10 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195983
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN SEC Network (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130959
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Midwest (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143737
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Stadium2 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215975
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports West Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142503
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Yes Network HD BO (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992163392
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Southwest (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215957
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US AT&T SportsNet Southwest (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134801
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s44917_ll_h3_ad.png",Sports",US NBC Sports California (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216017
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 31
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173187
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US FOX Sports 2 (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130931
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Oklahoma (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114410
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Arizona (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123023
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s16365_ll_h3_ac.png",Sports",US CBS Sports Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216005
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 03 Idaho State at UNLV 330PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173159
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports Indiana Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123979
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Washington (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130927
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 9 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195982
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Altitude Sports Alternate (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167105
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s104089_ll_h3_aa.png",Sports",US Olympic Channel HD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136202
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Stadium3 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215974
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",INTER MILAN TV Italy (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196042
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports West Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167097
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports (West) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215953
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports 1 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992176845
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167365
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NFL Network 4 (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/799921102731
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 32
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173188
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 33
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173189
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Detroit Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123025
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Ginx TV (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215995
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 04 Stephen F. Austin vs. Jacksonville State 330PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173160
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports Ohio (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123980
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Altitude Sports FHD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992124457
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",MILAN TV Italy (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196041
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Wisconsin (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215952
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Arizona (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215951
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NESN  (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134805
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports 2 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992176846
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest (Feed 6) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143736
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US AT&T Sportsnet Southwest (Alternate) (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215996
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Big Ten HD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992155680
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NFL Network 3 (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/799921102730
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NFL Network 2 (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/799921102729
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports California Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167098
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 35
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173190
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports San Diego (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143753
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports New Orleans (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123026
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Conmebol 1 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992176850
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US CBS Sports Network HD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136195
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s111871_ll_h3_ac.png",Sports",US ACC Network (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130934
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 05 UConn at Utah State 4PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173161
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports Southeast (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123981
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Altitude Sports HD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992124462
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Loop Classic Music Videos (PC)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171324
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",Dazn F1 Italy (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196040
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Wisconsin (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167369
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Arizona (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167374
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NESN (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215999
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports 3 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992176847
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s102790_ll_h3_aa.png",Sports",US NFL Network (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141066
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143728
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 1 (FHD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114149
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bon Appetit (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130937
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF  36
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173191
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports San Diego (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215943
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports New Orleans Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123027
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76942_ll_h3_ab.png",Sports",US BeIN5 Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215968
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 06 Wyoming at Illinois 4PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173162
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Latin GOLTV (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141068
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports Oklahoma (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123982
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Altitude Sports SD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992124514
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Loop Latin (PC)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171325
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",LFC TV UK (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196039
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Wisconsin (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143751
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Arizona Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142500
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Circle (PC)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171326
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports 4 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992176848
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NFL RedZone (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141067
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US AT&T SportsNet Southwest (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999219580
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s58570_ll_h3_ab.png",Sports",US NHL Network (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992110984
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 1 (HD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114154
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s56783_ll_h3_aa.png",Sports",US Big Ten Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215990
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 1 (SD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114159
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s33395_ll_h3_ab.png",Sports",US Tennis Channel (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215994
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Chicago (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136255
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 37
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173192
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports San Diego (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167370
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Cincinnati Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123029
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 8 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195981
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76942_ll_h3_ab.png",Sports",US BeIN6 Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215967
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 07 Duquesne at Florida State 5PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173163
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Premier League TV (PC)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992164775
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports Oklahoma Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123983
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s66879_ll_h3_aa.png",Sports",US Fox Soccer Plus (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215961
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Los Angeles News (PC)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171322
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",EUROSPORT 2 UK (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196038
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Arizona Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143764
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NESN PLUS (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216000
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports 5 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992188698
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US VSIN (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173143
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US AT&T SportsNet Southwest Alternate (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167102
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest LA1 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143729
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US PlayersTV (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173142
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 2 (FHD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114150
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s44447_ll_h3_ac.png",Sports",US NBC Sports Chicago (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216018
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 38
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173193
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports South Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123031
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/goltv.png",Sports",US GOL TV EN (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215979
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 7 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195980
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76942_ll_h3_ab.png",Sports",US BeIN7 Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215966
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Midwest Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143738
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 08 Charlotte at Florida Atlantic 7PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173164
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports San Diego (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123984
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US The Tennis Channel (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142641
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US WWE Network (PC)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171321
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",EUROSPORT 1 UK (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196037
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Wisconsin Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143750
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Arizona Plus 2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167095
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s101284_h3_aa.png",Sports",4K US Bloomberg+ (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171184
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports Latino 1 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992188699
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NESN+ (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134806
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports Latino 2 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992188700
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Southwest Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215956
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US PokerGo+ (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173141
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 2 (HD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114155
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992117182
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Conmebol 2 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992176851
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 39
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173194
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Ohio Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123034
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 6 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195979
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s76942_ll_h3_ab.png",Sports",US BeIN8 Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215965
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Midwest Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143739
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 09 Howard vs. Alabama State 7PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173165
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Marquee Sports Network (FHD) (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123985
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Loop Country (PC)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992171323
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",DAZN 2 Germany (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196036
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports YES (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215940
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Carolinas (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142498
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Stadium (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141071
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US DraftKings Baseball Channel (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992131203
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports Latino 3 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992188701
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143731
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bein Sport Xtra (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173140
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 2 (SD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114160
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Conmebol 3 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992176852
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s45948_ll_h3_ad.png",Sports",US NBC Sports Chicago Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167103
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 40
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173195
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/tycsports.png",Sports",US Latin TyC Sports (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215980
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Carolinas (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123036
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s102790_ll_h3_aa.png",Sports",US NFL Network (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130932
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s65384_ll_h3_aa.png",Sports",US Golf Channel (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136196
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 5 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195978
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 10 Florida A&M at North Carolina 815PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173166
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Pro Pickleball Association (PPA) (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142640
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports West (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123986
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN 1 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215936
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",DAZN 1 Germany (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196035
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Carolinas   North Carolina Central (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142497
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Stadium Overflow 1 (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141072
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US DraftKings Basketball Channel (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992166436
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US DraftKings College Football (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992125102
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports Latino 4 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992188702
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bein Sport (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173139
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 3 (FHD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114151
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports San Diego ALT (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143755
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s45948_ll_h3_ad.png",Sports",US NBC Sports Chicago Plus 2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167104
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 41
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173196
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest Plus (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123039
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NFL Network Alt (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130936
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 4 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195977
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US BTN (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136193
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 11 North Texas at UTEP 9PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173167
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.ringtv.com/wp-content/uploads/2015/08/Logo_fox_sports.png",Sports",US Bally Sports Socal (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123987
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US TVG Network (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136197
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",Sportdigital Fußball Germany (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196034
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Cincinnati (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992110985
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US DraftKings Football (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992124925
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US TVG Network (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141069
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fubo Sports Latino 5 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992188703
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US SportsGrid (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173138
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 3 (HD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114156
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports San Diego Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142502
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s15952_ll_h3_aa.png",Sports",US NBC Sports Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216022
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 42
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173197
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN College Extra 1 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123040
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NFL RedZone (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130933
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 3 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195976
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US BTN2 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215989
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1210277525818986496/ddmz2fyp_400x400.jpg",Sports",US NBC Golf Channel (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216014
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 12 Nevada at New Mexico State 10PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173168
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports California Plus 2 HD (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123988
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US TVG Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992112363
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s10179_ll_h3_aa.png",Sports",US ESPN 1 (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992125104
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",Red Bull TV USA (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196033
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Detroit (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215945
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US DraftKings Hockey Channel (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130797
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US TVG2 Network (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992141070
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US RFD TV (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136203
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Billard TV (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173137
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 3 (SD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992115478
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Big Ten Network Overflow 2 HD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992155681
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports San Diego Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143754
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Network (FHD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114147
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 43
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173198
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN College Extra 2 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123041
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NHL Alternate (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130935
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 2 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195975
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US BTN3 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215988
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 13 Vanderbilt at Hawaii 1030PM
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173169
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/pursuit-channel.png",Sports",US Pursuit Channel (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992110983
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Bay Area Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123989
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBA TV (HD) (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114146
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s100563_ll_h3_ab.png",Sports",US ESPN 2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215934
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",NFL NETWORK USA (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196032
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",NBA TV USA (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196031
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Detroit (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167373
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Outside TV+ (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173136
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 4 (FHD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114152
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Socal (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215941
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB Network (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136199
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Network Alt (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130960
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 44
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173199
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN College Extra 3 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123042
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US VSiN (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130963
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NHL Network (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130961
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLB 1 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195974
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fox Sports 1 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114144
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Netbase (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167360
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US BTN4 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215987
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 14
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173170
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US TVG2 Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992112364
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",MLB Network USA (DZ)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196030
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Detroit (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143763
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US WWE Network SD (MULTI AUDIO) (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992199458
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest TX6 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143732
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 1 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992117183
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 4 (HD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114157
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Big Ten Network Overflow 3 HD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992155682
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Socal (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167096
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US World Fishing Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215998
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s17596_ll_h3_ac.png",Sports",US NBC Sports Philadelfia (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216015
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 45
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173200
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s65384_ll_h3_aa.png",Sports",US Golf Channel (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130925
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN College Extra 4 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123043
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLS Direct Kick 5 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195973
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports New Orleans (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143725
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 15
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173171
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 16
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173172
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN 2 (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992125103
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Marquee Sports Plus SD (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196002
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Detroit Plus (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142501
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Spectrum SportsNet LA Dodgers (FHD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992127485
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US CLEO TV (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992155684
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US WWE Network HD (MULTI AUDIO) (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992199457
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 10 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142649
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US UFC Feed 4 (SD)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992115477
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 46
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173201
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN College Extra 5 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123044
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLS Direct Kick 4 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195972
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s82541_ll_h3_ab.png",Sports",US Fox Sports 1 (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215963
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 17
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173173
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130940
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Marquee Sports Plus HD (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196001
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports Florida (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215950
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Spectrum SportsNet LA Dodgers (HD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992127486
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Sportsman Channel (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130964
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest TX9 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143733
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 11 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142861
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Big Ten Network Overflow 4 HD (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992155683
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Socal (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167372
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Impact Wrestling (Y)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992186433
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 47
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173202
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN College Extra 6 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123045
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s68605_ll_h3_aa.png",Sports",US Willow Cricket (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114195
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLS Direct Kick 3 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195971
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports New Orleans Plus (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143726
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports North (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215948
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 18
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173174
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Game Show Network (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136200
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Marquee Sports SD (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992196000
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Florida (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167362
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US VSiN (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215993
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Spectrum SportsNet Lakers (FHD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992127487
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Stadium (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130938
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest Zone 1A Mavs BO (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143734
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MSG (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136191
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Root Sports (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992134799
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 12 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142862
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US NBC Sports Washington (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992136257
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 48
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173203
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US ESPN College Extra 7 (H)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992123046
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Willow Cricket Extra (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114197
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLS Direct Kick 2 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195970
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US MLS Direct Kick 1 (CX)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195969
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Fox Sports 2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992114145
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports North (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992167375
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/NCAA_logo.svg",Sports",NCAAF 19
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992173175
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US (English) beIN SPORTS (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992130941
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s14909_ll_h3_ad.png",Sports",US Game Show Network (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215973
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Marquee Sports HD (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992195999
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Spectrum SportsNet Lakers (HD) (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992127488
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Bally Sports Southwest Zone 2 (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992143735
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/msg.png",Sports",US MSG (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215985
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s58677_ll_h3_ac.png",Sports",US Root Sports Northwest (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216020
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://cdn.shopify.com/s/files/1/0013/2962/7213/collections/VIP_logo_1200x1200.png",Sports",US Tennis Channel Plus 13 (D)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992142863
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://tvtv.us/tvm/i/image/station/100x100/fsn.png",Sports",US Bally Sports South (A)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215954
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s10271_ll_h3_ac.png",Sports",US NBC Sports Washington (F)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999216016
+#EXTINF:-1 group-title="VIP SPORTS" tvg-logo="http://fanc.tmsimg.com/assets/s62079_ll_h3_aa.png",MLB",US MLB Network (S)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/7999215925
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7036/thumb_gt9s8TtZZ36TXF1CE1y19rSpOZu.jpg",The Princess
 https://sv5.senturion.to/mv/tt13406136/web_720p.mp4?st=hhi52rN_nhARE1eqRyBeMQ&e=1662025995&u=20951
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://image.tmdb.org/t/p/w342/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",Samaritan
