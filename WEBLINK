@@ -515,6 +515,18 @@ http://103.179.246.243:8000/play/a00l
 http://103.179.246.243:8000/play/a018
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
 http://103.179.246.243:8000/play/a019
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://flixtor.stream/wp-content/uploads/2022/05/Last-Seen-Alive-2022.jpg",Last Seen Alive
+https://streamtwo.vidzstore.com/upload/2022/May/878324972.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/82/2c/822c613c9eecc8ce03b56e63551c604e/822c613c9eecc8ce03b56e63551c604e.jpg",Bullet Proof
+https://e-5.mzzcloud.life/_v8/de3fdaf975286cd05682af5926d782f6e08bb8ff8e5f9fec40aa4f326daa92bc0f44b44166f72b9e440f42f385891f74ed07274abedda2a81b633bb88b3ca7cabcdc1c24750a6720b39acef1eaf4636dab6332b676cfa58eecf2bd751a0defcb863738350115e863478b465d4ef726db15fa49db3fcaf3043b04503f589d3687/720/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://flixtor.stream/wp-content/uploads/2022/08/Bullet-Train-2022.jpg",Bullet Train
+https://e-8.mzzcloud.life/_v8/ecf42b0c3ae2b726534b0f1345f44d5f3a38eb5b75e0b7ed5b9120b561232e462d9c73f063107d46a9198a84d5936ec785754bf88d540ab85319cdbf5cee9a22dc1469e5a710979183e932d9f0c0a779aa2a36ed86050b00d18927e10dc79581a145b3cf85d2a002d8334c36c8d0c2e3625a40b1b6a3ccc5c891579221685136/720/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/0f/3a/0f3a138cc13d52aa0c08e3ae64a4fc8a/0f3a138cc13d52aa0c08e3ae64a4fc8a.jpg",One Way
+https://e-3.mzzcloud.life/_v8/d750080aa7c1ca4d3f884bdd12cd32cd30de74c21bbbea11f50e5a308792e89fef57bfb2a6e6194f8e9ad9f4833c82f7853537b53075a15cc001873780cb2067da53df761bcc52f5594d2556931da669d82135f9de15c48e63ee8b0bea09a55c3483e212a58f747f1375a3b2a2ed0ff1c9d2825d53f47c752cbea8e968731e75/720/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/20/45/2045816a99ab39150867ca6945b29e2b/2045816a99ab39150867ca6945b29e2b.jpg",Wire Room
+https://c-1.mzzcloud.life/_v8/d3fa31b3f072b551e8252b0ef4a7978951b715c85d3aed4b80a28faccc5b3c1d5f69449129bbb9f7210b6ff884c3369df7174a9196f498ac8c7f88dcfae8c385e8d27719bfa3f9038ef2870ee5eeb93a5ff44fac8df8bbf5e1fd789c86f328c0ab0d51a5fe77b9eb61c50af907fd3005e1d0ffb19ae64dac412aa6405521301a/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d3/82/d382a6a47506318fd72fc126c710d6da/d382a6a47506318fd72fc126c710d6da.jpg",Section Eight
+https://e-5.mzzcloud.life/_v8/6478e070b3125e0c6702f4c4f57f88b5edc0087c846ebabd3d35821bdef3fb6d915e70594d7af0939b20f6eb6084f15d36b7e2967a18f329d4026e8fce00f15ef8696e0acb4bd65fbf6f157df11274a8608dff356d952d9c158cd27252dc32134d4a41bbf476f80829fc0e23aab3203e2cb19b2f68837d2f6e7123c19877c0d4/720/index.m3u8 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w185/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",Nope
 https://hlspanel.xyz/m3/aVVxV0hFL1JLNmd6U3FsaXRTcHZXUURWL1Y2elRjL0JWRG1mdTU0aVVjdW51L2dmS04xb0RySklDam9RdGVLeHdxUXpIcXpmVDRRVUJENFhkNHBjU2puUDlzNmY4aEt2L28wRCtCL0h5NUJXSFZtd0pwM2Y0a055ajlUTVppTU1ndkFFVGtaVUt4OG9jZ05YSjd6Ni9UMWY2NnY0MXFSZlgvMDBKMGIveWVGbGdDa3NPd3kwNnQweFVrdGd0NWpUc3JqSHlzZmpqTlBUZ0xidmZ6Qzd6RjVQeFR2Z2p6SjJJVFozdi9UL1BHeUMydTJmY3N6MS9YRU9wRHZrR1N6bzFIVEpJSmFLVXp0VGxZTnBqRWRya2JERzJxcVI1NkQwa1UyZXZnVTU1d05UL0dHYzBWaG56U2Q3N0tYQkIvVnA%3D
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",Top Gun: Maverick
