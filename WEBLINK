@@ -1,5 +1,4 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
@@ -316,37 +315,37 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",ALL DOCUMENTERY
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147299
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DISCOVERY
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147298
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DW DOCUMENTERY
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147297
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",FREE DOCUMENTERY
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147296
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",FREE DOCUMENTERY ANILAMS
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147295
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",FRONTLINE PBS
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147294
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",INDEPENDENT POV
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147293
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",NAT GEO
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147292
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",NAT GEO WILD
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147291
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",NETFLIX
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147290
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",REAL CRIME
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147289
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",REAL STORIES
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147288
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",REAL WILD
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147287
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",RETOLD
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147286
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",THE LIFE GUIDE
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147285
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",WONDER
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
 http://reaperhosting.club:8080/jeavo/qudojpek/1147284
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
