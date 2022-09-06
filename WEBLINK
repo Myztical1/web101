@@ -232,14 +232,15 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",RETRO TV MUSIC
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Holiday Hits
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67641_dark_360w_270h.png",Stingray Holiday Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/1920px-Stingray_Digital.svg.png",Stingray Karaoke
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67641_dark_360w_270h.png",Stingray Karaoke
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a1164999-b3bf-11ec-bf80-0242ac110003
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Urban Beats
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8201-logos.s3.amazonaws.com/stationLogos/s113296_dark_360w_270h.png",Qello Concerts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67641_dark_360w_270h.png",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67641_dark_360w_270h.png",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/plextv/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67641_dark_360w_270h.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/live/master.m3u8
