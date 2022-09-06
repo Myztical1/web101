@@ -344,7 +344,7 @@ http://ky-iptv.com:80/live/robertd/robertd/220424.ts
 http://ky-iptv.com:80/live/robertd/robertd/220464.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",Olympic Channel
 http://ky-iptv.com:80/live/robertd/robertd/220440.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.vexels.com/media/users/3/208822/isolated/preview/4f778f024e50cd271470901af089f47d-golf-swing-silhouette-by-vexels.png",One Golf
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.emojiterra.com/google/android-nougat/512px/26f3.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
@@ -358,7 +358,7 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvepg.eu/img/italy/logo/sky_sport_arena.png",Sky Sport NBA HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Fit.png",Sky Sport NBA HD
 http://juvemerda.cb99.jp.net:2052/oXtpMWRA9e/220374/317146
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",SKY SPORTS CRICKET
 http://pvserver.link:8080/play/dtDgySyA4Cl_GOnB97WoV5lkM7Gp8PyiYv7mQdDswtOEDmlA3QkjKkXjAmn_fEZd/ts
@@ -392,7 +392,7 @@ http://juvemerda.cb99.jp.net:2052/oXtpMWRA9e/220374/318008
 http://juvemerda.cb99.jp.net:2052/oXtpMWRA9e/220374/318007
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",SPORT TV 5
 http://juvemerda.cb99.jp.net:2052/oXtpMWRA9e/220374/318006
-#EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",SUPER SPORT MOTORSPORT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SUPER SPORT MOTORSPORT
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104134.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SUPER SPORT PREMIER LEAGUE 1
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
@@ -414,8 +414,6 @@ https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/ufc.us.m3u8
 http://ky-iptv.com:80/live/robertd/robertd/220448.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
 http://ky-iptv.com:80/live/robertd/robertd/1116408.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",T Sports BDC
-http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/k4Bypxb/SonySix.jpg", Sony SIX HD
 http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",Sony Ten 1 HD
@@ -434,7 +432,6 @@ http://103.179.246.243:8000/play/a00l
 http://103.179.246.243:8000/play/a018
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
 http://103.179.246.243:8000/play/a019
-
 #EXTINF:-1 group-title="ADULT XXX" tvg-logo="https://i.imgur.com/IBfTNOr.png",A3Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 group-title="ADULT XXX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/babestation-24-uk-de.png",Babestation24
