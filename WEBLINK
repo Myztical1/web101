@@ -232,7 +232,7 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",RETRO TV MUSIC
+EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",RETRO TV MUSIC
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png",Stingray Holiday Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
@@ -484,21 +484,21 @@ http://103.179.246.243:8000/play/a00l
 http://103.179.246.243:8000/play/a018
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
 http://103.179.246.243:8000/play/a019
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2022/08/bI7lGR5HuYlENlp11brKUAaPHuO-185x278.jpg",Day Shift
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7087/thumb_bI7lGR5HuYlENlp11brKUAaPHuO.jpg",Day Shift
 https://static-cz2.ororo.tv/uploads/movie/file/7087/day.shift.2022.1080p.web.h264-naisu_1660300097.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwODcmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6MzY6MjAgQU0maGFzaF92YWx1ZT1Ma3gwV0FPSHdoOW1mL1VKeGVvd253PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj03NQ%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2022/08/cQYfh1jWzeizgJI2Z66y9h8YKTU-185x278.jpg",Orphan: First Kill
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7101/thumb_fjaW1byM45r1Si6ax1U64XP6AsO.jpg",Orphan: First Kill
 https://static-cz2.ororo.tv/uploads/movie/file/7101/Orphan.First.Kill.2022.1080p.WEBRip.x264-RARBG_1661525657.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMDEmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDI6MjUgQU0maGFzaF92YWx1ZT1SbU80ajJtaHkwUm5FclVQdGxqZUVnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04Ng%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2022/08/z0de9eo5QznG9KEijDvROHrYSfo-185x278.jpg",Samaritan
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7109/thumb_vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",Samaritan
 https://static-cz2.ororo.tv/uploads/movie/file/7109/Samaritan.2022.1080p.WEBRip.x264-RARBG_1662210077.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMDkmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDY6MTAgQU0maGFzaF92YWx1ZT03UVU5eXdXLzNhVGhnSkF0K1djbitRPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj03OA%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2021/03/13Wsjb9tnvwSZP6kllLxphiWZWh-185x278.jpg",Prey
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7088/thumb_ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Prey
 https://static-cz2.ororo.tv/uploads/movie/file/7088/Prey_11866324_1660477417.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwODgmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDY6NTQgQU0maGFzaF92YWx1ZT05RTBLZEtxK2ZLNXpSa05mWElQdlhnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj01Mw%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2022/07/wd6WxLLR2w8aAXmLPDW5CN0iSB3-185x278.jpg",The Black Phone
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7075/thumb_p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",The Black Phone
 https://static-cz2.ororo.tv/uploads/movie/file/7075/the.black.phone.2021.1080p.web.h264-slot_1659621018.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwNzUmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDk6NTggQU0maGFzaF92YWx1ZT1vR1VNbkxzZEowLzgzU1Z3UDZVVTh3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04MA%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2022/06/uTCfTibqtk4f90cC59bLPMOmsfc-185x278.jpg",The Man From Toronto
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7033/thumb_5TdKvZimLSJHPQW8t3ctlsusnmH.jpg",The Man From Toronto
 https://static-cz2.ororo.tv/uploads/movie/file/7033/The_Man_from_Toronto_11671006_1656359663.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwMzMmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTM6NTMgQU0maGFzaF92YWx1ZT03aFNWQ2NIM0s1aUNyOWZwellDNnN3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj02OQ%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2022/07/xWic7kPq13oRxYjbGLApXCnc7pz-185x278.jpg",Hustle
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7098/thumb_xWic7kPq13oRxYjbGLApXCnc7pz.jpg",Hustle
 https://static-cz2.ororo.tv/uploads/movie/file/7098/Hustle_8009428_1661247896.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwOTgmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTQ6NTQgQU0maGFzaF92YWx1ZT1USWZCaTBtazU1b01KZTJRekRWVGF3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj01NA%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://movie.idevcreations.com/wp-content/uploads/2022/02/meRIRfADEGVo65xgPO6eZvJ0CRG-185x278.jpg",Texas Chainsaw Massacre
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7111/thumb_e8vYPpkUJpf5Ils99kxF0Ev73ay.jpg",Texas Chainsaw Massacre
 https://static-cz2.ororo.tv/uploads/movie/file/7111/Texas.Chainsaw.Massacre.2022.1080p.WEBRip.x264-RARBG_1662288618.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMTEmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTU6NTIgQU0maGFzaF92YWx1ZT1MYzV1RFVQY0psMXQ0elZLcXlQdWJnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj05Mg%3D%3D
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7036/thumb_gt9s8TtZZ36TXF1CE1y19rSpOZu.jpg",The Princess
 https://static-cz2.ororo.tv/uploads/movie/file/7036/The.Princess.2022.1080p.DSNP.WEB-DL.DDP5.1.H.264-CM_1656708557.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwMzYmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTg6MjYgQU0maGFzaF92YWx1ZT1wZ2ZBQjUxaVVDbWEzdU5zZXVFRG9nPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj05MQ%3D%3D
