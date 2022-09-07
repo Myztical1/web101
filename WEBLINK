@@ -19,6 +19,28 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/pla
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1561745853046_TTT_Mobile_300x300.jpg",TTT
+https://cdn005.tegotv.com/liveabr/Live_TV~TTT~TTT/live/Live_TV~FHD~255~TTT_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=835636&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTQ6NDQgUE0maGFzaF92YWx1ZT1XTWRWRG5sVjJSNjl5aWxGUFdPNXVnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw 
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1552598564971_SynergyTV_600_600_White.jpg",Synergy TV
+https://cdn001.tegotv.com/liveabr/Live_TV~Synergy_Entertainment_Network_Limited~Synergy_TV/live/Live_TV~HD~259~SynergyTV_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=7506916&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTg6MDUgUE0maGFzaF92YWx1ZT14NW80ek4rTGpWUm1wMjIyWVJFNGRnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1585189209859_Gayelle_Mobile_300x300.jpg",Gayelle
+https://cdn003.tegotv.com/liveabr/Live_TV~Gayelle_Limited~Gayelle_The_Caribbean/live/Gayelle_TV_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=1685271&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTk6MzMgUE0maGFzaF92YWx1ZT1DQkR1cS9kNXVKNnpEaW5IUWhQY0p3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1618494736508_WPG10-Logo-500x500-White.png",WPG10
+https://cdn003.tegotv.com/liveabr/Live_TV~West_Park_Global_Media~WPG10/live/Live_TV~FHD~869~WPG10_TV_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=1685275&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDA6MjcgQU0maGFzaF92YWx1ZT1PcFkwc3ovY2dJWHpFenFQZWpEakVnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/TV_Jaagriti_Logo_White.png",TV Jaagriti
+https://cdn001.tegotv.com/liveabr/Live_TV~Central_Broadcasting_Services_Ltd~TV_Jaagriti/live/Live_TV~FHD~266~TVJaagriti_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=7506944&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDE6MjQgQU0maGFzaF92YWx1ZT1XbHFURjJIdXVzdjNFZHlNUXFmdklRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/Trinity_TV.jpg",Trinity TV
+https://cdn001.tegotv.com/liveabr/Live_TV~Trinity_TV~Trinity_TV/live/Live_TV~SD~265~TrinityTV_480p/chunks_dvr_timeshift-0-2813.m3u8?nimblesessionid=7506962&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDE6NTYgQU0maGFzaF92YWx1ZT0yWHJNbWpqNys4SURTMTVUSE5PQm93PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1571166486960_bhakti_tv_logo_512x512.jpg",Bhakti TV
+https://cdn003.tegotv.com/liveabr/Live_TV~Digital_Broadcasting_Services~Bhakti_TV/live/BhaktiTV_Playout_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=1685286&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDI6NDUgQU0maGFzaF92YWx1ZT1TdFhEaHZ1bWYxTC9PWDFLa3VSMHh3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1552586196979_IBN8_700x700_White.jpg",IBN
+https://cdn003.tegotv.com/liveabr/Live_TV~IBN_Communications_Company~IBN/live/IBN_Station_480p/chunks_dvr_timeshift-0-2942.m3u8?nimblesessionid=1685291&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDQ6MDUgQU0maGFzaF92YWx1ZT0rRm9zT0F0blNRbGkzRWZTT1pXY2JnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1635934749988_poster_wackradio901fm_500x500_Logo.png",Wack Radio 90.1 FM Visual Radio
+https://cdn001.tegotv.com/liveabr/Live_TV~Wack901FM~Wack901FM_Visual_Radio/live/Live_TV~HD~853~Wack_90.1_FM_Visual_Radio_480p/chunks_dvr_timeshift-0-1440.m3u8?nimblesessionid=7506997&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDQ6NDMgQU0maGFzaF92YWx1ZT1VU1pzUmVIaFVublgzRE92eEttVGl3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1569255276905_ABS_TV_Logo_512x512.jpg",ABS TV
+https://cdn001.tegotv.com/liveabr/Live_TV~ABS_Television~ABS_TV/live/Live_TV~FHD~854~ABS_TV_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=7507013&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDY6MDQgQU0maGFzaF92YWx1ZT04djFIdXZBQmw4SmZRTW9KYUJ3aTNnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1645553424588_poster_IETV_512x512_White.png",ieTV
+https://cdn001.tegotv.com/liveabr/Live_TV~ieTV~ieTV/live/Live_TV~FHD~867~ieTV_480p/chunks_dvr_timeshift-0-4042.m3u8?nimblesessionid=7507027&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjIgMTI6MDc6MjYgQU0maGFzaF92YWx1ZT01QXd0WExLc0FhaFRFL3NpZ3Y1MjZBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://viewmaniac.com/wp-content/uploads/2015/12/Revolt.png",REVOLT HD
