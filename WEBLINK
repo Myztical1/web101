@@ -19,6 +19,10 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/pla
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3 HD
+http://test.thesmartiptv.com:900/nelutimisoara/8285068704/195830
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
+http://test.thesmartiptv.com:900/nelutimisoara/8285068704/268269
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1561745853046_TTT_Mobile_300x300.jpg",TTT
 https://cdn005.tegotv.com/liveabr/Live_TV~TTT~TTT/live/Live_TV~FHD~255~TTT_480p/chunks_dvr_timeshift-0-7200.m3u8?nimblesessionid=835636&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTQ6NDQgUE0maGFzaF92YWx1ZT1XTWRWRG5sVjJSNjl5aWxGUFdPNXVnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODExMTg1MDUw 
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://crm.tegotv.com/assets/live_tv/1552598564971_SynergyTV_600_600_White.jpg",Synergy TV
