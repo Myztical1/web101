@@ -3,12 +3,8 @@
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3 HD
-http://test.thesmartiptv.com:900/nelutimisoara/8285068704/195830
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TV6.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 HD
-http://test.thesmartiptv.com:900/nelutimisoara/8285068704/268269
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",PARLIAMENT CHANNEL
@@ -51,7 +47,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO CARIBBEAN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",HBO POP
@@ -64,87 +59,97 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SkB7tj3L2nM91pWNEpNKMDXZyKlt5epyZg&usqp=CAU",HBO SIGNATURE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",SHOWTIME 2 HD WEST
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME HD WEST
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME WEST
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:SHOW.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",SHOWTIME 2 WEST
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",LIFETIME HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",LIFETIME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",Lifetime Movie Network
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",HALLMARK CHANNEL HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",HALLMARK CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES & MYSTERIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",TNT EAST HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",TNT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TNT.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png",TNT SERIES HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png",TNT SERIES
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TNTSERIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA NETWORK
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",WARNER
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",AXN TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",SYFY
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Freeform.us.png",FREEFORM 
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/d4/6b/f0/d46bf04bc630a3ba1addd7d0aa35a743.jpg",FX HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/d4/6b/f0/d46bf04bc630a3ba1addd7d0aa35a743.jpg",FX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",PARAMOUNT NETWORK HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",PARAMOUNT NETWORK
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:PARAMOUNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MGM.us.png",MGM
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",SONY MAX HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",SONY MAX
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",TV LAND
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:TV_LAND.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/TCM.uk.png",TCM
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fuse-us.png",FUSE
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",TV ONE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CW11.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TBS.us.png",TBS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBS.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png",COMEDY CENTRAL HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png",COMEDY CENTRAL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",IFC
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",COZI
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680E249A3D1-E3CA-237F-4D3CC456586AFA37.jpg",BYU TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",REEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.quadro.net/app/uploads/2020/07/WPIX-New-York-Logo.png",WPIX HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.quadro.net/app/uploads/2020/07/WPIX-New-York-Logo.png",WPIX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",TLC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fuse-us.png",FUSE
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:VH1.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png",GAME SHOW NETWORK (GSN) | HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png",GAME SHOW NETWORK (GSN)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",HGTV US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",E! ENTERTAINMENT WEST HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",E! ENTERTAINMENT WEST
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",BOUNCE TV HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/playlist.m3u8
@@ -154,32 +159,20 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m
 http://gtv01.airlinktt.co/live/smil:TRUTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",COOKING CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",FOOD NETWORK HD 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",IFC HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",COZI
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",DIY NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:DIY.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680E249A3D1-E3CA-237F-4D3CC456586AFA37.jpg",BYU TV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/TravelEscape.ca.png",ESCAPE TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png",PBS_CREATE
+http://gtv01.airlinktt.co/live/smil:PBS_CREATE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/images/metv-1475264041.jpg",METV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg",ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",UNIVISION MIAMI HD
 http://gtv01.airlinktt.co/live/smil:UNIVISION.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png",PBS
-http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png",PBS_CREATE
-http://gtv01.airlinktt.co/live/smil:PBS_CREATE.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png",PBS_KIDS
 http://gtv01.airlinktt.co/live/smil:PBS_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON NETWORK HD US
@@ -220,6 +213,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9
 http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://image.pbs.org/bento3-prod/southfloridapbs/371220d04f_ed4727b385_StationImages-WPBT.png",South Florida PBS
+http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a6/MyTV33_2011.jpg",MY 33
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:MY33.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://img3.wikia.nocookie.net/__cb20121110235042/logopedia/images/b/b4/Wtvj_nbc_6_south_florida.png",NBC 6 MIAMI HD
@@ -268,38 +263,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147299
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147298
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147297
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147296
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147295
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147294
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147293
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147292
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147291
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147290
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147289
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147288
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147287
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147286
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147285
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://restream.iptvnow.me:80/images/U2RAb1yVLAlXg2FuLh1lCT-VstDtbNy3XBQTnV00Vl8fnE1oT2UB5VqMfYVM_sMGgdV_kyWLRcNSRNPmmblkwPQztztkB5lumH2r-vH38l4.png",DOCUBOX
-http://reaperhosting.club:8080/jeavo/qudojpek/1147284
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",beIN SPORTS HD 2
@@ -520,6 +483,12 @@ https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8
 https://stirr.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png",Stingray Exitos del Montero
 https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w342/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",Thor: Love and Thunder
+https://8a2451326795.adfuck.store/s/010203010000000000006c932a2421463547.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w342/4lbYz4h4pIwkuUGGirPA5ncyyxe.jpg",Honk for Jesus. Save Your Soul
+https://8a198281046.adfuck.store/s/01026a78010000000000bfc8f191019bac15.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.vxdn.net/p-max/200/beast-1630853984.jpg",Beast
+https://moplay.org/hls/gAAAAABjGSblR7Lfm5PlkU3YpyWpLCwKRG_ggm9LaRyDqyVMWronqwJchpagsz7rsdZjjqpwacpw8QtunkApVR4U9-R25CwvciLqlWKO3wwVRiI7SXNj67CmTLvH_3uy_1hc4EKgQ_Yl_QhxpHHR-8tvkJ4MOOtycOat8t7Pt42s2xMlH5aY1MrBlf9-iiAsPDj1o9vdDlMa/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://flixtor.stream/wp-content/uploads/2022/05/Last-Seen-Alive-2022.jpg",Last Seen Alive
 https://streamtwo.vidzstore.com/upload/2022/May/878324972.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/82/2c/822c613c9eecc8ce03b56e63551c604e/822c613c9eecc8ce03b56e63551c604e.jpg",Bullet Proof
@@ -531,52 +500,47 @@ https://e-3.mzzcloud.life/_v8/d750080aa7c1ca4d3f884bdd12cd32cd30de74c21bbbea11f5
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/20/45/2045816a99ab39150867ca6945b29e2b/2045816a99ab39150867ca6945b29e2b.jpg",Wire Room
 https://c-1.mzzcloud.life/_v8/d3fa31b3f072b551e8252b0ef4a7978951b715c85d3aed4b80a28faccc5b3c1d5f69449129bbb9f7210b6ff884c3369df7174a9196f498ac8c7f88dcfae8c385e8d27719bfa3f9038ef2870ee5eeb93a5ff44fac8df8bbf5e1fd789c86f328c0ab0d51a5fe77b9eb61c50af907fd3005e1d0ffb19ae64dac412aa6405521301a/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d3/82/d382a6a47506318fd72fc126c710d6da/d382a6a47506318fd72fc126c710d6da.jpg",Section Eight
-https://e-5.mzzcloud.life/_v8/6478e070b3125e0c6702f4c4f57f88b5edc0087c846ebabd3d35821bdef3fb6d915e70594d7af0939b20f6eb6084f15d36b7e2967a18f329d4026e8fce00f15ef8696e0acb4bd65fbf6f157df11274a8608dff356d952d9c158cd27252dc32134d4a41bbf476f80829fc0e23aab3203e2cb19b2f68837d2f6e7123c19877c0d4/720/index.m3u8 
+https://e-5.mzzcloud.life/_v8/6478e070b3125e0c6702f4c4f57f88b5edc0087c846ebabd3d35821bdef3fb6d915e70594d7af0939b20f6eb6084f15d36b7e2967a18f329d4026e8fce00f15ef8696e0acb4bd65fbf6f157df11274a8608dff356d952d9c158cd27252dc32134d4a41bbf476f80829fc0e23aab3203e2cb19b2f68837d2f6e7123c19877c0d4/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w185/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",Nope
-https://hlspanel.xyz/m3/aVVxV0hFL1JLNmd6U3FsaXRTcHZXUURWL1Y2elRjL0JWRG1mdTU0aVVjdW51L2dmS04xb0RySklDam9RdGVLeHdxUXpIcXpmVDRRVUJENFhkNHBjU2puUDlzNmY4aEt2L28wRCtCL0h5NUJXSFZtd0pwM2Y0a055ajlUTVppTU1ndkFFVGtaVUt4OG9jZ05YSjd6Ni9UMWY2NnY0MXFSZlgvMDBKMGIveWVGbGdDa3NPd3kwNnQweFVrdGd0NWpUc3JqSHlzZmpqTlBUZ0xidmZ6Qzd6RjVQeFR2Z2p6SjJJVFozdi9UL1BHeUMydTJmY3N6MS9YRU9wRHZrR1N6bzFIVEpJSmFLVXp0VGxZTnBqRWRya2JERzJxcVI1NkQwa1UyZXZnVTU1d05UL0dHYzBWaG56U2Q3N0tYQkIvVnA%3D
+https://c-1.mzzcloud.life/_v8/6af53f093976156d100a745342b0bb0b95822f6e8af743f4427f8026544f25b7cc5a4f5832c41813ade84ada32da603b9466597be6e15616623854bb8263c61857f23b499be878c4577afca135fa5fad73e14b2a3624fc60500837ec5dc0502e9719a36c4337ce767d6f11edca4c72ad598ba6d30ff84357711e23ac1e7d712b/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",Top Gun: Maverick
-https://hlspanel.xyz/m3/T2ExZjdELzZXd1Q4MnFIeTJhb3NNOFNHNWI2M1k3RlpDMCs2NFR4bkk5UkRJZFhWR0tyU2F1NkhSZlUyQ3FnNWhxT0c5Tk8wOUVpaUxBMzNZdVI2cTlpaHNudG02V1ZSZDJiRW5rSWxGMHZPcGcwUDZKUGRKZ1k3TEtNTGU1N2hPQ3diNGlzd2Q1ZVhqbWNaQndXT2dqcHRyaXNkSDdVbDdjMHplOXJ2OUpYV2hwQVpwM1Y5ZGt5NXlOTWk0bnNubklpVUxmSW1ZQUNJbGF4a2VpNVhFNzJvSjRwS00rVEhjRThuRFZLZ0VjakJxT3cyYmhtMVdwOE9TdWpVNzJxQU5SNHNyaFA4ZU8wSDRSMk5HWTdwTCs0MEx3VUFDL1pJRzhmL2ExSW9HUkJramQ0VEFLTEtyVk4rcnRXb3owbHQ%3D
+https://e-8.mzzcloud.life/_v8/c41b1011a9656cded65d4c8f51221f06a4e0a4b6803d619249b6f66ea632e172ae2c83b7cf70a58185c96db49a0d54e8c151fc3a9efd7f20990cf3124692064a077e6d259547f1547f30bf34f6c1024ba781a2fd601e03fcc53075469d24b5f03ab41af946622c8869c671b6a484590c3367b420773dfab22ab62f574a127744/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7087/thumb_bI7lGR5HuYlENlp11brKUAaPHuO.jpg",Day Shift
-https://static-cz2.ororo.tv/uploads/movie/file/7087/day.shift.2022.1080p.web.h264-naisu_1660300097.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwODcmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6MzY6MjAgQU0maGFzaF92YWx1ZT1Ma3gwV0FPSHdoOW1mL1VKeGVvd253PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj03NQ%3D%3D
+https://e-3.mzzcloud.life/_v8/8d243db04b65732395f602091ed99d2eb805bea9cf0a22e86a07008107e3a05c14362be187df618f76a7640ff2fa7c17931a8fe844373816cb467a162c9fb20278f8e3cbde5594090a364fd01b06c5cbe32add898bebc407217164592e165ab6bd93b56b16e375be5b00b85c36bed48546054bfbe39b55f4fcb22736aa6a94aa/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7101/thumb_fjaW1byM45r1Si6ax1U64XP6AsO.jpg",Orphan: First Kill
-https://static-cz2.ororo.tv/uploads/movie/file/7101/Orphan.First.Kill.2022.1080p.WEBRip.x264-RARBG_1661525657.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMDEmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDI6MjUgQU0maGFzaF92YWx1ZT1SbU80ajJtaHkwUm5FclVQdGxqZUVnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04Ng%3D%3D
+https://e-9.mzzcloud.life/_v8/976d91ca79c6667241061be991d8bec8ced9dc2894070c7d043741d9705af81ab0608fc7f064f2028d7c66c420957a8e931637e964c78cf84c6ed6550ff84c6b7e432520bbc28a78404f2b01e72c536a55050c98a1efc977079a83cb65eb3834650961f156244dae13cc8edde4f66a59790fff00f1cf150ff8320a5b701ebc78/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7109/thumb_vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",Samaritan
-https://static-cz2.ororo.tv/uploads/movie/file/7109/Samaritan.2022.1080p.WEBRip.x264-RARBG_1662210077.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMDkmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDY6MTAgQU0maGFzaF92YWx1ZT03UVU5eXdXLzNhVGhnSkF0K1djbitRPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj03OA%3D%3D
+https://e-10.mzzcloud.life/_v8/80f294350e428274ad6750083f51fd7ca39af91d5496f4e8b29e3c74c0443edfb9d161ef961adb28f7e9b4def1da49e2f81d404d242d79c8c555e40ff05b61978273ba80fe354ddeb9286a684f00ba9be93c0011e5dede92a5c20096626435728785531ad31107e565f5fc1d90246208209d47a8e7e76b81888010a878fd76d0/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7088/thumb_ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Prey
-https://static-cz2.ororo.tv/uploads/movie/file/7088/Prey_11866324_1660477417.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwODgmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDY6NTQgQU0maGFzaF92YWx1ZT05RTBLZEtxK2ZLNXpSa05mWElQdlhnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj01Mw%3D%3D
+https://e-7.mzzcloud.life/_v8/449b0d33e499fe4233b7fdd9c4bd19dbaac70309f3b533f5dfe6c4bb2f53b44a0ba148b3c2d653e09e06a858dc35ea096b64c2caf953e8ec24515e61ddfd21d2c1e8d941b580236aeb61207b1fa3b0e55582192c0546d197ca97b8425c1e0606a5bd98922ea6d279070cfeda640b52431d4c581ef5057fd86259d5ada807c06d/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7075/thumb_p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",The Black Phone
-https://static-cz2.ororo.tv/uploads/movie/file/7075/the.black.phone.2021.1080p.web.h264-slot_1659621018.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwNzUmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NDk6NTggQU0maGFzaF92YWx1ZT1vR1VNbkxzZEowLzgzU1Z3UDZVVTh3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04MA%3D%3D
+https://c-3.mzzcloud.life/_v8/54d6cd7674c9855552170b01dddfcc97f3ac51b0900a2ba95d6c123db060f584d63761a56885158e9d79e45285990283f7bcc847d6b631ba056e9aee3ada04fadbbc05aa2cff9dfd1cdc7ff9754a3767ba002789440ed052607311c712925dd3c4a098880e59b0b7da5b17302b9272ca3c4d4f8e94a50df5c944ffd4c1013385/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7033/thumb_5TdKvZimLSJHPQW8t3ctlsusnmH.jpg",The Man From Toronto
-https://static-cz2.ororo.tv/uploads/movie/file/7033/The_Man_from_Toronto_11671006_1656359663.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwMzMmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTM6NTMgQU0maGFzaF92YWx1ZT03aFNWQ2NIM0s1aUNyOWZwellDNnN3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj02OQ%3D%3D
+https://e-6.mzzcloud.life/_v8/bb1d92e70b207de828ef8f16139794dd517b4c9b0db6f59f94347e582b5c4451220fafbda4f79740560a5426ef8e13909fc36ffbd31eda9fe2f651cb41554833d2c4fd53e6519d3d9afa55c8cd127b63c518bbb3673ad51182f1d5dd73fd6c20d274fd80bbf2a8260155a7874d8a3a0366a84f4702ceef5cdb4940639832494d/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7098/thumb_xWic7kPq13oRxYjbGLApXCnc7pz.jpg",Hustle
-https://static-cz2.ororo.tv/uploads/movie/file/7098/Hustle_8009428_1661247896.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwOTgmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTQ6NTQgQU0maGFzaF92YWx1ZT1USWZCaTBtazU1b01KZTJRekRWVGF3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj01NA%3D%3D
+https://e-10.mzzcloud.life/_v8/236850c4c87803d04774edfde9e151e5e4238646b5137a01d3f5c83f27ff6f23100180ab080c2906c6cba4b39e87edff2845f42fea0cb2736def27e801e321c96d0a0617811e58a445f1206ee1edface5ef5d67f81349d858c20b657ed2cc98168d4b1c3535e66f1583a955e5eae62f10469c3372990e83aae7082c96ce409e7/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7111/thumb_e8vYPpkUJpf5Ils99kxF0Ev73ay.jpg",Texas Chainsaw Massacre
-https://static-cz2.ororo.tv/uploads/movie/file/7111/Texas.Chainsaw.Massacre.2022.1080p.WEBRip.x264-RARBG_1662288618.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMTEmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTU6NTIgQU0maGFzaF92YWx1ZT1MYzV1RFVQY0psMXQ0elZLcXlQdWJnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj05Mg%3D%3D
+https://e-8.mzzcloud.life/_v8/18e531f321b280e59a692305a7356a912991867d25b744ac905b7d1bc0fd50fc06bd590a9d28b13df90b5a917932f4401b51f990c3fd7fd13085e1ceda81fe663b538a889242cd938bb185d35951ba55f31507c80b0f7d8c539cb96bbb233af641c85c499af8000ff34e4151027816b944338f0cd2482d6434adf1afbd5864e3/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7036/thumb_gt9s8TtZZ36TXF1CE1y19rSpOZu.jpg",The Princess
-https://static-cz2.ororo.tv/uploads/movie/file/7036/The.Princess.2022.1080p.DSNP.WEB-DL.DDP5.1.H.264-CM_1656708557.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwMzYmc2VydmVyX3RpbWU9OS82LzIwMjIgMTE6NTg6MjYgQU0maGFzaF92YWx1ZT1wZ2ZBQjUxaVVDbWEzdU5zZXVFRG9nPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj05MQ%3D%3D
+https://c-4.mzzcloud.life/_v8/d43343fa6e4bff9e12af74f9fc15300101771f05d7ec05aaa79121f59392dc0657201e290905c07fdad302686e245c632ff0753aa8b57134b8a48adf409677beb2857eaa4ac475c742e889a97bc38065307bd8d907edc55c3fcb356c1e8b041858a440c198ed9da4806b6a252bfb8304d14450003214906296fdf88e297c20b3/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7106/thumb_bkjPoisqAavXUvtoirxTEcLLQyI.jpg",Me Time
-https://static-cz2.ororo.tv/uploads/movie/file/7106/Me.Time.2022.1080p.WEBRip.x264-RARBG_1661942658.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMDYmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MDA6MjAgUE0maGFzaF92YWx1ZT1XSGFHVUxnQ3FSUkFHL1dJSFhJbUV3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj03Ng%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7107/thumb_74xTEgt7R36Fpooo50r9T25onhq.jpg",The Batman
-https://static-cz2.ororo.tv/uploads/movie/file/7107/The.Batman.2022.1080p.BluRay.H264.AAC-RARBG_1662022638.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMDcmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MDM6MDAgUE0maGFzaF92YWx1ZT1LYUFPY3ozV0s2aDFLdFBXUmF6ekVBPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04Mw%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/6720/thumb_uTgZuqUQbaCB6Wfk03N8IUEuzQf.jpg",Vacation Friends
-https://static-cz2.ororo.tv/uploads/movie/file/6720/vacation.friends.2021.1080p.web.h264-naisu_1630243278.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzY3MjAmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MDY6MzAgUE0maGFzaF92YWx1ZT1xZjNUczNSYTFsTlZxQWdHb0hIempnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04Mg%3D%3D
+https://c-4.mzzcloud.life/_v8/849773e9df2704f5a624d7b91e5e85fd8d4948a3e253f97d242de3ce420658e92dc2ccf8ab2524f0abe31aa028cec93458d95dd9b6da15bae7cff1fbfbfab7102f9cb2e0e77be4c880e35d9a33e447feae3ae44ca9ca5de47fdc5002aa6eae8278d65536f95db5a379e5f84edbbfec0c2a4962926add2bb2468bff5b05ff76e8/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7095/thumb_yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",Thirteen Lives
-https://static-cz2.ororo.tv/uploads/movie/file/7095/Thirteen.Lives.2022.1080p.WEBRip.x264-RARBG_1661010018.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwOTUmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MDc6MjIgUE0maGFzaF92YWx1ZT1CeGxqeG1NSXM3WVdJdUNuaStQbUtnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04Mw%3D%3D
+https://moplay.org/hls/gAAAAABjGSjttsykNrDjo7k-XQc1zwDDmERcICyqqPi0CH6O8Aau9eDzQI2vDr4YDOsCMe5oiuBNXDa4vsSK5KW6JnJj4qhNLv9iYj61EtN9t69n8TmQihJ6XMsCyx6YuwKap-98XhkI1kz_xN0P6X5HqrS1hqUYqrS3h3Mc85cB9SkSBdk7hu7BoHGANb156Y94wZ-B96LX/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7077/thumb_rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",Beavis and Butt-Head Do the Universe
-https://static-cz2.ororo.tv/uploads/movie/file/7077/beavis.and.butt-head.do.the.universe.2022.1080p.web.h264-naisu_1659775998.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwNzcmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MDg6NDAgUE0maGFzaF92YWx1ZT1TUGtsMVdKVG1wRDV3dVhzeEcySGtRPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj0xMDI%3D
+https://moplay.org/hls/gAAAAABjGSmn--LwymlKiYHoCBlYiPRwohA5uc2-nVxne4banQWhqqUOhCSxcB2vv3kccJ-_GU3rGckD_bgMQCAoV4zoJqHux0hfSvPHq0TNbO7bUn2m1psOOfCNwUyj1VZTmEuzybfodC9EDZ8l9DMi-LMqLGdBDEWnjUnZWGEranPgQqMIOhWVTB65IO2G5B0CGyFdkOfEaoM9O6TdGf58HRyC6SqAAQ==/master.m3u8 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7086/thumb_4PASAPJSoUsY6I69gaED4k642Gb.jpg",Rise of the Teenage Mutant Ninja Turtles
-https://static-cz2.ororo.tv/uploads/movie/file/7086/Rise_of_the_Teenage_Mutant_Ninja_Turtles_9784708_1660299728.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwODYmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MDk6MzMgUE0maGFzaF92YWx1ZT0xTE1rb0pORUpBK0tmRFVWN3FXMlBRPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04OA%3D%3D
+https://moplay.org/hls/gAAAAABjGSk8Ft6txn8fPOVEjSkJl_3avRNlnthRGCnrO1acpPtYr_tESZiaPBu-d9UV58Qqierzs43liWtrFZkd8yQkYIs497BvvCYpBk_jo1HIC162LiVM0TXob4cd30oCxlAYIxRtqLc6AI-2pRonn5rwP3QTemRR0cb53HASxBZ7iNokfaWs2h38s5qq0TzaLZbfSbWo/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7091/thumb_1HOYvwGFioUFL58UVvDRG6beEDm.jpg",Luck
-https://static-cz2.ororo.tv/uploads/movie/file/7091/Luck.2022.1080p.WEBRip.x264-RARBG_1660660397.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwOTEmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MTA6MjEgUE0maGFzaF92YWx1ZT1WbTl4T1lodERKdGlqUzZQc0dlMG13PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj03Mw%3D%3D
+https://moplay.org/hls/gAAAAABjGShl1B0QNLlOeZaTEDMo4Tz3P4WhhwQSrfHq8MMwPsrNeKW-VesEbNKwXztAH3Yn73jukJHvUY9YxbfXvMSJNESs_M8U12yiRToPFaKJGTcgBKYmgzMAsRRwSLlkioWqBl7KvbqVGV0kl4qJKynpmqKld5BUn-95BejfsmhkuA65uHV5Wg2G4SB8R616HNEhez8g/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7083/thumb_4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",Rogue Agent
-https://static-cz2.ororo.tv/uploads/movie/file/7083/Rogue.Agent.2022.1080p.NF.WEB-DL.DDP5.1.H.264-NTb_1660120997.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwODMmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MTE6MTAgUE0maGFzaF92YWx1ZT1ubDR0K0NPT08rR283ZmxTY0k2djVnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04OQ%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7093/thumb_zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",Dog
-https://static-cz2.ororo.tv/uploads/movie/file/7093/Dog.2022.1080p.BluRay.H264.AAC-RARBG_1660825938.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwOTMmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MTI6MDIgUE0maGFzaF92YWx1ZT1hdnR4K0ZoMXBhQ1F3TnJPYk9CcWZnPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj03Ng%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7081/thumb_rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",Uncharted
-https://static-cz2.ororo.tv/uploads/movie/file/7081/Uncharted_1464335_1659952817.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwODEmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MTM6MDQgUE0maGFzaF92YWx1ZT1DckYyNFh4b1lPVnFNR0R0N1hTR1p3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj01Nw%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7059/thumb_13r1DFhfL0qufFjXnrvWuh6qKqH.jpg",The Gray Man
-https://static-cz2.ororo.tv/uploads/movie/file/7059/The.Gray.Man.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF_1658562617.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwNTkmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MTQ6MDggUE0maGFzaF92YWx1ZT1URk5kcjArZUVhTTRUdElhUzRiZFl3PT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj05Nw%3D%3D
+https://e-1.mzzcloud.life/_v8/144f0a7c5411a05f40f77b5c99e8772ccc05f3cf7c9267a9e3cebe270c8d46a816fbb5c726dcab94fa7cdefaf9d95dd91a82604d23e675e0ab159d32b1bde27120b0a43a4abe91eba5d06b0bfb435ddcd2a3de2d71c90327c1ab6302c37af5864c041ee4d5afa7791a65c8b36dbc96a1ad83e007ff96a6fc74d0231b9d931870/720/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/e6/3e/e63ed28f989f758106689eaac3d1bed8/e63ed28f989f758106689eaac3d1bed8.jpg",Fall
+https://c-1.mzzcloud.life/_v8/16dacbc4dfa6af99424f45cb597c310e323883242a4c6a2f1520746cc91701297199cf1e37c1ad248e51b855bed7bf11d252a447ba53645233f6183c4b0518eb25453b3637df757b8e21d8f7502291787351e61713a27614709ca82e64d3f81e2210d853d627aefde9a512638d60129099672c1160b4673e69df48bad3d4088c/720/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.vxdn.net/p-max/200/glorious-1630853912.jpg",Glorious
+https://moplay.org/hls/gAAAAABjGSptj4Z2yFfa4mLQWHBF5OLMtLjysWgrcs-LKR85397pEEHmGtWBdmWzA-BC00AzRdYAEY9UE9E65h1AXvqqMmvoTkvBorlxXXt12q2g-shXogC9aRckWsZekJ7KwNHBt7iYhKV4nCec3Zs_3_h_-VRi9yPtkNwC005IurPzDJhqW8ScKZmDB6LV8gvl_Fv73mQY/master.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.vxdn.net/p-max/200/burial-1630854021.jpg",Burial
+https://moplay.org/hls/gAAAAABjGSyzcpmm5o9OMO0QN-XGjbHfa5_cSxrQ_WZGjAtrPhaIZKbCmrQWynkP5bOXVNBYXPVFFsL844xxkPgBqTbzWq8z2xlgYTE9iXqfLOqrDPAJlPqWD5GMqqW7X9RjU8gN1TVpgGzzGV2rO-LN1-V_7JK0D2f3LvJ-mOB30qyzilOGxT0QmgfWh9SHFVRfJsninJ6B/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7103/thumb_8PsHogUfvjWPGdWAI5uslDhHDx7.jpg",Secret Headquarters
-https://static-cz2.ororo.tv/uploads/movie/file/7103/secret.headquarters.2022.1080p.web.h264-naisu_1661702957.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcxMDMmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MTU6MDggUE0maGFzaF92YWx1ZT12b0cyT2NybGFOcThHRlIvOTczTFpRPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj04NQ%3D%3D
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7024/thumb_8c4a8kE7PizaGQQnditMmI1xbRp.jpg",The Matrix Resurrections
-https://static-cz2.ororo.tv/uploads/movie/file/7024/The.Matrix.4.Resurrections.2021.1080p.BluRay.H264.AAC-RARBG_1655402958.smil/playlist.m3u8?wmsAuthSign=aWQ9NjQ3MzQ5KzY5NTA5NWM4MTE0NDBhMzVjMzYxYjg2ZjQwNzMwOTA4K21vdmllKzcwMjQmc2VydmVyX3RpbWU9OS82LzIwMjIgMTI6MTc6MTQgUE0maGFzaF92YWx1ZT1qUnp6cXZPSkloWFJRR24zcldyc1hBPT0mdmFsaWRtaW51dGVzPTk2MCZzdHJtX2xlbj05OQ%3D%3D
+https://c-2.mzzcloud.life/_v8/c1cdec41d59f73c4160fd6102c68500e6bb599a9f59f350cffd11f251631bd2e6d181c1aef530011005e116f31c3fefec26fd3ad65d6c2e328d379625c0d75817748035c87ffb47f3d7dd254e068b44e3138a5fc301581978e0c8b44909268b02aec056c00c2282ab030da2bd95ea6bf57b8035b14e88d8c856cbb4ff886bf54/720/index.m3u8
+
