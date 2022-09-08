@@ -67,6 +67,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:SHOW.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
+http://89.187.175.143:80/3012/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET
@@ -249,6 +251,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chun
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://apkmodhub.in/wp-content/uploads/2020/12/magellantv-documentaries.png",MagellanTV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Quest_logo.png",QUEST
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN US
@@ -509,84 +513,395 @@ https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8
 https://stirr.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21612_dark_360w_270h.png",Stingray Exitos del Montero
 https://stirr.ott-channels.stingray.com/190/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w342/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",Thor: Love and Thunder
-https://8a2451326795.adfuck.store/s/010203010000000000006c932a2421463547.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w342/4lbYz4h4pIwkuUGGirPA5ncyyxe.jpg",Honk for Jesus. Save Your Soul
-https://8a198281046.adfuck.store/s/01026a78010000000000bfc8f191019bac15.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.vxdn.net/p-max/200/beast-1630853984.jpg",Beast
-https://moplay.org/hls/gAAAAABjGSblR7Lfm5PlkU3YpyWpLCwKRG_ggm9LaRyDqyVMWronqwJchpagsz7rsdZjjqpwacpw8QtunkApVR4U9-R25CwvciLqlWKO3wwVRiI7SXNj67CmTLvH_3uy_1hc4EKgQ_Yl_QhxpHHR-8tvkJ4MOOtycOat8t7Pt42s2xMlH5aY1MrBlf9-iiAsPDj1o9vdDlMa/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://flixtor.stream/wp-content/uploads/2022/05/Last-Seen-Alive-2022.jpg",Last Seen Alive
-https://streamtwo.vidzstore.com/upload/2022/May/878324972.mp4
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/82/2c/822c613c9eecc8ce03b56e63551c604e/822c613c9eecc8ce03b56e63551c604e.jpg",Bullet Proof
-https://e-5.mzzcloud.life/_v8/de3fdaf975286cd05682af5926d782f6e08bb8ff8e5f9fec40aa4f326daa92bc0f44b44166f72b9e440f42f385891f74ed07274abedda2a81b633bb88b3ca7cabcdc1c24750a6720b39acef1eaf4636dab6332b676cfa58eecf2bd751a0defcb863738350115e863478b465d4ef726db15fa49db3fcaf3043b04503f589d3687/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://flixtor.stream/wp-content/uploads/2022/08/Bullet-Train-2022.jpg",Bullet Train
-https://e-8.mzzcloud.life/_v8/ecf42b0c3ae2b726534b0f1345f44d5f3a38eb5b75e0b7ed5b9120b561232e462d9c73f063107d46a9198a84d5936ec785754bf88d540ab85319cdbf5cee9a22dc1469e5a710979183e932d9f0c0a779aa2a36ed86050b00d18927e10dc79581a145b3cf85d2a002d8334c36c8d0c2e3625a40b1b6a3ccc5c891579221685136/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/0f/3a/0f3a138cc13d52aa0c08e3ae64a4fc8a/0f3a138cc13d52aa0c08e3ae64a4fc8a.jpg",One Way
-https://e-3.mzzcloud.life/_v8/d750080aa7c1ca4d3f884bdd12cd32cd30de74c21bbbea11f50e5a308792e89fef57bfb2a6e6194f8e9ad9f4833c82f7853537b53075a15cc001873780cb2067da53df761bcc52f5594d2556931da669d82135f9de15c48e63ee8b0bea09a55c3483e212a58f747f1375a3b2a2ed0ff1c9d2825d53f47c752cbea8e968731e75/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/20/45/2045816a99ab39150867ca6945b29e2b/2045816a99ab39150867ca6945b29e2b.jpg",Wire Room
-https://c-1.mzzcloud.life/_v8/d3fa31b3f072b551e8252b0ef4a7978951b715c85d3aed4b80a28faccc5b3c1d5f69449129bbb9f7210b6ff884c3369df7174a9196f498ac8c7f88dcfae8c385e8d27719bfa3f9038ef2870ee5eeb93a5ff44fac8df8bbf5e1fd789c86f328c0ab0d51a5fe77b9eb61c50af907fd3005e1d0ffb19ae64dac412aa6405521301a/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d3/82/d382a6a47506318fd72fc126c710d6da/d382a6a47506318fd72fc126c710d6da.jpg",Section Eight
-https://e-5.mzzcloud.life/_v8/6478e070b3125e0c6702f4c4f57f88b5edc0087c846ebabd3d35821bdef3fb6d915e70594d7af0939b20f6eb6084f15d36b7e2967a18f329d4026e8fce00f15ef8696e0acb4bd65fbf6f157df11274a8608dff356d952d9c158cd27252dc32134d4a41bbf476f80829fc0e23aab3203e2cb19b2f68837d2f6e7123c19877c0d4/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w185/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",Nope
-https://c-1.mzzcloud.life/_v8/6af53f093976156d100a745342b0bb0b95822f6e8af743f4427f8026544f25b7cc5a4f5832c41813ade84ada32da603b9466597be6e15616623854bb8263c61857f23b499be878c4577afca135fa5fad73e14b2a3624fc60500837ec5dc0502e9719a36c4337ce767d6f11edca4c72ad598ba6d30ff84357711e23ac1e7d712b/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",Top Gun: Maverick
-https://e-8.mzzcloud.life/_v8/c41b1011a9656cded65d4c8f51221f06a4e0a4b6803d619249b6f66ea632e172ae2c83b7cf70a58185c96db49a0d54e8c151fc3a9efd7f20990cf3124692064a077e6d259547f1547f30bf34f6c1024ba781a2fd601e03fcc53075469d24b5f03ab41af946622c8869c671b6a484590c3367b420773dfab22ab62f574a127744/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7087/thumb_bI7lGR5HuYlENlp11brKUAaPHuO.jpg",Day Shift
-https://e-3.mzzcloud.life/_v8/8d243db04b65732395f602091ed99d2eb805bea9cf0a22e86a07008107e3a05c14362be187df618f76a7640ff2fa7c17931a8fe844373816cb467a162c9fb20278f8e3cbde5594090a364fd01b06c5cbe32add898bebc407217164592e165ab6bd93b56b16e375be5b00b85c36bed48546054bfbe39b55f4fcb22736aa6a94aa/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7101/thumb_fjaW1byM45r1Si6ax1U64XP6AsO.jpg",Orphan: First Kill
-https://e-9.mzzcloud.life/_v8/976d91ca79c6667241061be991d8bec8ced9dc2894070c7d043741d9705af81ab0608fc7f064f2028d7c66c420957a8e931637e964c78cf84c6ed6550ff84c6b7e432520bbc28a78404f2b01e72c536a55050c98a1efc977079a83cb65eb3834650961f156244dae13cc8edde4f66a59790fff00f1cf150ff8320a5b701ebc78/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7109/thumb_vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",Samaritan
-https://e-10.mzzcloud.life/_v8/80f294350e428274ad6750083f51fd7ca39af91d5496f4e8b29e3c74c0443edfb9d161ef961adb28f7e9b4def1da49e2f81d404d242d79c8c555e40ff05b61978273ba80fe354ddeb9286a684f00ba9be93c0011e5dede92a5c20096626435728785531ad31107e565f5fc1d90246208209d47a8e7e76b81888010a878fd76d0/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7088/thumb_ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Prey
-https://e-7.mzzcloud.life/_v8/449b0d33e499fe4233b7fdd9c4bd19dbaac70309f3b533f5dfe6c4bb2f53b44a0ba148b3c2d653e09e06a858dc35ea096b64c2caf953e8ec24515e61ddfd21d2c1e8d941b580236aeb61207b1fa3b0e55582192c0546d197ca97b8425c1e0606a5bd98922ea6d279070cfeda640b52431d4c581ef5057fd86259d5ada807c06d/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7075/thumb_p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",The Black Phone
-https://c-3.mzzcloud.life/_v8/54d6cd7674c9855552170b01dddfcc97f3ac51b0900a2ba95d6c123db060f584d63761a56885158e9d79e45285990283f7bcc847d6b631ba056e9aee3ada04fadbbc05aa2cff9dfd1cdc7ff9754a3767ba002789440ed052607311c712925dd3c4a098880e59b0b7da5b17302b9272ca3c4d4f8e94a50df5c944ffd4c1013385/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7033/thumb_5TdKvZimLSJHPQW8t3ctlsusnmH.jpg",The Man From Toronto
-https://e-6.mzzcloud.life/_v8/bb1d92e70b207de828ef8f16139794dd517b4c9b0db6f59f94347e582b5c4451220fafbda4f79740560a5426ef8e13909fc36ffbd31eda9fe2f651cb41554833d2c4fd53e6519d3d9afa55c8cd127b63c518bbb3673ad51182f1d5dd73fd6c20d274fd80bbf2a8260155a7874d8a3a0366a84f4702ceef5cdb4940639832494d/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7098/thumb_xWic7kPq13oRxYjbGLApXCnc7pz.jpg",Hustle
-https://e-10.mzzcloud.life/_v8/236850c4c87803d04774edfde9e151e5e4238646b5137a01d3f5c83f27ff6f23100180ab080c2906c6cba4b39e87edff2845f42fea0cb2736def27e801e321c96d0a0617811e58a445f1206ee1edface5ef5d67f81349d858c20b657ed2cc98168d4b1c3535e66f1583a955e5eae62f10469c3372990e83aae7082c96ce409e7/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7111/thumb_e8vYPpkUJpf5Ils99kxF0Ev73ay.jpg",Texas Chainsaw Massacre
-https://e-8.mzzcloud.life/_v8/18e531f321b280e59a692305a7356a912991867d25b744ac905b7d1bc0fd50fc06bd590a9d28b13df90b5a917932f4401b51f990c3fd7fd13085e1ceda81fe663b538a889242cd938bb185d35951ba55f31507c80b0f7d8c539cb96bbb233af641c85c499af8000ff34e4151027816b944338f0cd2482d6434adf1afbd5864e3/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7036/thumb_gt9s8TtZZ36TXF1CE1y19rSpOZu.jpg",The Princess
-https://c-4.mzzcloud.life/_v8/d43343fa6e4bff9e12af74f9fc15300101771f05d7ec05aaa79121f59392dc0657201e290905c07fdad302686e245c632ff0753aa8b57134b8a48adf409677beb2857eaa4ac475c742e889a97bc38065307bd8d907edc55c3fcb356c1e8b041858a440c198ed9da4806b6a252bfb8304d14450003214906296fdf88e297c20b3/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7106/thumb_bkjPoisqAavXUvtoirxTEcLLQyI.jpg",Me Time
-https://c-4.mzzcloud.life/_v8/849773e9df2704f5a624d7b91e5e85fd8d4948a3e253f97d242de3ce420658e92dc2ccf8ab2524f0abe31aa028cec93458d95dd9b6da15bae7cff1fbfbfab7102f9cb2e0e77be4c880e35d9a33e447feae3ae44ca9ca5de47fdc5002aa6eae8278d65536f95db5a379e5f84edbbfec0c2a4962926add2bb2468bff5b05ff76e8/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7095/thumb_yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",Thirteen Lives
-https://moplay.org/hls/gAAAAABjGSjttsykNrDjo7k-XQc1zwDDmERcICyqqPi0CH6O8Aau9eDzQI2vDr4YDOsCMe5oiuBNXDa4vsSK5KW6JnJj4qhNLv9iYj61EtN9t69n8TmQihJ6XMsCyx6YuwKap-98XhkI1kz_xN0P6X5HqrS1hqUYqrS3h3Mc85cB9SkSBdk7hu7BoHGANb156Y94wZ-B96LX/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7077/thumb_rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",Beavis and Butt-Head Do the Universe
-https://moplay.org/hls/gAAAAABjGSmn--LwymlKiYHoCBlYiPRwohA5uc2-nVxne4banQWhqqUOhCSxcB2vv3kccJ-_GU3rGckD_bgMQCAoV4zoJqHux0hfSvPHq0TNbO7bUn2m1psOOfCNwUyj1VZTmEuzybfodC9EDZ8l9DMi-LMqLGdBDEWnjUnZWGEranPgQqMIOhWVTB65IO2G5B0CGyFdkOfEaoM9O6TdGf58HRyC6SqAAQ==/master.m3u8 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7086/thumb_4PASAPJSoUsY6I69gaED4k642Gb.jpg",Rise of the Teenage Mutant Ninja Turtles
-https://moplay.org/hls/gAAAAABjGSk8Ft6txn8fPOVEjSkJl_3avRNlnthRGCnrO1acpPtYr_tESZiaPBu-d9UV58Qqierzs43liWtrFZkd8yQkYIs497BvvCYpBk_jo1HIC162LiVM0TXob4cd30oCxlAYIxRtqLc6AI-2pRonn5rwP3QTemRR0cb53HASxBZ7iNokfaWs2h38s5qq0TzaLZbfSbWo/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7091/thumb_1HOYvwGFioUFL58UVvDRG6beEDm.jpg",Luck
-https://moplay.org/hls/gAAAAABjGShl1B0QNLlOeZaTEDMo4Tz3P4WhhwQSrfHq8MMwPsrNeKW-VesEbNKwXztAH3Yn73jukJHvUY9YxbfXvMSJNESs_M8U12yiRToPFaKJGTcgBKYmgzMAsRRwSLlkioWqBl7KvbqVGV0kl4qJKynpmqKld5BUn-95BejfsmhkuA65uHV5Wg2G4SB8R616HNEhez8g/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7083/thumb_4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",Rogue Agent
-https://e-1.mzzcloud.life/_v8/144f0a7c5411a05f40f77b5c99e8772ccc05f3cf7c9267a9e3cebe270c8d46a816fbb5c726dcab94fa7cdefaf9d95dd91a82604d23e675e0ab159d32b1bde27120b0a43a4abe91eba5d06b0bfb435ddcd2a3de2d71c90327c1ab6302c37af5864c041ee4d5afa7791a65c8b36dbc96a1ad83e007ff96a6fc74d0231b9d931870/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/e6/3e/e63ed28f989f758106689eaac3d1bed8/e63ed28f989f758106689eaac3d1bed8.jpg",Fall
-https://c-1.mzzcloud.life/_v8/16dacbc4dfa6af99424f45cb597c310e323883242a4c6a2f1520746cc91701297199cf1e37c1ad248e51b855bed7bf11d252a447ba53645233f6183c4b0518eb25453b3637df757b8e21d8f7502291787351e61713a27614709ca82e64d3f81e2210d853d627aefde9a512638d60129099672c1160b4673e69df48bad3d4088c/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.vxdn.net/p-max/200/glorious-1630853912.jpg",Glorious
-https://moplay.org/hls/gAAAAABjGSptj4Z2yFfa4mLQWHBF5OLMtLjysWgrcs-LKR85397pEEHmGtWBdmWzA-BC00AzRdYAEY9UE9E65h1AXvqqMmvoTkvBorlxXXt12q2g-shXogC9aRckWsZekJ7KwNHBt7iYhKV4nCec3Zs_3_h_-VRi9yPtkNwC005IurPzDJhqW8ScKZmDB6LV8gvl_Fv73mQY/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.vxdn.net/p-max/200/burial-1630854021.jpg",Burial
-https://moplay.org/hls/gAAAAABjGSyzcpmm5o9OMO0QN-XGjbHfa5_cSxrQ_WZGjAtrPhaIZKbCmrQWynkP5bOXVNBYXPVFFsL844xxkPgBqTbzWq8z2xlgYTE9iXqfLOqrDPAJlPqWD5GMqqW7X9RjU8gN1TVpgGzzGV2rO-LN1-V_7JK0D2f3LvJ-mOB30qyzilOGxT0QmgfWh9SHFVRfJsninJ6B/master.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://uploads.ororo-mirror.tv/uploads/movie/poster/7103/thumb_8PsHogUfvjWPGdWAI5uslDhHDx7.jpg",Secret Headquarters
-https://c-2.mzzcloud.life/_v8/c1cdec41d59f73c4160fd6102c68500e6bb599a9f59f350cffd11f251631bd2e6d181c1aef530011005e116f31c3fefec26fd3ad65d6c2e328d379625c0d75817748035c87ffb47f3d7dd254e068b44e3138a5fc301581978e0c8b44909268b02aec056c00c2282ab030da2bd95ea6bf57b8035b14e88d8c856cbb4ff886bf54/720/index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/24/USBB320000647_20220525T030117.png",XITE 80s Flashback
-https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/34/USBB3200007AK_20220525T030119.png",XITE 90s Throwback
-https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/32/USBB2300004KV_20220525T030113.png",XITE Rock On
-https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/39/USBB2300003JZ_20220525T030111.png",XITE Just Chill
-https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/78/USAJ4800001BL_20220330T044620.png",Vevo Latino
-https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/2e2e55d0495040c4868bcdc9ddf16471-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/73/USAJ4800002B4_20220330T044515.png",Vevo R&B
-https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/992f9669ef444754919c6bac2c8d11b3-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/22/USAJ4800003J5_20220330T044516.png",Vevo Hip-Hop
-https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/a5d8206e5d124ad6a6a4306444efbc3c-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USBB4400015F5_20220330T044640.png",Vevo 2K
-https://d2lzzmzt70lih2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cci0vkzzomoo0-prod/26c1e462-824a-4fc9-8a80-764352bf45d4/ee3fcf1d-1183-42c6-97f7-e6e1e3ab856f-samsung-tv/live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USAJ4800004PU_20220525T030046.png",Vevo Country
-https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446cb46e2cc6697270cb-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/USAJ4000011W6_20220330T044514.png",Vevo Pop
-https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Honk for Jesus. Save Your Soul. (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12655436
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",One Way (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13075730
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Harbinger (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7440124
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Wire Room (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt16527290
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Loving Adults (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14592948
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Me Time (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14309446
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Samaritan (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt5500218
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",I Came By (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15083184
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Spin Me Round (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14596320
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Immaculate Room (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13698942
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Inside the Mind of a Cat (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt21340412
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Look Both Ways (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14298328
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Rogue Agent (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9731386
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Secret Headquarters (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14001894
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Fall (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15325794
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Day Shift (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13314558
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Luck (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7214954
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9784708
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Wedding Season (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11426572
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Prey (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11866324
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Not Okay (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14814040
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Paradise Highway (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7469828
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Purple Hearts (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt4614584
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Resurrection (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11540726
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Vengeance (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11976532
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",DC League of Super-Pets (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8912936
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Orphan: First Kill (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11851548
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",They/Them (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14502344
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Honor Society (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt16491324
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Father of the Bride (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13249596
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Glorious (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12724306
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Nope (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10954984
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Thirteen Lives (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12262116
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Mrs. Harris Goes to Paris (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt5151570
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Where the Crawdads Sing (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9411972
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Paws of Fury: The Legend of Hank (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt4428398
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Gray Man (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt1649418
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Bill Burr: Live at Red Rocks (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt21106500
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Ranveer vs Wild with Bear Grylls (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt19315924
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Girl in the Picture (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt21059520
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Code Name Banshee (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15438542
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Hot Seat (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15690300
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Persuasion (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13456318
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Rubikon (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13829262
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Decision to Leave (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12477480
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Minions: The Rise of Gru (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt5113044
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Man From Toronto (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11671006
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Sea Beast (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9288046
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Beavis and Butt-Head Do the Universe (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14145426
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Rise (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11242162
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Elvis (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt3704428
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Ip Man: The Awakening (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt21028848
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Brian and Charles (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13270424
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Cha Cha Real Smooth (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14376344
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Good Luck to You, Leo Grande (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13352968
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Lost Girls (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt1023464
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Princess (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13406136
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Jerry & Marge Go Large (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8323668
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Lightyear (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10298810
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Spiderhead (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9783600
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Wrath of God (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15189534
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Terror on the Prairie (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14043966
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Don't Make Me Go (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt2597804
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Broker (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13056052
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Halftime (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt19637852
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Fire Island (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15218000
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Hustle (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8009428
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Overnight (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7042798
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Watcher (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12004038
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",White Elephant (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14686544
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Jurassic World Dominion (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8041270
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",What Is a Woman? (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt20256528
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Interceptor (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14174940
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Bob's Burgers Movie (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7466442
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Crimes of the Future (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14549466
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Top Gun: Maverick (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt1745960
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Godspeed (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14766956
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Chip 'n Dale: Rescue Rangers (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt3513500
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Emergency (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13650600
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Jackass 4.5 (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt18258584
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Men (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13841850
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",A Perfect Pairing (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15215512
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Roundup (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15838850
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Toscana (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13276352
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Shark Bait (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12550376
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Firestarter (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt1798632
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Our Father (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt19704638
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Senior Year (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt5315212
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Valet (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt4081630
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Along for the Ride (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14506528
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Takedown (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13822738
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Moonshot (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12585076
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Doctor Strange in the Multiverse of Madness (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9419884
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",2000 Mules (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt18924506
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Alcarràs (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11930126
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Crush (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15096128
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Memory (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11827628
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Downton Abbey: A New Era (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11703710
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Silverton Siege (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt18563148
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Mystery of Marilyn Monroe: The Unheard Tapes (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt19034332
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Unbearable Weight of Massive Talent (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11291274
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",White Hot: The Rise & Fall of Abercrombie & Fitch (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt19034522
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Choose or Die (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11514780
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",9 Bullets (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13680520
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Father Stu (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14439896
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Agent Game (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14168394
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",All the Old Knives (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt3706352
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Metal Lords (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12141112
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Navalny (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt17041964
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Yaksha: Ruthless Operations (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12663250
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Return to Space (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt18555320
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Northman (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11138512
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Fantastic Beasts: The Secrets of Dumbledore (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt4123432
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Dakota (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10241772
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Morbius (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt5108870
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Sonic the Hedgehog 2 (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12412888
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Trust No One: The Hunt for the Crypto King (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15479902
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Infinite Storm (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14060232
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Bubble (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13610562
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Cellar (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14550642
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Apollo 10½:  A Space Age Childhood (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7978758
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Everything Everywhere All at Once (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt6710474
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Shut In (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10131024
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Lost City (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13320622
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Alice (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11040762
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Black Crab (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt6708668
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Cheaper by the Dozen (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt6705162
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Deep Water (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt2180339
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Dual (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9005184
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Incantation (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt18968540
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Master (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11286210
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Umma (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13235822
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Loveland (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10295314
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Panama (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt4029412
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Rescued by Ruby (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11278476
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Bad Guys (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8115900
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",X (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13560574
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Ambulance (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt4998632
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Better Nate Than Ever (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14696284
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Look At Me: XXXTENTACION (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10723416
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Adam Project (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt2463208
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Windfall (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15033192
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Contractor (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10323676
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Hyperions (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7520568
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Turning Red (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8097030
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",A Day to Die (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14412366
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Fresh (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13403046
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Weekend Away (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14817272
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Batman (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt1877830
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Big Gold Brick (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10308878
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Gasoline Alley (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14174168
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Hotel Transylvania: Transformania (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9848626
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",No Exit (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7550014
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Restless (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14465894
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Outfit (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14114802
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Tyler Perry's A Madea Homecoming (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14813966
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Studio 666 (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15374070
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Severance (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11280740
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Pursuit (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15106860
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Texas Chainsaw Massacre (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11755740
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Dog (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11252248
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Fistful of Vengeance (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14158554
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Bubble (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt16360006
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Bigbug (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11541872
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Love and Leashes (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15553956
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The In Between (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8851148
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Those Who Walk Away (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt12292206
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Against the Ice (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13873302
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Blacklight (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14060094
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",I Want You Back (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt6462958
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Kimi (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14128670
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Uncharted (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt1464335
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Death on the Nile (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt7657566
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Downfall: The Case Against Boeing (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11893274
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Marry Me (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10223460
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Catwoman: Hunted (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt15248702
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Immanence (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11626108
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Long Night (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10509906
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Through My Window (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14463484
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Moonfall (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt5834426
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Spy Who Never Dies (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11558688
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Tinder Swindler (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14992922
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Jackass Forever (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11466222
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Home Team (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14592064
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Ice Age Adventures of Buck Wild (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt13634480
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The Requin (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11348232
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Redeeming Love (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11365186
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The King's Daughter (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt2328678
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Fireheart (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8354218
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Ray Donovan: The Movie (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14124268
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Gold (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt6020800
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Scream (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt11245972
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",The 355 (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt8356942
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Harry Potter 20th Anniversary: Return to Hogwarts (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt16116174
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Last Seen Alive (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt10242388
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Last the Night (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt14263856
