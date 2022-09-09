@@ -305,6 +305,60 @@ http://89.187.175.143:80/4096/index.m3u8
 http://89.187.175.143:80/4097/index.m3u8
 #EXTINF:-1 group-title="ESPANOL" tvg-logo="https://worldscreen.com/tvdrama/wp-content/uploads/sites/11/2017/07/PASIONES_LOGO-319.jpg",PASIONES HD
 http://89.187.175.143:80/4099/index.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: ACTION
+http://reaperhosting.club:8080/jeavo/qudojpek/1147283
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: ANIMATION
+http://reaperhosting.club:8080/jeavo/qudojpek/1147282
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: BLOCKBUSTERS
+http://reaperhosting.club:8080/jeavo/qudojpek/1147281
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: CLASSIC
+http://reaperhosting.club:8080/jeavo/qudojpek/1147280
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: COMEDY
+http://reaperhosting.club:8080/jeavo/qudojpek/1147279
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: CULT
+http://reaperhosting.club:8080/jeavo/qudojpek/1147278
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: FAMILY
+http://reaperhosting.club:8080/jeavo/qudojpek/1147277
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: GREATS
+http://reaperhosting.club:8080/jeavo/qudojpek/1147276
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: GREATS TWO
+http://reaperhosting.club:8080/jeavo/qudojpek/1147275
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: HISTORICAL
+http://reaperhosting.club:8080/jeavo/qudojpek/1147274
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: HORROR
+http://reaperhosting.club:8080/jeavo/qudojpek/1147273
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: MUSICAL
+http://reaperhosting.club:8080/jeavo/qudojpek/1147272
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: MYSTERY
+http://reaperhosting.club:8080/jeavo/qudojpek/1147271
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: PREMIERE
+http://reaperhosting.club:8080/jeavo/qudojpek/1147270
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: ROMANCE
+http://reaperhosting.club:8080/jeavo/qudojpek/1147269
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: SCI-FI
+http://reaperhosting.club:8080/jeavo/qudojpek/1147268
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: WESTERN
+http://reaperhosting.club:8080/jeavo/qudojpek/1147267
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: HITS
+http://reaperhosting.club:8080/jeavo/qudojpek/1147266
+#EXTINF:-1 group-title="24/7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: THRILLER
+http://reaperhosting.club:8080/jeavo/qudojpek/1147265
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/23/a1/23a14c3f3937385ea5dbe08c87ae61d1/23a14c3f3937385ea5dbe08c87ae61d1.jpg",24/7 The Simpsons
+http://reaperhosting.club:8080/jeavo/qudojpek/1067549
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/87/ac/87acf30123520482240f9d4b92031fc0/87acf30123520482240f9d4b92031fc0.jpg",24/7 Prison Break
+http://reaperhosting.club:8080/jeavo/qudojpek/917118
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/4a/e6/4ae6a2b2d15a2e856fe3c7199ee22def/4ae6a2b2d15a2e856fe3c7199ee22def.jpg",Power 24/7
+http://reaperhosting.club:8080/jeavo/qudojpek/917116
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/75/d9/75d93789cad531212d28766ccdb0bc66/75d93789cad531212d28766ccdb0bc66.jpg",Person Of Interest 24/7
+http://reaperhosting.club:8080/jeavo/qudojpek/917114
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/03/69/0369332135546537eb6eead8c454ac73/0369332135546537eb6eead8c454ac73.jpg",The.Blacklist 24/7
+http://reaperhosting.club:8080/jeavo/qudojpek/917053
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/c1/fd/c1fdf9412d0a037ab135f5a6734a0d79/c1fdf9412d0a037ab135f5a6734a0d79.jpg",24/7 GODFATHER OF HARLEM
+http://reaperhosting.club:8080/jeavo/qudojpek/916623
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/88/22/8822b3a4f732a28db1d10002e6cecd23/8822b3a4f732a28db1d10002e6cecd23.jpg",24/7 GAME OF THRONES
+http://reaperhosting.club:8080/jeavo/qudojpek/916614
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/ea/b4/eab48fa4c71804c00008616715dd3777/eab48fa4c71804c00008616715dd3777.jpg",24/7: Peaky Blinders
+http://reaperhosting.club:8080/jeavo/qudojpek/916381
 #EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/62/26/6226708eccd0f697d3c3e63fc71042e6/6226708eccd0f697d3c3e63fc71042e6.jpg",BLACK SAILS
 http://89.187.175.143:80/4104/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/df/09/df096ea4d6a6e533790a4b1de84f7274/df096ea4d6a6e533790a4b1de84f7274.jpg",AMERICAN DAD
