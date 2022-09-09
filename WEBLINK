@@ -79,7 +79,7 @@ http://89.187.175.143:80/3012/index.m3u8
 http://89.187.175.143:80/3032/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png",CINEMAX MOVIEMAX
 http://89.187.175.143:80/4169/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/OuterMax_2011.svg/revision/latest/scale-to-width-down/639?cb=20160721192522",CINEMAX OUTERMAX
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/OuterMax_2011.svg/revision/latest/scale-to-width-down/639?cb=20160721192522",CINEMAX OUTERMAX
 http://89.187.175.143:80/4170/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ HD
 http://89.187.175.143:80/3035/index.m3u8
@@ -305,45 +305,45 @@ http://89.187.175.143:80/4096/index.m3u8
 http://89.187.175.143:80/4097/index.m3u8
 #EXTINF:-1 group-title="ESPANOL" tvg-logo="https://worldscreen.com/tvdrama/wp-content/uploads/sites/11/2017/07/PASIONES_LOGO-319.jpg",PASIONES HD
 http://89.187.175.143:80/4099/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://images06.kaleidescape.com/transformed/covers/1134x1624s/375/37597677.jpg",BLACK SAILS
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/62/26/6226708eccd0f697d3c3e63fc71042e6/6226708eccd0f697d3c3e63fc71042e6.jpg",BLACK SAILS
 http://89.187.175.143:80/4104/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://thehumanist.com/wp-content/uploads/2016/05/americandad.jpg",AMERICAN DAD
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/df/09/df096ea4d6a6e533790a4b1de84f7274/df096ea4d6a6e533790a4b1de84f7274.jpg",AMERICAN DAD
 http://89.187.175.143:80/4102/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://theperrynews.com/wp-content/uploads/2015/06/american-pickers-221.jpg",AMERICAN PICKERS
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/3c/b3/3cb35a44eff41f9358813fcbcf0e227e/3cb35a44eff41f9358813fcbcf0e227e.jpg",AMERICAN PICKERS
 http://89.187.175.143:80/4103/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.europosters.eu/image/1300/posters/dexters-laboratory-characters-i15752.jpg",DEXTER LAB
 http://89.187.175.143:80/4109/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://blademag.com/wp-content/uploads/forged-in-fire.jpg",FORGE IN FIRE
 http://89.187.175.143:80/4111/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://www.renewcanceltv.com/wp-content/uploads/2015/04/deadliestcatch1111111.jpg",DEADLIEST CATCH
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/cd/6b/cd6b8a79cddf37fd8bd317d0217cd20c/cd6b8a79cddf37fd8bd317d0217cd20c.jpg",DEADLIEST CATCH
 http://89.187.175.143:80/4108/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://i0.wp.com/www.tvacute.com/wp-content/uploads/2020/03/Chicago-PD-Season-7-Episode-18-1.jpeg",CHICAGO PD
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/6b/18/6b185826f7f40cb7b8b4567958f47120/6b185826f7f40cb7b8b4567958f47120.jpg",CHICAGO PD
 http://89.187.175.143:80/4106/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://news.tunedge.com/wp-content/uploads/2016/08/Hells-Kitchen.jpg",HELLS KITCHEN
 http://89.187.175.143:80/4114/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://indiashorts.com/wp-content/uploads/2022/09/rsz_ink-master.jpg",INK MASTER
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/25/2d/252dd419ae61ee04483931b8f2d0223f/252dd419ae61ee04483931b8f2d0223f.jpg",INK MASTER
 http://89.187.175.143:80/4115/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https://foodsided.com/files/2017/07/DB87CB07-71BB-4E91-8BDF-648D64797C3A-e1530045546207.jpeg",MASTER CHEF
 http://89.187.175.143:80/4118/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://i.ytimg.com/vi/9Tg24wYguMo/maxresdefault.jpg",RIDICULOUSNESS
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/fa/22/fa225556259817b15be863499e2df038/fa225556259817b15be863499e2df038.jpg",RIDICULOUSNESS
 http://89.187.175.143:80/4121/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://horrorcultfilms.b-cdn.net/wp-content/uploads/2021/02/true-blood.jpg",TRUE BLOOD
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d4/a4/d4a42349aa3ae30d13fcb5f64b59ae7a/d4a42349aa3ae30d13fcb5f64b59ae7a.jpg",TRUE BLOOD
 http://89.187.175.143:80/4126/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://queermeup.com/wp-content/uploads/2017/06/1000631909BRDFLTO_73ef1e09-1-810x1024.jpeg",SHAMELESS
 http://89.187.175.143:80/4122/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://static.bb-static.com/shain/v1/dataservice/ResizeImage/$value?ImageUrl=183506.jpg",TOP GEAR
 http://89.187.175.143:80/4124/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn3.whatculture.com/images/2020/04/6d772ad5b1ec9632-1200x675.jpeg",STAR TREK
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/ec/d4/ecd43b234375171a3c007915f18ef678/ecd43b234375171a3c007915f18ef678.jpg",STAR TREK
 http://89.187.175.143:80/4123/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://img.reelgood.com/content/show/f7592457-8ee4-4b4b-b148-d2b5b0d4fc29/poster-780.jpg",WALKER TEXAS RANGER
 http://89.187.175.143:80/4129/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/08/X-Men-90s-Team.jpg",X-MEN
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/f7/02/f70277b42e41a21f087b780c5bb915ac/f70277b42e41a21f087b780c5bb915ac.jpg",X-MEN
 http://89.187.175.143:80/4130/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://static.tvmaze.com/uploads/images/original_untouched/257/643257.jpg",ULTIMATE TAG
 http://89.187.175.143:80/4127/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8oh0cOnMaxoQp0lNOxvRmoQwzTl.jpg",HOME IMPROVEMENT
 http://89.187.175.143:80/4112/index.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="https://i1.wp.com/www.heyuguys.com/images/2018/06/Looney-Tunes.jpg",LOONEY TUNES
+#EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/f3/d1f34ee1186cd4949e657875fabb82dd/d1f34ee1186cd4949e657875fabb82dd.jpg",LOONEY TUNES
 http://89.187.175.143:80/4117/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://ih1.redbubble.net/image.1494531644.9393/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",OAN HD
 http://89.187.175.143:80/3117/index.m3u8
@@ -371,7 +371,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9
 http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9 HD
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9 HD
 http://89.187.175.143:80/3109/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://image.pbs.org/bento3-prod/southfloridapbs/371220d04f_ed4727b385_StationImages-WPBT.png",South Florida PBS
 http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
@@ -635,7 +635,7 @@ http://89.187.175.143:80/3013/index.m3u8
 http://89.187.175.143:80/3111/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-DjkjclFC9rc/XzNOnkVAyHI/AAAAAAAAAtk/QZz81WNA5ZEnPs1AiY14BrHKrh6gTOIbQCLcBGAsYHQ/w200-h200/54%2BSny.png",SNY
 http://89.187.175.143:80/4091/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/02/Bally_Sports_san_diego-1024x576.png",Bally Sports San Diego
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/02/Bally_Sports_san_diego-1024x576.png",Bally Sports San Diego
 http://89.187.175.143:80/4181/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/d9dd7dd44ebcfc4f306ad873759b25e9.png",MSG+ HD
 http://89.187.175.143:80/3064/index.m3u8
