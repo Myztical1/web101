@@ -63,12 +63,90 @@ http://89.187.175.143:80/3014/index.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",HBO ZONE HD
 http://89.187.175.143:80/3090/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182970
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182971
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182972
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182973
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3f/Showtime_next.png",Showtime Next (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182975
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3f/Showtime_next.png",Showtime Next (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182976
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182977
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182978
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE HD
+http://89.187.175.143:80/3102/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182980
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992182981
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183126
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183127
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",STARZ KIDS & FAMILY HD
+http://89.187.175.143:80/3043/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzedge_2016_vert_wh_rgb.jpg",Starz Edge (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183006
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzedge_2016_vert_wh_rgb.jpg",Starz Edge (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183007
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tbivision.com/files/2016/03/starz-encore.png",Starz Encore (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183116
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tbivision.com/files/2016/03/starz-encore.png",Starz Encore (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183117
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183120
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183121
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",Starz Encore Action (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183008
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",Starz Encore Action (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183109
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png",Starz Encore Black (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183110
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png",Starz Encore Black (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183111
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png",Starz Encore Classic (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183112
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png",Starz Encore Classic (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183113
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://allamericandish.com/wp-content/uploads/2020/08/Starz_Encore_Espa%C3%B1ol.png",Starz Encore Espanol
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992185057
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ilovesatellitetv.com/images/encore-family.jpg",Starz Encore Family (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183114
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ilovesatellitetv.com/images/encore-family.jpg",Starz Encore Family (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183115
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1280px-Starz_Encore_Suspense.svg.png",Starz Encore Suspense (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183118
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1280px-Starz_Encore_Suspense.svg.png",Starz Encore Suspense (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183119
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183122
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183123
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ HD
+http://89.187.175.143:80/3035/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183003
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183004
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",STARZ CINEMA HD
+http://89.187.175.143:80/3103/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzinblkhd_2016_vert_wh_rgb.jpg",Starz in Black (East)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183124
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzinblkhd_2016_vert_wh_rgb.jpg",Starz in Black (West)
+https://dumdumbullet.com/2022868917/ob6fpHWgao/79992183125
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",STARZ COMEDY HD
+http://89.187.175.143:80/3041/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME WEST
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:SHOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",SHOWTIME 2 WEST
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE HD
-http://89.187.175.143:80/3102/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
@@ -79,14 +157,6 @@ http://89.187.175.143:80/3032/index.m3u8
 http://89.187.175.143:80/4169/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/OuterMax_2011.svg/revision/latest/scale-to-width-down/639?cb=20160721192522",CINEMAX OUTERMAX
 http://89.187.175.143:80/4170/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ HD
-http://89.187.175.143:80/3035/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",STARZ CINEMA HD
-http://89.187.175.143:80/3103/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",STARZ KIDS & FAMILY HD
-http://89.187.175.143:80/3043/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",STARZ COMEDY HD
-http://89.187.175.143:80/3041/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png",EPIX HD
 http://89.187.175.143:80/3020/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/EPIX-2-on-DISH.png",EPIX 2
@@ -99,7 +169,7 @@ http://megaott.cx:900/1504419245/3177101108/76416
 http://megaott.cx:900/1504419245/3177101108/76417
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/e7365b46-42ca-47de-beba-86924e474941/calaclassics_home.png",CALA CLASSIC FHD
 http://megaott.cx:900/1504419245/3177101108/76418
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://thevoiceslu.com/wp-content/uploads/2016/03/calabash-tv.jpg",CALABASH TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://thevoiceslu.com/wp-content/uploads/2016/03/calabash-tv.jpg",CALABASH TV
 http://megaott.cx:900/1504419245/3177101108/76419
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
@@ -175,7 +245,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlis
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",REEL
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://showbizjunkies.com/wp-content/uploads/2013/07/reelz-channel-logo.jpg",REELZ CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://viewmaniac.com/wp-content/uploads/2015/12/Revolt.png",REVOLT HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlist.m3u8
@@ -207,15 +277,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:DIY.smil/chunklist_
 http://gtv01.airlinktt.co/live/smil:PBS_CREATE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/images/metv-1475264041.jpg",METV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET MID
-http://89.187.175.143:80/4176/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET EAST
-http://89.187.175.143:80/4175/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logodix.com/logo/1826270.png",GET TV
 http://89.187.175.143:80/4178/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.winudf.com/v2/image/Y29tLmNhcmJvbmFwcHMuYWZyb3R2X3NjcmVlbl8xMF8zcGFlNWZhbg/screen-10.jpg?fakeurl=1&type=.jpg",AFRO TV
 http://89.187.175.143:80/4163/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://2.bp.blogspot.com/-jCgcoHTiqdQ/VwUXJf3vWII/AAAAAAABEsU/SwjydI6yjs0-RQICpYUqszUbiUGM2hY6w/s1600/AXS%2BTV.jpg",AXS TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://yt3.ggpht.com/-ABqQE8cdd8k/AAAAAAAAAAI/AAAAAAAAAAA/B54qTSFUbWI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",AXS TV
 http://89.187.175.143:80/4162/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",IFC HD
 http://89.187.175.143:80/3091/index.m3u8
@@ -317,7 +383,7 @@ http://89.187.175.143:80/4097/index.m3u8
 http://89.187.175.143:80/4099/index.m3u8
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://sm.ign.com/t/ign_za/cover/j/jet-li/jet-li_2fwf.200.jpg",JET LI MOVIES
 http://reaperhosting.club:8080/jeavo/qudojpek/916663
-#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://bucket.mn2s.com/wp-content/uploads/2019/12/18150659/Jackie-Chan-MN2s.png",JACKIE CHAN MOVIES
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://j3n2j7f2.rocketcdn.me/wp-content/uploads/2020/07/jackie-chan.jpg",JACKIE CHAN MOVIES
 http://reaperhosting.club:8080/jeavo/qudojpek/916658
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://www.korsgaardscommentary.com/wp-content/uploads/blogger/_h58DRnMe8bw/TPcbsEgsA5I/AAAAAAAAAFQ/9rfxvZi4wn8/s1600/bruce_lee.jpg",BRUCE LEE MOVIES
 http://reaperhosting.club:8080/jeavo/qudojpek/916545
@@ -687,6 +753,10 @@ http://89.187.175.143:80/3028/index.m3u8
 http://89.187.175.143:80/3115/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://img1.wikia.nocookie.net/__cb20121114013538/logopedia/images/d/de/Fox_sports_north_2012.png",FOX SPORTS NORTH HD
 http://89.187.175.143:80/3113/index.m3u8
+#EXTINF:-1 group-title="SPORTS"" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET MID
+http://89.187.175.143:80/4176/index.m3u8
+#EXTINF:-1 group-title="SPORTS"" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET EAST
+http://89.187.175.143:80/4175/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ESPNU-logo.png",ESPN U HD
 http://89.187.175.143:80/3044/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i1.wp.com/www.txcable.com/wp-content/uploads/2014/07/sec_network_logo.png",SEC Network HD
