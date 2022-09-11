@@ -91,6 +91,16 @@ http://89.187.175.143:80/3041/index.m3u8
 http://89.187.175.143:80/3020/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/EPIX-2-on-DISH.png",EPIX 2
 http://89.187.175.143:80/4173/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-mp-images.azureedge.net%2F30d234ca-7745-49ef-a833-4db751b82984%2Fimage%2F88d10298-4590-43cd-8d8b-d6d7ed60192c%2Fcalaaction_home.jpg",CALA ACTION HD
+http://megaott.cx:900/1504419245/3177101108/400318027
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/fa3559f1-a31b-456c-b07b-a0d6822c53e9/calawestern_home.png",CALA WESTERN FHD
+http://megaott.cx:900/1504419245/3177101108/76416
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/89f358e3-04d3-4057-9d82-fba2a724eaaa/channel-weather.png",CALA WEATHER FHD
+http://megaott.cx:900/1504419245/3177101108/76417
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/e7365b46-42ca-47de-beba-86924e474941/calaclassics_home.png",CALA CLASSIC FHD
+http://megaott.cx:900/1504419245/3177101108/76418
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://thevoiceslu.com/wp-content/uploads/2016/03/calabash-tv.jpg",CALABASH TV
+http://megaott.cx:900/1504419245/3177101108/76419
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET
