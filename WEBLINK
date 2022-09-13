@@ -2480,3 +2480,181 @@ https://tv4.live/api/stream/citi/citi/movie/tt6020800
 https://tv4.live/api/stream/citi/citi/movie/tt11245972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/17/d1172e00097fa60770be9d6a4e6540cb/d1172e00097fa60770be9d6a4e6540cb.jpg",Last Seen Alive (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt10242388
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/hyKyP41/Star-Jalsha-HD-Logo.png",Star Jalsha HD
+http://10.28.28.2:8080/roarzone/30/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/pJx6XRG/Star-Plus-HD.webp",Star Plus HD
+http://10.28.28.2:8080/roarzone/67/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/SDSP1rb/GTVBangladesh-Logo.png",GTV
+http://10.28.28.2:8080/roarzone/1/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/fX6pJjd/download.png",ATN Bangla
+http://10.28.28.2:8080/roarzone/2/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/QcSbhQZ/Banglavision-svg.webp",Bangla Vision
+http://10.28.28.2:8080/roarzone/3/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/t8Djthy/unnamed.jpg",ZEE Bangla
+http://10.28.28.2:8080/roarzone/34/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/cg6SRmr/download.jpg",Colors Bangla
+http://10.28.28.2:8080/roarzone/66/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/jfZv3VC/Channel-9.png",Channel 9
+http://10.28.28.2:8080/roarzone/4/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/CBLVxX1/Channel-24.png",Channel 24
+http://10.28.28.2:8080/roarzone/5/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/RB71wBM/Channel-I.webp",Channel i HD
+http://10.28.28.2:8080/roarzone/6/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/g393CqR/DBC-News.png",DBC News
+http://10.28.28.2:8080/roarzone/7/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/DgWTk3m/Deepto.jpg",Deepto
+http://10.28.28.2:8080/roarzone/8/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/Mcv2FDt/Desh-TV.jpg",Desh TV
+http://10.28.28.2:8080/roarzone/9/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/6tCT10s/Duronto-TV.png",Duronto TV
+http://10.28.28.2:8080/roarzone/10/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/YWtw2qb/Ekattor-TV.jpg",Ekattor TV
+http://10.28.28.2:8080/roarzone/11/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/28dVcJL/Indpendent-TV.jpg",Independent TV
+http://10.28.28.2:8080/roarzone/12/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/PmqZRpY/Jamuna.jpg",Jamuna TV
+http://10.28.28.2:8080/roarzone/13/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/1L5vnkL/RTV.png",RTV
+http://10.28.28.2:8080/roarzone/14/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/X86GnJf/SA-TV.jpg",SA TV
+http://10.28.28.2:8080/roarzone/15/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/Bc4ZPz1/anado.jpg",Anando TV
+http://10.28.28.2:8080/roarzone/16/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/48y15TG/somoy.jpg",Somoy TV
+http://10.28.28.2:8080/roarzone/17/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/j3mZCS6/news24.webp",NEWS 24
+http://10.28.28.2:8080/roarzone/18/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/LzGd6Pt/image.png",MOVIE BANGLA
+http://10.28.28.2:8080/roarzone/19/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/YyfGs0j/image.png",SONY TEN 1
+http://10.28.28.2:8080/roarzone/20/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/rQ9hNjN/image.png",SONY TEN 2
+http://10.28.28.2:8080/roarzone/21/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/mGDjVpY/image.png",SONY TEN 3
+http://10.28.28.2:8080/roarzone/22/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/vYMnjXS/image.png",ESPN 2
+http://10.28.28.2:8080/roarzone/23/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/X8Q6VHk/image.png",SONY 6 HD
+http://10.28.28.2:8080/roarzone/24/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/71wJjcm/image.png",STAR SPORTS 1 HD
+http://10.28.28.2:8080/roarzone/25/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/3YMQg6G/image.png",STAR SPORTS 2 HD
+http://10.28.28.2:8080/roarzone/26/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/Kj61ssS/image.png",STAR SPORTS SELECT 1 HD
+http://10.28.28.2:8080/roarzone/27/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/tpv8GNK/image.png",STAR SPORTS SELECT 2 HD
+http://10.28.28.2:8080/roarzone/28/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/zVDpjsG/image.png",ZEE BANGLA CINEMA
+http://10.28.28.2:8080/roarzone/29/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/M6p9Fw3/image.png",JALSHA MOVIES HD
+http://10.28.28.2:8080/roarzone/31/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/TcBqgRm/image.png",SONY AATH
+http://10.28.28.2:8080/roarzone/33/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/wY4XfmS/image.png",ZEE BANGLA
+http://10.28.28.2:8080/roarzone/34/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/3h73JBF/image.png",NATIONAL GEOGRAPHIC HD
+http://10.28.28.2:8080/roarzone/35/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/xSz9LkR/image.png",SONY SAB
+http://10.28.28.2:8080/roarzone/36/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/hFRc7fB/image.png",PEACE TV
+http://10.28.28.2:8080/roarzone/37/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/cCGBVw8/image.png",SONY
+http://10.28.28.2:8080/roarzone/38/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/2SdSVcS/image.png",ZEE TV HD
+http://10.28.28.2:8080/roarzone/40/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/FW2BCyn/image.png",SONY PIX HD
+http://10.28.28.2:8080/roarzone/41/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/wgK98Bb/image.png",MOVIES
+http://10.28.28.2:8080/roarzone/42/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/QQXW5mJ/image.png",DISCOVERY HD
+http://10.28.28.2:8080/roarzone/43/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/Ntk7B71/image.png",NEWS
+http://10.28.28.2:8080/roarzone/44/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/M2ZvxMK/image.png",MOVIES NOW HD
+http://10.28.28.2:8080/roarzone/45/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/N3YLLvC/image.png",MTV
+http://10.28.28.2:8080/roarzone/46/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/PzgtQxw/image.png",MOHONA TV HD
+http://10.28.28.2:8080/roarzone/48/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/CnYRFjm/image.png",ATN NEWS
+http://10.28.28.2:8080/roarzone/49/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/PzgtQxw/image.png",MOHONA TV HD
+http://10.28.28.2:8080/roarzone/50/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/Fz7BGzt/image.png",MASRANGA HD
+http://10.28.28.2:8080/roarzone/51/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/XshZjdY/image.png",NTV
+http://10.28.28.2:8080/roarzone/54/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/8dfF6xs/image.png",NICK
+http://10.28.28.2:8080/roarzone/55/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/FYwP0jZ/image.png",MY TV HD
+http://10.28.28.2:8080/roarzone/56/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/jD6qK1R/image.png",CYD
+http://10.28.28.2:8080/roarzone/57/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/wpRSsLB/image.png",GAAN BANGLA
+http://10.28.28.2:8080/roarzone/58/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/R48tK8J/image.png",NAGORIK TV
+http://10.28.28.2:8080/roarzone/59/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/QFWDVLd/image.png",ZOOM
+http://10.28.28.2:8080/roarzone/60/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/BcVz290/image.png",BOISHAKHI TV
+http://10.28.28.2:8080/roarzone/61/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/NTbwMM6/image.png",DESH TV
+http://10.28.28.2:8080/roarzone/62/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/8X7Wfnn/image.png",ATN ISLAMIC TV
+http://10.28.28.2:8080/roarzone/63/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/nfyPy0L/image.png",EKUSHEY TV
+http://10.28.28.2:8080/roarzone/65/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/jDjJnFf/image.png",COLORS BANGLA
+http://10.28.28.2:8080/roarzone/66/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/4FFbkxX/image.png",COLORS
+http://10.28.28.2:8080/roarzone/68/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/3yMbnxB/image.png",ZEE ACTION
+http://10.28.28.2:8080/roarzone/69/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/ypKj8n9/image.png",Willow TV
+http://10.28.28.2:8080/roarzone/70/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/6YSy0KS/image.png",ESPN 4
+http://10.28.28.2:8080/roarzone/71/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/z2zZFw1/image.png",SKY SPORTS MIX
+http://10.28.28.2:8080/roarzone/72/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/z4PVRwF/image.png",SPORTS HD
+http://10.28.28.2:8080/roarzone/73/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/93qvMZW/image.png",&TV HD
+http://10.28.28.2:8080/roarzone/74/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/48GZZTC/image.png",STAR GOLD HD
+http://10.28.28.2:8080/roarzone/75/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/VCjj115/image.png",ZEE CINEMA HD
+http://10.28.28.2:8080/roarzone/76/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/1Zg3R4T/image.png",SONY MAX HD
+http://10.28.28.2:8080/roarzone/77/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/3yMbnxB/image.png",ZEE ACTION
+http://10.28.28.2:8080/roarzone/78/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/ZcwmZhc/image.png",CN
+http://10.28.28.2:8080/roarzone/79/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/GWNnHBM/image.png",ATN BANGLA MUSIC
+http://10.28.28.2:8080/roarzone/82/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/3WVsJKq/image.png",BTV WORLD
+http://10.28.28.2:8080/roarzone/84/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/zXvCcf3/image.png",DW
+http://10.28.28.2:8080/roarzone/85/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/YQJjzv5/image.png",BTV
+http://10.28.28.2:8080/roarzone/88/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/vQDyYR5/image.png",ALJAZEERA
+http://10.28.28.2:8080/roarzone/89/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/3yMbnxB/image.png",ZEE ACTION
+http://10.28.28.2:8080/roarzone/90/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/gVRnpBj/image.png",BANGLA TALKIES
+http://10.28.28.2:8080/roarzone/91/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/pfkPw4v/image.png",SKY NET SPORTS HD
+http://10.28.28.2:8080/roarzone/92/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/jbptCcf/image.png",ZING
+http://10.28.28.2:8080/roarzone/93/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/n3Jd1p3/image.png",ZEE BOLLYWOOD
+http://10.28.28.2:8080/roarzone/94/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/xS4XgmR/image.png",SANGEET BANGLA
+http://10.28.28.2:8080/roarzone/96/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/dt4jhPH/image.png",&PICTURES HD
+http://10.28.28.2:8080/roarzone/100/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/mNMvcpV/image.png",Disney Channel
+http://xc.biswas-tv.xyz:8880/live/sajeed5132/01716655132/1954.ts
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/BNmQ63n/image.png",Hungama Channel
+http://xc.biswas-tv.xyz:8880/live/sajeed5132/01716655132/33.ts
