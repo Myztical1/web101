@@ -35,8 +35,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playli
 http://megaott.cx:900/1504419245/3177101108/187027
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/VCjj115/image.png",ZEE CINEMA HD
 http://megaott.cx:900/1504419245/3177101108/376245
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/3yMbnxB/image.png",ZEE ACTION
-http://megaott.cx:900/1504419245/3177101108/376259
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/n3Jd1p3/image.png",ZEE BOLLYWOOD
 http://megaott.cx:900/1504419245/3177101108/378733
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/2SdSVcS/image.png",ZEE TV HD
@@ -387,6 +385,8 @@ https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f33318210549000806a530/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBB32000196O_20220712T041415.png",FilmRise Western
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_filmrisewestern_001.m3u8?ads.caid=FilmriseWesterns&ads.csid=samsungtvplus_us_filmrisewesterns_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9999541&ads.xumo_imdb_genre=Western&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png",Flicks of Fury
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.imgur.com/VcwHims.png",Kung Fu Movies
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://sm.ign.com/t/ign_za/cover/j/jet-li/jet-li_2fwf.200.jpg",JET LI MOVIES
