@@ -399,6 +399,8 @@ http://reaperhosting.club:8080/jeavo/qudojpek/916663
 http://reaperhosting.club:8080/jeavo/qudojpek/916658
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://www.korsgaardscommentary.com/wp-content/uploads/blogger/_h58DRnMe8bw/TPcbsEgsA5I/AAAAAAAAAFQ/9rfxvZi4wn8/s1600/bruce_lee.jpg",BRUCE LEE MOVIES
 http://reaperhosting.club:8080/jeavo/qudojpek/916545
+#EXTINF:-1 group-title="24/7" tvg-logo="https://www.freepngimg.com/thumb/chuck_norris/37613-5-chuck-norris-photos.png",CHUCK NORRIS MOVIES
+http://edge.bz:8080/00091/00091/117229
 #EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/23/a1/23a14c3f3937385ea5dbe08c87ae61d1/23a14c3f3937385ea5dbe08c87ae61d1.jpg",24/7 The Simpsons
 http://reaperhosting.club:8080/jeavo/qudojpek/1067549
 #EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/87/ac/87acf30123520482240f9d4b92031fc0/87acf30123520482240f9d4b92031fc0.jpg",24/7 Prison Break
@@ -1818,8 +1820,6 @@ http://edge.bz:8080/00091/00091/9463
 http://edge.bz:8080/00091/00091/110769
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CHILDREN OF THE CORN
 http://edge.bz:8080/00091/00091/53428
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CHUCK NORRIS MOVIES
-http://edge.bz:8080/00091/00091/117229
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CLINT EASTWOOD
 http://edge.bz:8080/00091/00091/55696
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",COMEDY MOVIES
@@ -2666,7 +2666,7 @@ http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53849.m3u8
 http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53849
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",Box Nation UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9812&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110708
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
 http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53850.m3u8
