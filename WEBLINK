@@ -389,8 +389,9 @@ https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
 https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV HD
 http://89.187.175.143:80/3059/index.m3u8
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://ae01.alicdn.com/kf/HTB15PBtSVXXXXXOXXXXq6xXFXXXX/Cloud-Sunset-Wild-West-Dallas-Cowboys-Scene-Theme-Party-backdrop-Vinyl-cloth-High-quality-Computer-printed.jpg_640x640.jpg",Now WILD WEST
+https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-id="stirr-westerns.us" tvg-chno="205" tvg-logo="https://i.imgur.com/ZRZw2vZ.png",HLS STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg",Westerns TV
