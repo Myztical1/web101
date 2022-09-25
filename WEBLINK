@@ -868,6 +868,40 @@ http://89.187.175.143:80/4150/index.m3u8
 http://89.187.175.143:80/4155/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Music_Choice_1995.png",MUSIC CHOICE ROCK
 http://89.187.175.143:80/4159/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Ambience
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Classic Rock (1080p)
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Classica HD
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Everything 80s (1080p)
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Flashback 70s (1080p)
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Hit List (1080p)
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Hot Country (1080p)
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Karaoke
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Karaoke
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Karaoke (Australia)
+https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Karaoke (Sweden)
+https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Karoke (Netherland)
+https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Naturescape
+https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray Naturescape HD
+https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",Stingray djazz HD
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
 #EXTINF:-1 group-title="ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",UNIVISION MIAMI HD
 http://gtv01.airlinktt.co/live/smil:UNIVISION.smil/playlist.m3u8
 #EXTINF:-1 group-title="ESPANOL" tvg-logo="https://www.sachcc.org/wp-content/uploads/2013/07/Telemundo_33_Sacramento_2012.png",TELEMUNDO 33 HD
