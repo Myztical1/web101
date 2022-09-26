@@ -247,6 +247,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES & MYSTERIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png",HALLMARK DRAMA
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.countdownuntilchristmas.com/wp-content/uploads/2012/06/ION-TV-logo-300x226.jpg",ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/court-tv-mystery.png",ION Mystery
@@ -412,6 +414,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COSMO.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/TeenNick.us.png",TEENNICK US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:TEEN_NICK.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2018/04/Universal-Kids.jpg",UNIVERSAL KIDS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://p2086.securepoint.io:2086/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png",BABY TV
 http://89.187.175.143:80/4161/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",DISNEY JR
