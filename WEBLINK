@@ -2902,7 +2902,6 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31460
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117729&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
 http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53895.m3u8
-
 #EXTINF:-1 group-title="KIDS tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/08/disney-xd-768x432-1.png",DisneyXD
 http://208.86.19.13:81/10.stream/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/USA-Network-269x151.png",USA Network
@@ -2927,7 +2926,7 @@ http://208.86.19.13:81/20.stream/index.m3u8
 http://208.86.19.13:81/104.stream/index.m3u8
 EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS
 http://208.86.19.13:81/101.stream/index.m3u8
-#EXTINF:-1 group-title="RELIGON" tvg-logo="https://hiphopwired.com/wp-content/uploads/sites/43/2020/01/15790321461929.png",FOX SOUL
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://hiphopwired.com/wp-content/uploads/sites/43/2020/01/15790321461929.png",FOX SOUL
 http://208.86.19.13:81/105.stream/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/court-tv-mystery.png",ION MYSTERY
 http://208.86.19.13:81/111.stream/index.m3u8
