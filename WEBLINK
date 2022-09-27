@@ -3011,3 +3011,343 @@ http://208.86.19.13:81/907.stream/index.m3u8
 http://208.86.19.13:81/824.stream/index.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://satitv.com/wp-content/uploads/2016/03/Tatasky-product-image-transfer.jpg",TATA PLAY
 http://208.86.19.13:81/677.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" #EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Movies & TV **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?entertainment
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",BUZZR
+https://buzzr-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",VENN
+https://venntv-localnow.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Electric Now
+https://electricnow-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_604835def60e385cc2014b82_electricnow-live-1/master.m3u8?channel=elec_en
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",TheGrio
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Young Icons
+https://linear-182.frequency.stream/dist/localnow/182/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Career Day
+https://linear-88.frequency.stream/dist/localnow/88/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The Grapevine
+https://thegrapevine-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6089d317ff5091737a7e80b2_thegrapevine-live/master.m3u8?channel=mcom_gv_us
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",2020s Movies
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",2010s Movies
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",2000s Movies
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Local Now Movies of the '90s
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Local Now Movies of the '80s
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Local Now Movies of the '70s
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Movies of the '50s & '60s
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Movies of the '30s & '40s
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Wild West
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Lone Star (Geo-USA)
+https://lonestar-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The Film Detective (Geo-USA)
+https://filmdetective-localnow.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The Archive
+https://thearchive-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6089d2119ca0b16c4c2066e9_thearchive-live/master.m3u8?channel=mcom_ta_us
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Romantique
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",PG Flix
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",PG-13 Flix
+https://linear-230.frequency.stream/dist/localnow/230/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Dove Channel
+https://dovenow-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Fear This!
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Fear This! Classics
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Fear This! Sci-Fi
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Horror Machine
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",BloodyDisgusting
+https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",CONtv
+https://contv-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",CONtv Anime
+https://contvanime-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Bambu
+https://bambu-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Shout! Factory TV
+https://shoutfactory-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Binge TV Series **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?binge
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Mr Box Office
+https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The First Family
+https://linear-202.frequency.stream/dist/localnow/202/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The Dead Zone
+https://linear-215.frequency.stream/dist/localnow/215/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Love & War
+https://linear-217.frequency.stream/dist/localnow/217/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Entertainment Comedy **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?comedy
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Johnny Carson TV
+https://johnnycarson-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",MST3K
+https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Comedy
+https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",HA! That's Funny
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Chive TV
+https://chivetv-localnow.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",AFV Family
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",AFV Espanol
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Comedy Dynamics
+https://comedydynamics-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Funny You Should Ask
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Comics Unleashed
+https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Entertainment **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?entertainment
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Space Channel
+https://spacechannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8ea1cb4a49758bb3176c3_spacechannel-live/master.m3u8?channel=space_sp
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Inspiration
+https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Insight
+https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",SurvivorNetTV
+https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",People TV
+https://peopletv-localnow.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Popstar! TV
+https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Revry
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Revry News
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",OML on Revry
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Lifestyle & Shopping **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?lifestyle
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Fido TV
+https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",So... Real
+https://soreal-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",FashionBox
+https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Shop LC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLC_LocalNow)/master.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",QVC
+https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",HSN
+https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/master.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Jewelry TV
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Law & Crime **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?crime
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Justice
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Justice with Judge Mablean
+https://linear-221.frequency.stream/dist/localnow/221/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",America's Court (Judge Ross)
+https://linear-219.frequency.stream/dist/localnow/219/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Justice for All (Judge Perez)
+https://linear-220.frequency.stream/dist/localnow/220/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Supreme Justice (Judge Karen)
+https://linear-222.frequency.stream/dist/localnow/222/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The Verdict (Judge Hatchett)
+https://linear-223.frequency.stream/dist/localnow/223/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Food **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?food
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Cooking Panda
+https://cookingpanda-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8f336fcca17454d58dc38_cookingpanda-live-1/master.m3u8?channel=rndr_cp
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Gusto TV
+https://gusto-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** World & Travel **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?travel
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Discover
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Love Nature (Geo-USA)
+https://lovenatureus-eng-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The WildEarth Channel
+https://wildearth-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",AfroLand TV
+https://afrolandtv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60e4824fda9b1e0dc15f2264_afrolandtv-live-1/master.m3u8?channel=alt_al
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Demand Africa (Geo-USA)
+https://demadafrica-localnow.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Documentary **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?docs
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Docurama
+https://docurama-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Pattrn
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Sightline
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Local News **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?localnews
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",News 12 New York NY
+https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",WEWS 5 ABC Cleveland OH
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",KMGH-TV ABC7 Denver CO
+https://kmgh-syndication.ewscloud.com/out/v1/54afa525bb6b4f708c89d5ad1c77b77e/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",KSHB-TV Kansas City MO
+https://kshb-syndication.ewscloud.com/out/v1/4368cbfbec0541f8b78f762adbb6fccd/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",WXYZ-TV ABC7 Detroit MI
+https://wxyz-syndication.ewscloud.com/out/v1/459e356d18be4af88bfd34140d590ada/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",KNXV-TV Phoenix AZ
+https://knxv-syndication.ewscloud.com/out/v1/734c17b72dea4f6795efa601bbcfc82d/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",WTVF Nashville TN
+https://wtvf-syndication.ewscloud.com/out/v1/1f1bc99473f24d15a1479d002b30f0b3/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",KSTU Salt Lake City UT
+https://kstu-syndication.ewscloud.com/out/v1/976723f64a494176bce4131e668621aa/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",WPTV-TV West Palm Beach FL
+https://wptv-syndication.ewscloud.com/out/v1/0619fb38917e4d868b3ef71ab02d826b/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",KGTV ABC 10 San Diego CA
+https://kgtv-syndication.ewscloud.com/out/v1/9916f5222ae74e398263d277684b161c/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",KOKI-TV Tulsa OK
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Juneau AK
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/akJuneau/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Alpena MI
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/miAlpena/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",North Platte NE
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/neNorthPlatte/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Glendive MT
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/mtGlendive/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Helena MT
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/mtHelena/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",WHBQ-TV Memphis TN
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whbqtv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** News **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?news
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",BNC
+https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",The First
+https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",NewsMax
+https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",OAN Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",AWE Plus
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Money **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?money
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Bloomberg TV
+https://localnow.bmd.bloomberg.com/hls/manifests/bmd_us_tickerless/master.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",BB Quicktake
+https://localnow.bmd.bloomberg.com/hls/manifests/quicktake_linear_us/master.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Yahoo! Finance
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Cheddar News
+https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Decentric Media
+https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Sports **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?sports
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Sports
+https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Insight TV
+https://insight-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",GRVTY
+https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Outside TV
+https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Wired2Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",MotorVision TV
+https://motorvision-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60d39a2564999114a30e7805_motorvision-live/master.m3u8?channel=mvg_mv
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",For The Fans
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",LSN
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",SportsGrid (Geo-USA)
+https://sportsgrid-localnow-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Pac-12 Insider
+https://pac12-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",IMPACT! Wrestling | HD
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Channel Fight
+https://channelfight-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8f07c69711b5272246fb2_channelfight-live/master.m3u8?channel=chan_cf
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Action & Adventure **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?adventure
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Highway Thru Hell Channel
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Fat Guys in the Woods
+https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Whistle TV
+https://whistletv-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",ChopperTown
+https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Gaming **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?gaming
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Gametoon
+https://gametoon-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",ESR eSports Revolution
+https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Music **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?music
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Real Hip-Hop
+https://linear-62.frequency.stream/dist/localnow/62/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Karaoke
+https://partytymekaraoke-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60c8ef096e50743e57715d5a_partytymekaraoke-live/master.m3u8?channel=ssnd_pt_us
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Qwest TV Jazz | HD
+https://qwestjazz-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Qwest TV Mix | HD
+https://qwestmix-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Qwest TV Classical HD
+https://qwestclassic-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Zen & Ambiance **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?ambiance
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-losangeles/localnow/master.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Fireside
+https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Zen
+https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Stargaze
+https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Loupe Art
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Quietude
+https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Horizon
+https://linear-211.frequency.stream/dist/localnow/211/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Seaside
+https://linear-209.frequency.stream/dist/localnow/209/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Elevation
+https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",** Event Channels **
+https://od.lk/s/MF8yMzk3ODU4MDVf/LocalNow_PromoSpot_30s.mp4?event
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",Christmas in July
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+
