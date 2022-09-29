@@ -1046,7 +1046,7 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png",MANS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.heartlandwaterfowl.com/wp-content/uploads/2019/01/SPMN_logo_Red.png",SPORTSMAN
 http://ky-iptv.com:80/Harry1975/Harry1975/220444.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",MLB NETWORK HD
 http://ky-iptv.com:80/live/Harry1975/Harry1975/176144.ts
@@ -1359,6 +1359,86 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31460
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117729&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
 http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53895.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",BOX NATION
+http://ys-users.com:8080/live/total/TyXX4b59nS/428235.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 1
+http://ys-users.com:8080/live/total/TyXX4b59nS/428237.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 2
+http://ys-users.com:8080/live/total/TyXX4b59nS/428240.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 3
+http://ys-users.com:8080/live/total/TyXX4b59nS/428243.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png",BT SPORT BOX OFFICE (Live On Events Only)
+http://ys-users.com:8080/live/total/TyXX4b59nS/428249.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngkey.com/png/full/32-326427_bt-sport-espn-bt-sport-espn-hd.png",BT SPORT 4 (ESPN)
+http://ys-users.com:8080/live/total/TyXX4b59nS/428246.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://img3.wikia.nocookie.net/__cb20140917160622/logopedia/images/c/c3/BTSportExtra1.png",BT SPORT 5
+http://ys-users.com:8080/live/total/TyXX4b59nS/428309.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://img3.wikia.nocookie.net/__cb20140917160622/logopedia/images/c/c3/BTSportExtra1.png",BT SPORT 6
+http://ys-users.com:8080/live/total/TyXX4b59nS/428310.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://img3.wikia.nocookie.net/__cb20140917160622/logopedia/images/c/c3/BTSportExtra1.png",BT SPORT 7
+http://ys-users.com:8080/live/total/TyXX4b59nS/428311.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://img3.wikia.nocookie.net/__cb20140917160622/logopedia/images/c/c3/BTSportExtra1.png",BT SPORT 8
+http://ys-users.com:8080/live/total/TyXX4b59nS/428313.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://img3.wikia.nocookie.net/__cb20140917160622/logopedia/images/c/c3/BTSportExtra1.png",BT SPORT 9
+http://ys-users.com:8080/live/total/TyXX4b59nS/428312.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png",Eurosport 1
+http://ys-users.com:8080/live/total/TyXX4b59nS/428251.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png",Eurosport 2
+http://ys-users.com:8080/live/total/TyXX4b59nS/428253.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo-light.png",FreeSports
+http://ys-users.com:8080/live/total/TyXX4b59nS/428255.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2018/09/GINX-Esports-TV.jpg",Ginx eSports TV
+http://ys-users.com:8080/live/total/TyXX4b59nS/428257.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png",LFC TV
+http://ys-users.com:8080/live/total/TyXX4b59nS/428259.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+http://ys-users.com:8080/live/total/TyXX4b59nS/428261.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/1280px-Premier_sports_logo_2018.svg.png",PREMIER SPORTS 1
+http://ys-users.com:8080/live/total/TyXX4b59nS/428314.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/1280px-Premier_sports_logo_2018.svg.png",PREMIER SPORTS 1 FHD
+http://ys-users.com:8080/live/total/TyXX4b59nS/428316.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/1280px-Premier_sports_logo_2018.svg.png",PREMIER SPORTS 2
+http://ys-users.com:8080/live/total/TyXX4b59nS/428317.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png",Racing TV
+http://ys-users.com:8080/live/total/TyXX4b59nS/428263.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS 1
+http://ys-users.com:8080/live/total/TyXX4b59nS/428266.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS 2
+http://ys-users.com:8080/live/total/TyXX4b59nS/428269.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS 3
+http://ys-users.com:8080/live/total/TyXX4b59nS/428272.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS 4
+http://ys-users.com:8080/live/total/TyXX4b59nS/428275.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS 5
+http://ys-users.com:8080/live/total/TyXX4b59nS/428278.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://silvertv.net:1997/images/UK/SkySportsAction.uk.png",Sky Sports Action
+http://ys-users.com:8080/live/total/TyXX4b59nS/431478.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://silvertv.net:1997/images/UK/SkySportsArena.uk.png",Sky Sports Arena
+http://ys-users.com:8080/live/total/TyXX4b59nS/431479.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS BOX OFFICE
+http://ys-users.com:8080/live/total/TyXX4b59nS/428284.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS CRICKET
+http://ys-users.com:8080/live/total/TyXX4b59nS/428286.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS DARTS
+http://ys-users.com:8080/live/total/TyXX4b59nS/428281.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS F1
+http://ys-users.com:8080/live/total/TyXX4b59nS/428289.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS FOOTBALL
+http://ys-users.com:8080/live/total/TyXX4b59nS/428292.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS GOLF
+http://ys-users.com:8080/live/total/TyXX4b59nS/428295.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS MAIN EVENT
+http://ys-users.com:8080/live/total/TyXX4b59nS/428298.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS MIX
+http://ys-users.com:8080/live/total/TyXX4b59nS/428300.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://silvertv.net:1997/images/UK/SkySportsNews.uk.png",Sky Sports News
+http://ys-users.com:8080/live/total/TyXX4b59nS/431480.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS NFL
+http://ys-users.com:8080/live/total/TyXX4b59nS/428303.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS PREMIER LEAGUE
+http://ys-users.com:8080/live/total/TyXX4b59nS/428320.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS RACING
+http://ys-users.com:8080/live/total/TyXX4b59nS/428306.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
 http://89.187.175.143:80/3080/index.m3u8
