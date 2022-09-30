@@ -1966,6 +1966,98 @@ http://89.187.175.143:80/4096/index.m3u8
 http://89.187.175.143:80/4097/index.m3u8
 #EXTINF:-1 group-title="ESPANOL" tvg-logo="https://worldscreen.com/tvdrama/wp-content/uploads/sites/11/2017/07/PASIONES_LOGO-319.jpg",PASIONES HD
 http://89.187.175.143:80/4099/index.m3u8
+EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",a&e
+https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",amc
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",axn
+https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",cartonito
+https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",cinecanal
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",cinemax
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",comedy central
+https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",discovery channel
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",disney channel
+https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",disney jr
+https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",disney xd
+https://delivery.cdn.rcs.net.ar/mnp/disneyxd_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",espn 1
+https://delivery.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",espn 2
+https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",espn 3
+https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",espn extra
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",fox sports 1
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",fox sports 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",fox sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",fox sports premium
+https://delivery.cdn.rcs.net.ar/mnp/foxpremium_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",fx
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",fxm
+https://delivery.cdn.rcs.net.ar/mnp/fxm_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",hbo
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",hbo2
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",hbo+
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",hbo family
+https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",mas chic
+https://delivery.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",mtv
+https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",nick
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",nick jr
+https://delivery.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",paramount
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",space
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",sony
+https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",star channel
+https://delivery.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",star life
+https://delivery.cdn.rcs.net.ar/mnp/foxlife_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",syfy
+https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",tbs
+https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",tcm
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",telefe
+https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",telemundo
+https://delivery.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",tnt
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",tnt series
+https://delivery.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",tnt sports
+https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",Tooncast
+https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",tru tv
+https://delivery.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",universal
+https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+#EXTINF:-1 group-title="ESPANOL" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",warner
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE TIME" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: ANIMATION
 http://reaperhosting.club:8080/jeavo/qudojpek/1147282
