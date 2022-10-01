@@ -1880,6 +1880,16 @@ https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-raycomsports-ono/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/20b970c1_D0CF72b/posters/c3daaca8a93d087bb3d12921d9e2f9fa/c3daaca8a93d087bb3d12921d9e2f9fa.png",Strongman Champions League
 https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br:443/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br:443/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br:443/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br:443/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br:443/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
 http://89.187.175.143:80/3080/index.m3u8
