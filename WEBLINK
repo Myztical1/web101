@@ -479,9 +479,9 @@ http://edge.bz:8080/007/007/56062
 http://edge.bz:8080/007/007/850
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tbivision.com/files/2016/03/starz-encore.png",Starz Encore (West)
 http://edge.bz:8080/007/007/56063
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (East)
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (East)
 http://fortv.cc:8080/chris2/chris2/16263
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (West)
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (West)
 http://edge.bz:8080/007/007/56069
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",Starz Encore Action (East)
 http://edge.bz:8080/007/007/3273
@@ -529,35 +529,35 @@ http://89.187.175.143:80/3041/index.m3u8
 http://megaott.cx:900/1504419863/3B7B8B28/191727
 http://fortv.cc:8080/chris2/chris2/35254
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA ANIMATION
-http://edge.bz:8080/007/007/56316
 http://fortv.cc:8080/chris2/chris2/53698
+http://edge.bz:8080/007/007/56316
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA COMEDY
-http://edge.bz:8080/007/007/1070
 http://fortv.cc:8080/chris2/chris2/35253
+http://edge.bz:8080/007/007/1070
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA DRAMA
-http://edge.bz:8080/007/007/1072
 http://fortv.cc:8080/chris2/chris2/35251
+http://edge.bz:8080/007/007/1072
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA FAMILY
-http://edge.bz:8080/007/007/1073
 http://fortv.cc:8080/chris2/chris2/53699
+http://edge.bz:8080/007/007/1073
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA GREATS
-http://edge.bz:8080/007/007/1076
 http://fortv.cc:8080/chris2/chris2/35249
+http://edge.bz:8080/007/007/1076
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA HITS
-http://edge.bz:8080/007/007/1077
 http://fortv.cc:8080/chris2/chris2/35255
+http://edge.bz:8080/007/007/1077
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA PREMIERE
-http://edge.bz:8080/007/007/1074
 http://fortv.cc:8080/chris2/chris2/35256
+http://edge.bz:8080/007/007/1074
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA SCI-FI HORROR
-http://edge.bz:8080/007/007/1078
 http://fortv.cc:8080/chris2/chris2/35248
+http://edge.bz:8080/007/007/1078
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA SELECT
-http://edge.bz:8080/007/007/1075
 http://megaott.cx:900/1504419863/3B7B8B28/153764
+http://edge.bz:8080/007/007/1075
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA THRILLER
-http://edge.bz:8080/007/007/1079
 http://fortv.cc:8080/chris2/chris2/35252
+http://edge.bz:8080/007/007/1079
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
@@ -566,12 +566,23 @@ http://89.187.175.143:80/3012/index.m3u8
 http://89.187.175.143:80/3032/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png",CINEMAX MOVIEMAX
 http://89.187.175.143:80/4169/index.m3u8
+http://iptvtree.net:8080/live/86488e81/5e48c38fdd/15110.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c0db2dd46d60b48418ec3299d65ddd.png",MoreMax
+http://iptvtree.net:8080/live/86488e81/5e48c38fdd/752.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/OuterMax_2011.svg/revision/latest/scale-to-width-down/639?cb=20160721192522",CINEMAX OUTERMAX
 http://89.187.175.143:80/4170/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2d7f2afa066c3d8e643874ece3de5047.png",MoviePlex
+http://iptvtree.net:8080/live/86488e81/5e48c38fdd/38477.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b6212379aa668a5f9138e273347a471d.png",The Movie Channel
+http://iptvtree.net:8080/live/86488e81/5e48c38fdd/163770.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Epix.png",EPIX HD
 http://89.187.175.143:80/3020/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/EPIX-2-on-DISH.png",EPIX 2
 http://89.187.175.143:80/4173/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8280932ffc579846a2904f0a8af764c0.png",Epix Drive In
+http://iptvtree.net:8080/live/86488e81/5e48c38fdd/35054.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/08b276db9c9a66bb2793a632e7ab0801.png",Epix Hits
+http://iptvtree.net:8080/live/86488e81/5e48c38fdd/6357.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fprd-mp-images.azureedge.net%2F30d234ca-7745-49ef-a833-4db751b82984%2Fimage%2F88d10298-4590-43cd-8d8b-d6d7ed60192c%2Fcalaaction_home.jpg",CALA ACTION HD
 http://megaott.cx:900/1504419863/3B7B8B28/400318027
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/fa3559f1-a31b-456c-b07b-a0d6822c53e9/calawestern_home.png",CALA WESTERN FHD
@@ -1707,6 +1718,16 @@ http://89.187.175.143:80/3065/index.m3u8
 http://89.187.175.143:80/3088/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HD
 http://89.187.175.143:80/3058/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/fc93c4557615bcee97ff9fcfa7231f1a.jpg", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/225px-Sony_BBC_Earth.png", BBC Earth
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48192
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/KLBorkM.png", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/m7Cl2M9.png", National Geographic
+http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild.jpg", National Geographic Wild
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
@@ -1846,13 +1867,15 @@ https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=10921&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-c9Ost9rpxes/X2EEEClQ97I/AAAAAAAABQI/Dn4nZDtaYjwW2RCIZ2sFI2mQnAWT8LvIgCLcBGAsYHQ/w200-h200/tvg.png",TVG 2
 http://ky-iptv.com:80/Harry1975/Harry1975/220449.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass
-http://ky-iptv.com:80/Harry1975/Harry1975/220452.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC FIGHT PASS HD
+http://ky-iptv.com:80/Harry1975/Harry1975/220452.ts
 http://megaott.cx:900/1504419863/3B7B8B28/212529
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png", WWE
+http://50.7.237.4:8080/WWE/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/n3C7ytq.png",USA Tennis
 http://ky-iptv.com:80/live/Harry1975/Harry1975/220448.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
+http://quality-restream.com:8080/live/asadmanzur/39e379b23d/2372.m3u8
 http://ky-iptv.com:80/live/Harry1975/Harry1975/1116408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png",A SPORTS TV
 http://208.86.19.13:81/602.stream/index.m3u8
@@ -1861,11 +1884,15 @@ http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports
 http://extraott-iptv.com:900/4988707176/3601266280/17853
 http://extraott-iptv.com:900/4988707176/3601266280/17819
+#EXTINF:-1  group-title="Sports" tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg",PTV Sports 2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/490
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/k4Bypxb/SonySix.jpg", Sony SIX HD
 http://extraott-iptv.com:900/4988707176/3601266280/378746
+http://103.162.136.235:4500/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",Sony Ten 1 HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/svnrSYk/Sonyten2.jpg",Sony Ten 2 HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2906
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png",Sony Ten 3 HD
 http://extraott-iptv.com:900/4988707176/3601266280/378745
@@ -1873,8 +1900,7 @@ http://extraott-iptv.com:900/4988707176/3601266280/378745
 http://extraott-iptv.com:900/4988707176/3601266280/400375287
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",StarSports 1 HD
 http://fortv.cc:8080/chris2/chris2/136570
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/pW7Ysyj/Star-Sports1-Hindi.jpg",StarSports 1
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/ygYNTyX/Starsports2.jpg",StarSports 2 HD
 http://extraott-iptv.com:900/4988707176/3601266280/378740
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Zgrh4dT/Starsports3.jpg",StarSports 3HD
@@ -1883,6 +1909,7 @@ http://extraott-iptv.com:900/4988707176/3601266280/400159568
 http://extraott-iptv.com:900/4988707176/3601266280/378739
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
 http://extraott-iptv.com:900/4988707176/3601266280/376465
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/447
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
