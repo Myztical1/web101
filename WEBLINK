@@ -643,65 +643,61 @@ http://fortv.cc:8080/chris2/chris2/17778
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (West)
 http://edge.bz:8080/007/007/56056
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (East)
+http://89.187.175.143:80/3043/index.m3u8
 http://edge.bz:8080/007/007/1056
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (West)
 http://edge.bz:8080/007/007/56054
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",STARZ KIDS & FAMILY HD
-http://89.187.175.143:80/3043/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzedge_2016_vert_wh_rgb.jpg",Starz Edge (East)
 http://edge.bz:8080/007/007/849
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzedge_2016_vert_wh_rgb.jpg",Starz Edge (West)
 http://edge.bz:8080/007/007/56062
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tbivision.com/files/2016/03/starz-encore.png",Starz Encore (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-us.png",Starz Encore (East)
 http://edge.bz:8080/007/007/850
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tbivision.com/files/2016/03/starz-encore.png",Starz Encore (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-us.png",Starz Encore (West)
 http://edge.bz:8080/007/007/56063
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (East)
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-westerns-us.png",Starz Encore (West)erns (East)
 http://fortv.cc:8080/chris2/chris2/16263
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://82654dcbf1d814d27eeb7a64-8zrp7filr1pyxc.netdna-ssl.com/wp-content/uploads/2020/01/Starz_Encore_Westerns.svg_.png",Starz Encore (West)erns (West)
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-westerns-us.png",Starz Encore (West)erns (West)
 http://edge.bz:8080/007/007/56069
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",Starz Encore Action (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-action-us.png",Starz Encore Action (East)
 http://edge.bz:8080/007/007/3273
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",Starz Encore Action (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-action-us.png",Starz Encore Action (West)
 http://edge.bz:8080/007/007/56064
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png",Starz Encore Black (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-black-us.png",Starz Encore Black (East)
 http://edge.bz:8080/007/007/3274
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Starz_In_Black_logo.svg/1280px-Starz_In_Black_logo.svg.png",Starz Encore Black (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-black-us.png",Starz Encore Black (West)
 http://edge.bz:8080/007/007/56065
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png",Starz Encore Classic (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-classic-us.png",Starz Encore Classic (East)
 http://edge.bz:8080/007/007/3275
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png",Starz Encore Classic (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-classic-us.png",Starz Encore Classic (West)
 http://edge.bz:8080/007/007/56066
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ilovesatellitetv.com/images/encore-family.jpg",Starz Encore Family (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-family-us.png",Starz Encore Family (East)
 http://edge.bz:8080/007/007/3276
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ilovesatellitetv.com/images/encore-family.jpg",Starz Encore Family (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-family-us.png",Starz Encore Family (West)
 http://edge.bz:8080/007/007/56067
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1280px-Starz_Encore_Suspense.svg.png",Starz Encore Suspense (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-suspense-us.png",Starz Encore Suspense (East)
 http://edge.bz:8080/007/007/3277
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1280px-Starz_Encore_Suspense.svg.png",Starz Encore Suspense (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/starz-encore-suspense-us.png",Starz Encore Suspense (West)
 http://edge.bz:8080/007/007/56068
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (East)
+http://89.187.175.143:80/3035/index.m3u8
 http://fortv.cc:8080/chris2/chris2/9299
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (West)
 http://fortv.cc:8080/chris2/chris2/21091
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ HD
-http://89.187.175.143:80/3035/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY
+http://89.187.175.143:80/3041/index.m3u8
 http://edge.bz:8080/007/007/848
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY (WEST)
 http://edge.bz:8080/007/007/56061
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (East)
+http://89.187.175.143:80/3103/index.m3u8
 http://fortv.cc:8080/chris2/chris2/17775
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (West)
 http://edge.bz:8080/007/007/56060
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",STARZ CINEMA HD
-http://89.187.175.143:80/3103/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzinblkhd_2016_vert_wh_rgb.jpg",Starz in Black (East)
 http://fortv.cc:8080/chris2/chris2/17779
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzinblkhd_2016_vert_wh_rgb.jpg",Starz in Black (West)
 http://edge.bz:8080/007/007/56070
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",STARZ COMEDY HD
-http://89.187.175.143:80/3041/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA ACTION
 http://megaott.cx:900/1504419863/3B7B8B28/191727
 http://fortv.cc:8080/chris2/chris2/35254
