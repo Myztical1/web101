@@ -1787,14 +1787,43 @@ http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDge8yy13TiIdgmM3ystb-0/m3u8
 http://megaott.cx:900/1504419863/3B7B8B28/153733
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",BOX NATION UK
 http://megaott.cx:900/1504419863/3B7B8B28/400230319
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT SPORT 1
-http://edge.bz:8080/stesta/stesta/267
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",BT SPORT 2
-http://edge.bz:8080/stesta/stesta/268
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",BT SPORT 3
-http://edge.bz:8080/stesta/stesta/269
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",BT SPORT 4
-http://edge.bz:8080/stesta/stesta/127392
+#EXTINF:-1 xui-id="2484221" tvg-id="BTSport1.uk" tvg-name="BT Sport 1 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 FHD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KPxdeI3c_O9av18iwZqC-qY/m3u8
+#EXTINF:-1 xui-id="2503673" tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 HD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KImECzCYRXmWOR1t26mpbxg/m3u8
+#EXTINF:-1 xui-id="2484211" tvg-id="BTSport1.uk" tvg-name="BT Sport 1 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" group-title="UK BT SPORTS",BT Sport 1 SD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KAWNvqp8gX7BrHO9pni58lg/m3u8
+#EXTINF:-1 xui-id="2484220" tvg-id="BTSport6.uk" tvg-name="BT Sport 10" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-6-uk.png" group-title="UK BT SPORTS",BT Sport 10
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KBoFMu2dJkBVcmwC8Av-9ZY/m3u8
+#EXTINF:-1 xui-id="2484222" tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 FHD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KKi9u17L9IGeNCsFRM8-E04/m3u8
+#EXTINF:-1 xui-id="2503674" tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 HD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KEY1qVEslsZ_UsxXwFYnxrw/m3u8
+#EXTINF:-1 xui-id="2484212" tvg-id="BTSport2.uk" tvg-name="BT Sport 2 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png" group-title="UK BT SPORTS",BT Sport 2 SD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KIoaqPF_IqJ2U9g-j0ftzn0/m3u8
+#EXTINF:-1 xui-id="2484223" tvg-id="BTSport3.uk" tvg-name="BT Sport 3 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 FHD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KBzVfDfZVcJRYBVzIXMvj2M/m3u8
+#EXTINF:-1 xui-id="2503675" tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 HD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KLpf_DroiquUJfCwsivBytY/m3u8
+#EXTINF:-1 xui-id="2484213" tvg-id="BTSport3.uk" tvg-name="BT Sport 3 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png" group-title="UK BT SPORTS",BT Sport 3 SD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDuoO7ImGRGo7e7yMd5ZG5g/m3u8
+#EXTINF:-1 xui-id="2503672" tvg-id="BTSportUltimate.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport 4 HD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KFP_0lzaEJcsre2VBuSm54I/m3u8
+#EXTINF:-1 xui-id="2484214" tvg-id="" tvg-name="BT Sport 4 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport 4 SD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KK7AZeRLuGIDdy1MJLXxmDU/m3u8
+#EXTINF:-1 xui-id="2484224" tvg-id="BTSport4.uk" tvg-name="BT Sport  4 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png" group-title="UK BT SPORTS",BT Sport  4 FHD
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KIXptlxh29MaJufTQxdvrYQ/m3u8
+#EXTINF:-1 xui-id="2484215" tvg-id="BTSport1.uk" tvg-name="BT Sport 5" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-1-uk.png" group-title="UK BT SPORTS",BT Sport 5
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KJLtRPMKSbFsAcGLDlENMbw/m3u8
+#EXTINF:-1 xui-id="2484216" tvg-id="BTSport2.uk" tvg-name="BT Sport 6" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-2-uk.png" group-title="UK BT SPORTS",BT Sport 6
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KFXxKhfiCGdLCSpbrkduEbQ/m3u8
+#EXTINF:-1 xui-id="2484217" tvg-id="BTSport3.uk" tvg-name="BT Sport 7" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-3-uk.png" group-title="UK BT SPORTS",BT Sport 7
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KHEOh6NzpytNjPJe9rQgOlg/m3u8
+#EXTINF:-1 xui-id="2484218" tvg-id="BTSport4.uk" tvg-name="BT Sport 8" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-4-uk.png" group-title="UK BT SPORTS",BT Sport 8
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KD-JSZftE5ZvkbNnxRMNEbk/m3u8
+#EXTINF:-1 xui-id="2484219" tvg-id="BTSport5.uk" tvg-name="BT Sport 9" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-extra-5-uk.png" group-title="UK BT SPORTS",BT Sport 9
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KD1ahqGj6-pPYng8sFnoywI/m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS SPORTS NETWORK HD
 http://ky-iptv.com:80/Harry1975/Harry1975/176607.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i1.wp.com/www.txcable.com/wp-content/uploads/2014/07/sec_network_logo.png",ESPN SEC NETWORK
@@ -1871,6 +1900,10 @@ http://megaott.cx:900/1504419863/3B7B8B28/191686
 http://juvemerda.cb99.jp.net:2052/oXtpMWRA9e/220374/317945
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-DjkjclFC9rc/XzNOnkVAyHI/AAAAAAAAAtk/QZz81WNA5ZEnPs1AiY14BrHKrh6gTOIbQCLcBGAsYHQ/w200-h200/54%2BSny.png",SNY
 http://megaott.cx:900/1504419863/3B7B8B28/155507
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",Eleven 1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png",Eleven Sports 2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV NBA
 http://juvemerda.cb99.jp.net:2052/oXtpMWRA9e/220374/318005
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",SPORT TV 1
