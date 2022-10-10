@@ -1744,6 +1744,20 @@ http://89.187.175.143:80/3065/index.m3u8
 http://89.187.175.143:80/3088/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HD
 http://89.187.175.143:80/3058/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo=https://i.imgur.com/77OXe64.jpg",Real Stories
+https://lds-realstories-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstoriessimplestream/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo=https://i.imgur.com/kwdX93h.jpg",Real Crime
+https://lds-realcrime-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realcrime-simplestream/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo=https://i.imgur.com/GcloVnf.jpg",Real Wild
+https://lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild-simplestream/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo=https://i.imgur.com/A4gwz6d.jpg",Real Life
+https://lds-realfamilies-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-real-families-simplestream/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo=https://i.imgur.com/1rrVdP4.jpg",Timeline
+https://lds-timeline-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-timelinesimplestream/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo=https://i.imgur.com/0JgIMYA.jpg",Wonder
+https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo=https://i.imgur.com/1h9abQi.jpg",Don`t Tell The Bride UK
+https://lds-donttellbride-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-donttellthebride-simplestream/CDN/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/fc93c4557615bcee97ff9fcfa7231f1a.jpg", Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/KLBorkM.png", Travel XP
