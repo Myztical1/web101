@@ -2273,6 +2273,242 @@ http://ys-users.com:8080/live/christa/christa/428303.m3u8
 http://ys-users.com:8080/live/christa/christa/428320.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS RACING
 http://ys-users.com:8080/live/christa/christa/428306.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT1.png",EUROSPORT 1 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153720.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT2.PNG",EUROSPORT 2 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153721.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/LALIGA.PNG",LALIGA TV HD
+http://megaott.cx:900/live/8098058203/C73B946A/191145.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS1.png",PREMIER SPORTS 1 HD
+http://megaott.cx:900/live/8098058203/C73B946A/191694.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS2.png",PREMIER SPORTS 2 HD
+http://megaott.cx:900/live/8098058203/C73B946A/189891.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/FREESPORTS.png",FREESPORTS HD
+http://megaott.cx:900/live/8098058203/C73B946A/13754.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/LFC.png",LFC TV HD
+http://megaott.cx:900/live/8098058203/C73B946A/153731.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BOXNATION.png",BOX NATION HD
+http://megaott.cx:900/live/8098058203/C73B946A/153733.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/MUTV.PNG",MUTV HD
+http://megaott.cx:900/live/8098058203/C73B946A/153729.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPORTYSTUFF.png",SPORTY STUFF TV HD
+http://megaott.cx:900/live/8098058203/C73B946A/82815.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT1.png",EUROSPORT 1 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190459.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT2.PNG",EUROSPORT 2 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190461.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/LALIGA.PNG",LALIGA TV FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190011.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS1.png",PREMIER SPORTS 1 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153723.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS2.png",PREMIER SPORTS 2 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153724.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/FIGHTBOX.png",FIGHT BOX FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153949.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/FREESPORTS.png",FREESPORTS FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153725.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/MUTV.PNG",MUTV FHD
+http://megaott.cx:900/live/8098058203/C73B946A/379018.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/LFC.png",LFC TV FHD
+http://megaott.cx:900/live/8098058203/C73B946A/189985.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/WWENETWOR.PNG",WWE NETWORK FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153736.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPORTYSTUFF.png",SPORTY STUFF TV FHD
+http://megaott.cx:900/live/8098058203/C73B946A/400230320.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BOXNATION.png",BOX NATION FHD
+http://megaott.cx:900/live/8098058203/C73B946A/400230319.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/CELTIC.png",CELTIC TV FHD (LIVE ON MATCHES)
+http://megaott.cx:900/live/8098058203/C73B946A/341321.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",RANGERS TV HD (LIVE ON MATCHES)
+http://megaott.cx:900/live/8098058203/C73B946A/400443042.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/CHELSEA.PNG",CHELSEA TV (LIVE ON MATCHES)
+http://megaott.cx:900/live/8098058203/C73B946A/153730.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT1.png",EUROSPORT 1 SD
+http://megaott.cx:900/live/8098058203/C73B946A/191416.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT2.PNG",EUROSPORT 2 SD
+http://megaott.cx:900/live/8098058203/C73B946A/191417.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/FREESPORTS.png",FREESPORTS SD
+http://megaott.cx:900/live/8098058203/C73B946A/189995.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/LALIGA.PNG",LALIGA TV SD
+http://megaott.cx:900/live/8098058203/C73B946A/153728.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/LFC.png",LFC TV SD
+http://megaott.cx:900/live/8098058203/C73B946A/189986.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/MUTV.PNG",MUTV SD
+http://megaott.cx:900/live/8098058203/C73B946A/191714.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS1.png",PREMIER SPORTS 1 SD
+http://megaott.cx:900/live/8098058203/C73B946A/191268.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS2.png",PREMIER SPORTS 2 SD
+http://megaott.cx:900/live/8098058203/C73B946A/400230325.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BOXNATION.png",BOX NATION SD
+http://megaott.cx:900/live/8098058203/C73B946A/400230324.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPORTYSTUFF.png",SPORTY STUFF TV SD
+http://megaott.cx:900/live/8098058203/C73B946A/82816.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMAINEVENT.png",SKY SPORTS MAIN EVENTS HD
+http://megaott.cx:900/live/8098058203/C73B946A/191674.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSPREMIERLEAGUE.png",SKY SPORTS PREMIER LEAGUE  HD
+http://megaott.cx:900/live/8098058203/C73B946A/191686.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSNEWS.PNG",SKY SPORTS NEWS HD
+http://megaott.cx:900/live/8098058203/C73B946A/191687.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSFOOTBALL.png",SKY SPORTS FOOTBALL HD
+http://megaott.cx:900/live/8098058203/C73B946A/191691.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSCRICKET.png",SKY SPORTS CRICKET HD
+http://megaott.cx:900/live/8098058203/C73B946A/191690.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSGOLF.PNG",SKY SPORTS GOLF HD
+http://megaott.cx:900/live/8098058203/C73B946A/191685.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSARENA.png",SKY SPORTS ARENA HD
+http://megaott.cx:900/live/8098058203/C73B946A/153705.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSNFL.PNG",SKY SPORTS NFL HD
+http://megaott.cx:900/live/8098058203/C73B946A/191689.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMIX.png",SKY SPORTS MIX HD
+http://megaott.cx:900/live/8098058203/C73B946A/189987.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSF1.png",SKY SPORTS F1 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153701.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSRACING.png",SKY SPORTS RACING HD
+http://megaott.cx:900/live/8098058203/C73B946A/191688.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMAINEVENT.png",SKY SPORTS THE LIONS HD
+http://megaott.cx:900/live/8098058203/C73B946A/400230322.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/KOREA/SKYSPORTS.png",SKY BOX OFFICE HD
+http://megaott.cx:900/live/8098058203/C73B946A/2457.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMAINEVENT.png",SKY SPORTS MAIN EVENT FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153691.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSPREMIERLEAGUE.png",SKY SPORTS PREMIER LEAGUE FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153693.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSNEWS.PNG",SKY SPORTS NEWS FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153707.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSFOOTBALL.png",SKY SPORTS FOOTBALL FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153695.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSCRICKET.png",SKY SPORTS CRICKET FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153697.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSGOLF.PNG",SKY SPORTS GOLF FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153699.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSARENA.png",SKY SPORTS ARENA FHD
+http://megaott.cx:900/live/8098058203/C73B946A/191465.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSNFL.PNG",SKY SPORTS NFL FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153703.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMIX.png",SKY SPORTS MIX FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153711.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSF1.png",SKY SPORTS F1 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/191464.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSRACING.png",SKY SPORTS RACING FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153709.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMAINEVENT.png",SKY SPORTS THE LIONS FHD
+http://megaott.cx:900/live/8098058203/C73B946A/400230318.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/KOREA/SKYSPORTS.png",SKY BOX OFFICE FHD
+http://megaott.cx:900/live/8098058203/C73B946A/2454.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/KOREA/SKYSPORTS.png",SKY BOX OFFICE 4k
+http://megaott.cx:900/live/8098058203/C73B946A/2456.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMAINEVENT.png",SKY SPORTS MAIN EVENT SD
+http://megaott.cx:900/live/8098058203/C73B946A/153692.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSPREMIERLEAGUE.png",SKY SPORTS PREMIER LEAGUE SD
+http://megaott.cx:900/live/8098058203/C73B946A/153694.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSNEWS.PNG",SKY SPORTS NEWS SD
+http://megaott.cx:900/live/8098058203/C73B946A/153708.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSFOOTBALL.png",SKY SPORTS FOOTBALL SD
+http://megaott.cx:900/live/8098058203/C73B946A/153696.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSCRICKET.png",SKY SPORTS CRICKET SD
+http://megaott.cx:900/live/8098058203/C73B946A/153698.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSGOLF.PNG",SKY SPORTS GOLF SD
+http://megaott.cx:900/live/8098058203/C73B946A/153700.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSARENA.png",SKY SPORTS ARENA SD
+http://megaott.cx:900/live/8098058203/C73B946A/191117.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSACTION.png",SKY SPORTS ACTION SD
+http://megaott.cx:900/live/8098058203/C73B946A/153704.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMIX.png",SKY SPORTS MIX SD
+http://megaott.cx:900/live/8098058203/C73B946A/153712.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSF1.png",SKY SPORTS F1 SD
+http://megaott.cx:900/live/8098058203/C73B946A/153702.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSRACING.png",SKY SPORTS RACING SD
+http://megaott.cx:900/live/8098058203/C73B946A/153710.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSMAINEVENT.png",SKY SPORTS THE LIONS SD
+http://megaott.cx:900/live/8098058203/C73B946A/400230323.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT1.PNG",BT SPORT 1 HD
+http://megaott.cx:900/live/8098058203/C73B946A/13780.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 1 HD [BK]
+http://megaott.cx:900/live/8098058203/C73B946A/6202.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT2.png",BT SPORT 2 HD
+http://megaott.cx:900/live/8098058203/C73B946A/13779.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 2 HD [BK]
+http://megaott.cx:900/live/8098058203/C73B946A/6203.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT3.png",BT SPORT 3 HD
+http://megaott.cx:900/live/8098058203/C73B946A/13778.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 3 HD [BK]
+http://megaott.cx:900/live/8098058203/C73B946A/6204.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTESPN.png",BT SPORT 4 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153713.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTEXTRA1.png",BT SPORT 05 EXTRA HD
+http://megaott.cx:900/live/8098058203/C73B946A/62800.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTEXTRA2.png",BT SPORT 06 EXTRA HD
+http://megaott.cx:900/live/8098058203/C73B946A/62799.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTEXTRA3.png",BT SPORT 07 EXTRA HD
+http://megaott.cx:900/live/8098058203/C73B946A/62798.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTEXTRA4.png",BT SPORT 08 EXTRA HD
+http://megaott.cx:900/live/8098058203/C73B946A/62797.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTEXTRA5.png",BT SPORT 09 EXTRA HD
+http://megaott.cx:900/live/8098058203/C73B946A/62796.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTEXTRA6.png",BT SPORT 10 EXTRA HD
+http://megaott.cx:900/live/8098058203/C73B946A/62795.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT1.PNG",BT SPORT 1 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153714.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT2.png",BT SPORT 2 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153716.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT3.png",BT SPORT 3 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/153718.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTESPN.png",BT SPORT 4 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/13716.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT1.PNG",BT SPORT 1 SD
+http://megaott.cx:900/live/8098058203/C73B946A/153715.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT2.png",BT SPORT 2 SD
+http://megaott.cx:900/live/8098058203/C73B946A/153717.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT3.png",BT SPORT 3 SD
+http://megaott.cx:900/live/8098058203/C73B946A/153719.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTESPN.png",BT SPORT 4 SD
+http://megaott.cx:900/live/8098058203/C73B946A/13717.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT1.png",ASTRO SUPERSPORT 1 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153953.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT2.png",ASTRO SUPERSPORT 2 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153952.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT3.png",ASTRO SUPERSPORT 3 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153951.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT4.png",ASTRO SUPERSPORT 4 HD
+http://megaott.cx:900/live/8098058203/C73B946A/153950.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT PREMIER LEAGUE FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190004.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT FOOTBALL HD
+http://megaott.cx:900/live/8098058203/C73B946A/190006.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT FOOTBALL PLUS FHD
+http://megaott.cx:900/live/8098058203/C73B946A/400415389.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT LA LIGA FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190005.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT ACTION FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190015.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT BLITZ FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190012.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT CRICKET FHD
+http://megaott.cx:900/live/8098058203/C73B946A/191776.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT GOLF FHD
+http://megaott.cx:900/live/8098058203/C73B946A/191775.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT GRANDSTAND FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190002.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT MAXIMO 1 HD
+http://megaott.cx:900/live/8098058203/C73B946A/191773.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT MOTORSPORT HD
+http://megaott.cx:900/live/8098058203/C73B946A/191772.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT PLAY FHD
+http://megaott.cx:900/live/8098058203/C73B946A/195920.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT PSL FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190003.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT RUGBY FHD
+http://megaott.cx:900/live/8098058203/C73B946A/191771.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT TENNIS FHD
+http://megaott.cx:900/live/8098058203/C73B946A/191770.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 1 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190007.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 2 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190008.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 3 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190009.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 4 FHD
+http://megaott.cx:900/live/8098058203/C73B946A/190010.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/a2bceb39_D0CF72b/posters/435a211b6a30f702b51ae3ab252b85dd/435a211b6a30f702b51ae3ab252b85dd.png",Pac-12 Insider
 https://pac12-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/c550bde9_D0CF72b/posters/ead74bb8c65dd6d46a6316a9640a1637/ead74bb8c65dd6d46a6316a9640a1637.jpg",Campuslore
