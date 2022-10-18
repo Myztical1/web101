@@ -2853,83 +2853,83 @@ http://edge.bz:8080/007/007/125390
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO REGGAETON & TRAP
 http://edge.bz:8080/007/007/125396
 
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",American_Baseball_Association
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",American_Baseball_Association
 https://hls.showfer.com/stream/631ac7ed2f4a212048bc2e47/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Baseball_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Baseball_TV
 https://hls.showfer.com/stream/62e3e3ffeee46583d763d7f0/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iSports_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iSports_TV
 https://hls.showfer.com/stream/62dc3168d090f36fc5ab16cf/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iRoller_Blade_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iRoller_Blade_TV
 https://hls.showfer.com/stream/6306dad3eee46583d76782d1/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Holr_Sports
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Holr_Sports
 https://hls.showfer.com/stream/62f14e73eee46583d7653a0e/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Hard_Knocks
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Hard_Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-AiryTV/121.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Ski_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Ski_TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-AiryTV/193.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Allied_Esports
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Allied_Esports
 https://d1lvmtqnqngsrn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AlliedESports-SportsTribal/213.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",World_Poker_Tour
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",World_Poker_Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-AiryTV/120.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",ASTV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",ASTV
 https://hls.showfer.com/stream/63000cfdeee46583d7672c27/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Poker_Night
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Poker_Night
 https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-AiryTV/216.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Fight_Network
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Fight_Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Fishing_Offshore
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Fishing_Offshore
 https://30a-tv.com/feeds/airytv/fishingoffshore.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",TV_Max_1
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",TV_Max_1
 https://hls.showfer.com/stream/633b024b130f0b717dca9092/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",WBQP_Florida
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",WBQP_Florida
 https://live-mcl.cdn01.net/web/o2a2f283v/playlist.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",TV_Nuts
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",TV_Nuts
 https://hls.showfer.com/stream/631a367f2f4a212048bbed05/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",The_Boomer_Channel
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",The_Boomer_Channel
 https://hls.showfer.com/stream/6311234beee46583d7696818/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iHolyfield_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iHolyfield_TV
 https://hls.showfer.com/stream/62c63bb3d090f36fc5aa4bf1/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iCowboy_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iCowboy_TV
 https://hls.showfer.com/stream/62d503bcd090f36fc5aacc56/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Comfy_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Comfy_TV
 https://hls.showfer.com/stream/62bc9ba7b49157d5c4f34e7f/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iSCIFI_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iSCIFI_TV
 https://hls.showfer.com/stream/62ec3b2feee46583d764a35d/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Movie_Max_1
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Movie_Max_1
 https://hls.showfer.com/stream/62b4c591ea1443c3a46902f2/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Movie_Giants
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Movie_Giants
 https://hls.showfer.com/stream/62e229f2eee46583d7637803/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Galaxy_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Galaxy_TV
 https://hls.showfer.com/stream/631a41ef2f4a212048bbedc2/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",APTV_Live
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",APTV_Live
 https://hls.airy.tv/stream/49/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",MomCaveTV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",MomCaveTV
 https://hls.showfer.com/stream/6324b7a33b49ae85c5cba873/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Thought_Network_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Thought_Network_TV
 https://hls.showfer.com/stream/62e92c80eee46583d7646fe6/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iShe_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",iShe_TV
 https://hls.showfer.com/stream/62cb2ee6d090f36fc5aa6810/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Airy_Fitness
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Airy_Fitness
 https://hls.showfer.com/stream/62fe4b39eee46583d766c0b1/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Dr_Diaries_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Dr_Diaries_TV
 https://hls.showfer.com/stream/62fe829deee46583d766cf1b/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Sidewalks_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Sidewalks_TV
 https://30a-tv.com/feeds/airytv/sidewalks.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",AXS_TV_Now
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",AXS_TV_Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",ThailandTV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",ThailandTV
 https://hls.airy.tv/stream/33/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",The_Beach_Show
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",The_Beach_Show
 https://30a-tv.com/feeds/airytv/beachshow.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",30A_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",30A_TV
 https://30a-tv.com/feeds/airytv/30atv.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",My_Jam_Music_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",My_Jam_Music_TV
 https://hls.showfer.com/stream/62fe6a9feee46583d766c18b/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Winnies_World_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Winnies_World_TV
 https://hls.showfer.com/stream/62c9f22bd090f36fc5aa5fd4/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Real_Family_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Real_Family_TV
 https://hls.showfer.com/stream/62e077d7eee46583d763465f/airy.m3u8
-#EXTINF:-1 group-title="AIRYTV" tvg-logo=https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Youth_Success_TV
+#EXTINF:-1 group-title="AIRYTV" tvg-logo="https://data.apksum.com/49/com.airytv.android/screenhost/2.jpg",Youth_Success_TV
 https://hls.showfer.com/stream/62f068c6eee46583d764f7f6/airy.m3u8
 
 #EXTINF:-1 group-title="MOVIE TIME" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/8f/9f/0e8f9f5a-dee8-5010-b634-8f6e3dc913ae/source/512x512bb.jpg",CINEBOX: ANIMATION
