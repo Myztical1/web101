@@ -2637,6 +2637,64 @@ http://247iptv.org:5454/live/Gwendolyn/Gwendolyn/2323.m3u8
 http://247iptv.org:5454/live/Gwendolyn/Gwendolyn/2324.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://247tvstream.net/chlogo/sky_sports/skysportsracing.png",UK: SKY SPORTS RACING
 http://247iptv.org:5454/live/Gwendolyn/Gwendolyn/2325.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 1 HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/3037.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 1 FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/663.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 2 HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/12127.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 2 FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/664.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 3 HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/12186.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 3 FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/665.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 4 HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/20735.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Fba22sd.png",BT SPORT 4 FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1689.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS NEWS FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1163.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ijihf1R.png",SKY SPORTS MAIN EVENT HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/10163.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ijihf1R.png",SKY SPORTS MAIN EVENTS FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/17774.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS FOOTBALL HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/2375.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS FOOTBALL FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/670.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS F1 HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/41315.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS F1 FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/666.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS CRICKET HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/61496.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS CRICKET FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/667.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo=",SKY SPORTS GOLF HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/2377.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo=",SKY SPORTS GOLF FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/2393.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS ARENA FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/668.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo=",SKY SPORTS ACTION FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/69102.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS MIX FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/669.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",PREMIER SPORTS FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1428.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo=",PREMIER SPORTS 2 FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1273.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORT PL HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/61561.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORT PL FHD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1466.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.imgur.com/MNX6Be8.png",EUROSPORT 1 HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1741.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.imgur.com/tENUR8u.png",EUROSPORT 2 HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1944.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/xpTzMnm.png",BoxNation HD
+http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/2213.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/a2bceb39_D0CF72b/posters/435a211b6a30f702b51ae3ab252b85dd/435a211b6a30f702b51ae3ab252b85dd.png",Pac-12 Insider
 https://pac12-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/c550bde9_D0CF72b/posters/ead74bb8c65dd6d46a6316a9640a1637/ead74bb8c65dd6d46a6316a9640a1637.jpg",Campuslore
