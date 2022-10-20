@@ -3449,6 +3449,22 @@ https://tv4.live/api/stream/citi/citi/movie/tt11245972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/17/d1172e00097fa60770be9d6a4e6540cb/d1172e00097fa60770be9d6a4e6540cb.jpg",Last Seen Alive (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt10242388
 
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 1
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KJhyvxpxt-lj_1e2zFG82xs/m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 2
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KBG60KbPrYRgB2PR9tgCwLw/m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 3
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KHl5H2qROhoChBxdspIjZEs/m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 4
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDBaHx9v349r5aFhEOdSfvA/m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 5
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KFxP0v4dfXJJ01gVAkXuK-E/m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 6
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KBY2tFZC0r_m9UWM_rDTHB8/m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 7
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KAgafnqGqwpC9oIGuhxQuAo/m3u8
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 8
+http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KMD3IvjMlFLU2U5SKZMAMis/m3u8
 #EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://i.imgur.com/hlIDlD1.jpg",The Greatest Gift Ever Given  
 https://live-content.xumo.com/1837/content/XM0YNW9RGMTJZF/22526143/master.m3u8
 #EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM08F4QXES68A1/600x340.jpg",The Christmas Candle
