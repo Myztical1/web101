@@ -264,8 +264,6 @@ http://etc12.xyz/1504419863/989B9DC5/187372
 http://etc12.xyz/1504419863/989B9DC5/400280894
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
 http://etc12.xyz/1504419863/989B9DC5/400318022
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",STAR WORLD HD
-http://103.179.246.243:8000/play/a00b
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
@@ -297,7 +295,7 @@ http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KISbVHjkP-3p9MpSn1NfxCE/m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/5starmax.png",Cinemax 5StarMax East
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDtgiw7uUsUGhiK8GaiiSG8/m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/5starmax.png",Cinemax 5StarMax West
-http://edge.bz:8080/live/jeanb/jeanb/100443.m3u8
+http://edge.bz:8080/live/007/007/100443.m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/actionmax.png",Cinemax ActionMax East
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KPBRyQces6JumJjY2Oazl8g/m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/actionmax.png",Cinemax ActionMax West
@@ -309,7 +307,7 @@ http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KJon69dqrLce9orqYcnYrcc/m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/moviemax.png",Cinemax Moviemax East
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KJ_Krd0hfXcUVX4-LMDszTQ/m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/moviemax.png",Cinemax Moviemax West
-http://edge.bz:8080/live/jeanb/jeanb/100442.m3u8
+http://edge.bz:8080/live/007/007/100442.m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/outermax.png",Cinemax OuterMax
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KC5Z-PplRxM_jT6rVXLNUrQ/m3u8
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/thrillermax.png",Cinemax ThrillerMax East
@@ -542,7 +540,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MGM.us.png",MGM
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KEubQEhCnLXdF9LxmmNjef8/m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fuse-us.png",FUSE
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/fuse.png",FUSE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",TV ONE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
@@ -591,7 +589,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1920px-TruTV_2014.svg.png",TRUTV
 http://gtv01.airlinktt.co/live/smil:TRUTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",COOKING CHANNEL
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/cooking.png",COOKING CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
@@ -629,6 +627,25 @@ http://89.187.175.143:80/3102/index.m3u8
 http://fortv.cc:8080/chris2/chris2/17778
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (West)
 http://edge.bz:8080/007/007/56056
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (East)
+http://89.187.175.143:80/3035/index.m3u8
+http://fortv.cc:8080/chris2/chris2/9299
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (West)
+http://fortv.cc:8080/chris2/chris2/21091
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY
+http://89.187.175.143:80/3041/index.m3u8
+http://edge.bz:8080/007/007/848
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY (WEST)
+http://edge.bz:8080/007/007/56061
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (East)
+http://89.187.175.143:80/3103/index.m3u8
+http://fortv.cc:8080/chris2/chris2/17775
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (West)
+http://edge.bz:8080/007/007/56060
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (East)
+http://fortv.cc:8080/chris2/chris2/17779
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (West)
+http://edge.bz:8080/007/007/56070
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (East)
 http://89.187.175.143:80/3043/index.m3u8
 http://edge.bz:8080/007/007/1056
@@ -666,25 +683,6 @@ http://edge.bz:8080/007/007/56067
 http://edge.bz:8080/007/007/3277
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense (West)
 http://edge.bz:8080/007/007/56068
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (East)
-http://89.187.175.143:80/3035/index.m3u8
-http://fortv.cc:8080/chris2/chris2/9299
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (West)
-http://fortv.cc:8080/chris2/chris2/21091
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY
-http://89.187.175.143:80/3041/index.m3u8
-http://edge.bz:8080/007/007/848
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY (WEST)
-http://edge.bz:8080/007/007/56061
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (East)
-http://89.187.175.143:80/3103/index.m3u8
-http://fortv.cc:8080/chris2/chris2/17775
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (West)
-http://edge.bz:8080/007/007/56060
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzinblkhd_2016_vert_wh_rgb.jpg",Starz in Black (East)
-http://fortv.cc:8080/chris2/chris2/17779
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzinblkhd_2016_vert_wh_rgb.jpg",Starz in Black (West)
-http://edge.bz:8080/007/007/56070
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA ACTION
 http://etc12.xyz/1504419863/989B9DC5/191727
 http://fortv.cc:8080/chris2/chris2/35254
@@ -1530,7 +1528,7 @@ http://gtv01.airlinktt.co/live/smil:PBS_KIDS.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.cartoonnetwork.com/cartoonito/static/cnito-logo.png",CARTOONITO HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-family-us.png",Discovery Family
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/2f/fc/c5/2ffcc5f2decfce38dae51fdb6c057f7b.jpg",Discovery Family
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISCOVERY_FAMILY.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png",DISCOVERY KIDS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
@@ -1832,29 +1830,29 @@ http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDge8yy13TiIdgmM3ystb-0/m3u8
 http://etc12.xyz/1504419863/989B9DC5/153733
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",BOX NATION UK
 http://etc12.xyz/1504419863/989B9DC5/400230319
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png",BT Sport 1 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport1_uk.png",BT Sport 1 FHD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KPxdeI3c_O9av18iwZqC-qY/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png",BT Sport 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport1_uk.png",BT Sport 1 HD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KImECzCYRXmWOR1t26mpbxg/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png",BT Sport 1 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport1_uk.png",BT Sport 1 SD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KAWNvqp8gX7BrHO9pni58lg/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png",BT Sport 2 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport2_uk.png",BT Sport 2 FHD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KKi9u17L9IGeNCsFRM8-E04/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png",BT Sport 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport2_uk.png",BT Sport 2 HD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KEY1qVEslsZ_UsxXwFYnxrw/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-2-uk.png",BT Sport 2 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport2_uk.png",BT Sport 2 SD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KIoaqPF_IqJ2U9g-j0ftzn0/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png",BT Sport 3 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport3_uk.png",BT Sport 3 FHD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KBzVfDfZVcJRYBVzIXMvj2M/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png",BT Sport 3 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport3_uk.png",BT Sport 3 HD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KLpf_DroiquUJfCwsivBytY/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-3-uk.png",BT Sport 3 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport3_uk.png",BT Sport 3 SD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDuoO7ImGRGo7e7yMd5ZG5g/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png",BT Sport  4 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT Sport  4 FHD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KIXptlxh29MaJufTQxdvrYQ/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png",BT Sport 4 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT Sport 4 HD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KFP_0lzaEJcsre2VBuSm54I/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-espn-uk.png",BT Sport 4 SD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT Sport 4 SD
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KK7AZeRLuGIDdy1MJLXxmDU/m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS SPORTS NETWORK HD
 http://ky-iptv.com:80/Harry1975/Harry1975/176607.ts
@@ -1884,7 +1882,7 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.heartlandwaterfowl.com/wp-content/uploads/2019/01/SPMN_logo_Red.png",SPORTSMAN
 http://ky-iptv.com:80/Harry1975/Harry1975/220444.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",MLB NETWORK HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/mlb-network.png",MLB NETWORK HD
 http://ky-iptv.com:80/live/Harry1975/Harry1975/176144.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png",MSG
 http://ky-iptv.com:80/live/Harry1975/Harry1975/220421.ts
@@ -1894,7 +1892,7 @@ http://ky-iptv.com:80/live/Harry1975/Harry1975/220422.ts
 http://edge.bz:8080/stesta/stesta/246
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL NETWORK
 http://ky-iptv.com:80/live/Harry1975/Harry1975/220464.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",Olympic Channel
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://worldscreen.com/wp-content/uploads/2019/02/Olympic_Channel_logo-0219.jpg",Olympic Channel
 http://ky-iptv.com:80/live/Harry1975/Harry1975/220440.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.emojiterra.com/google/android-nougat/512px/26f3.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -1980,7 +1978,7 @@ http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports
 http://extraott-iptv.com:900/4988707176/3601266280/17853
 http://extraott-iptv.com:900/4988707176/3601266280/17819
-#EXTINF:-1  group-title="Sports" tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg",PTV Sports 2
+#EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports 2
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/490
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/k4Bypxb/SonySix.jpg", Sony SIX HD
 http://extraott-iptv.com:900/4988707176/3601266280/378746
@@ -2024,7 +2022,7 @@ http://89.187.175.143:80/3044/index.m3u8
 http://89.187.175.143:80/3054/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo-1024x512.jpg",ALTITUDE SPORTS
 http://89.187.175.143:80/4164/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",MLB NETWORK HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/mlb-network.png",MLB NETWORK HD
 http://89.187.175.143:80/3003/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/middle/153-1539678_nfl-network-logo-png-clipart.png",NFL HD
 http://89.187.175.143:80/3190/index.m3u8
@@ -2076,7 +2074,7 @@ http://reaperhosting.club:8080/jeavo/qudojpek/574883
 http://reaperhosting.club:8080/jeavo/qudojpek/574882
 #EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsport3_uk.png",BT Sports 3 (1080) Backup
 http://reaperhosting.club:8080/jeavo/qudojpek/574881
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-4-uk.png?raw=true",BT Sports 4 SD
+#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT Sports 4 SD
 http://reaperhosting.club:8080/jeavo/qudojpek/574880
 #EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT Sports 4 HD
 http://reaperhosting.club:8080/jeavo/qudojpek/574879
@@ -2130,7 +2128,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extens
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98781
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11658&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53980
 #EXTINF:-1 group-title="SPORTS " tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN Sports 1 US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1501
@@ -2206,7 +2204,7 @@ http://ys-users.com:8080/live/christa/christa/428240.m3u8
 http://ys-users.com:8080/live/christa/christa/428243.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png",BT SPORT BOX OFFICE (Live On Events Only)
 http://ys-users.com:8080/live/christa/christa/428249.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngkey.com/png/full/32-326427_bt-sport-espn-bt-sport-espn-hd.png",BT SPORT 4 (ESPN)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT SPORT 4 (ESPN)
 http://ys-users.com:8080/live/christa/christa/428246.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png",Eurosport 1
 http://ys-users.com:8080/live/christa/christa/428251.m3u8
@@ -2214,7 +2212,7 @@ http://ys-users.com:8080/live/christa/christa/428251.m3u8
 http://ys-users.com:8080/live/christa/christa/428253.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo-light.png",FreeSports
 http://ys-users.com:8080/live/christa/christa/428255.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2018/09/GINX-Esports-TV.jpg",Ginx eSports TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://esports-news.co.uk/wp-content/uploads/2016/06/ginx-esports-tv-1.jpg",Ginx eSports TV
 http://ys-users.com:8080/live/christa/christa/428257.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png",LFC TV
 http://ys-users.com:8080/live/christa/christa/428259.m3u8
@@ -2312,7 +2310,7 @@ http://megaott.cx:900/live/8098058203/C73B946A/400230320.m3u8
 http://megaott.cx:900/live/8098058203/C73B946A/400230319.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/CELTIC.png",CELTIC TV FHD (LIVE ON MATCHES)
 http://megaott.cx:900/live/8098058203/C73B946A/341321.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",RANGERS TV HD (LIVE ON MATCHES)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/b6/d1/ccb6d147-8ac1-022a-735b-03a0cf92c629/source/200x200bb.jpg",RANGERS TV HD (LIVE ON MATCHES)
 http://megaott.cx:900/live/8098058203/C73B946A/400443042.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/CHELSEA.PNG",CHELSEA TV (LIVE ON MATCHES)
 http://megaott.cx:900/live/8098058203/C73B946A/153730.m3u8
@@ -2416,15 +2414,15 @@ http://megaott.cx:900/live/8098058203/C73B946A/153710.m3u8
 http://megaott.cx:900/live/8098058203/C73B946A/400230323.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT1.PNG",BT SPORT 1 HD
 http://megaott.cx:900/live/8098058203/C73B946A/13780.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 1 HD [BK]
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT1.PNG",BT SPORT 1 HD [BK]
 http://megaott.cx:900/live/8098058203/C73B946A/6202.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT2.png",BT SPORT 2 HD
 http://megaott.cx:900/live/8098058203/C73B946A/13779.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 2 HD [BK]
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT2.png",BT SPORT 2 HD [BK]
 http://megaott.cx:900/live/8098058203/C73B946A/6203.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT3.png",BT SPORT 3 HD
 http://megaott.cx:900/live/8098058203/C73B946A/13778.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 3 HD [BK]
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORT3.png",BT SPORT 3 HD [BK]
 http://megaott.cx:900/live/8098058203/C73B946A/6204.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/BTSPORTESPN.png",BT SPORT 4 HD
 http://megaott.cx:900/live/8098058203/C73B946A/153713.m3u8
@@ -2652,19 +2650,19 @@ http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/666.m3u8
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/61496.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS CRICKET FHD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/667.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo=",SKY SPORTS GOLF HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS GOLF HD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/2377.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo=",SKY SPORTS GOLF FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS GOLF FHD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/2393.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS ARENA FHD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/668.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo=",SKY SPORTS ACTION FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS ACTION FHD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/69102.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORTS MIX FHD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/669.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",PREMIER SPORTS FHD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1428.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo=",PREMIER SPORTS 2 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",PREMIER SPORTS 2 FHD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/1273.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jQKryyD.png",SKY SPORT PL HD
 http://www.stvpower.com:2103/live/jeanjacque55/thomas5599/61561.m3u8
@@ -3449,22 +3447,6 @@ https://tv4.live/api/stream/citi/citi/movie/tt11245972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/17/d1172e00097fa60770be9d6a4e6540cb/d1172e00097fa60770be9d6a4e6540cb.jpg",Last Seen Alive (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt10242388
 
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 1
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KJhyvxpxt-lj_1e2zFG82xs/m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 2
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KBG60KbPrYRgB2PR9tgCwLw/m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 3
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KHl5H2qROhoChBxdspIjZEs/m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 4
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDBaHx9v349r5aFhEOdSfvA/m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 5
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KFxP0v4dfXJJ01gVAkXuK-E/m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 6
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KBY2tFZC0r_m9UWM_rDTHB8/m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 7
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KAgafnqGqwpC9oIGuhxQuAo/m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://www.betterthanpants.com/media/catalog/product/t/h/this-is-my-hallmark-christmas-movies-watching-shirt-large.png",Best Christmas Movies 8
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KMD3IvjMlFLU2U5SKZMAMis/m3u8
 #EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://i.imgur.com/hlIDlD1.jpg",The Greatest Gift Ever Given  
 https://live-content.xumo.com/1837/content/XM0YNW9RGMTJZF/22526143/master.m3u8
 #EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM08F4QXES68A1/600x340.jpg",The Christmas Candle
