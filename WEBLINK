@@ -793,6 +793,24 @@ http://89.187.175.143:80/3099/index.m3u8
 http://89.187.175.143:80/3114/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",ABC HD
 http://89.187.175.143:80/3055/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/VFActionHD.png",VIASAT FILM ACTION
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98140.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/VFilm_Family.png",VIASAT FILM FAMILLY
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98141.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/VFilm_Hits_HD.png",VIASAT FILM HITS
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98142.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Film_Premiere_HD.png",VIASAT FILM PREMIERA
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98143.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Series_HD.png",VIASAT SERIES
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98144.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/C_More_First.png",C MORE FIRST HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98150.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/C_More_Hits.png",C MORE HITS HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98151.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/C_More_Series.png",C MORE SERIES HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98152.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/C_More_Stars.png",C MORE STARS HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98153.m3u8
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",USA A&E UHD
 http://ky-iptv.com:80/nas21/nas21/175784.m3u8
@@ -2748,6 +2766,38 @@ https://glxlmn026c.singularcdn.net.br:443/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br:443/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br:443/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/C_More_Fotboll_HD.png",C MORE FOTBOLL HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98157.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Sport_Extra_HD.png",VIASAT SPORT EXTRA HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98158.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://digitalt.tv/wp-content/uploads/2016/08/Viasat-Ultra-HD-logo-300.jpg",VIASAT SPORT ULTRA HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/189855.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/C_More_Golf_HD.png",C MORE GOLF FHD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98159.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/C_More_Hockey_HD.png",C MORE HOCKEY HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98160.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Eurosport_1.png",EUROSPORT 1 UHD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98161.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Eurosport_2.png",EUROSPORT 2 UHD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98162.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Fotboll_HD.png",VIASAT FOTBOLL HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98163.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Golf_HD.png",VIASAT GOLF
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98164.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Hockey_HD.png",VIASAT HOCKEY HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98165.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Motor_HD.png",VIASAT MOTOR HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98166.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Sport_HD.png",VIASAT SPORT HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98167.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Viasat_Sport_Premium_HD.png",VIASAT SPORT PREMIUM HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98168.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/V_sport_ultra_HD.png",VIASAT ULTRA HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98169.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/Sportkanalen_HD.png",SPORT KANALEN HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98170.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.strivesportschiro.com.au/wp-content/uploads/2020/05/Strive-Blue-Black.png",STRIVE SPORT 1 FHD  (Live During Events Only)
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98171.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
 http://89.187.175.143:80/3080/index.m3u8
