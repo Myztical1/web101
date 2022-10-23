@@ -3178,7 +3178,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/3026.m3u8
 #EXTINF:-1 group-title="MOVIE TIME" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/06/Cinema-Transparent.png",Cinema Disney Family HD
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/3027.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/15/1b/151b961f5343bebb7f434f3060079d97/151b961f5343bebb7f434f3060079d97.jpg",Black Adam CAM (2022)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/15/1b/151b961f5343bebb7f434f3060079d97/151b961f5343bebb7f434f3060079d97.jpg",Black Adam (2022)
 https://c-4.dokicloud.one/_v8/5ca0cda07912f3fe7f67ef24343fe50b845c73706237b7b6667a697689144fc346bfe907614fb5bd0d6da224c77818469124743ab3762b3f815b172b75784397ff02102781f4b888b70ea831b29247bfaa281f7ad56a5f7daba77500c06fcf5827fba2bfa0fa07f36dd6d4c205a881245ec7b6e42744638c4bdd38cb9f71fcb8/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/f2/b6/f2b655c507ddfd453691cf5dbd75b9a3/f2b655c507ddfd453691cf5dbd75b9a3.jpg",Operation Seawolf (2022)
 https://e-7.dokicloud.one/_v8/a6ba3f8e69eebb8d01686de9e4546c6fc66698474c8bfef26041bcb917b5cc492c96ec92afa71d7ceefd52d4a0ae184e2cb2a1c2170aa1daaa7b89eb9876fc3f5aebcee5589945c69420b2425527e4bc5485e6e878956f8046e047cf2c2f9c19b871a332fd65f8bb65105f4d4ac6d99ddf44ccfd68fc81b4034d40113acb3593/720/index.m3u8
@@ -3186,6 +3186,24 @@ https://e-7.dokicloud.one/_v8/a6ba3f8e69eebb8d01686de9e4546c6fc66698474c8bfef260
 https://e-6.dokicloud.one/_v8/038690f559cb444de1a29b3f218c014af2eab8889ec017d6e0869fbd6cf12aec170cccad8cd781cc89517eea472825900ae6498a3912027ce8c22623ee5e31dcc0e905464a973c7196c1c05548578b5a4fac729ea1004c0a35e95e4af012af2652f8d8ce37a4548763c7450b6632b1e050f32879f605d10bfed7676ac7f6764d/720/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/35/f4/35f404f859a7bb7840662592278cbb8f/35f404f859a7bb7840662592278cbb8f.jpg",Dangerous Game: The Legacy Murders (2022)
 https://e-10.dokicloud.one/_v8/c7ce523837d23efe2e5c2618046afa602d0047b8be768e00bafd99c3a3979edf1dd0e6ac93219fe1700dde4621c3a72b982d69780e8d1a9b45ade368137ba6e60e7691e752330655745f2f6da6ede853c857e4a8298b3a27610d9758404e5311d67561227beed79dd87165cbbd15070e5612ab6446ac674ccb23c91c04a98d94/720/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/92/19/921937f860ce4ff635afa632383da2bd/921937f860ce4ff635afa632383da2bd.jpg",Terrifier 2 (2022)
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Terrifier.2.2022.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/9d/38/9d3892cfc42ef0acfbb933ef1614d07d/9d3892cfc42ef0acfbb933ef1614d07d.jpg",Slayers (2022)
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Slayers.2022.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/30/b4/30b430c1885780dcf88d1a2a1579a1d4/30b430c1885780dcf88d1a2a1579a1d4.jpg",The Retaliators (2022)
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Retaliators.2021.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/df/82/df82f53c1cc2efed12fdc26f06ed963a/df82f53c1cc2efed12fdc26f06ed963a.jpg",Old Man (2022)
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Old.Man.2022.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/54/24/54247ea5d902ac862fa00e1491194c0e/54247ea5d902ac862fa00e1491194c0e.jpg",Accident Man: Hitman's Holiday (2022)
+https://c-2.dokicloud.one/_v8/25a9231ac0f6941d97557183e20d6143ec024793793b18fb9ae85076adc2a2ccf5dc97ca1600e3a9f74292edce651e581b10bd69874e29ecbdf80ede5b4a71dc286fb915d5020f4301b88c464253e4f572b7130181d2064543b8ea135744ed1ffe18cda472db0a1f172c53c4b092a16e0db7159dc601533e4a53805920f7e744/720/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/ea/ac/eaaca70adbab9f30d39bef9cb0ed6f1d/eaaca70adbab9f30d39bef9cb0ed6f1d.jpg",Where Are You (2022)
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Where.Are.You.2021.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/a4/72/a472b5043aa69c3f26d0365bb17a2ffd/a472b5043aa69c3f26d0365bb17a2ffd.jpg",The Domestic (2022)
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Domestic.2022.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/5a/0d/5a0d73b9775e161a46a8c0036e4fbebb/5a0d73b9775e161a46a8c0036e4fbebb.jpg",Halloween Ends (2022)
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Halloween.Ends.2022.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/a4/db/a4dbf14f4e69500f4fe1df43ae3f2400/a4dbf14f4e69500f4fe1df43ae3f2400.jpg",The Infernal Machine 2022
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Infernal.Machine.2022.1080p.iptvtalk.mp4/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/56/0d/560d580e39db5ea4b9e856cd29d521de/560d580e39db5ea4b9e856cd29d521de.jpg",I Came By (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt15083184
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/01/de/01deebf1ee3318c7a20554fe73cd1434/01deebf1ee3318c7a20554fe73cd1434.jpg",Inside the Mind of a Cat (2022)
