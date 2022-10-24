@@ -288,6 +288,44 @@ https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",3ABN Kids Network
 https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png",STAR PLUS HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100798.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png",STAR PLUS
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100799.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_GOLD_HD.png",STAR GOLD HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100800.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_GOLD_HD.png",STAR GOLD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100801.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/UTSAV_BHARAT.png",STAR BHARAT
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100802.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/ZEE_A.png",ZEE TV
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100803.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Zee_Cinema_HD_IN.png",ZEE CINEMA HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100804.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Zee_Cinema_IN.png",ZEE CINEMA
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100805.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/SET_Max_IN.png",SONY MAX HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100808.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/SET_Max_IN.png",SONY MAX
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100809.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Sony_Max_2_IN.png",SONY MAX 2
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100810.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS.png",COLORS
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100811.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/COLORS_HD.png",COLORS HD
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100812.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/SAB_TV_IN.png",SONY SAB
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100813.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Colors_Rishtey_IN.png",COLORS RISHTEY TV
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100814.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Colors_Cineplex_IN.png",COLORS CINEPLEX
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100815.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/B4U_Movies_IN.png",B4U MOVIES
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100816.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/B4U_Music_IN.png",B4U MUSIC
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100817.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/B4U_Music_IN.png",B4U PLUS
+http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/100818.m3u8
 
 #EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/cinemax.png",Cinemax East
 http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KDfWA4K_8zhYO8VZgbZBuDs/m3u8
