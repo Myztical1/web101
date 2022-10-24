@@ -19,227 +19,227 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
-http://ip365.cx:900/8279091393/1687445016/76411.m3u8
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000.m3u8
+http://ip365.cx:900/8279091393/1687445016/76411
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnc3.car.m3u8
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnc3.car
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-http://ip365.cx:900/8279091393/1687445016/195830.m3u8
+http://ip365.cx:900/8279091393/1687445016/195830
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
-https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ttt.car.m3u8
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ttt.car
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
-http://ip365.cx:900/8279091393/1687445016/400200042.m3u8
+http://ip365.cx:900/8279091393/1687445016/400200042
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ccn.tv6.tt.car.m3u8
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ccn.tv6.tt.car
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-http://ip365.cx:900/8279091393/1687445016/268269.m3u8
+http://ip365.cx:900/8279091393/1687445016/268269
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE HD
-http://ip365.cx:900/8279091393/1687445016/76415.m3u8
+http://ip365.cx:900/8279091393/1687445016/76415
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SYNERGY.png",SYNERGY HD
-http://ip365.cx:900/8279091393/1687445016/400208904.m3u8
+http://ip365.cx:900/8279091393/1687445016/400208904
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO HD
-http://ip365.cx:900/8279091393/1687445016/76411.m3u8
+http://ip365.cx:900/8279091393/1687445016/76411
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN TRINIDAD SD
-http://ip365.cx:900/8279091393/1687445016/195893.m3u8
+http://ip365.cx:900/8279091393/1687445016/195893
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TENTV.png",TEN TV HD
-http://ip365.cx:900/8279091393/1687445016/400200044.m3u8
+http://ip365.cx:900/8279091393/1687445016/400200044
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/WINTV.png",WIN TV HD
-http://ip365.cx:900/8279091393/1687445016/376159.m3u8
+http://ip365.cx:900/8279091393/1687445016/376159
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209578_jaagriti-tv.png",TV JAAGRITI SD
-http://ip365.cx:900/8279091393/1687445016/76409.m3u8
+http://ip365.cx:900/8279091393/1687445016/76409
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209572_trinity-tv.png",TRINITY SD
-http://ip365.cx:900/8279091393/1687445016/76410.m3u8
+http://ip365.cx:900/8279091393/1687445016/76410
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209654_sankeyah-tv.jpeg",SANKHYA TV HD
-http://ip365.cx:900/8279091393/1687445016/710920.m3u8
+http://ip365.cx:900/8279091393/1687445016/710920
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/10/Watch-ieTV-Channel-1-Live-TV-from-Trinidad-and-Tobago.jpg",IETV HFD
-http://ip365.cx:900/8279091393/1687445016/76413.m3u8
+http://ip365.cx:900/8279091393/1687445016/76413
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209569_ibn.png",IBN HD
-http://ip365.cx:900/8279091393/1687445016/76414.m3u8
+http://ip365.cx:900/8279091393/1687445016/76414
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOCARIBBEAN.png",HBO CARIBBEAN FHD
-http://ip365.cx:900/8279091393/1687445016/195843.m3u8
+http://ip365.cx:900/8279091393/1687445016/195843
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOPLUS.png",HBO PLUS HD
-http://ip365.cx:900/8279091393/1687445016/376189.m3u8
+http://ip365.cx:900/8279091393/1687445016/376189
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOFAMILY.png",HBO FAMILY FHD
-http://ip365.cx:900/8279091393/1687445016/376188.m3u8
+http://ip365.cx:900/8279091393/1687445016/376188
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOSIGNATURE.png",HBO SIGNATURE HD
-http://ip365.cx:900/8279091393/1687445016/376187.m3u8
+http://ip365.cx:900/8279091393/1687445016/376187
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOEAST.png",HBO EAST HD
-http://ip365.cx:900/8279091393/1687445016/376186.m3u8
+http://ip365.cx:900/8279091393/1687445016/376186
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOWEST.png",HBO WEST HD
-http://ip365.cx:900/8279091393/1687445016/376185.m3u8
+http://ip365.cx:900/8279091393/1687445016/376185
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBO2.png",HBO 2 HD
-http://ip365.cx:900/8279091393/1687445016/376184.m3u8
+http://ip365.cx:900/8279091393/1687445016/376184
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CALAACTION.png",CALA ACTION HD
-http://ip365.cx:900/8279091393/1687445016/400318027.m3u8
+http://ip365.cx:900/8279091393/1687445016/400318027
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/fa3559f1-a31b-456c-b07b-a0d6822c53e9/calawestern_home.png",CALA WESTERN FHD
-http://ip365.cx:900/8279091393/1687445016/76416.m3u8
+http://ip365.cx:900/8279091393/1687445016/76416
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/89f358e3-04d3-4057-9d82-fba2a724eaaa/channel-weather.png",CALA WEATHER FHD
-http://ip365.cx:900/8279091393/1687445016/76417.m3u8
+http://ip365.cx:900/8279091393/1687445016/76417
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/e7365b46-42ca-47de-beba-86924e474941/calaclassics_home.png",CALA CLASSIC FHD
-http://ip365.cx:900/8279091393/1687445016/76418.m3u8
+http://ip365.cx:900/8279091393/1687445016/76418
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://thevoiceslu.com/wp-content/uploads/2016/03/calabash-tv.jpg",CALA BASH FHD
-http://ip365.cx:900/8279091393/1687445016/76419.m3u8
+http://ip365.cx:900/8279091393/1687445016/76419
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/STARCOMEDY.PNG",STAR COMEDY FHD
-http://ip365.cx:900/8279091393/1687445016/376172.m3u8
+http://ip365.cx:900/8279091393/1687445016/376172
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MAXPRIME.png",MAX PRIME HD
-http://ip365.cx:900/8279091393/1687445016/376225.m3u8
+http://ip365.cx:900/8279091393/1687445016/376225
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MAX.png",MAX HD
-http://ip365.cx:900/8279091393/1687445016/376223.m3u8
+http://ip365.cx:900/8279091393/1687445016/376223
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HALLMARKCHANNEL.png",HALLMARK CHANNEL FHD
-http://ip365.cx:900/8279091393/1687445016/376243.m3u8
+http://ip365.cx:900/8279091393/1687445016/376243
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/FRANCE/warnertv.png",WARNER HD
-http://ip365.cx:900/8279091393/1687445016/268272.m3u8
+http://ip365.cx:900/8279091393/1687445016/268272
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TBS.png",TBS HD
-http://ip365.cx:900/8279091393/1687445016/376221.m3u8
+http://ip365.cx:900/8279091393/1687445016/376221
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FXM.png",FXM HD
-http://ip365.cx:900/8279091393/1687445016/376220.m3u8
+http://ip365.cx:900/8279091393/1687445016/376220
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FX.png",FX HD
-http://ip365.cx:900/8279091393/1687445016/376219.m3u8
+http://ip365.cx:900/8279091393/1687445016/376219
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TNT.png",TNT FHD
-http://ip365.cx:900/8279091393/1687445016/268275.m3u8
+http://ip365.cx:900/8279091393/1687445016/268275
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TRUTV.png",TRU TV SD
-http://ip365.cx:900/8279091393/1687445016/268274.m3u8
+http://ip365.cx:900/8279091393/1687445016/268274
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/USANETWORK.png",USA NETWORK FHD
-http://ip365.cx:900/8279091393/1687445016/268273.m3u8
+http://ip365.cx:900/8279091393/1687445016/268273
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/UK/nickjr.png",NICK JR CARIBBEAN HD
-http://ip365.cx:900/8279091393/1687445016/195854.m3u8
+http://ip365.cx:900/8279091393/1687445016/195854
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/DISNEYJUNIOR.png",DISNEY JUNIOR FHD
-http://ip365.cx:900/8279091393/1687445016/268290.m3u8
+http://ip365.cx:900/8279091393/1687445016/268290
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/DISNEYXD.png",DISNEY XD FHD
-http://ip365.cx:900/8279091393/1687445016/376152.m3u8
+http://ip365.cx:900/8279091393/1687445016/376152
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/DISNEYCHANNEL.png",DISNEY CHANNEL FHD
-http://ip365.cx:900/8279091393/1687445016/376151.m3u8
+http://ip365.cx:900/8279091393/1687445016/376151
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BABYTVHD.png",BABY TV HD
-http://ip365.cx:900/8279091393/1687445016/376164.m3u8
+http://ip365.cx:900/8279091393/1687445016/376164
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BOOMERANG.png",BOOMERANG HD
-http://ip365.cx:900/8279091393/1687445016/376162.m3u8
+http://ip365.cx:900/8279091393/1687445016/376162
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TOONCAST.png",TOONCAST HD
-http://ip365.cx:900/8279091393/1687445016/376233.m3u8
+http://ip365.cx:900/8279091393/1687445016/376233
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BABYFIRST.png",BABY FIRST FHD
-http://ip365.cx:900/8279091393/1687445016/268299.m3u8
+http://ip365.cx:900/8279091393/1687445016/268299
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SYFY.png",SYFY FHD
-http://ip365.cx:900/8279091393/1687445016/376232.m3u8
+http://ip365.cx:900/8279091393/1687445016/376232
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TCM.png",TCM HD
-http://ip365.cx:900/8279091393/1687445016/376231.m3u8
+http://ip365.cx:900/8279091393/1687445016/376231
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CTVCOMEDY.png",CTV COMEDY HD
-http://ip365.cx:900/8279091393/1687445016/376181.m3u8
+http://ip365.cx:900/8279091393/1687445016/376181
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/PARAMOUNTNETWORK.png",PARAMOUNT NETWORK FHD
-http://ip365.cx:900/8279091393/1687445016/376180.m3u8
+http://ip365.cx:900/8279091393/1687445016/376180
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/LIFETIMEMOVIES.PNG",LIFETIME MOVIES HD
-http://ip365.cx:900/8279091393/1687445016/376179.m3u8
+http://ip365.cx:900/8279091393/1687445016/376179
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/LIFETIMEREALWOMEN.png",LIFETIME REAL WOMEN SD
-http://ip365.cx:900/8279091393/1687445016/376178.m3u8
+http://ip365.cx:900/8279091393/1687445016/376178
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/LIFETIME.png",LIFETIME FHD
-http://ip365.cx:900/8279091393/1687445016/376177.m3u8
+http://ip365.cx:900/8279091393/1687445016/376177
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CANALSONY.png",CANAL SONY HD
-http://ip365.cx:900/8279091393/1687445016/376176.m3u8
+http://ip365.cx:900/8279091393/1687445016/376176
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/GSN.png",GSN FHD
-http://ip365.cx:900/8279091393/1687445016/268285.m3u8
+http://ip365.cx:900/8279091393/1687445016/268285
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETSOUL.png",BET SOUL HD
-http://ip365.cx:900/8279091393/1687445016/268297.m3u8
+http://ip365.cx:900/8279091393/1687445016/268297
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETJAMS.png",BET JAMS HD
-http://ip365.cx:900/8279091393/1687445016/268296.m3u8
+http://ip365.cx:900/8279091393/1687445016/268296
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETHER.png",BET HER FHD
-http://ip365.cx:900/8279091393/1687445016/268295.m3u8
+http://ip365.cx:900/8279091393/1687445016/268295
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEE_CINEMA.png",ZEE CINEMA HD
-http://ip365.cx:900/8279091393/1687445016/376245.m3u8
+http://ip365.cx:900/8279091393/1687445016/376245
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/B4UMUSIC.png",B4U MUSIC HD
-http://ip365.cx:900/8279091393/1687445016/268301.m3u8
+http://ip365.cx:900/8279091393/1687445016/268301
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/B4UMOVIES.png",B4U MOVIES HD
-http://ip365.cx:900/8279091393/1687445016/268300.m3u8
+http://ip365.cx:900/8279091393/1687445016/268300
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTS MAX FHD
-http://ip365.cx:900/8279091393/1687445016/195868.m3u8
+http://ip365.cx:900/8279091393/1687445016/195868
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png",SPORTS MAX 2 FHD
-http://ip365.cx:900/8279091393/1687445016/195869.m3u8
+http://ip365.cx:900/8279091393/1687445016/195869
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS FHD
-http://ip365.cx:900/8279091393/1687445016/376153.m3u8
+http://ip365.cx:900/8279091393/1687445016/376153
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NICARAGUA.png",RUSH + HD
-http://ip365.cx:900/8279091393/1687445016/76412.m3u8
+http://ip365.cx:900/8279091393/1687445016/76412
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FOXSOCCERPLUS.png",FOX SOCCER PLUS HD
-http://ip365.cx:900/8279091393/1687445016/376171.m3u8
+http://ip365.cx:900/8279091393/1687445016/376171
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ESPN2CARIBBEAN.png",ESPN 2 CARIBBEAN HD
-http://ip365.cx:900/8279091393/1687445016/195836.m3u8
+http://ip365.cx:900/8279091393/1687445016/195836
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ESPNCARIBBEAN.png",ESPN CARIBBEAN FHD
-http://ip365.cx:900/8279091393/1687445016/195837.m3u8
+http://ip365.cx:900/8279091393/1687445016/195837
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NHKWORLD.png",NHK WORLD HD
-http://ip365.cx:900/8279091393/1687445016/268282.m3u8
+http://ip365.cx:900/8279091393/1687445016/268282
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png",NBC GOLF FHD
-http://ip365.cx:900/8279091393/1687445016/268281.m3u8
+http://ip365.cx:900/8279091393/1687445016/268281
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NBCSN.png",NBCSN FHD
-http://ip365.cx:900/8279091393/1687445016/376215.m3u8
+http://ip365.cx:900/8279091393/1687445016/376215
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/EURO_CHANNEL.png",EURO CHANNEL HD
-http://ip365.cx:900/8279091393/1687445016/376222.m3u8
+http://ip365.cx:900/8279091393/1687445016/376222
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png",FLOW SPORTS FHD
-http://ip365.cx:900/8279091393/1687445016/376145.m3u8
+http://ip365.cx:900/8279091393/1687445016/376145
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",FLOW SPORTS 2 FHD
-http://ip365.cx:900/8279091393/1687445016/376144.m3u8
+http://ip365.cx:900/8279091393/1687445016/376144
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/DISCOVERYCIVILIZATION.png",DISCOVERY CIVILIZATION HD
-http://ip365.cx:900/8279091393/1687445016/268288.m3u8
+http://ip365.cx:900/8279091393/1687445016/268288
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/UK/discoveryturbo.png",DISCOVERY TURBO HD
-http://ip365.cx:900/8279091393/1687445016/268289.m3u8
+http://ip365.cx:900/8279091393/1687445016/268289
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/DISCOVERY_SCIENCE.png",DISCOVERY SCIENCE HD
-http://ip365.cx:900/8279091393/1687445016/376229.m3u8
+http://ip365.cx:900/8279091393/1687445016/376229
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/INVESTIGATION_DISCOVERY.png",INVESTIGATION DISCOVERY HD
-http://ip365.cx:900/8279091393/1687445016/376228.m3u8
+http://ip365.cx:900/8279091393/1687445016/376228
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HISTORY.png",HISTORY HD
-http://ip365.cx:900/8279091393/1687445016/376226.m3u8
+http://ip365.cx:900/8279091393/1687445016/376226
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NATGEO.png",NAT GEO HD
-http://ip365.cx:900/8279091393/1687445016/376149.m3u8
+http://ip365.cx:900/8279091393/1687445016/376149
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/NATGEOWILD.png",NAT GEO WILD HD
-http://ip365.cx:900/8279091393/1687445016/376148.m3u8
+http://ip365.cx:900/8279091393/1687445016/376148
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/WORLDFISHINGNETWORK.png",WORLD FISHING NETWORK FHD
-http://ip365.cx:900/8279091393/1687445016/376175.m3u8
+http://ip365.cx:900/8279091393/1687445016/376175
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/OUTDOORCHANNEL.png",OUTDOOR CHANNEL HD
-http://ip365.cx:900/8279091393/1687445016/376208.m3u8
+http://ip365.cx:900/8279091393/1687445016/376208
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/A%26E.png",A&E FHD
-http://ip365.cx:900/8279091393/1687445016/376218.m3u8
+http://ip365.cx:900/8279091393/1687445016/376218
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BETGOSPEL.png",BET GOSPEL SD
-http://ip365.cx:900/8279091393/1687445016/376207.m3u8
+http://ip365.cx:900/8279091393/1687445016/376207
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TRAVELCHANNEL.png",TRAVEL CHANNEL HD
-http://ip365.cx:900/8279091393/1687445016/376206.m3u8
+http://ip365.cx:900/8279091393/1687445016/376206
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/DIYNETWORK.png",DIY NETWORK HD
-http://ip365.cx:900/8279091393/1687445016/376205.m3u8
+http://ip365.cx:900/8279091393/1687445016/376205
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/THEWORLDNETWORK.png",THE WORLD NETWORK HD
-http://ip365.cx:900/8279091393/1687445016/376204.m3u8
+http://ip365.cx:900/8279091393/1687445016/376204
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/GERMANY/VH1.png",VH1 CLASSIC HD
-http://ip365.cx:900/8279091393/1687445016/376197.m3u8
+http://ip365.cx:900/8279091393/1687445016/376197
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MTV2.png",MTV 2 HD
-http://ip365.cx:900/8279091393/1687445016/376196.m3u8
+http://ip365.cx:900/8279091393/1687445016/376196
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MTVLIVE.png",MTV LIVE FHD
-http://ip365.cx:900/8279091393/1687445016/376195.m3u8
+http://ip365.cx:900/8279091393/1687445016/376195
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/AFRICACHANNEL.png",AFRICA CHANNEL FHD
-http://ip365.cx:900/8279091393/1687445016/376194.m3u8
+http://ip365.cx:900/8279091393/1687445016/376194
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MYDESTINATIONTV.png",MY DESTINATION TV FHD
-http://ip365.cx:900/8279091393/1687445016/376193.m3u8
+http://ip365.cx:900/8279091393/1687445016/376193
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RECIPETV.png",RECIPE TV HD
-http://ip365.cx:900/8279091393/1687445016/376192.m3u8
+http://ip365.cx:900/8279091393/1687445016/376192
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/AWE.png",AWE FHD
-http://ip365.cx:900/8279091393/1687445016/268302.m3u8
+http://ip365.cx:900/8279091393/1687445016/268302
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/UK/E!.png",E! FHD
-http://ip365.cx:900/8279091393/1687445016/268287.m3u8
+http://ip365.cx:900/8279091393/1687445016/268287
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/UK/CNN.png",CNN FHD
-http://ip365.cx:900/8279091393/1687445016/268294.m3u8
+http://ip365.cx:900/8279091393/1687445016/268294
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/COOKINGCHANNEL.png",COOKING CHANNEL FHD
-http://ip365.cx:900/8279091393/1687445016/268293.m3u8
+http://ip365.cx:900/8279091393/1687445016/268293
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/VICELAND.png",VICELAND HD
-http://ip365.cx:900/8279091393/1687445016/376191.m3u8
+http://ip365.cx:900/8279091393/1687445016/376191
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/JUSTICECENTRAL.png",JUSTICE CENTRAL HD
-http://ip365.cx:900/8279091393/1687445016/376190.m3u8
+http://ip365.cx:900/8279091393/1687445016/376190
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/UK/CNN.png",CNN INTERNATIONAL HD
-http://ip365.cx:900/8279091393/1687445016/376182.m3u8
+http://ip365.cx:900/8279091393/1687445016/376182
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/AXSTV.png",AXS TV HD
-http://ip365.cx:900/8279091393/1687445016/376165.m3u8
+http://ip365.cx:900/8279091393/1687445016/376165
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FYI.png",FYI FHD
-http://ip365.cx:900/8279091393/1687445016/376234.m3u8
+http://ip365.cx:900/8279091393/1687445016/376234
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FOXBUSINESS.png",FOX BUSINESS HD
-http://ip365.cx:900/8279091393/1687445016/376173.m3u8
+http://ip365.cx:900/8279091393/1687445016/376173
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FOXNEWS.png",FOX NEWS HD
-http://ip365.cx:900/8279091393/1687445016/376174.m3u8
+http://ip365.cx:900/8279091393/1687445016/376174
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MSNBC.png",MSNBC FHD
-http://ip365.cx:900/8279091393/1687445016/376236.m3u8
+http://ip365.cx:900/8279091393/1687445016/376236
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BRAVO.png",BRAVO FHD
-http://ip365.cx:900/8279091393/1687445016/376235.m3u8
+http://ip365.cx:900/8279091393/1687445016/376235
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
@@ -814,361 +814,361 @@ http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98152.m3u8
 http://sansat.net:25461/live/simon/Mo9nuj5f1qHJMmp0N/98153.m3u8
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",USA A&E UHD
-http://ky-iptv.com:80/nas21/nas21/175784.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175784.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/71a6d51dfa6ed2b5d4231fdd8c21e1b0.png",USA AccuWeather
-http://ky-iptv.com:80/nas21/nas21/175785.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175785.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/970fd4a37554c8e2229b0e660999c7dc.png",USA AMC
-http://ky-iptv.com:80/nas21/nas21/175787.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175787.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/970fd4a37554c8e2229b0e660999c7dc.png",USA AMC East LHD
-http://ky-iptv.com:80/nas21/nas21/175788.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175788.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/ae947b80c743140e312a9990d2e542aa.png",USA American Heroes
-http://ky-iptv.com:80/nas21/nas21/175790.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175790.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/e59d288f9bc82a1143dcf385457b5ac0.png",USA Animal Planet East
-http://ky-iptv.com:80/nas21/nas21/175791.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175791.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/e59d288f9bc82a1143dcf385457b5ac0.png",USA Animal Planet East UHD
-http://ky-iptv.com:80/nas21/nas21/175793.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175793.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/84fc1bae60a71d7a802858f8dee6cda0.png",USA Animal Planet West
-http://ky-iptv.com:80/nas21/nas21/175794.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175794.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/0a1d439983dade9c75bfb3cde9904ddc.png",USA Antenna
-http://ky-iptv.com:80/nas21/nas21/175795.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175795.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/daa72b4f045303caaa50da0f686b22ee.png",USA Aspire
-http://ky-iptv.com:80/nas21/nas21/175796.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175796.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/7f3dd8e716b3827af270670ed837be1d.png",USA AXS TV
-http://ky-iptv.com:80/nas21/nas21/175799.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175799.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/1568cc4b2a712feca7b806e5832cfbd2.png",USA BET East
-http://ky-iptv.com:80/nas21/nas21/175801.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175801.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/7436b64a56ac8b536b754220b85cf13f.png",USA BET HER
-http://ky-iptv.com:80/nas21/nas21/175802.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175802.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/1568cc4b2a712feca7b806e5832cfbd2.png",USA BET West
-http://ky-iptv.com:80/nas21/nas21/175803.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175803.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/197c82a638b849311f4856aa54bfc104.png",USA Bravo East
-http://ky-iptv.com:80/nas21/nas21/175805.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175805.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/197c82a638b849311f4856aa54bfc104.png",USA Bravo West
-http://ky-iptv.com:80/nas21/nas21/175809.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175809.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/a0b6239dcc4afeef4204b0133891bb74.png",USA Buzzr HD
-http://ky-iptv.com:80/nas21/nas21/175810.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175810.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/368ee045a76d8af7a0efa688e40838ed.png",USA Comedy Central East UHD
-http://ky-iptv.com:80/nas21/nas21/175812.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175812.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/368ee045a76d8af7a0efa688e40838ed.png",USA Comedy Central FHD
-http://ky-iptv.com:80/nas21/nas21/175813.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175813.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/35b2172b821f14ebea97817d8fde3266.png",USA Comet
-http://ky-iptv.com:80/nas21/nas21/175814.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175814.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/1a4d6e72075567f09bd6d69a08f88376.png",USA Cooking Channel
-http://ky-iptv.com:80/nas21/nas21/175816.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175816.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/a9365a107aa088dc52b773052df1181a.png",USA Court TV
-http://ky-iptv.com:80/nas21/nas21/175817.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175817.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/74f94ef8a3e2ba60e362f952ed1df2fb.png",USA Cozi TV
-http://ky-iptv.com:80/nas21/nas21/175820.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175820.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/3e2941156b7ffac6e10c4d9e97ee3395.png",USA COZI TV LHD
-http://ky-iptv.com:80/nas21/nas21/175821.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175821.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/46c3fa2d6403c299681a322b6ee9826b.png",USA Crime & Investigation Network
-http://ky-iptv.com:80/nas21/nas21/175822.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175822.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/76b4402441f1cc1c18b75267358b550a.png",USA Destination America FHD
-http://ky-iptv.com:80/nas21/nas21/175825.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175825.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/cc75dba5a0b8052ebb931fe594bbcd1f.png",USA Discovery East
-http://ky-iptv.com:80/nas21/nas21/175826.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175826.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/b27f7b413fc399567b42291bbb66fc1f.png",USA Discovery Family
-http://ky-iptv.com:80/nas21/nas21/175828.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175828.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/a5c870245607a54b074b2c9291fd66c6.png",USA Discovery Life
-http://ky-iptv.com:80/nas21/nas21/175829.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175829.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/5ff47dc9f1333a1a410fe4789d945c9e.png",USA Discovery Science
-http://ky-iptv.com:80/nas21/nas21/175831.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175831.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/5ff47dc9f1333a1a410fe4789d945c9e.png",USA Discovery Science UHD
-http://ky-iptv.com:80/nas21/nas21/175833.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175833.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/888f777a3e51273a43316e6d2ab71ad2.jpg",USA Motor Trend
-http://ky-iptv.com:80/nas21/nas21/175834.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175834.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/3481518571bb33a56428b4f5c8b0ce62.jpg",USA Discovery West
-http://ky-iptv.com:80/nas21/nas21/175835.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175835.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/dee7b2e2bcd0a043a7eba6ea62500866.png",USA DIY Network
-http://ky-iptv.com:80/nas21/nas21/175839.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175839.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/f04bb26398586ee2bdd3784a153ca860.jpg",USA E! Entertainment
-http://ky-iptv.com:80/nas21/nas21/175841.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175841.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/b111f164fc1deda6b49a8d9a905e52d8.png",USA E! Entertainment West
-http://ky-iptv.com:80/nas21/nas21/175844.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175844.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/289f986ec3e1fd33aa91beca60c7ec76.png",USA EWTN
-http://ky-iptv.com:80/nas21/nas21/175846.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175846.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/f0fa75f0d2d7c072d7bf2e834a3c6cf3.png",USA Food Network
-http://ky-iptv.com:80/nas21/nas21/175847.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175847.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/f0fa75f0d2d7c072d7bf2e834a3c6cf3.png",USA Food Network East UHD
-http://ky-iptv.com:80/nas21/nas21/175850.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175850.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/f0fa75f0d2d7c072d7bf2e834a3c6cf3.png",USA Food Network West
-http://ky-iptv.com:80/nas21/nas21/175851.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175851.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/a63e06208ab5cb65131353aa7fde20ed.png",USA Freeform
-http://ky-iptv.com:80/nas21/nas21/175852.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175852.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/a63e06208ab5cb65131353aa7fde20ed.png",USA Freeform East LHD
-http://ky-iptv.com:80/nas21/nas21/175853.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175853.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/a63e06208ab5cb65131353aa7fde20ed.png",USA Freeform West
-http://ky-iptv.com:80/nas21/nas21/175855.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175855.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/a3cf68cde4ce9930116bba5496717257.png",USA Fuse TV
-http://ky-iptv.com:80/nas21/nas21/175856.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175856.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/a3cf68cde4ce9930116bba5496717257.png",USA Fuse
-http://ky-iptv.com:80/nas21/nas21/175857.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175857.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/986794578b8f9ffd8fe8c7eb4c002721.png",USA FYI
-http://ky-iptv.com:80/nas21/nas21/175859.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175859.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/27003642d029452e034f41500f466a67.png",USA People TV
-http://ky-iptv.com:80/nas21/nas21/175918.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175918.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/e3b76020045c37b9e4ddbddc373f84f5.png",USA Pursuit
-http://ky-iptv.com:80/nas21/nas21/175919.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175919.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/f4e71722b83a9db6a4cf112bb3cf9243.png",USA QVC
-http://ky-iptv.com:80/nas21/nas21/175920.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175920.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/83de66b7a761da91cc8415912e66efdb.png",USA RAI Italia*
-http://ky-iptv.com:80/nas21/nas21/175922.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175922.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/e23bcbebe33cc2cb407dd5dfc82f92f5.png",USA Reelz
-http://ky-iptv.com:80/nas21/nas21/175923.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175923.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/5aaf1ebd9fbc02336ad1aca726e936fc.png",USA RetroPlex East
-http://ky-iptv.com:80/nas21/nas21/175924.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175924.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/5aaf1ebd9fbc02336ad1aca726e936fc.png",USA RetroPlex West
-http://ky-iptv.com:80/nas21/nas21/175925.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175925.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/6093576bc997f6e495b015b43a4210f6.png",USA Revolt
-http://ky-iptv.com:80/nas21/nas21/175926.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175926.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/9e39286f76276db7299e197dbe911d31.png",USA RFD TV
-http://ky-iptv.com:80/nas21/nas21/175927.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175927.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/ae7fdaa589db658efacf2b6387221c47.jpg" group-title="USA Documentary",USA Smithsonian Channel
-http://ky-iptv.com:80/nas21/nas21/175930.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175930.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/85470b41c4778a801cfc1c17387e9fd7.png",USA Syfy East
-http://ky-iptv.com:80/nas21/nas21/175933.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175933.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/81061bbad2b8cb957d92b3ecf5881ce6.png",USA Syfy West
-http://ky-iptv.com:80/nas21/nas21/175934.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175934.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/0eaeb8a8c9715537b6bcb91b8399ffc0.png",USA Tastemade
-http://ky-iptv.com:80/nas21/nas21/175935.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175935.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/456b0ffe67a8668b93e82046a0607f88.png",USA TBS
-http://ky-iptv.com:80/nas21/nas21/175938.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175938.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/984ed04069db654d1e735e04541aeb6e.png",USA TBS West*
-http://ky-iptv.com:80/nas21/nas21/175941.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175941.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/6e4bb68f7e2de188b221dbb1652f912a.png",USA The Cowboy Channel*
-http://ky-iptv.com:80/nas21/nas21/175943.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175943.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/1ec840eb41fdb36d89490ec8b75fc717.png",USA The Film Detective
-http://ky-iptv.com:80/nas21/nas21/175944.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175944.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/5ec5bdfa1fcd0ecb8a860c2a865985ac.png",USA The Weather Channel
-http://ky-iptv.com:80/nas21/nas21/175945.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175945.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/d8ad9a73fd2fe74bcffbf5b5c8a3efe2.png",USA TLC East
-http://ky-iptv.com:80/nas21/nas21/175946.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175946.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/d8ad9a73fd2fe74bcffbf5b5c8a3efe2.png",USA TLC East LHD
-http://ky-iptv.com:80/nas21/nas21/175947.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175947.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/bcb43b5e81527e867f6cbe25d5e40e0b.png",USA TLC West
-http://ky-iptv.com:80/nas21/nas21/175949.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175949.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/eca105f548690a061aa8e2beb22a0b63.png",USA TNT East LHD
-http://ky-iptv.com:80/nas21/nas21/175951.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175951.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/509daf08cf0d8d7243a1ffc58d71dc02.png",USA TNT East FHD
-http://ky-iptv.com:80/nas21/nas21/175952.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175952.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/882b5d6fe0cfca995d01fb4e8b1becdb.png",USA TNT West
-http://ky-iptv.com:80/nas21/nas21/175954.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175954.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/c09111a8d117cd7b4068d9f42c3b7d52.jpg",USA Travel
-http://ky-iptv.com:80/nas21/nas21/175955.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175955.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/3dce62f558133a41acff2d352acece20.png",USA Travel Channel East LHD
-http://ky-iptv.com:80/nas21/nas21/175956.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175956.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/ab535e00d89cca034825d0967e9bfc43.png",USA Travel Channel West
-http://ky-iptv.com:80/nas21/nas21/175957.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175957.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/53918910aea9c84b31bca680f7b75797.png",USA Travel East UHD
-http://ky-iptv.com:80/nas21/nas21/175958.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175958.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/56d44e0b7e928687665b01f537116d4f.png",USA truTV East*
-http://ky-iptv.com:80/nas21/nas21/175960.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175960.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/5708e1b267ac05284e8c49c43d5acebc.png",USA truTV West
-http://ky-iptv.com:80/nas21/nas21/175962.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175962.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/9e96d3b4a3e15f8d58b9327d0c24df33.png",USA TV One
-http://ky-iptv.com:80/nas21/nas21/175963.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175963.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/5895aaff0a24691e76161e1450318a3b.png",USA TVLand UHD
-http://ky-iptv.com:80/nas21/nas21/175964.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175964.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/1640bdd5bb428e75a02901e2d50ab5ee.png",USA TXA21 (KTXA) Dallas
-http://ky-iptv.com:80/nas21/nas21/175965.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175965.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/9517acbc71aeb5988bf8b4b95b9cbc5e.png",USA UP TV
-http://ky-iptv.com:80/nas21/nas21/175966.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175966.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/82545508ab61be62132664cb701ae80d.png",USA USA Network East
-http://ky-iptv.com:80/nas21/nas21/175967.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175967.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/e91f13ba5737d01a1e521d0fd599c9c6.png",USA USA Network West
-http://ky-iptv.com:80/nas21/nas21/175970.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175970.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/4045c859673bd59d884d6ee072e50ccb.png",USA Viceland
-http://ky-iptv.com:80/nas21/nas21/175971.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175971.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/068d5f2c57996980d173ede17669999f.png",USA Wapa America
-http://ky-iptv.com:80/nas21/nas21/175973.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175973.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/37dfc5c88c918c31c24cbaab5eaec982.png",USA We TV
-http://ky-iptv.com:80/nas21/nas21/175974.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175974.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/aecce659d0e59a6d08add0325953fc88.png",USA NewsNation
-http://ky-iptv.com:80/nas21/nas21/175977.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175977.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/0c5430f3ec92a56ddd05378b4200f0b5.png",USA C-SPAN
-http://ky-iptv.com:80/nas21/nas21/175983.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175983.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/6a0ac50d67746752be975e3e20285c07.png",USA C-SPAN 2
-http://ky-iptv.com:80/nas21/nas21/175984.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175984.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/0ea6add692992b8a5316407be14423f6.png",USA CNN INTERNATIONAL*
-http://ky-iptv.com:80/nas21/nas21/175988.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175988.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/12697f3fe0ec29a3dd9536c088b42f77.png",USA LOGO
-http://ky-iptv.com:80/nas21/nas21/175993.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175993.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/d44fc69bede8741e5a781b162bd544e7.png",USA Cinemax 5 StarMax East
-http://ky-iptv.com:80/nas21/nas21/176010.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176010.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/259b2804b022858fe5e524f1291d0fb8.png",USA CINEMAX ACTION MAX EAST
-http://ky-iptv.com:80/nas21/nas21/176011.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176011.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/f389603fdc9d3f128196465a3c1841c2.png",USA Cinemax ActionMax West
-http://ky-iptv.com:80/nas21/nas21/176012.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176012.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/087c403a46d4487582a5771123e70e99.png",USA Cinemax East
-http://ky-iptv.com:80/nas21/nas21/176013.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176013.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/f8aab502267f90eec4ec0c46e354b6bc.png",USA Cinemax East UHD
-http://ky-iptv.com:80/nas21/nas21/176015.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176015.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/812aada3b62dd8db720169e9c57c0078.png",USA CINEMAX MOREMAX East
-http://ky-iptv.com:80/nas21/nas21/176016.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176016.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/812aada3b62dd8db720169e9c57c0078.png",USA Cinemax MoreMax West
-http://ky-iptv.com:80/nas21/nas21/176017.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176017.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/41da66359b2b294ee6c713d58cff7216.png",USA CINEMAX MOVIEMAX East
-http://ky-iptv.com:80/nas21/nas21/176018.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176018.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/41da66359b2b294ee6c713d58cff7216.png",USA CINEMAX MOVIEMAX SD
-http://ky-iptv.com:80/nas21/nas21/176019.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176019.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/856baa86d16756a1e3bb9837db56bef9.png",USA CINEMAX OUTER MAX
-http://ky-iptv.com:80/nas21/nas21/176020.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176020.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/5b23d337b57d9f4002100f2bfe70df8b.png",USA CINEMAX THRILLERMAX East
-http://ky-iptv.com:80/nas21/nas21/176021.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176021.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/5b23d337b57d9f4002100f2bfe70df8b.png",USA Cinemax ThrillerMax West
-http://ky-iptv.com:80/nas21/nas21/176023.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176023.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/087c403a46d4487582a5771123e70e99.png",USA Cinemax West
-http://ky-iptv.com:80/nas21/nas21/176024.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176024.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/e3a8d4a9140e2e2ae6677a38bacb949a.png",USA EPIX
-http://ky-iptv.com:80/nas21/nas21/176026.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176026.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/436acf124d02efb270f5f9a9e4ebb060.png",USA EPIX Drive-In
-http://ky-iptv.com:80/nas21/nas21/176027.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176027.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/52cf3fb4ab2583948038a8f58654922f.png",USA EPIX Hits LHD
-http://ky-iptv.com:80/nas21/nas21/176028.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176028.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/e3a8d4a9140e2e2ae6677a38bacb949a.png",USA Epix Hits UHD
-http://ky-iptv.com:80/nas21/nas21/176029.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176029.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/0e6e1b00589f6861fe60fc452de012a5.png",USA EPIX2
-http://ky-iptv.com:80/nas21/nas21/176030.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176030.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/30318a2847b7702901fdd0cc6259f5ed.png",USA FX
-http://ky-iptv.com:80/nas21/nas21/176031.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176031.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/edd4e5f02c8ac0873d0cddbe7ebe2187.png",USA FX East UHD
-http://ky-iptv.com:80/nas21/nas21/176033.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176033.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/c71287c43d551d32173a280111ea60b0.png",USA FXM
-http://ky-iptv.com:80/nas21/nas21/176036.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176036.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/a9ae2ad335e10d26c5b799fc83c380ac.png",USA FXX East
-http://ky-iptv.com:80/nas21/nas21/176039.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176039.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/42a29c7a04c0a4f901c6d49adb6305d8.jpg",USA FXX West
-http://ky-iptv.com:80/nas21/nas21/176040.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176040.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/daf846412b0f31b48b2ccef86ed6c527.png",USA HBO 2 East UHD
-http://ky-iptv.com:80/nas21/nas21/176041.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176041.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/9633adbc8b8e7dfc94a7c4751a29a156.png",USA HBO Comedy
-http://ky-iptv.com:80/nas21/nas21/176042.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176042.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/432f6e90069f10aead233f73b3124adb.png",USA HBO East*
-http://ky-iptv.com:80/nas21/nas21/176044.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176044.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/8b2cfd9ac600558e69a383b5c54df1aa.png",USA HBO Family*
-http://ky-iptv.com:80/nas21/nas21/176047.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176047.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/78a309225b4f19989839cf57c143d284.png",USA HBO Signature*
-http://ky-iptv.com:80/nas21/nas21/176048.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176048.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/04204fd4b50c90c84e75a5a04acb89e5.png",USA HBO West
-http://ky-iptv.com:80/nas21/nas21/176050.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176050.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/b0c39e38cc277e3f422a9b2bb072a6a3.png",USA HBO Zone
-http://ky-iptv.com:80/nas21/nas21/176052.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176052.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/76b7aa65390e92be93a87801775bf0a3.jpg",USA Showtime 2
-http://ky-iptv.com:80/nas21/nas21/176054.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176054.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/b418326df0069776c6e643436cf376be.png",USA Showtime East
-http://ky-iptv.com:80/nas21/nas21/176056.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176056.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/23f72f66a4f3db0db56be109094d4e1f.png",USA Showtime Extreme
-http://ky-iptv.com:80/nas21/nas21/176059.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176059.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/3b64c9029dbaf13ab8965a6ee1223fd2.png",USA Showtime Family Zone (East)
-http://ky-iptv.com:80/nas21/nas21/176060.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176060.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/065ebe759d35ca58ffa51018151f9e65.png",USA Showtime Next
-http://ky-iptv.com:80/nas21/nas21/176061.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176061.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/b7567a805f1f79da2a7993456322533d.png",USA Showtime Showcase
-http://ky-iptv.com:80/nas21/nas21/176063.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176063.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/f67aa5043d7c94bd3f4beeb4a387536e.png",USA Showtime West
-http://ky-iptv.com:80/nas21/nas21/176064.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176064.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/5ed75344eb96820b9633fd99b7722948.png",USA Showtime Women
-http://ky-iptv.com:80/nas21/nas21/176065.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176065.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/f31b3b29c6ed1c43a29160ea7436e5c3.jpg",USA Sony Movie Channel
-http://ky-iptv.com:80/nas21/nas21/176066.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176066.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/f31b3b29c6ed1c43a29160ea7436e5c3.jpg",USA Sony Movie Channel LHD
-http://ky-iptv.com:80/nas21/nas21/176067.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176067.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/fac417fbbbc0c99e284774dda1fd8b5c.png",USA Starz Cinema
-http://ky-iptv.com:80/nas21/nas21/176068.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176068.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/66799aefe4ae6beac00ae0c6780c6763.png",USA Starz Comedy East
-http://ky-iptv.com:80/nas21/nas21/176069.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176069.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://starz.imgix.net/BuyStarz/international/sz-logo-2x.png?auto=compress,format",USA StarZ East
-http://ky-iptv.com:80/nas21/nas21/176071.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176071.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/3dd9841fa1827fa26ba7368ce3d0d9bd.png",USA Starz Encore Action
-http://ky-iptv.com:80/nas21/nas21/176072.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176072.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/58ccaf7881b6c547374c60e39a9c09bc.png",USA STARZ ENCORE ACTION SD
-http://ky-iptv.com:80/nas21/nas21/176073.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176073.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/b084042092516b7fdb3006236acef1ba.png",USA Starz Encore Black
-http://ky-iptv.com:80/nas21/nas21/176074.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176074.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/7d8fcad30515f4c068fe8b3c01f19786.png",USA Starz Encore Classic
-http://ky-iptv.com:80/nas21/nas21/176075.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176075.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/003caf1741e79662ea8cb73e50d586b9.png",USA Starz Encore East
-http://ky-iptv.com:80/nas21/nas21/176076.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176076.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/b30c83c3951d29c876700189b4e6bb7a.jpg",USA Starz Encore Edge
-http://ky-iptv.com:80/nas21/nas21/176077.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176077.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/a1255ab6b1c3498e3c1e0363bb051f38.png",USA Starz Encore Family
-http://ky-iptv.com:80/nas21/nas21/176078.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176078.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/2ea4f440d12d08efea97d592167cf663.png",USA Starz Encore Suspense
-http://ky-iptv.com:80/nas21/nas21/176079.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176079.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/7cae7000a5e8a44cc4b71d9363a02ceb.png",USA Starz Encore West
-http://ky-iptv.com:80/nas21/nas21/176080.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176080.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/e40f1bcc56b1f84d7f7474c594331288.png",USA Starz Encore Westerns
-http://ky-iptv.com:80/nas21/nas21/176081.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176081.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/f0e51eb496c1d82b5304116d516f0a3d.png",USA Starz in Black East
-http://ky-iptv.com:80/nas21/nas21/176082.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176082.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/a6596626085d2e16f02abc98b82d3f89.jpg" group-title="USA Family & Kids",USA Starz Kids & Family
-http://ky-iptv.com:80/nas21/nas21/176083.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176083.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/85c5f5ffb6f6f3dec97501947c4abf79.png",USA Starz West
-http://ky-iptv.com:80/nas21/nas21/176084.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176084.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/a98c685117f20ad990629d650e8dbda3.png",USA Sundance
-http://ky-iptv.com:80/nas21/nas21/176085.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/176085.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/5256d3b938e6fd2c214e9d29a9620672.png",USA GET TV
-http://ky-iptv.com:80/nas21/nas21/175860.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175860.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/954876aa2d1c0083bbb2cba449c2f18a.png",USA Great American Country (Family)
-http://ky-iptv.com:80/nas21/nas21/175861.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175861.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/dab8215550fe4d73c6386330c5f61333.png",USA GSN (Game Show Network)
-http://ky-iptv.com:80/nas21/nas21/175863.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175863.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png",USA Hallmark Channel
-http://ky-iptv.com:80/nas21/nas21/175864.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175864.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/fc3c0fe6b9d10e6b0c4ef340b4da3f6f.png",USA Hallmark Drama
-http://ky-iptv.com:80/nas21/nas21/175866.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175866.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/b216a8c24d55f9dcafdd739fb3b04479.png",USA Hallmark Movies & Mysteries UHD
-http://ky-iptv.com:80/nas21/nas21/175870.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175870.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/5c1276ce90fd2fef9da590adbd744ff0.jpg",USA Hallmark Movies & Mysteries LHD
-http://ky-iptv.com:80/nas21/nas21/175871.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175871.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/9f207ce51e91b2c2b6dcfe49f9f0a179.png",USA HGTV East
-http://ky-iptv.com:80/nas21/nas21/175873.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175873.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/6413fa9c943c4c2ad943d61a20b8193c.png",USA HGTV East UHD
-http://ky-iptv.com:80/nas21/nas21/175875.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175875.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/a8e2a4a1693572a5a2bb0b85eafc6957.png",USA HGTV West
-http://ky-iptv.com:80/nas21/nas21/175877.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175877.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/c301e449bcb6c1fa8cdabad918d6a74f.png",USA History East UHD
-http://ky-iptv.com:80/nas21/nas21/175878.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175878.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/67c66b7adaf62bd0ce9181dc0b718274.png",USA IFC
-http://ky-iptv.com:80/nas21/nas21/175880.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175880.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/88a1f484fb48bcb378b2c7dacc81f036.png",USA INSP
-http://ky-iptv.com:80/nas21/nas21/175882.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175882.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/f98e870b0a836f6847bb08b77ade47ad.png",USA Investigation Discovery East LHD
-http://ky-iptv.com:80/nas21/nas21/175883.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175883.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/ffdaf95be5a8d93fc1014969f5f5fab8.png",USA ID East UHD
-http://ky-iptv.com:80/nas21/nas21/175884.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175884.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/bcfa48c5850b56af1da4d2656d807b58.png",USA Laff TV
-http://ky-iptv.com:80/nas21/nas21/175889.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175889.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/5c1f97d94fbfcb1c393e2897fe19bfcc.png",USA Law And Crime
-http://ky-iptv.com:80/nas21/nas21/175890.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175890.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/9122b5895d06e97b97bdbfd41e0a8e47.png",USA Lifetime East UHD
-http://ky-iptv.com:80/nas21/nas21/175891.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175891.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/e3c8958a19e6b4e7dbe7364a7e4eb419.png",USA MAV TV
-http://ky-iptv.com:80/nas21/nas21/175894.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175894.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/a9ee80e62b40c3393457a06e0b39b42b.png",USA MeTV
-http://ky-iptv.com:80/nas21/nas21/175895.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175895.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/d103dbd127cbffa903a490d6acb855af.jpg",USA NASA TV
-http://ky-iptv.com:80/nas21/nas21/175898.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175898.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/c7b80593b3725b0fcca4f645f6430b7a.png",USA Nat Geo East
-http://ky-iptv.com:80/nas21/nas21/175899.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175899.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/aa8e6f9a1a73dca0072c90dbbc532345.png",USA Nat Geo Wild East UHD
-http://ky-iptv.com:80/nas21/nas21/175901.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175901.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/4154cf9f3a6d98779121fccfb36d14f7.png",USA Oprah Winfrey Network LHD
-http://ky-iptv.com:80/nas21/nas21/175904.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175904.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/4154cf9f3a6d98779121fccfb36d14f7.png",USA Oprah Winfrey Network OWN
-http://ky-iptv.com:80/nas21/nas21/175905.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175905.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://51.79.21.44:80/images/11cd5992d7517c09fa396fcc7110ae89.png",USA Outdoor Channel
-http://ky-iptv.com:80/nas21/nas21/175906.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175906.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/c39af78b4d307d4cdec0eae6c0bf4ad9.png",USA Outside TV
-http://ky-iptv.com:80/nas21/nas21/175907.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175907.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://77.247.109.54:80/images/225b4c26d549915bc60c1718eb780002.png",USA Ovation
-http://ky-iptv.com:80/nas21/nas21/175909.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175909.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/b026d2758ea148210219ba848441b87c.png",USA Oxygen East
-http://ky-iptv.com:80/nas21/nas21/175911.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175911.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/42a81e3d8770a4d4166aefb7e22ebf5c.jpg",USA Oxygen West
-http://ky-iptv.com:80/nas21/nas21/175912.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175912.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/8f91fff5f5426d4fe0589438724fc81f.png",USA Paramount East UHD
-http://ky-iptv.com:80/nas21/nas21/175914.m3u8
+http://ky-iptv.com:80/sharvey/sharvey/175914.m3u8
 
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://whoatv.com/wp-content/uploads/2014/08/TV3-logo.png",3E Ireland
 http://ys-users.com:8080/live/christa/christa/428343.m3u8
