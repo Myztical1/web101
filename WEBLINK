@@ -2285,6 +2285,16 @@ http://ys-users.com:8080/live/christa/christa/428303.m3u8
 http://ys-users.com:8080/live/christa/christa/428320.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",SKY SPORTS RACING
 http://ys-users.com:8080/live/christa/christa/428306.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/a650f775f55669ec398008291ab0b634.png",BOXNATION
+http://mains.services:2086/live/0776777761/4665816537/67081.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 01
+http://mains.services:2086/live/0776777761/4665816537/67062.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 02
+http://mains.services:2086/live/0776777761/4665816537/67063.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 03
+http://mains.services:2086/live/0776777761/4665816537/67075.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 04
+http://mains.services:2086/live/0776777761/4665816537/67076.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT1.png",EUROSPORT 1 HD
 http://megaott.cx:900/live/8098058203/C73B946A/153720.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/EUROSPORT2.PNG",EUROSPORT 2 HD
@@ -3207,6 +3217,26 @@ http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Domesti
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Halloween.Ends.2022.1080p.iptvtalk.mp4/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/a4/db/a4dbf14f4e69500f4fe1df43ae3f2400/a4dbf14f4e69500f4fe1df43ae3f2400.jpg",The Infernal Machine 2022
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Infernal.Machine.2022.1080p.iptvtalk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/e9/d2/e9d22337b4f0bacc4267f9aea602cf5e/e9d22337b4f0bacc4267f9aea602cf5e.jpg",Blackout
+https://dl.dropboxusercontent.com/sh/1b6y7h6yqxlthby/AAA619W_QuOVHOUVMZXj9iOIa/Blackout.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/3b/81/3b81fa91e6208b210afb591433925a8d/3b81fa91e6208b210afb591433925a8d.jpg",Batman And Superman Battle Of The Super Sons
+https://dl.dropboxusercontent.com/sh/7zwwbfodefiv6h2/AAC1vWdBLigkbUjWw6OLb1f0a/Batman.And.Superman.Battle.Of.The.Super.Sons.2022.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/dd/3b/dd3b1dc5ff0edf0b2b262db47e770eda/dd3b1dc5ff0edf0b2b262db47e770eda.jpg",Blade Of The 47 Ronin
+https://dl.dropboxusercontent.com/sh/7zwwbfodefiv6h2/AADIfFiuJVvjDIpl4gSgMSVsa/Blade.Of.The.47.Ronin.2022.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/c7/df/c7df01a00e62a33833ccba527ea8f14f/c7df01a00e62a33833ccba527ea8f14f.jpg",Paws Of Fury The Legend Of Hank
+https://dl.dropboxusercontent.com/sh/7zwwbfodefiv6h2/AAAHeSF4YQtRNoqtV6kWQ9uLa/Paws.Of.Fury.The.Legend.Of.Hank.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/de/92/de92b333d35737d99c1b6ad47aa9a0b7/de92b333d35737d99c1b6ad47aa9a0b7.jpg",Guardians Of Time
+https://dl.dropboxusercontent.com/sh/xo4a5qwua27xi3y/AABIp06LscB8PeqHk4H125-4a/Guardians.Of.Time.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/e5/61/e561350a6c51f33cfb6a7a86cd71ea21/e561350a6c51f33cfb6a7a86cd71ea21.jpg",Athena
+https://dl.dropboxusercontent.com/sh/hzc18xlt10onbvc/AAB20HENbaNjXwx7uTtfKxzxa/ATHENA.2022.1080p.NF.WEBRip.DUAL.10Bit.Opus.5.1.x265-TSP.mkv
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/88/b8/88b8e7ac328f658e836b12b566607d1d/88b8e7ac328f658e836b12b566607d1d.jpg",Breaking
+https://dl.dropboxusercontent.com/sh/hzc18xlt10onbvc/AABuSzg4C9Y0_YW3YYbYFXDda/Breaking.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/57/44/574415165db99550059bb18b253916d9/574415165db99550059bb18b253916d9.jpg",Kingslayer
+https://dl.dropboxusercontent.com/sh/hzc18xlt10onbvc/AACUTN4fy59BhI9mn2j9RfO0a/Kingslayer.2022.BRRip.XviD.AC3-EVO.avi
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/26/93/2693239c56881707dfddbf9b4faf9004/2693239c56881707dfddbf9b4faf9004.jpg",The Invitation
+https://dl.dropboxusercontent.com/sh/hzc18xlt10onbvc/AAACs4Ad-9ObaqBOydkjUdTUa/The.Invitation.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/94/7a/947a80ed383aec2105dc9bc8fa3cb5e9/947a80ed383aec2105dc9bc8fa3cb5e9.jpg",Trick or Treat Scooby-Doo
+https://dl.dropboxusercontent.com/sh/hzc18xlt10onbvc/AADEy1MB_I1EpPJ9M-tMA3Wha/Trick.or.Treat.Scooby-Doo.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/56/0d/560d580e39db5ea4b9e856cd29d521de/560d580e39db5ea4b9e856cd29d521de.jpg",I Came By (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt15083184
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/01/de/01deebf1ee3318c7a20554fe73cd1434/01deebf1ee3318c7a20554fe73cd1434.jpg",Inside the Mind of a Cat (2022)
