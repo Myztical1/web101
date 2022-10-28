@@ -1583,6 +1583,14 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/ZbAVzad.png",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/BABY SHARK TV_logo_dark.png",BABY SHARK TV
+https://b804413309624ef1b04591c47e82e14c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eUhMzubzCLEWpUricwcK&ads.plex_id=60d4eddeb2fdec002c141137&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidoodletv_logo_v3.png",Kidoodle TV
+https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/playlist.m3u8?ads.wurl_channel=484&ads.wurl_name=KidoodleTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eUhMzubzCLEWpUricwcK&ads.plex_id=5eea605574085f0040ddc79a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidspangtv_logo_dark.png",Kids Pang TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eUhMzubzCLEWpUricwcK&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eUhMzubzCLEWpUricwcK&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eUhMzubzCLEWpUricwcK&custom_7=5eea605574085f0040ddc797
 
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://www.oklahomafarmreport.com/wire/news/2017/12/media/02061_CowboyChannel.jpg",COWBOY CHANNEL HD
 http://89.187.175.143:80/3112/index.m3u8
@@ -2943,14 +2951,22 @@ http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019858
 #EXTINF:-1 group-title="MOVIE TIME" tvg-logo="https://logospng.org/download/disneyplus/logo-disneyplus-512.png",Disney+ Series 10 ᴴᴰ
 http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019859
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/ef/d0/efd07c1ba4d846fea426fafe6b853283/efd07c1ba4d846fea426fafe6b853283.jpg",V/H/S/99
-http://59.153.203.202/Data/All_Movies/hollywood/2022/V%20H%20S%2099%20%282022%29/V.H.S.99.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/0a/b0/0ab08224c226dd6b284144f1b91dac79/0ab08224c226dd6b284144f1b91dac79.jpg",Barbarian
-http://59.153.203.202/Data/All_Movies/hollywood/2022/Barbarian%20%282022%29/Barbarian.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.to/xxrz/250x400/588/68/be/68be0ebcc5f6f4afe34ede6826d7ff71/68be0ebcc5f6f4afe34ede6826d7ff71.jpg",American Murderer (2022)
+https://e-3.dokicloud.one/_v8/cbb6e8d38cdbd8fa64f2f6c2b2c005056c27e40d48e43b57301ca64f7d6858f845d2e6df48207fa60352195eba472806061b627b054550a959791f81dc2b0893328d529d5ba0d1d2a5c7eb3a6a08e10ea8714a9758c2ad4c20b9f71a64c17a7686e715e1f21b065de46e87fbdb264b2e8620386da15e4da1e7d21a1a1a51e4c5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.to/xxrz/250x400/588/90/af/90afcff8f8f3a53c80e4e3ce837884e3/90afcff8f8f3a53c80e4e3ce837884e3.jpg",The Octogames (2022)
+https://e-8.dokicloud.one/_v8/4e60279167812bf906710656bca7ff17aded65c900e6de05862eb18df2c16fbf34e3c923088d20735f0df7a9bda757ccfad9879e567dac9f3b24379556a3e5b064d7312c6ee0c6ced0fb25f5e5cdee8b9b99d9790d0290d584cae95ac3f7128ff17284a428c08109037d7e8b3591e2dfe8fb626d2453a7744942ea7ea6336ff5/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/e8/a3/e8a32f7edb708d4b0e58bd3e62402796/e8a32f7edb708d4b0e58bd3e62402796.jpg",Hounded
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Hounded.2022.1080p.iptvtalk.mp4/playlist.m3u8 
+https://e-3.dokicloud.one/_v8/eb0642e2bac74865635831f380f5d8e8db45f27a9aae677df288ae1a081d75f83f886f39403de737d43a14981b0f732129040793839b2b495b0058331c309d0ac2e5014b2ed7d068da13ea1a5884c0fa44c4993438a4d4fda318ed05bc72e085c59a8edf9582e3251a83a3e0b9dbede6489e19bd9c2cebb385c8c2a6d076010a/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/1c/9c/1c9c558b4964e7f4afa2b9fbb1322f6a/1c9c558b4964e7f4afa2b9fbb1322f6a.jpg",Terror Train
-http://208.81.205.30:1935/redirect/ondemand-1/_definst_/mp4:path2/MOVIES.2022/2022.TERROR.TRAIN.ENG.mp4?type=m3u8
+https://e-9.dokicloud.one/_v8/f9efc5bcabf9f36df1789b0a129347f80bf67ed130df3e9c2582a0a9604647e61cced3fcfe999d6a15c86ac46ffffaf6de0c05440ae65948bb2e506ca39e5ee402d3a9a23289c5277b16674e1235f04469d527bd8bc0afb263f8dee5016ae6cd017afd4dde0833847bbc683ae93338143aaa30c4984b07b42931f55dcde22466/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/92/19/921937f860ce4ff635afa632383da2bd/921937f860ce4ff635afa632383da2bd.jpg",Terrifier 2 (2022)
+https://e-3.dokicloud.one/_v8/9ab7844ad36c95ff5d9fbbb377bb3c0b0afba0ca036db81ecba5fc5ce4f467cb5e09cf55b94599f9f51a3fbbb7dd6664526bd7ed769f7e5535e062ad2e66bd1e9f21971d1447ecdc490dbb06b109cf678ee187a75760a2e5167d9fa27bee774bf94bc865b91417af1235b820b03e32f20577eca28465f302680989c573cabbad/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/30/b4/30b430c1885780dcf88d1a2a1579a1d4/30b430c1885780dcf88d1a2a1579a1d4.jpg",The Retaliators (2022)
+https://e-1.dokicloud.one/_v8/c299c61fc6d7bac3dbcbfc72fcb4bd325d7ac4a425b38fb28bef675b33698c14e847dd8f1973d8fa53abf475aa1fa5f126b1f960a9fcae2b7e39aa29727cc6f9c6f64a714b624c0786b25420c7f22d1b0f953f9cea9356cc2fbceade107adb741b2b94a4311a844f91c0263c681347c669e30f73cf3363208ae543fad7eeb721/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/ea/ac/eaaca70adbab9f30d39bef9cb0ed6f1d/eaaca70adbab9f30d39bef9cb0ed6f1d.jpg",Where Are You (2022)
+https://e-4.dokicloud.one/_v8/1ae84c1785d478a7781d50ecbe0e8b40174e75ed7c157d3ce6a595376ddee6a474e792e11569cb5045163bf92b9678f053c6b739a8f3942c1884ece3c93778383b389a5e7763a09c6867960db74f68fc44aa2ee9b166286e651627401b5cf25fb6b554def2129442e8d4264851d0597d15e99b508eab853581bc7bc24e76175d/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/a4/72/a472b5043aa69c3f26d0365bb17a2ffd/a472b5043aa69c3f26d0365bb17a2ffd.jpg",The Domestic (2022)
+https://e-3.dokicloud.one/_v8/cabff87452fb51aa3cd8b4494c698e0ebc1a95b20fabb55673411dd5d300bfcfd5c1abc47490d3a6649c603e48a37f3eebe7592b130fd84cb6fb59de022a6020d59bcc0e0c760233520640a01f8ca4a0eec741aae7e09d9e58ca9816a11058c6df01373e9d555d11b3a52b4d90cac5e3b86e210f7135b408dd4ccf85a45e5b21/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/15/1b/151b961f5343bebb7f434f3060079d97/151b961f5343bebb7f434f3060079d97.jpg",Black Adam (2022)
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Black%20Adam%20%282022%29/Black.Adam.2022.1080p.Cam.X264.AC3.Will1869.mp4-muxed.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/f2/b6/f2b655c507ddfd453691cf5dbd75b9a3/f2b655c507ddfd453691cf5dbd75b9a3.jpg",Operation Seawolf (2022)
@@ -2959,25 +2975,20 @@ http://59.153.203.202/Data/All_Movies/hollywood/2022/Operation%20Seawolf%20%2820
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Detective%20Knight%20Rogue%20%282022%29/Detective.Knight.Rogue.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/35/f4/35f404f859a7bb7840662592278cbb8f/35f404f859a7bb7840662592278cbb8f.jpg",Dangerous Game: The Legacy Murders (2022)
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Dangerous%20Game%20The%20Legacy%20Murders%20%282022%29/Dangerous.Game.The.Legacy.Murders.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/92/19/921937f860ce4ff635afa632383da2bd/921937f860ce4ff635afa632383da2bd.jpg",Terrifier 2 (2022)
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Terrifier.2.2022.1080p.iptvtalk.mp4/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/9d/38/9d3892cfc42ef0acfbb933ef1614d07d/9d3892cfc42ef0acfbb933ef1614d07d.jpg",Slayers (2022)
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Slayers.2022.1080p.iptvtalk.mp4/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/30/b4/30b430c1885780dcf88d1a2a1579a1d4/30b430c1885780dcf88d1a2a1579a1d4.jpg",The Retaliators (2022)
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Retaliators.2021.1080p.iptvtalk.mp4/playlist.m3u8
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Slayers%20%282022%29/Slayers.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/df/82/df82f53c1cc2efed12fdc26f06ed963a/df82f53c1cc2efed12fdc26f06ed963a.jpg",Old Man (2022)
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Old.Man.2022.1080p.iptvtalk.mp4/playlist.m3u8
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Old%20Man%20%282022%29/Old.Man.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/54/24/54247ea5d902ac862fa00e1491194c0e/54247ea5d902ac862fa00e1491194c0e.jpg",Accident Man: Hitman's Holiday (2022)
 http://59.153.203.202/Data/All_Movies/hollywood/2022/Accident%20Man%20Hitmans%20Holiday%20%282022%29/Accident.Man.Hitmans.Holiday.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
-https://c-2.dokicloud.one/_v8/25a9231ac0f6941d97557183e20d6143ec024793793b18fb9ae85076adc2a2ccf5dc97ca1600e3a9f74292edce651e581b10bd69874e29ecbdf80ede5b4a71dc286fb915d5020f4301b88c464253e4f572b7130181d2064543b8ea135744ed1ffe18cda472db0a1f172c53c4b092a16e0db7159dc601533e4a53805920f7e744/720/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/ea/ac/eaaca70adbab9f30d39bef9cb0ed6f1d/eaaca70adbab9f30d39bef9cb0ed6f1d.jpg",Where Are You (2022)
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Where.Are.You.2021.1080p.iptvtalk.mp4/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/a4/72/a472b5043aa69c3f26d0365bb17a2ffd/a472b5043aa69c3f26d0365bb17a2ffd.jpg",The Domestic (2022)
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Domestic.2022.1080p.iptvtalk.mp4/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/5a/0d/5a0d73b9775e161a46a8c0036e4fbebb/5a0d73b9775e161a46a8c0036e4fbebb.jpg",Halloween Ends (2022)
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/Halloween.Ends.2022.1080p.iptvtalk.mp4/playlist.m3u8
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Halloween%20Ends%20%282022%29/Halloween.Ends.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/a4/db/a4dbf14f4e69500f4fe1df43ae3f2400/a4dbf14f4e69500f4fe1df43ae3f2400.jpg",The Infernal Machine 2022
-http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin5/The.Infernal.Machine.2022.1080p.iptvtalk.mp4/playlist.m3u8
+http://59.153.203.202/Data/All_Movies/hollywood/2022/The%20Infernal%20Machine%20%282022%29/The.Infernal.Machine.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/ef/d0/efd07c1ba4d846fea426fafe6b853283/efd07c1ba4d846fea426fafe6b853283.jpg",V/H/S/99
+http://59.153.203.202/Data/All_Movies/hollywood/2022/V%20H%20S%2099%20%282022%29/V.H.S.99.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/0a/b0/0ab08224c226dd6b284144f1b91dac79/0ab08224c226dd6b284144f1b91dac79.jpg",Barbarian
+http://59.153.203.202/Data/All_Movies/hollywood/2022/Barbarian%20%282022%29/Barbarian.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/e9/d2/e9d22337b4f0bacc4267f9aea602cf5e/e9d22337b4f0bacc4267f9aea602cf5e.jpg",Blackout
 https://dl.dropboxusercontent.com/sh/1b6y7h6yqxlthby/AAA619W_QuOVHOUVMZXj9iOIa/Blackout.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/3b/81/3b81fa91e6208b210afb591433925a8d/3b81fa91e6208b210afb591433925a8d.jpg",Batman And Superman Battle Of The Super Sons
