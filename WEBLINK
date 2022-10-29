@@ -1978,6 +1978,38 @@ http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxU_UnZU8ty8sKzwKkjsUkY/m3u8
 http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u1pHMbe2XV9RGChgldPQ_T0/m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT Sport 4 HD
 http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u18NHBVzQHoorzu3ccLQwO4/m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
+http://ky-iptv.com:80/live/nello123/nello123/1116408.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png",A SPORTS TV
+http://208.86.19.13:81/602.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxpdmVvbmxpbmVzZXJ2aWNlcy5tYXF0dl9pY29uXzBfNGY5ZjBjYTU/icon.png?w=170&fakeurl=1",MAQ TV
+http://208.86.19.13:81/517.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/6167c809bd7a49de6e84d1e53c6ae4ea.png",Sky SPORTS CRICKET
+https://is.gd/bNMOXt
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/571c1637ba98b7697b39033c68198ec4.png",Sony Ten Cricket
+https://is.gd/RTnUY2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/5ee20f8780c611bf3086cd9259a9c1d5.png",Star Sports 1
+https://is.gd/xKGtwB
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/550c881fa0a7a2ce6bd6aec3d585e645.png",SONY SIX
+https://is.gd/prRvuY
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/bb59f9f8c0fb15b537eb2d1c45c0f07a.png",PTV SPORTS
+https://is.gd/Y2F7QQ
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/cb08fb164efdcd546fa27424df8e2d7f.jpg",Geo Sports
+https://is.gd/qefWL2
+#EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports
+http://ky-iptv.com:80/nello123/nello123/2210036.m3u8
+#EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports 2
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/490
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",Sony Ten 1 HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/svnrSYk/Sonyten2.jpg",Sony Ten 2 HD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/2906
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",StarSports 1 HD
+http://fortv.cc:8080/chris2/chris2/136570
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
+http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/447
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",UK Sky Sports Premier League
 http://ky-iptv.com:80/nello123/nello123/1821337.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/984fb56c9fda7d359f048a629f4fb6c3.png",UK PREMIER SPORTS 2
