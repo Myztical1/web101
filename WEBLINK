@@ -1767,6 +1767,46 @@ http://89.187.175.143:80/3065/index.m3u8
 http://89.187.175.143:80/3088/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HD
 http://89.187.175.143:80/3058/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Documentaries.png",SKY DOCUMENTARIES
+http://tvpanel.one:80/live/den9179/611carc/548930.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Crime.png",SKY CRIME
+http://tvpanel.one:80/live/den9179/611carc/548931.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20History.png",SKY HISTORY
+http://tvpanel.one:80/live/den9179/611carc/548932.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20History%202.png",SKY HISTORY 2
+http://tvpanel.one:80/live/den9179/611carc/548933.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Nature.png",SKY NATURE
+http://tvpanel.one:80/live/den9179/611carc/548934.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/Discovery%20UK.png",DISCOVERY
+http://tvpanel.one:80/live/den9179/611carc/548935.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/Disc.Turbo.png",DISCOVERY TURBO
+http://tvpanel.one:80/live/den9179/611carc/548936.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/Discovery%20Science.png",DISCOVERY SCIENCE
+http://tvpanel.one:80/live/den9179/611carc/548937.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/Disc.History.png",DISCOVERY HISTORY
+http://tvpanel.one:80/live/den9179/611carc/548938.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/NatGeoUk.png",NATIONAL GEOGRAPHIC
+http://tvpanel.one:80/live/den9179/611carc/548939.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/NatGeoWild.png",NAT GEO WILD
+http://tvpanel.one:80/live/den9179/611carc/548940.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/blaze.png",BLAZE
+http://tvpanel.one:80/live/den9179/611carc/548941.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/InvestigationDiscovery.png",ID
+http://tvpanel.one:80/live/den9179/611carc/548942.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/YESTERDAY.png",YESTERDAY
+http://tvpanel.one:80/live/den9179/611carc/548943.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/CrimeAndInvestigation.png",CRIME & INVESTIGATION
+http://tvpanel.one:80/live/den9179/611carc/548944.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/Animal%20Planet%20UK.png",ANIMAL PLANET
+http://tvpanel.one:80/live/den9179/611carc/548945.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/Eden.png",EDEN
+http://tvpanel.one:80/live/den9179/611carc/548946.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/SmithSonianChannel.png",SMITHSONIAN CHANNEL
+http://tvpanel.one:80/live/den9179/611carc/548947.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/PBS.png",PBS AMERICA
+http://tvpanel.one:80/live/den9179/611carc/548948.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/viceland.png",VICE
+http://tvpanel.one:80/live/den9179/611carc/548949.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://apkmodhub.in/wp-content/uploads/2020/12/magellantv-documentaries.png",MagellanTV
