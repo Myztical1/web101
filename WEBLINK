@@ -1955,29 +1955,113 @@ https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",THE BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Sky%20Sports%20News.png",SKY SPORTS NEWS [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586757.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Sky%20Sports%20News.png",SKY SPORTS NEWS [HD]
+http://tvpanel.one:80/live/den9179/611carc/586758.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsMainEvent.png",SKY SPORTS MAIN EVENT [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586759.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsMainEvent.png",SKY SPORTS MAIN EVENTS [HD]
+http://tvpanel.one:80/live/den9179/611carc/586760.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsPremereLeague.png",SKY SPORTS PREMIER LEAGUE [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsPremereLeague.png",SKY SPORTS PREMIER LEAGUE [HD]
+http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsFootball.png",SKY SPORTS FOOTBALL [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsFootball.png",SKY SPORTS FOOTBALL [HD]
+http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsCricket.png",SKY SPORTS CRICKET [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586765.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsCricket.png",SKY SPORTS CRICKET [HD]
+http://tvpanel.one:80/live/den9179/611carc/586766.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsGolf.png",SKY SPORTS GOLF [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586767.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsGolf.png",SKY SPORTS GOLF [HD]
+http://tvpanel.one:80/live/den9179/611carc/586768.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Sports%20NFL.png",SKY SPORTS NFL [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586769.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sky%20Sports%20NFL.png",SKY SPORTS NFL [HD]
+http://tvpanel.one:80/live/den9179/611carc/586770.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsAction.png",SKY SPORTS ACTION [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586771.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsAction.png",SKY SPORTS ACTION [HD]
+http://tvpanel.one:80/live/den9179/611carc/586772.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsArena.png",SKY SPORTS ARENA [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586773.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsArena.png",SKY SPORTS ARENA [HD]
+http://tvpanel.one:80/live/den9179/611carc/586774.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsF1.png",SKY SPORTS F1 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586775.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsF1.png",SKY SPORTS F1 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Sky%20Sports%20Racing.png",SKY SPORTS RACING [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586777.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Sky%20Sports%20Racing.png",SKY SPORTS RACING [HD]
+http://tvpanel.one:80/live/den9179/611carc/586778.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsMix.png",SKY SPORTS MIX [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586779.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/SkySportsMix.png",SKY SPORTS MIX [HD]
+http://tvpanel.one:80/live/den9179/611carc/586780.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSport1.png",BT SPORTS 1 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586781.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSport1.png",BT SPORT 1 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586782.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSport2.png",BT SPORTS 2 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586783.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSport2.png",BT SPORT 2 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586784.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSport3.png",BT SPORTS 3 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586785.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSport3.png",BT SPORTS 3 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586786.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSportEspn.png",BT SPORTS ESPN [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586787.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BtSportEspn.png",BT SPORTS ESPN [HD]
+http://tvpanel.one:80/live/den9179/611carc/586788.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/British%20EuroSport%201.png",EUROSPORTS 1 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586801.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/British%20EuroSport%201.png",EUROSPORTS 1 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586802.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/British%20EuroSport%202.png",EUROSPORTS 2 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586803.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/British%20EuroSport%202.png",EUROSPORTS 2 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586804.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Premier%20Sports%201.png",PREMIER SPORTS 1 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586809.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Premier%20Sports%201.png",PREMIER SPORTS 1 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586810.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Premier%20Sports%202.png",PREMIER SPORTS 2 [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586811.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Premier%20Sports%202.png",PREMIER SPORTS 2 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586812.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/MUTV.png",MUTV [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586813.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/MUTV.png",MUTV [HD]
+http://tvpanel.one:80/live/den9179/611carc/586814.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/LFC%20TV.png",LFC [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586815.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/LFC%20TV.png",LFC HD [HD]
+http://tvpanel.one:80/live/den9179/611carc/586816.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/FreeSports.png",FREESPORTS [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586817.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/FreeSports.png",FREESPORTS [HD]
+http://tvpanel.one:80/live/den9179/611carc/586818.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Racing%20UK.png",RACING UK [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586819.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Racing%20UK.png",RACING UK [HD]
+http://tvpanel.one:80/live/den9179/611carc/586820.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BoxNation.png", BOXNATION [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586821.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/BoxNation.png",BOXNATION [HD]
+http://tvpanel.one:80/live/den9179/611carc/586822.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/GinxEsportsTv.png",GINX ESPORT [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586823.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/GinxEsportsTv.png",GINX ESPORTS [HD]
+http://tvpanel.one:80/live/den9179/611carc/586824.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sporty%20stuff%20tv.png",SPORTY STUFF TV [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586825.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20Flow%201%20%28FL%29.png",Flow Sports 1
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u89MR2aofD1XYoSrd9D-1kc/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20Flow%20Sports.png",Flow Sports 2
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u2xJ9OU3s3A0kFxS6VC5tHw/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20SportsMax%201.png",SportsMax 1
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u446J7WJR-cIg66adxpZzB4/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20SportsMax%202.png",SportsMax 2
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u4qTwYNXnKvugQQBY3uL_YY/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Rush.png",Rush Sports
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u_U7S7YDvFEIgyM6qG5sZrU/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Rush%2002.png",Rush Sports Plus
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxwVloSi1Jd1svXofe--cgg/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",BOX NATION UK
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxzRPe9qFQXtuRVR_Z6tNuw/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport1_uk.png",BT Sport 1 HD
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u5tfvnc75HgOZrJD2sEX_sk/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport2_uk.png",BT Sport 2 HD
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxU_UnZU8ty8sKzwKkjsUkY/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsport3_uk.png",BT Sport 3 HD
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u1pHMbe2XV9RGChgldPQ_T0/m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT Sport 4 HD
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u18NHBVzQHoorzu3ccLQwO4/m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
 http://ky-iptv.com:80/live/nello123/nello123/1116408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png",A SPORTS TV
