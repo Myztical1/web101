@@ -265,7 +265,6 @@ http://ip365.cx:900/8279091393/1687445016/400280894
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
 http://ip365.cx:900/8279091393/1687445016/400318022
 
-
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",Islamic Broadcasting Network
@@ -605,25 +604,25 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (East)
 http://fortv.cc:8080/chris2/chris2/13220
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (West)
-http://edge.bz:8080/007/007/56053
+http://edge.bz:8080/reg/reg/56053
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (East)
 http://fortv.cc:8080/chris2/chris2/13481
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (West)
-http://edge.bz:8080/007/007/56054
+http://edge.bz:8080/reg/reg/56054
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-next.jpg",Showtime Next (East)
-http://edge.bz:8080/007/007/1057
+http://edge.bz:8080/reg/reg/1057
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-next.jpg",Showtime Next (West)
-http://edge.bz:8080/007/007/56055
+http://edge.bz:8080/reg/reg/56055
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (East)
-http://edge.bz:8080/007/007/836
+http://edge.bz:8080/reg/reg/836
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (West)
-http://edge.bz:8080/007/007/56050
+http://edge.bz:8080/reg/reg/56050
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE HD
 http://89.187.175.143:80/3102/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (East)
 http://fortv.cc:8080/chris2/chris2/17778
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (West)
-http://edge.bz:8080/007/007/56056
+http://edge.bz:8080/reg/reg/56056
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (East)
 http://89.187.175.143:80/3035/index.m3u8
 http://fortv.cc:8080/chris2/chris2/9299
@@ -631,88 +630,88 @@ http://fortv.cc:8080/chris2/chris2/9299
 http://fortv.cc:8080/chris2/chris2/21091
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY
 http://89.187.175.143:80/3041/index.m3u8
-http://edge.bz:8080/007/007/848
+http://edge.bz:8080/reg/reg/848
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY (WEST)
-http://edge.bz:8080/007/007/56061
+http://edge.bz:8080/reg/reg/56061
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (East)
 http://89.187.175.143:80/3103/index.m3u8
 http://fortv.cc:8080/chris2/chris2/17775
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (West)
-http://edge.bz:8080/007/007/56060
+http://edge.bz:8080/reg/reg/56060
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (East)
 http://fortv.cc:8080/chris2/chris2/17779
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (West)
-http://edge.bz:8080/007/007/56070
+http://edge.bz:8080/reg/reg/56070
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (East)
 http://89.187.175.143:80/3043/index.m3u8
-http://edge.bz:8080/007/007/1056
+http://edge.bz:8080/reg/reg/1056
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (West)
-http://edge.bz:8080/007/007/56054
+http://edge.bz:8080/reg/reg/56054
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge (East)
-http://edge.bz:8080/007/007/849
+http://edge.bz:8080/reg/reg/849
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge (West)
-http://edge.bz:8080/007/007/56062
+http://edge.bz:8080/reg/reg/56062
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore (East)
-http://edge.bz:8080/007/007/850
+http://edge.bz:8080/reg/reg/850
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore (West)
-http://edge.bz:8080/007/007/56063
+http://edge.bz:8080/reg/reg/56063
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore (West)erns (East)
 http://fortv.cc:8080/chris2/chris2/16263
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore (West)erns (West)
-http://edge.bz:8080/007/007/56069
+http://edge.bz:8080/reg/reg/56069
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreaction.png",Starz Encore Action (East)
-http://edge.bz:8080/007/007/3273
+http://edge.bz:8080/reg/reg/3273
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreaction.png",Starz Encore Action (West)
-http://edge.bz:8080/007/007/56064
+http://edge.bz:8080/reg/reg/56064
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black (East)
-http://edge.bz:8080/007/007/3274
+http://edge.bz:8080/reg/reg/3274
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black (West)
-http://edge.bz:8080/007/007/56065
+http://edge.bz:8080/reg/reg/56065
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic (East)
-http://edge.bz:8080/007/007/3275
+http://edge.bz:8080/reg/reg/3275
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic (West)
-http://edge.bz:8080/007/007/56066
+http://edge.bz:8080/reg/reg/56066
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family (East)
-http://edge.bz:8080/007/007/3276
+http://edge.bz:8080/reg/reg/3276
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family (West)
-http://edge.bz:8080/007/007/56067
+http://edge.bz:8080/reg/reg/56067
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense (East)
-http://edge.bz:8080/007/007/3277
+http://edge.bz:8080/reg/reg/3277
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense (West)
-http://edge.bz:8080/007/007/56068
+http://edge.bz:8080/reg/reg/56068
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA ACTION
 http://ip365.cx:900/8279091393/1687445016/191727
 http://fortv.cc:8080/chris2/chris2/35254
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA ANIMATION
 http://fortv.cc:8080/chris2/chris2/53698
-http://edge.bz:8080/007/007/56316
+http://edge.bz:8080/reg/reg/56316
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA COMEDY
 http://fortv.cc:8080/chris2/chris2/35253
-http://edge.bz:8080/007/007/1070
+http://edge.bz:8080/reg/reg/1070
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA DRAMA
 http://fortv.cc:8080/chris2/chris2/35251
-http://edge.bz:8080/007/007/1072
+http://edge.bz:8080/reg/reg/1072
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA FAMILY
 http://fortv.cc:8080/chris2/chris2/53699
-http://edge.bz:8080/007/007/1073
+http://edge.bz:8080/reg/reg/1073
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA GREATS
 http://fortv.cc:8080/chris2/chris2/35249
-http://edge.bz:8080/007/007/1076
+http://edge.bz:8080/reg/reg/1076
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA HITS
 http://fortv.cc:8080/chris2/chris2/35255
-http://edge.bz:8080/007/007/1077
+http://edge.bz:8080/reg/reg/1077
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA PREMIERE
 http://fortv.cc:8080/chris2/chris2/35256
-http://edge.bz:8080/007/007/1074
+http://edge.bz:8080/reg/reg/1074
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA SCI-FI HORROR
 http://fortv.cc:8080/chris2/chris2/35248
-http://edge.bz:8080/007/007/1078
+http://edge.bz:8080/reg/reg/1078
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA SELECT
 http://ip365.cx:900/8279091393/1687445016/153764
-http://edge.bz:8080/007/007/1075
+http://edge.bz:8080/reg/reg/1075
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA THRILLER
 http://fortv.cc:8080/chris2/chris2/35252
-http://edge.bz:8080/007/007/1079
+http://edge.bz:8080/reg/reg/1079
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
 http://89.187.175.143:80/3012/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png",THRILLERMAX HD
@@ -1652,6 +1651,111 @@ http://89.187.175.143:80/4112/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/f3/d1f34ee1186cd4949e657875fabb82dd/d1f34ee1186cd4949e657875fabb82dd.jpg",LOONEY TUNES
 http://89.187.175.143:80/4117/index.m3u8
 
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Action
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4286.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Animation
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4287.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Bollywood
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4288.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Classic
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4289.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Comedy
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4290.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Drama
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4291.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Horror
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4292.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] SCi-Fi
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4293.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",[NETFLIX] Thriller
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4294.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Netflix 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15204.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Netflix 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15205.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Netflix 3
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15206.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14012.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14013.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood 3
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14014.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood 4
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15199.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood 5
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15200.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood 6
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15201.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood BoxOffice 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15202.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood BoxOffice 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15203.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood BoxOffice 3
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14015.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hollywood BoxOffice 4
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14016.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Bollywood 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14009.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Bollywood 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14010.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Bollywood 3
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14011.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kids 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14000.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kids 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14001.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kids 3
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14002.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kids 4
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15207.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kids 5
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15208.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kids 6
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15209.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Tom And Jerry 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14003.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Tom And Jerry 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14004.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Anime 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14005.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Anime 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14006.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mr Bean
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror 1" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Horror 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horror 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Horror 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4283.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Horror 3
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi 1" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Sci-Fi 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sci Fi 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Sci Fi 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action 1" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Action 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Action 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adventure 1" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Adventure 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adventure 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Adventure 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy 1" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Comedy 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Comedy 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama 1" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Drama 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Drama 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family 1" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Family 1
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Family 2
+http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4281.m3u8
+
+
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://ih1.redbubble.net/image.1494531644.9393/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",OAN HD
 http://89.187.175.143:80/3117/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://logodix.com/logo/1638510.jpg",INFO WARS
@@ -2059,7 +2163,6 @@ http://tvpanel.one:80/live/den9179/611carc/586823.m3u8
 http://tvpanel.one:80/live/den9179/611carc/586824.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sporty%20stuff%20tv.png",SPORTY STUFF TV [FHD]
 http://tvpanel.one:80/live/den9179/611carc/586825.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
 http://ky-iptv.com:80/live/nello123/nello123/1116408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png",A SPORTS TV
@@ -2130,16 +2233,6 @@ http://ky-iptv.com:80/nello123/nello123/1847084.m3u8
 http://ky-iptv.com:80/nello123/nello123/1769168.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/d860c20ab01452c240fc15100677c5a6.png",UK Sky Sports MIX
 http://ky-iptv.com:80/nello123/nello123/1847433.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/a650f775f55669ec398008291ab0b634.png",BOXNATION
-http://mains.services:2086/live/stanleyg/6916329/67081.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 01
-http://mains.services:2086/live/stanleyg/6916329/67062.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 02
-http://mains.services:2086/live/stanleyg/6916329/67063.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 03
-http://mains.services:2086/live/stanleyg/6916329/67075.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 04
-http://mains.services:2086/live/stanleyg/6916329/67076.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS
 https://glxlmn026c.singularcdn.net.br:443/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS 2
@@ -2150,22 +2243,6 @@ https://glxlmn026c.singularcdn.net.br:443/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br:443/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/WVBs4kk/1e66338dc8e1.jpg",TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br:443/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsport1_uk.png",BT SPORT 1 FHD
-http://etc12.xyz/0716085876/8713725668/153714
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsport2_uk.png",BT SPORT 2 FHD
-http://etc12.xyz/0716085876/8713725668/153716
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsport3_uk.png",BT SPORT 3 FHD
-http://etc12.xyz/0716085876/8713725668/153718
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT SPORT 4 FHD
-http://etc12.xyz/0716085876/8713725668/13716
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsport1_uk.png",BT SPORT 1 SD
-http://etc12.xyz/0716085876/8713725668/153715
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsport2_uk.png",BT SPORT 2 SD
-http://etc12.xyz/0716085876/8713725668/153717
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsport3_uk.png",BT SPORT 3 SD
-http://etc12.xyz/0716085876/8713725668/153719
-#EXTINF:-1 group-title=" SPORTS" tvg-logo="https://epg4you.com/logos/btsportespn_uk.png",BT SPORT 4 SD
-http://etc12.xyz/0716085876/8713725668/13717
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",BOX NATION
 http://ys-users.com:8080/live/christa/christa/428235.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 1
