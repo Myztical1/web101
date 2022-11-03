@@ -1593,14 +1593,14 @@ https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png",Flicks of Fury
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.imgur.com/VcwHims.png",Kung Fu Movies
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png",Hi-YAH!
-https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8?ads.plex_token=sxSk2EVpp6-nxqo2RZHa&ads.plex_id=5f64c4ef35f612003f6ffe30&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+hhttps://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://www.thewutangcollection.com/themes/custom/gmg/wutang/logo.png",Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://sm.ign.com/t/ign_za/cover/j/jet-li/jet-li_2fwf.200.jpg",JET LI MOVIES
 http://edge.bz:8080/stesta/stesta/102334
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://j3n2j7f2.rocketcdn.me/wp-content/uploads/2020/07/jackie-chan.jpg",JACKIE CHAN MOVIES
@@ -1891,10 +1891,14 @@ http://tvpanel.one:80/live/den9179/611carc/548947.m3u8
 http://tvpanel.one:80/live/den9179/611carc/548948.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://archive.org/download/tvlogos/viceland.png",VICE
 http://tvpanel.one:80/live/den9179/611carc/548949.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/KLBorkM.png", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://apkmodhub.in/wp-content/uploads/2020/12/magellantv-documentaries.png",MagellanTV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://demotix.com/wp-content/uploads/2019/07/Forensic-Files.jpg",Pluto TV Forensic Files (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/77OXe64.jpg",Real Stories
 https://lds-realstories-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstoriessimplestream/CDN/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/kwdX93h.jpg",Real Crime
@@ -1905,16 +1909,20 @@ https://lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild
 https://lds-realfamilies-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-real-families-simplestream/CDN/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/1rrVdP4.jpg",Timeline
 https://lds-timeline-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-timelinesimplestream/CDN/master.m3u8
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/0JgIMYA.jpg",Wonder
 https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/1h9abQi.jpg",Don`t Tell The Bride UK
 https://lds-donttellbride-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-donttellthebride-simplestream/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41nfQ8XrRPL._SX940_.jpg",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://blogtiv.com/i/69863270008.png",Xplore (1080p)
+https://xplore-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/fc93c4557615bcee97ff9fcfa7231f1a.jpg", Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/lovenature4k.png",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/KLBorkM.png", Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
@@ -1983,6 +1991,7 @@ https://pac12-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/c550bde9_D0CF72b/posters/ead74bb8c65dd6d46a6316a9640a1637/ead74bb8c65dd6d46a6316a9640a1637.jpg",Campuslore
 https://linear-235.frequency.stream/dist/sportstribaltv/235/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/33137bc3_D0CF72b/posters/fc0321cc3e94053d2a9ea6588631239a/fc0321cc3e94053d2a9ea6588631239a.jpg",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/aaa75123_D0CF72b/posters/43d5cf94e16aa4603b6976044944c97d/43d5cf94e16aa4603b6976044944c97d.png",Poker Night
 https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-SportsTribal/216.m3u8?content_title=Poker+night&channel_name=Poker+night&channel_partner=Poker+night&content_genre=Poker&t=2022-02-14T23%3A06%3A24.000&content_id=aaa75123_20220214230624_D0CF72b&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F98.0.4758.82+Safari%2F537.36&ads.ip=193.32.210.156&ads.user_consent=CPUXf1BPUXf1BAcABBENCCCsAP_AAH_AAChQIltf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhfdt-8N3f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f_7-3_3__5_3---_e_V_99zLv9____39nP___9v-_9_____4IhgEmGpeQBdmWODJtGlUKIEYVhIdAKACigGFoisIHVwU7K4CfUELABCagJwIgQYgowYBAAIJAEhEQEgB4IBEARAIAAQAqQEIACNgEFgBYGAQACgGhYgRQBCBIQZHBUcpgQFSLRQT2ViCUHexphCGWeBFAo_oqEBGs0QLAyEhYOY4AkBLxZIHmKF8gAAAAA.f_gAD_gAAAAA&mute=false&gdpr=1
@@ -2033,6 +2042,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1869&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/348eed1b_D0CF72b/posters/be7576ef26e0d36600f1bb7ad5668d37/be7576ef26e0d36600f1bb7ad5668d37.jpg",Choppertown    
 https://linear-11.frequency.stream/dist/sportstribaltv/11/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/1a906a22_D0CF72b/posters/95bffcb90321e163a045a5e3540c9f7a/95bffcb90321e163a045a5e3540c9f7a.png",Hard Knocks
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/208db9b3_D0CF72b/posters/52f3173a4c888ce3544472913e6b18a2/52f3173a4c888ce3544472913e6b18a2.png",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
