@@ -1606,7 +1606,7 @@ http://edge.bz:8080/stesta/stesta/102334
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://j3n2j7f2.rocketcdn.me/wp-content/uploads/2020/07/jackie-chan.jpg",JACKIE CHAN MOVIES
 http://edge.bz:8080/stesta/stesta/54269
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://www.korsgaardscommentary.com/wp-content/uploads/blogger/_h58DRnMe8bw/TPcbsEgsA5I/AAAAAAAAAFQ/9rfxvZi4wn8/s1600/bruce_lee.jpg",BRUCE LEE MOVIES
-http://edge.bz:8080/stesta/stesta/110769
+https://is.gd/fcbR1k
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://www.freepngimg.com/thumb/chuck_norris/37613-5-chuck-norris-photos.png",CHUCK NORRIS MOVIES
 http://edge.bz:8080/stesta/stesta/117229
 
@@ -1754,36 +1754,11 @@ http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Family 2" tvg-logo="https://www.alroeya.com/uploads/images/2020/03/19/768480.jpg",Family 2
 http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4281.m3u8
 
-
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://ih1.redbubble.net/image.1494531644.9393/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",OAN HD
-http://89.187.175.143:80/3117/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://logodix.com/logo/1638510.jpg",INFO WARS
-http://89.187.175.143:80/4179/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://clipground.com/images/bloomberg-tv-logo-png-8.png",BLOOMBERG HD
-http://89.187.175.143:80/3086/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.parsatv.com/index_files/channels/newsmax.png",NEWSMAX TV
-http://89.187.175.143:80/4182/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg",CNBC HD
-http://89.187.175.143:80/3079/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://clipground.com/images/weather-channel-logo-png-4.png",THE WEATHER CHANNEL HD
-http://89.187.175.143:80/3081/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
-http://89.187.175.143:80/3078/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS CHANNEL HD
-http://89.187.175.143:80/3101/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/4cce7aeeb97272c9fc7a568ad8760ba9.png",FOX BUSINESS NETWORK HD
-http://89.187.175.143:80/3089/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png",CBS NEWS HD
-http://89.187.175.143:80/3087/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CBSKREX.us.png",CBS 4 MIAMI HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",FOX 7 AUSTIN TX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9
 http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9 HD
-http://89.187.175.143:80/3109/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://image.pbs.org/bento3-prod/southfloridapbs/371220d04f_ed4727b385_StationImages-WPBT.png",South Florida PBS
 http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a6/MyTV33_2011.jpg",MY 33
@@ -1814,6 +1789,29 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chun
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1920px-WGN_9_logo.svg.png",WGN 9 HD
+http://89.187.175.143:80/3109/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://ih1.redbubble.net/image.1494531644.9393/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",OAN HD
+http://89.187.175.143:80/3117/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://logodix.com/logo/1638510.jpg",INFO WARS
+http://89.187.175.143:80/4179/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://clipground.com/images/bloomberg-tv-logo-png-8.png",BLOOMBERG HD
+http://89.187.175.143:80/3086/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.parsatv.com/index_files/channels/newsmax.png",NEWSMAX TV
+http://89.187.175.143:80/4182/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg",CNBC HD
+http://89.187.175.143:80/3079/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://clipground.com/images/weather-channel-logo-png-4.png",THE WEATHER CHANNEL HD
+http://89.187.175.143:80/3081/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
+http://89.187.175.143:80/3078/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS CHANNEL HD
+http://89.187.175.143:80/3101/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/4cce7aeeb97272c9fc7a568ad8760ba9.png",FOX BUSINESS NETWORK HD
+http://89.187.175.143:80/3089/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png",CBS NEWS HD
+http://89.187.175.143:80/3087/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CBSKREX.us.png",CBS 4 MIAMI HD
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Quest_logo.png",QUEST
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
@@ -2689,123 +2687,103 @@ http://89.187.175.143:80/4155/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Music_Choice_1995.png",MUSIC CHOICE ROCK
 http://89.187.175.143:80/4159/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ADULT ALTERNATIVE
-http://edge.bz:8080/007/007/106396
+http://edge.bz:8080/max/max/106396
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ALL DAY PARTY
-http://edge.bz:8080/007/007/106397
+http://edge.bz:8080/max/max/106397
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ALTERNATIVE
-http://edge.bz:8080/007/007/106421
+http://edge.bz:8080/max/max/106421
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ALTERNATIVE (USA)
-http://edge.bz:8080/007/007/58092
+http://edge.bz:8080/max/max/58092
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY BIG BAND
-http://edge.bz:8080/007/007/106398
+http://edge.bz:8080/max/max/106398
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY BILLBOARD
-http://edge.bz:8080/007/007/106424
+http://edge.bz:8080/max/max/106424
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSIC MASTERS
-http://edge.bz:8080/007/007/106399
+http://edge.bz:8080/max/max/106399
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSIC ROCK
-http://edge.bz:8080/007/007/106400
+http://edge.bz:8080/max/max/106400
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSIC ROCK (USA)
-http://edge.bz:8080/007/007/58093
+http://edge.bz:8080/max/max/58093
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSICA
-http://edge.bz:8080/007/007/45199
+http://edge.bz:8080/max/max/45199
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY COUNTRY CLASSICS
-http://edge.bz:8080/007/007/106401
+http://edge.bz:8080/max/max/106401
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY DANCE CLUBBING
-http://edge.bz:8080/007/007/106402
+http://edge.bz:8080/max/max/106402
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY EASY LISTENING
-http://edge.bz:8080/007/007/106403
+http://edge.bz:8080/max/max/106403
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY EXITOS DEL MOMENTO
-http://edge.bz:8080/007/007/58094
+http://edge.bz:8080/max/max/58094
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY EXITOS REGIONAL
-http://edge.bz:8080/007/007/106413
+http://edge.bz:8080/max/max/106413
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY FLASHBACK 70'S
-http://edge.bz:8080/007/007/106404
+http://edge.bz:8080/max/max/106404
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY FLASHBACK 70'S (USA)
-http://edge.bz:8080/007/007/58095
+http://edge.bz:8080/max/max/58095
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY GREATEST HITS
-http://edge.bz:8080/007/007/106405
+http://edge.bz:8080/max/max/106405
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY GREATEST HITS (USA)
-http://edge.bz:8080/007/007/56089
+http://edge.bz:8080/max/max/56089
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HINDI GOLD
-http://edge.bz:8080/007/007/106406
+http://edge.bz:8080/max/max/106406
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIP HOP
-http://edge.bz:8080/007/007/106407
+http://edge.bz:8080/max/max/106407
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIP HOP/R&B
-http://edge.bz:8080/007/007/106429
+http://edge.bz:8080/max/max/106429
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIP HOP/R&B (USA)
-http://edge.bz:8080/007/007/58091
+http://edge.bz:8080/max/max/58091
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIT LIST
-http://edge.bz:8080/007/007/106408
+http://edge.bz:8080/max/max/106408
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIT LIST (USA)
-http://edge.bz:8080/007/007/56090
+http://edge.bz:8080/max/max/56090
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HOT COUNTRY
-http://edge.bz:8080/007/007/106409
+http://edge.bz:8080/max/max/106409
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HOT COUNTRY (USA)
-http://edge.bz:8080/007/007/56091
+http://edge.bz:8080/max/max/56091
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY JAZZ CLASSIC
-http://edge.bz:8080/007/007/106410
+http://edge.bz:8080/max/max/106410
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY JUKEBOX OLDIES
-http://edge.bz:8080/007/007/106411
+http://edge.bz:8080/max/max/106411
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY KIDS STUFF
-http://edge.bz:8080/007/007/106412
+http://edge.bz:8080/max/max/106412
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY LOUD
-http://edge.bz:8080/007/007/42332
+http://edge.bz:8080/max/max/42332
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY NATURE
-http://edge.bz:8080/007/007/106414
+http://edge.bz:8080/max/max/106414
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY NATURESCAPE
-http://edge.bz:8080/007/007/42339
+http://edge.bz:8080/max/max/42339
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY POP ADULT
-http://edge.bz:8080/007/007/106415
+http://edge.bz:8080/max/max/106415
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY POP ADULT (USA)
-http://edge.bz:8080/007/007/56092
+http://edge.bz:8080/max/max/56092
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY POP CLASSIC
-http://edge.bz:8080/007/007/106416
+http://edge.bz:8080/max/max/106416
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY QELLO
-http://edge.bz:8080/007/007/42337
+http://edge.bz:8080/max/max/42337
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY REGGAETON
-http://edge.bz:8080/007/007/106417
+http://edge.bz:8080/max/max/106417
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY REMEMBER THE 80'S
-http://edge.bz:8080/007/007/106418
+http://edge.bz:8080/max/max/106418
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY REMEMBER THE 80'S (USA)
-http://edge.bz:8080/007/007/58097
+http://edge.bz:8080/max/max/58097
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY RETRO
-http://edge.bz:8080/007/007/42333
+http://edge.bz:8080/max/max/42333
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY R'N'B & SOUL
-http://edge.bz:8080/007/007/106419
+http://edge.bz:8080/max/max/106419
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ROCK
-http://edge.bz:8080/007/007/106420
+http://edge.bz:8080/max/max/106420
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY SILK
-http://edge.bz:8080/007/007/106422
+http://edge.bz:8080/max/max/106422
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY SMOOTH JAZZ
-http://edge.bz:8080/007/007/106423
+http://edge.bz:8080/max/max/106423
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY THE BLUES
-http://edge.bz:8080/007/007/106425
+http://edge.bz:8080/max/max/106425
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY THE CHILL LOUNGE
-http://edge.bz:8080/007/007/106426
+http://edge.bz:8080/max/max/106426
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY THE SPA
-http://edge.bz:8080/007/007/106427
+http://edge.bz:8080/max/max/106427
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY TODAY'S K-POP
-http://edge.bz:8080/007/007/106428
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO R&B
-http://edge.bz:8080/007/007/125391
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO 70s
-http://edge.bz:8080/007/007/125392
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO 80s
-http://edge.bz:8080/007/007/125393
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO 90s
-http://edge.bz:8080/007/007/125394
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO 2K
-http://edge.bz:8080/007/007/125395
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO COUNTRY
-http://edge.bz:8080/007/007/125387
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO HIP-HOP
-http://edge.bz:8080/007/007/125388
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO LATINO
-http://edge.bz:8080/007/007/125389
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO POP
-http://edge.bz:8080/007/007/125390
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e2/Vevothumbnailbanner.png",VEVO REGGAETON & TRAP
-http://edge.bz:8080/007/007/125396
+http://edge.bz:8080/max/max/106428
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.to/xxrz/250x400/588/68/be/68be0ebcc5f6f4afe34ede6826d7ff71/68be0ebcc5f6f4afe34ede6826d7ff71.jpg",American Murderer (2022)
 https://e-3.dokicloud.one/_v8/cbb6e8d38cdbd8fa64f2f6c2b2c005056c27e40d48e43b57301ca64f7d6858f845d2e6df48207fa60352195eba472806061b627b054550a959791f81dc2b0893328d529d5ba0d1d2a5c7eb3a6a08e10ea8714a9758c2ad4c20b9f71a64c17a7686e715e1f21b065de46e87fbdb264b2e8620386da15e4da1e7d21a1a1a51e4c5/playlist.m3u8
@@ -3444,54 +3422,6 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",LONGHORN
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 720
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 721
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 722
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 723
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 724
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 725
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 726
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 727
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 728
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 729
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 730
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 731
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 732
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 733
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 734
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 735
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 736
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 737
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 738
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 739
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 740
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 742
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 744
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLB 746
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MLBSTRIKEZONE
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/594.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",MOTORSPORT
@@ -3754,34 +3684,6 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NATGEO KIDS
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 01
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 02
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/740.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 03
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/741.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 04
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/742.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 05
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 06
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/744.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 07
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/745.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 08
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 09
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 10
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 11
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/749.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 12
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/750.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 13
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/751.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS 14
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NFL GAMEPASS REDZONE
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",Nickelodeon HD (ENG)
@@ -4358,108 +4260,6 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",ABC Miami
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-16
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-15
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-14
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-13
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1130.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-12
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-11
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-10
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-9
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1134.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-8
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-7
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-6
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-5
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-4
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-3
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-2
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-1
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-21
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1144.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-20
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1145.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-19
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1146.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-18
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1147.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-17
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1148.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-16
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1149.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-15
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1150.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-14
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1151.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-13
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1152.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-12
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1153.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-11
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1154.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-10
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1155.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-9
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1156.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-8
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1157.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-7
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1158.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-6
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1159.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-5
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1160.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-4
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1161.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-3
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1162.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-2
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NHL-1
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-30
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-29
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-28
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-27
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-26
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-25
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-24
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-23
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-22
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-21
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-20
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-19
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-18
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBA-17
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",NBC-Kansas
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179.m3u8
 #EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",Fox-Sports-Kansas
