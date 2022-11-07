@@ -18,6 +18,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
+http://iptv365.xyz:900/3466728943/2409790912/76411
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://is.gd/NAEBK7
@@ -44,21 +45,17 @@ http://iptv365.xyz:900/3466728943/2409790912/195830
 http://iptv365.xyz:900/3466728943/2409790912/376159
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/synerg.png",CAR| SYNERGY HD
 http://iptv365.xyz:900/3466728943/2409790912/400208904
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| TV JAAGRITI SD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",CAR| TV JAAGRITI SD
 http://iptv365.xyz:900/3466728943/2409790912/76409
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| TRINITY SD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",CAR| TRINITY SD
 http://iptv365.xyz:900/3466728943/2409790912/76410
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| SANKHYA TV HD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209654_sankeyah-tv.jpeg",CAR| SANKHYA TV HD
 http://iptv365.xyz:900/3466728943/2409790912/710920
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| TEMPO HD
-http://iptv365.xyz:900/3466728943/2409790912/76411
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| RUSH + HD
-http://iptv365.xyz:900/3466728943/2409790912/76412
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| IETV HFD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Ietv.jpg/200px-Ietv.jpg",CAR| IETV HFD
 http://iptv365.xyz:900/3466728943/2409790912/76413
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| IBN HD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://ibntelevision.com/wp-content/themes/ibn/img/logo.png",CAR| IBN HD
 http://iptv365.xyz:900/3466728943/2409790912/76414
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| GAYELLE THE CARIBBEAN HD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",CAR| GAYELLE THE CARIBBEAN HD
 http://iptv365.xyz:900/3466728943/2409790912/76415
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tten.png",CAR| TTEN TRINIDAD SD
 http://iptv365.xyz:900/3466728943/2409790912/195893
@@ -126,13 +123,13 @@ http://iptv365.xyz:900/3466728943/2409790912/376220
 http://iptv365.xyz:900/3466728943/2409790912/376219
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/calac.png",CAR| CALA ACTION HD
 http://iptv365.xyz:900/3466728943/2409790912/400318027
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| CALA WESTERN FHD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/fa3559f1-a31b-456c-b07b-a0d6822c53e9/calawestern_home.png",CAR| CALA WESTERN FHD
 http://iptv365.xyz:900/3466728943/2409790912/76416
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| CALA WEATHER FHD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/89f358e3-04d3-4057-9d82-fba2a724eaaa/channel-weather.png",CAR| CALA WEATHER FHD
 http://iptv365.xyz:900/3466728943/2409790912/76417
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| CALA CLASSIC FHD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/e7365b46-42ca-47de-beba-86924e474941/calaclassics_home.png",CAR| CALA CLASSIC FHD
 http://iptv365.xyz:900/3466728943/2409790912/76418
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CAR| CALA BASH FHD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://freebietvshows.org/wp-content/uploads/calabash-tv.png",CAR| CALA BASH FHD
 http://iptv365.xyz:900/3466728943/2409790912/76419
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbocar.png",CAR| HBO CARIBBEAN FHD
 http://iptv365.xyz:900/3466728943/2409790912/195843
@@ -182,6 +179,8 @@ http://iptv365.xyz:900/3466728943/2409790912/376215
 http://iptv365.xyz:900/3466728943/2409790912/376145
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flwsp2.png",CAR| FLOW SPORTS 2 FHD
 http://iptv365.xyz:900/3466728943/2409790912/376144
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://therushchannel.com/wp-content/uploads/2021/02/rush_logo_menu.png",CAR| RUSH + HD
+http://iptv365.xyz:900/3466728943/2409790912/76412
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
