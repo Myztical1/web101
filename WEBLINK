@@ -230,180 +230,240 @@ http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",3ABN Kids Network
 https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
 
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/cinemax.png",Cinemax East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u27E0wzEuGYsuilS9n-JVmE/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/cinemax.png",Cinemax West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uypQzM_p1rS8cw_yc7E7hVo/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/actionmax.png",Cinemax ActionMax East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u8WR8hWkj5jDooQEs8cioLM/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/actionmax.png",Cinemax ActionMax West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uznaMnA_cGb62mmnS2b1J4Y/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/moremax.png",Cinemax Moremax East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxsbyR54Oa-Rn5u43rGxN88/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/moremax.png",Cinemax Moremax West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u-2SWmda5LsC5bPySaEDEjM/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/outermax.png",Cinemax OuterMax
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u5CpG-_INkxp33eo67ioPOo/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/thrillermax.png",Cinemax ThrillerMax East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxJ921CO7yg-McczGLu5WsY/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/thrillermax.png",Cinemax ThrillerMax West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u9EeHbOuWkRFUenpC5muHiI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/moviemax.png",Cinemax Moviemax East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uydKxy5GliDJOz9hwMxq0cU/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/5starmax.png",Cinemax 5StarMax East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u9pgUaC_jI8qxatAcab1W4w/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/epix.png",Epix
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u7AnFqdu6SVE9cq3_DjxbXc/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/epix2.png",Epix 2
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u1kUbmw0LR-vREYCwj0Sbw4/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/epixdrive.png",EPIX Drive
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uw10HvmI9XycSX4pfgZJfvw/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/epix-hits.png",Epix Hits
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uwAQSTR3C_lnZTPbBVWf518/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/c1/c1ead781c5ad138797a5b2792fbd77a6.jpeg",Flix
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u9wEetUmWnx6WOtpZ7p6Wfg/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-comedy.png",HBO East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u3SoPLJjdIHJOlWM6v___B0/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-comedy.png",HBO West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u-Y101alxpHv7fBXCOw0xRk/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-comedy.png",HBO Comedy East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u0ZwahDpc7BGKqNQXhZ8_gE/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-comedy.png",HBO Comedy West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u72ALqf1Oz37qh0cDc4xki0/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-family.png",HBO Family East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u42J7-uKu4R3NyUaxRqKpQw/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-family.png",HBO Family West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u9F5Qrzteox7iBEbDsMhGiA/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-signature.png",HBO Signature East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uyVmSD-ocd0IW8o9lYKGLNQ/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-signature.png",HBO Signature West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxm1ULN_jYzYlh2QOypCYZU/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-zone.png",HBO Zone East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uyUZUwC1z5VU-28GM6gtTcs/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo-zone.png",HBO Zone West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u4SJGRC1vs7bOwL74vw1ysI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo2.png",HBO2 East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u_Gm9PGjUdWwnQlbs7JP4Hc/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hbo2.png",HBO2 West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uwsGzAzTxPwS32OASYNND6I/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/hdnet.png",HD Net Movies
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u28mu6M0JYT1kC2C4dfN4ig/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/indieplex.png",Indieplex East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u5T_zMwa83jrO4nGzAsESao/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/indieplex.png",IndiePlex West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u0l5-GKgjsgGkJHf7dbgcZc/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/movieplex.png",Movieplex East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u8OEApClWelDj4KEJkr8TBg/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/movieplex.png",MoviePlex West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u6-xxp8mQ9JjW0hED6EV9eM/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/retroplex.png",Retroplex East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u7ZdfL9e4nu42-LmEifYG-Y/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/retroplex.png",RetroPlex West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u2MoByXKHmbS_BzSRPrrrJ8/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/screenpix.png",Screenpix
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u1cogh29mtKwzk7UYG3NzSk/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/screenpixaction.png",Screenpix Action
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u_25fl8NLVN4t5FlCCnvKT4/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/screenpixvoices.png",Screenpix Voices
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uwVTCVZTdDcjM9wate_uwHg/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/screenpixwesterns.png",Screenpix Westerns
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u4h641--uZcBQuxdx49FqbI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime.png",Showtime East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u_9VX53kpU_pNIKDMl4JQJE/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime.png",Showtime West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u6yohEdvye26JqfArZlKs2o/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime2.png",Showtime 2 East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uyGg2IWzH9PLRmIW5HCWyeo/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime2.png",Showtime 2 West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u1hL44ita8uRs8COY0G1-xg/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/shoxbet.png",Showtime BET East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u7jlcp6y2dy48KvvgJFQVgU/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/shoxbet.png",Showtime BET West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u5-zVHpCssmCvNhDRUZ-sEo/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-extreme.png",Showtime Extreme East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u5dahNRvzEZwDzeE0J4S-7k/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-extreme.png",Showtime Extreme West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u0M7GGGkZN2q9kQNgLLCx70/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-family.png",Showtime Family Zone East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u5rEaNroDbbdnOeE3sv6aPQ/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-family.png",Showtime Family Zone West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u8sKnpQckOlBfQoe54Q3qB0/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-next.png",Showtime Next East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u70YqLcml1JDMQvpuH0APQI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-next.png",Showtime Next West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u1B1JvYapu0XX0ycBtfsM0A/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showcase.png",Showtime Showcase East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxzCZ5l2m2ceQNqSvthp6P0/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showcase.png",Showtime Showcase West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u6aIN3V-EIIx0T4O-64pKY4/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-women.png",Showtime Women East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxbSULZIT-JrNmhwUGrH7pI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/showtime-women.png",Showtime Women West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u2Iykt4lGaTE24Mfsx65FFk/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz1.png",Starz East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u4CJIlj4LVxJQ2GSOtcnX1c/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz2.png",Starz West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u0nMizwMkrYxNgpOaUGxdRE/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-cinema.png",Starz Cinema East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u8rsy8YD6sKuj0N8iS-_bdY/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-cinema.png",Starz Cinema West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u7MXy1eTvJkCbhsA3IjerZg/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-comedy.png",Starz Comedy East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uzcMLdMlpik-NCFjaWBBSrM/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-comedy.png",Starz Comedy West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u18jEp6ZcXHzwPU3vnKBCS8/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u7Qfc6DfZTzD0Ln-A-S73OI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u00sDzse_-JHjC4z40b3kQs/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencoreaction.png",Starz Encore Action
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u9stO7meIKR56ImXa4Qkb3w/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uzqDKB3FmzXD-Iom6KITGro/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u_gpODMcbeNSs7nBUtBaDGw/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u4YHxxeA8WpMptm3I-bjdo8/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u2U5CePhD3nT54eXYNPy740/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u-HdVChTmyBgkfiVj7HLNWI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u5XbPJ76Gp4bZ8gyt2kGOAA/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uws6Z7tB_2XH5WmA69MjMUo/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u_t-NemwR78WmB49SGAt2-Q/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u8rKTD485H1a-yp4fePEzCI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u3AKKN4KpCRJRxlzztuitoY/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore Westerns East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u1I0_7qHZBBnzXk9Lq2PGgE/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore Westerns West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uzxPb667TnQj0CFJ3D5luBk/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz In Black East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u_h4Fn-fW8OzonLQLf9adaI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u4ilpneG1yo0kVr9m3P1Bro/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/themoviech.png",The Movie Channel East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u3QtReUqgI6StGxEykoopwA/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/themoviech.png",The Movie Channel West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u6gInX3Ytx2u5XBPvxgLWis/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/moviechannelxtra.png",The Movie Channel Xtra East
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uwb4BWVdDrkgARYT0aGILXc/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://edgecdn.io:8080/img/moviechannelxtra.png",The Movie Channel Xtra West
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u-XbWjQFRO6nurPvc7Um1SI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://telegramchannels.me/storage/media-logo/1908/movieshublive.jpg",The Movie Hub
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uwfTxR98VJ83S0E9BafrjO8/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://fanc.tmsimg.com/assets/s69130_ll_h3_aa.png",Sony Movie Channel
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u907jd5V_gQ2fzopax4027o/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://shorts.tv/en/uploads/2017/03/Untitled-1.jpg",Shorts TV
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7u70A1P1_JqXTpixmxNNZaxI/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://i.imgur.com/mtLI08o.jpg",Mytime Movie Network
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uzeTUBOP-xr6t10vv9ItJVM/m3u8
-#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="http://img2.wikia.nocookie.net/__cb20140622105447/logopedia/images/1/1f/Mgm_1999.png",MGM
-http://sabretv.xyz:80/play/1NZ5YLploaLZVjnZUTd7uxiclmY9qPQERlz36F1Imp8/m3u8
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USASPORT/flage.png",US| Alter Horror HD
+http://ip365.cx:900/8279091393/1687445016/8522
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/DUST.png",US| Dust Sci-Fi HD
+http://ip365.cx:900/8279091393/1687445016/8521
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/5STARMAX.png",US| 5 STAR MAX FHD
+http://ip365.cx:900/8279091393/1687445016/183625
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/ACTIONMAXHD.png",US| ACTIONMAX HD
+http://ip365.cx:900/8279091393/1687445016/183627
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/ACTIONMAXHD1.png",US| ACTIONMAX EAST  FHD
+http://ip365.cx:900/8279091393/1687445016/181597
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/DOVE.png",US| DOVE FHD
+http://ip365.cx:900/8279091393/1687445016/181554
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",US| EPIX FHD
+http://ip365.cx:900/8279091393/1687445016/181588
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",US| EPIX HITS FHD
+http://ip365.cx:900/8279091393/1687445016/181575
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",US| EPIX 2 HD
+http://ip365.cx:900/8279091393/1687445016/181593
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FUSE.png",US| FUSE FHD
+http://ip365.cx:900/8279091393/1687445016/181560
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FX.png",US| FX HD
+http://ip365.cx:900/8279091393/1687445016/212539
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FXWEST.png",US| FX WEST HD
+http://ip365.cx:900/8279091393/1687445016/181581
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",US| FXM HD
+http://ip365.cx:900/8279091393/1687445016/181585
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FXX.png",US| FXX HD
+http://ip365.cx:900/8279091393/1687445016/13559
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USADOCUMENTRY/PARAMOUNT.png",US| PARAMOUNT NETWORK HD
+http://ip365.cx:900/8279091393/1687445016/400360339
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBO.png",US| HBO FHD
+http://ip365.cx:900/8279091393/1687445016/212538
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBOEAST.png",US| HBO EAST HD
+http://ip365.cx:900/8279091393/1687445016/181617
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBOWEST.png",US| HBO WEST HD
+http://ip365.cx:900/8279091393/1687445016/181618
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBO_2.png",US| HBO 2 FHD
+http://ip365.cx:900/8279091393/1687445016/181616
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBOCOMEDY.png",US| HBO COMEDY FHD
+http://ip365.cx:900/8279091393/1687445016/13634
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBOFAMILY.png",US| HBO FAMILY HD
+http://ip365.cx:900/8279091393/1687445016/13635
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HBOZONEEAST.png",US| HBO ZONE EAST FHD
+http://ip365.cx:900/8279091393/1687445016/13637
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HDNetMovies.png",US| HD NET MOVIES FHD
+http://ip365.cx:900/8279091393/1687445016/253140
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HALLMARKMOVIES%26MYSTERIES.png",US| HALLMARK MOVIES &amp; MYSTERIES FHD
+http://ip365.cx:900/8279091393/1687445016/181587
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/HallmarkDrama.png",US| HALLMARK DRAMA HD
+http://ip365.cx:900/8279091393/1687445016/181591
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/mgm.png",US| MGM FHD
+http://ip365.cx:900/8279091393/1687445016/181596
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/MovieMax.png",US| MOVIE MAX FHD
+http://ip365.cx:900/8279091393/1687445016/181598
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/Movieplex.png",US| MOVIE PLEX HD
+http://ip365.cx:900/8279091393/1687445016/253137
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/MOREMAXFHD%28East%29.png",US| MORE MAX FHD (WEST)
+http://ip365.cx:900/8279091393/1687445016/176613
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/MOREMAXFHD%28East%29.png",US| MORE MAX FHD (EAST)
+http://ip365.cx:900/8279091393/1687445016/176614
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/Retroplex.png",US| RETRO PLEX FHD
+http://ip365.cx:900/8279091393/1687445016/253139
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/LIFETIMEMOVIE.png",US| LIFETIME MOVIE FHD
+http://ip365.cx:900/8279091393/1687445016/181558
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/INDIEPLEX.PNG",US| INDIE PLEX FHD
+http://ip365.cx:900/8279091393/1687445016/253138
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/IFC.png",US| IFC HD
+http://ip365.cx:900/8279091393/1687445016/181559
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/INSP.png",US| INSP HD
+http://ip365.cx:900/8279091393/1687445016/181592
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SYFY.png",US| SYFY FHD
+http://ip365.cx:900/8279091393/1687445016/181556
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SUNDANCE.png",US| SUNDANCE HD
+http://ip365.cx:900/8279091393/1687445016/181583
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SONYMOVIES.png",US| SONY MOVIES FHD
+http://ip365.cx:900/8279091393/1687445016/181584
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/USANETWORK.png",US| USA NETWORK FHD
+http://ip365.cx:900/8279091393/1687445016/13612
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/tnt.png",US| TNT FHD
+http://ip365.cx:900/8279091393/1687445016/212536
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/TBS.png",US| TBS FHD
+http://ip365.cx:900/8279091393/1687445016/176677
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/TBSWEST.png",US| TBS WEST FHD
+http://ip365.cx:900/8279091393/1687445016/176754
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/THEFILMDETECTIVE.png",US| THE FILM DETECTIVE HD
+http://ip365.cx:900/8279091393/1687445016/181553
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/TVLAND.png",US| TV LAND HD
+http://ip365.cx:900/8279091393/1687445016/181555
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/TCM.png",US| TCM HD
+http://ip365.cx:900/8279091393/1687445016/181603
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZCINEMA.png",US| STARZ CINEMA FHD
+http://ip365.cx:900/8279091393/1687445016/170173
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREBLACK.png",US| STARZ EAST FHD
+http://ip365.cx:900/8279091393/1687445016/181568
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/starzwest.png",US| STARZ WEST FHD
+http://ip365.cx:900/8279091393/1687445016/400230191
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZEDGEEAST.png",US| STARZ EDGE EAST FHD
+http://ip365.cx:900/8279091393/1687445016/13626
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZEDGEWEST.png",US| STARZ EDGE WEST HD
+http://ip365.cx:900/8279091393/1687445016/400230201
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZCOMEDYEAST.png",US| STARZ COMEDY EAST FHD
+http://ip365.cx:900/8279091393/1687445016/13625
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZCOMEDYWEST.png",US| STARZ COMEDY WEST HD
+http://ip365.cx:900/8279091393/1687445016/400230200
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREBLACK.png",US| STARZ ENCORE EAST HD
+http://ip365.cx:900/8279091393/1687445016/181566
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREWEST.png",US| STARZ ENCORE WEST HD
+http://ip365.cx:900/8279091393/1687445016/400230192
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREBLACK.png",US| STARZ ENCORE BLACK FHD
+http://ip365.cx:900/8279091393/1687445016/181574
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREBLACK.png",US| STARZ ENCORE CLASSIC FHD
+http://ip365.cx:900/8279091393/1687445016/181573
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREBLACK.png",US| STARZ ENCORE FAMILY FHD
+http://ip365.cx:900/8279091393/1687445016/181572
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREBLACK.png",US| STARZ ENCORE ACTION EAST FHD
+http://ip365.cx:900/8279091393/1687445016/181567
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREACTIONEAST.png",US| STARZ ENCORE ACTION WEST HD
+http://ip365.cx:900/8279091393/1687445016/400230202
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/STARZENCOREWESTERNS.png",US| STARZ ENCORE WESTERNS HD
+http://ip365.cx:900/8279091393/1687445016/13628
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIMEEAST.png",US| SHOWTIME EAST HD
+http://ip365.cx:900/8279091393/1687445016/181564
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIME2.png",US| SHOWTIME 2 FHD
+http://ip365.cx:900/8279091393/1687445016/181563
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIMEBET.png",US| SHOWTIME BET FHD
+http://ip365.cx:900/8279091393/1687445016/253113
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIMEEXTREME.png",US| SHOWTIME EXTREME HD
+http://ip365.cx:900/8279091393/1687445016/181562
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIMEFAMILYZONE.png",US| SHOWTIME FAMILY ZONE FHD
+http://ip365.cx:900/8279091393/1687445016/253114
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIMEWOMEN.png",US| SHOWTIME WOMEN FHD
+http://ip365.cx:900/8279091393/1687445016/253116
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIMENEX.png",US| SHOWTIME NEXT HD
+http://ip365.cx:900/8279091393/1687445016/253115
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/SHOWTIMENEX.png",US| SHOWTIME SHOWCASE FHD
+http://ip365.cx:900/8279091393/1687445016/253112
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAACTION.png",UK| SKY CINEMA ACTION FHD
+http://ip365.cx:900/8279091393/1687445016/153754
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAHITS.png",UK| SKY CINEMA HITS FHD
+http://ip365.cx:900/8279091393/1687445016/153746
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAPREMIERE.png",UK| SKY CINEMA PREMIERE FHD
+http://ip365.cx:900/8279091393/1687445016/153744
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMASCIFI1.png",UK| SKY CINEMA SCIFI FHD
+http://ip365.cx:900/8279091393/1687445016/153762
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMATHRILLER1.png",UK| SKY CINEMA THRILLER FHD
+http://ip365.cx:900/8279091393/1687445016/191467
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMACOMEDY.png",UK| SKY CINEMA COMEDY FHD
+http://ip365.cx:900/8279091393/1687445016/153756
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAGREATS.png",UK| SKY CINEMA GREATS FHD
+http://ip365.cx:900/8279091393/1687445016/153749
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMA.PNG",UK| SKY CINEMA BLOCKBUSTERS FHD
+http://ip365.cx:900/8279091393/1687445016/190000
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMADRAMA.png",UK| SKY CINEMA DRAMA FHD
+http://ip365.cx:900/8279091393/1687445016/153760
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAFAMILY.png",UK| SKY CINEMA FAMILY FHD
+http://ip365.cx:900/8279091393/1687445016/153752
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMASCIFI.png",UK| SKY CINEMA SELECT FHD
+http://ip365.cx:900/8279091393/1687445016/153764
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMA.PNG",UK| SKY CINEMA GANGSTER FHD
+http://ip365.cx:900/8279091393/1687445016/400230291
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCOMEDY.png",UK| SKY COMEDY FHD
+http://ip365.cx:900/8279091393/1687445016/191468
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/TCM.png",UK| TCM FHD
+http://ip365.cx:900/8279091393/1687445016/189990
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/FILM4.png",UK| FILM4 FHD
+http://ip365.cx:900/8279091393/1687445016/191265
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SONYMAX.png",UK| SONY MAX FHD
+http://ip365.cx:900/8279091393/1687445016/191462
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SONYMOVIES.png",UK| SONY MOVIES + 1 FHD
+http://ip365.cx:900/8279091393/1687445016/153777
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/ZEEtv.png",UK| ZEE TV FHD
+http://ip365.cx:900/8279091393/1687445016/189961
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAACTION.png",UK| SKY CINEMA ACTION SD
+http://ip365.cx:900/8279091393/1687445016/153755
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMA.PNG",UK| SKY CINEMA BLOCKBUSTER
+http://ip365.cx:900/8279091393/1687445016/190001
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMACOMEDY.png",UK| SKY CINEMA COMEDY SD
+http://ip365.cx:900/8279091393/1687445016/153757
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMADRAMA.png",UK| SKY CINEMA DRAMA SD
+http://ip365.cx:900/8279091393/1687445016/153761
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAFAMILY.png",UK| SKY CINEMA FAMILY SD
+http://ip365.cx:900/8279091393/1687445016/153753
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAGREATS.png",UK| SKY CINEMA GREATS SD
+http://ip365.cx:900/8279091393/1687445016/153750
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAHITS.png",UK| SKY CINEMA HITS SD
+http://ip365.cx:900/8279091393/1687445016/153747
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMAPREMIERE.png",UK| SKY CINEMA PREMIERE SD
+http://ip365.cx:900/8279091393/1687445016/153745
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMASCIFI1.png",UK| SKY CINEMA SCIFI SD
+http://ip365.cx:900/8279091393/1687445016/153763
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMASCIFI.png",UK| SKY CINEMA SELECT SD
+http://ip365.cx:900/8279091393/1687445016/153765
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMATHRILLER.png",UK| SKY CINEMA THRILLER SD
+http://ip365.cx:900/8279091393/1687445016/191148
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCINEMA.PNG",UK| SKY CINEMA GANGSTER SD
+http://ip365.cx:900/8279091393/1687445016/400230360
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYCOMEDY.png",UK| SKY COMEDY SD
+http://ip365.cx:900/8279091393/1687445016/191147
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SONYACTION.png",UK| SONY ACTION SD
+http://ip365.cx:900/8279091393/1687445016/191103
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SONYMOVIES.png",UK| SONY MOVIES
+http://ip365.cx:900/8279091393/1687445016/153769
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SONYMOVIESACTION%2B1.png",UK| SONY MOVIES ACTION +1 SD
+http://ip365.cx:900/8279091393/1687445016/153774
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SONYCHANNEL.png",UK| SONY CHANNEL SD
+http://ip365.cx:900/8279091393/1687445016/191102
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SONYCHRISTMAS.png",UK| SONY CHRISTMAS
+http://ip365.cx:900/8279091393/1687445016/189953
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/HORRORCHANNEL.png",UK| HORROR CHANNEL SD
+http://ip365.cx:900/8279091393/1687445016/153773
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/HORRORCHANNEL%2B1.png",UK| HORROR CHANNEL +1
+http://ip365.cx:900/8279091393/1687445016/153771
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/CBSDRAMA.png",UK| CBS DRAMA SD
+http://ip365.cx:900/8279091393/1687445016/191662
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/VOXAFRICA.png",UK| VOX AFRICA SD
+http://ip365.cx:900/8279091393/1687445016/400230365
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/PCNECHINESE.PNG",UK| PCNE CHINESE SD
+http://ip365.cx:900/8279091393/1687445016/400230364
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/FILM4.png",UK| FILM4 SD
+http://ip365.cx:900/8279091393/1687445016/191438
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/FILM4.png",UK| FILM4+1 SD
+http://ip365.cx:900/8279091393/1687445016/400230363
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/TCMMOVIES%2B1.PNG",UK| TCM MOVIES+1 SD
+http://ip365.cx:900/8279091393/1687445016/400230362
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/TALKINGPICTURES.png",UK| TALKING PICTURES TV
+http://ip365.cx:900/8279091393/1687445016/153776
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/MOVIESXMAS24.PNG",UK| MOVIES/XMAS24 SD
+http://ip365.cx:900/8279091393/1687445016/400230358
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/SKYREPLA.png",UK| SKY REPLAY SD
+http://ip365.cx:900/8279091393/1687445016/400230357
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/DRAMA.png",UK| DRAMA SD
+http://ip365.cx:900/8279091393/1687445016/191301
+#EXTINF:-1 group-title=" PREMIUM MOVIES" tvg-logo="https://lo1.in/LOGO/UK/CINEMA/TCM.png",UK| TCM SD
+http://ip365.cx:900/8279091393/1687445016/189991
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO CARIBBEAN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
