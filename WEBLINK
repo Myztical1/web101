@@ -1887,8 +1887,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://apkmodhub.in/wp-content/uploads/2020/12/magellantv-documentaries.png",MagellanTV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://demotix.com/wp-content/uploads/2019/07/Forensic-Files.jpg",Pluto TV Forensic Files (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://demotix.com/wp-content/uploads/2019/07/Forensic-Files.jpg",Pluto TV Forensic Files
+https://is.gd/IbKlju
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/77OXe64.jpg",Real Stories
 https://lds-realstories-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstoriessimplestream/CDN/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/kwdX93h.jpg",Real Crime
@@ -1970,6 +1970,8 @@ http://89.187.175.143:80/4181/index.m3u8
 http://89.187.175.143:80/3064/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png",TSN1 HD
 http://89.187.175.143:80/3038/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png",TSN2 HD
+https://is.gd/MnvJnF
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png",TSN3 HD
 http://89.187.175.143:80/3046/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png",TSN4 HD
@@ -2218,6 +2220,110 @@ http://ky-iptv.com:80/nello123/nello123/1847084.m3u8
 http://ky-iptv.com:80/nello123/nello123/1769168.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/d860c20ab01452c240fc15100677c5a6.png",UK Sky Sports MIX
 http://ky-iptv.com:80/nello123/nello123/1847433.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/49c8bb4c454ca82aaa089416fc8c3bb6.png",MAV TV HD
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/161035.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/4bc9471c30ef35e30b49c15ea583fcb2.png",NBC GOLF
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55088.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/32ab6a97e8b17174268384dee81da3cd.png",SPORTSNET 360
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55089.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/af985280b9d935e68b8fcbe1ff5ab059.png",SPORTSNET EAST
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55090.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/6066532be04ba136689bbc4b63b6ec7a.png",SPORTSNET ONE
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55091.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/20c9a350d0e9db7c8c77bef4ec9ea384.png",SPORTSNET ONTARIO
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55092.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/c3f2764134bd331c10179c877aa73658.png",SPORTSNET PACIFIC
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55093.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/af985280b9d935e68b8fcbe1ff5ab059.png",SPORTSNET WEST
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55094.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/f04d4760124da5111d441622fff5bdc2.png",SPORTSNET WORLD
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55095.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/47005231a0ada3c025e8338fd5bc088a.png",TVA SPORTS HD
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55096.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/9747d462a69ce562db43f065d323c39b.png" group-title="PREMIUM SPORTS",TNT SPORTS HD
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/137017.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 01
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53850.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 02
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53851.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 03
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53852.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/cd6dbfe561796589ade4435762d8aca2.png",BT SPORTS 04
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53853.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/da0b60b5f6b0d3d8e1fa62d74ff1d932.png",BT SPORTS ULTIMATE 4K
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/224931.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/18843637975f3f840eb803021c6b478b.png",EUROSPORT ONE
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53894.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/63e9ebf73e60080c73ca5a68648959a9.png",EUROSPORT TWO
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53895.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/da9c81c849c384a4dba6b0cb6723dfe4.png",LA LIGA TV
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53916.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png",SKY SPORTS ARENA
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53977.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/dcf43f17c2443f54cc7e2a3931d58b1f.png",SKY SPORTS CRICKET
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53978.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/a9ab091e980651f7a36a359611d6ba92.png",SKY SPORTS F1
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53979.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/67593998f323465bbdf950fe0179275c.png",SKY SPORTS FOOTBALL
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53980.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/bfdf22c5f8816ec8f0caf70925f753ea.png",SKY SPORTS GOLF
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53981.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/82bbaa7fad65436f05649cc9b904df80.png",SKY SPORTS MAIN EVENT
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53982.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/f2d64761853ea926420545a4d34eb361.png",SKY SPORTS MIX
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53983.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/e37dc6a2760cc059a02cd3734741ae76.png",SKY SPORTS NEWS
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53984.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/af168af5d45963061b09b1dd5b01473b.png",SKY SPORTS NFL
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53985.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/fdeb5e06273c362896f5da6804d86295.png",SKY SPORTS PREMIER LEAGUE
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53986.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/ac7527fa9e163778c9d73869d1f6f3eb.png",SKY SPORTS RACING
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53987.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/afb7346c5be8a0e5a6144cb38a9bbdd4.png",SPORTYSTUFF TV
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/204689.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/b0462e40806648b77efd8aebbd4742d8.png",VIAPLAY SPORTS 1
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53942.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/b0462e40806648b77efd8aebbd4742d8.png",VIAPLAY SPORTS 2
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53943.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/b0462e40806648b77efd8aebbd4742d8.png",VIAPLAY XTRA
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53900.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/0d6019fb421104033588f3799671f740.png",ALTITUDE SPORTS
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55051.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/65cb21a9aa95c70e09872b26a3aa85f6.png",AT&T SPORTSNET PITTSBURGH
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55052.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/65cb21a9aa95c70e09872b26a3aa85f6.png",AT&T SPORTSNET ROCKY MOUNTAINS
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55053.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/65cb21a9aa95c70e09872b26a3aa85f6.png",AT&T SPORTSNET SOUTHWEST
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55054.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/cdac01407657cbfe2817641ae84e7fcd.png",BEIN SPORTS
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55055.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/0100a733af1bb4f4467fc0f66b826e41.png",BIG TEN NETWORK
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55056.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/b33779c739fa3627ea30ec86e75fd9b5.png",CBS SPORTS HQ
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55057.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/3ded700a544a255a3ec832e58fa91aa1.png",CBS SPORTS NETWORK
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55058.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/67a39bc9c59a030af89c3ed9f34efe34.png",ELEVEN SPORTS NETWORK
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55059.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55060.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN FHD 1080
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53403.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png",ESPN 2
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55061.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png",ESPN 2 FHD 1080
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53402.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/1e760a1cc204e39d03178e615c9cc0e0.png",ESPN NEWS
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55062.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/1e760a1cc204e39d03178e615c9cc0e0.png",ESPN NEWS FHD 1080
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53441.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://wayforward.xyz:25461/images/500b1f7cdad583f9d07c87427babe201.png",ESPN U
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55063.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/90798d95849ef4b30c1b5ea8d14e179a.png" group-title="USA NBA",US : NBA TV
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/55195.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://hostengine.live:25461/images/90798d95849ef4b30c1b5ea8d14e179a.png",NBA TV FHD 1080
+http://wayforward.xyz:25461/live/CPhbj3y3NB/QHa6WUFIwe/53366.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",BOX NATION
 http://ys-users.com:8080/live/christa/christa/428235.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 1
