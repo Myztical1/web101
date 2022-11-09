@@ -2218,50 +2218,164 @@ https://is.gd/prRvuY
 https://is.gd/qefWL2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/bb59f9f8c0fb15b537eb2d1c45c0f07a.png",PTV SPORTS
 https://is.gd/Y2F7QQ
-#EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports
-http://ky-iptv.com:80/nello123/nello123/2210036.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports 2
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/490
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",Sony Ten 1 HD
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
+http://starshare.live:8080/live/500757885/3356646354/9402.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/svnrSYk/Sonyten2.jpg",Sony Ten 2 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/2906
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",StarSports 1 HD
 http://fortv.cc:8080/chris2/chris2/136570
-https://cdn1.mkhossain.ga/hls/star1en/.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607",StarSports 2 HD
+http://starshare.live:8080/live/500757885/3356646354/9398.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709",Star Sports Select 1 HD
+http://starshare.live:8080/live/500757885/3356646354/9400.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/447
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",UK Sky Sports Premier League
-http://ky-iptv.com:80/nello123/nello123/1821337.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/984fb56c9fda7d359f048a629f4fb6c3.png",UK PREMIER SPORTS 2
-http://ky-iptv.com:80/nello123/nello123/391420.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/52ce678200229d09111c8299a7b60e7e.png",USA CBS Sports Network
+http://ky-iptv.com:80/Jerry1234/Jerry1234/176607.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/8b66eadc6266d380c634c6226115ac61.png",USA FOX Soccer Plus LHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/176986.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/af1b22659dba63c1f7532554b5ad7003.png" group-title="USA NBA",USA NBA TV LHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/176154.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/af1b22659dba63c1f7532554b5ad7003.png" group-title="USA NBA",USA NBA TV UHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/395217.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png",USA ESPN SD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/177207.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/207e4a4859c6f8a03d7d85dfd7b17176.png",USA FOX SPORTS 1 HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220387.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/abe900af84acbfa9f0fa73a8d0e79930.png",USA FOX SPORTS 2 HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220388.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/05827fbb11700a60da166762637c089d.png",USA WWE NETWORK HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220389.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/30058a70551d4aee90d9e827be73e7d7.png",USA AT&T SPORTSNET SOUTHWEST HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220390.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/30058a70551d4aee90d9e827be73e7d7.png",USA AT&T SPORTSNET SOUTHWEST | HD (Alternate)
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220391.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/ea703ffeb1c7a3d9ca6cfe95144c41d6.png",USA PAC-12 Mountain
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220393.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/c6e69d75742a6bbdeb383c9d58a2605b.png",USA ACC Network
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220394.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/37291ed4a20475b8c4f401a912398943.png",USA Big Ten Network UHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220402.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/a3d9fb0b6d80b6e80894b4beb2bd5a38.png",USA Big Ten Network 4
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220403.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/54849602ae6ecf50551bfe753b7fd078.png",USA Eleven Sports Network
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220405.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png",USA ESPN HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220406.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/08039b40472b82555a3ba745b0ed32df.png",USA ESPN 2
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220407.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/16f45137209af8e410fca6aee10afe11.png",USA ESPN Deportes
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220408.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/2c3fc98af320861514c64b713186c9e3.png",USA ESPN NEWS HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220410.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/dcb26abab7d8a2a85c7aa4ca524041ab.png",USA ESPN SEC NETWORK HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220411.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/cba769a92e8b87975731d3c833669c6a.png",USA ESPN U HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220412.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/7eae97e6d5e49e69dbe45d7a5db53af0.png",USA FOX DEPORTES HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220415.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/ecf92451a0e08bde17951768fbd4ea6c.png",USA LONGHORN NETWORK HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220417.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/264f50f7383263ab717b0dd33f68f3fe.png",USA MSG 2 HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220421.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/264f50f7383263ab717b0dd33f68f3fe.png",USA MSG 2 PLUS HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220422.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/264f50f7383263ab717b0dd33f68f3fe.png",USA MSG PLUS HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220423.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/f97e1ff21d89b8d4dfabda5ec0458ace.png",USA NESN Plus
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220439.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/b5ada401da84f017c7bbb9c9266b59ee.png",USA PAC-12 Oregon
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220441.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/6ed06c7b69f0a1cd233ec615bc537f25.png",USA PAC-12 WASHINGTON
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220442.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/b65a7d88a46e4b5b76c3f48551a77843.png",USA SPORTSMAN CHANNEL HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220444.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/4f889206062799cb97db2c1aabadbea4.png",USA STADIUM 1 HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220446.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/4f889206062799cb97db2c1aabadbea4.png",USA STADIUM 2 HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220447.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/559c94740089687a14f418003bde0947.png",USA Tennis Channel
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220448.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/e9780e561642f1013b921ca46cc72900.png",USA TVG 2 NETWORK HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220449.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/3623d8865934ed2cdc92f8621b35e04c.png",USA TVG NETWORK
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220450.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/2d9f33bf5b2487f76511e3e40d463abc.png",USA UFC Network
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220452.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/ede29184efaf190bc9f05788677b201b.png",USA VSIN HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220453.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/7ae07620028e8e81d9e969dfcd7cd19c.png",USA WORLD FISHING NETWORK
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220454.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/f9c137f3645db60a1745917a562c480d.png",USA NFL Redzone
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220463.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/eacd08a04eb3b3642a5e6ce536e7e013.png",USA NHL NETWORK HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220464.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/eacd08a04eb3b3642a5e6ce536e7e013.png",USA NHL NETWORK ALT | HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/220465.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/e35dd9c8c4046ad90f832b07d2e179f1.png",USA MASN
+http://ky-iptv.com:80/Jerry1234/Jerry1234/312334.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/227ed2590110c32c1d0df60fcf425e42.png",USA MASN 2
+http://ky-iptv.com:80/Jerry1234/Jerry1234/312335.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/7156d5cd174d8887025ce9858444be95.png",USA NESN
+http://ky-iptv.com:80/Jerry1234/Jerry1234/312336.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/b873d609d83e069ec9b835e1b017a4e6.png",UK Racing FHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/709536.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/876c01b5e4e72283d135e5f44b6a7b27.png",UK FIGHT BOX
+http://ky-iptv.com:80/Jerry1234/Jerry1234/391470.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/9dac559b17add60a53e4d14c80019b66.png",UK RED BULL TV FHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/391476.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/c605ce9a6fd7927219fda1af5fa11dbd.png",UK MOTORS FHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/391473.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/30f789530c78d97ebeee76f49d9466e6.png",UK MUTV HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/189978.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/c98060173f9e4e100685b5fc6febff6d.png",UK SkySports F1
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1196396.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/c48320aff32df49baf8b1baffe2b04aa.png",UK Sky Sports NFL FHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1400413.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/fc7a39c1fea38cc0d809c4093daba909.png",UK Sporty Stuff FHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1400414.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/d52256cbe4fb8680863d201da9a2e032.png",UK SKY SPORTS GOLF HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/391434.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/523038b215c96f112b9859492a62d543.png",UK: SKY SPORTS BOX OFFICE
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1688561.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/939d307be44426ffcabe6a3809c7e391.png",UK Premier Sports 1 FHD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/229003.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/396c09ca3fc240d83640a44721b6321f.png",UK Sky Sports Cricket
-http://ky-iptv.com:80/nello123/nello123/1769162.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/aaf73bfefdfaaf734d02974efa8ef713.png",UK: Eurosport 1 HD
-http://ky-iptv.com:80/nello123/nello123/1846756.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1769162.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",UK Sky Sports Premier League
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1821337.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/f0b8c39305ffdc6c9823055c1a006121.png",UK BT Sports 1
-http://ky-iptv.com:80/nello123/nello123/1846762.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846762.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/f0b8c39305ffdc6c9823055c1a006121.png",UK BT Sports 2
-http://ky-iptv.com:80/nello123/nello123/1846763.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846763.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/f0b8c39305ffdc6c9823055c1a006121.png",UK BT Sports 3
-http://ky-iptv.com:80/nello123/nello123/1846764.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846764.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/cb5d3e272b76f640cfb810e5d86a7739.png",UK BT Sports ESPN HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/515737.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/912c7b408e0f7e685f05a3a03491bd94.png",UK Sky Sports Action
-http://ky-iptv.com:80/nello123/nello123/1846771.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846771.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/c749825ef6eb67a6a5a68f27e5a33b6c.png",UK Sky Sports Arena
-http://ky-iptv.com:80/nello123/nello123/1846772.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846772.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/10d30ba83defda917ee0d16c6a595683.png",UK Sky Sports F1
-http://ky-iptv.com:80/nello123/nello123/1846774.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846774.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==",UK Sky Sports Football
-http://ky-iptv.com:80/nello123/nello123/1846775.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846775.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/aaf73bfefdfaaf734d02974efa8ef713.png",UK: Eurosport 1 HD
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1846756.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://185.156.74.135:80/images/5f0345f01875bcd1d5961b0756f1f628.png",UK: Eurosport 2 HD
-http://ky-iptv.com:80/nello123/nello123/1847082.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1847082.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/1cce57ad190cd13f61ee3cae3199414b.png",UK Sky Sports Main Events
-http://ky-iptv.com:80/nello123/nello123/1847084.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1847084.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/1f262f0319876c9cf1e459eb607e3340.png",UK Sky Sports News
-http://ky-iptv.com:80/nello123/nello123/1769168.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1769168.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/d860c20ab01452c240fc15100677c5a6.png",UK Sky Sports MIX
-http://ky-iptv.com:80/nello123/nello123/1847433.m3u8
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1847433.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://77.247.109.54:80/images/984fb56c9fda7d359f048a629f4fb6c3.png",UK PREMIER SPORTS 2
+http://ky-iptv.com:80/Jerry1234/Jerry1234/391420.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://163.123.140.162:80/images/c78f2f0d8f666555aecaab49268cb3f4.png",UK LA LIGA TV
+http://ky-iptv.com:80/Jerry1234/Jerry1234/1400412.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",BOX NATION
 http://ys-users.com:8080/live/christa/christa/428235.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 1
