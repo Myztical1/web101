@@ -600,25 +600,25 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (East)
 http://fortv.cc:8080/chris2/chris2/13220
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-extreme.jpg",Showtime Extreme (West)
-http://edge.bz:8080/reg/reg/56053
+https://is.gd/86m3t8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (East)
 http://fortv.cc:8080/chris2/chris2/13481
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",Showtime Family Zone (West)
-http://edge.bz:8080/reg/reg/56054
+https://is.gd/67XiSR
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-next.jpg",Showtime Next (East)
-http://edge.bz:8080/reg/reg/1057
+https://is.gd/vzyYtT
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-next.jpg",Showtime Next (West)
-http://edge.bz:8080/reg/reg/56055
+https://is.gd/Ts0jhm
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (East)
-http://edge.bz:8080/reg/reg/836
+https://is.gd/YBAvXS
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",Showtime Showcase (West)
-http://edge.bz:8080/reg/reg/56050
+https://is.gd/eZSTK6
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE HD
 http://89.187.175.143:80/3102/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (East)
 http://fortv.cc:8080/chris2/chris2/17778
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1280px-Showtime_Women.svg.png",Showtime Women (West)
-http://edge.bz:8080/reg/reg/56056
+https://is.gd/XkrST4
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",Starz (East)
 http://89.187.175.143:80/3035/index.m3u8
 http://fortv.cc:8080/chris2/chris2/9299
@@ -626,54 +626,66 @@ http://fortv.cc:8080/chris2/chris2/9299
 http://fortv.cc:8080/chris2/chris2/21091
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY
 http://89.187.175.143:80/3041/index.m3u8
-http://edge.bz:8080/reg/reg/848
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Comedy_200.jpg",STARZ COMEDY (WEST)
-http://edge.bz:8080/reg/reg/56061
+https://is.gd/T9fk4v
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (East)
 http://89.187.175.143:80/3103/index.m3u8
 http://fortv.cc:8080/chris2/chris2/17775
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pikpng.com/pngl/m/534-5346268_starz-cinema-logo-starz-comedy-channel-logo-clipart.png",Starz Cinema (West)
-http://edge.bz:8080/reg/reg/56060
+https://is.gd/jqVAtI
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (East)
 http://fortv.cc:8080/chris2/chris2/17779
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-black.png",Starz in Black (West)
-http://edge.bz:8080/reg/reg/56070
+https://is.gd/ipQoKT
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (East)
 http://89.187.175.143:80/3043/index.m3u8
-http://edge.bz:8080/reg/reg/1056
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Kids Family (West)
 http://edge.bz:8080/reg/reg/56054
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge (East)
+https://is.gd/4mbDai
 http://edge.bz:8080/reg/reg/849
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-edge.png",Starz Edge (West)
+https://is.gd/bRJsDb
 http://edge.bz:8080/reg/reg/56062
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore (East)
+https://is.gd/cGvU1y
 http://edge.bz:8080/reg/reg/850
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starz-encore.png",Starz Encore (West)
+https://is.gd/MNirtH
 http://edge.bz:8080/reg/reg/56063
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore (West)erns (East)
 http://fortv.cc:8080/chris2/chris2/16263
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://edgecdn.io:8080/img/starz-encore-westerns.png",Starz Encore (West)erns (West)
+https://is.gd/gbQvxe
 http://edge.bz:8080/reg/reg/56069
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreaction.png",Starz Encore Action (East)
+https://is.gd/uzsX7u
 http://edge.bz:8080/reg/reg/3273
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreaction.png",Starz Encore Action (West)
 http://edge.bz:8080/reg/reg/56064
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black (East)
+https://is.gd/3PBPbC
 http://edge.bz:8080/reg/reg/3274
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreblack.png",Starz Encore Black (West)
+https://is.gd/jTclu7
 http://edge.bz:8080/reg/reg/56065
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic (East)
+https://is.gd/Qe1ZZf
 http://edge.bz:8080/reg/reg/3275
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoreclassic.png",Starz Encore Classic (West)
+https://is.gd/NZr2kz
 http://edge.bz:8080/reg/reg/56066
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family (East)
+https://is.gd/ty1piB
 http://edge.bz:8080/reg/reg/3276
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencorefamily.png",Starz Encore Family (West)
+https://is.gd/J9bdvL
 http://edge.bz:8080/reg/reg/56067
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense (East)
+https://is.gd/nMQWTT
 http://edge.bz:8080/reg/reg/3277
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://edgecdn.io:8080/img/starzencoresuspense.png",Starz Encore Suspense (West)
+https://is.gd/fUW6Lf
 http://edge.bz:8080/reg/reg/56068
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA ACTION
 https://is.gd/2IT4dX
@@ -706,6 +718,7 @@ http://fortv.cc:8080/chris2/chris2/35248
 https://is.gd/pJPxOr
 http://fortv.cc:8080/chris2/chris2/35252
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.finish.tv/img/uploads/772x434/sky-italia-cinema-1.jpg",SKY CINEMA SELECT
+https://is.gd/wZx2rf
 http://edge.bz:8080/reg/reg/1075
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
 http://89.187.175.143:80/3012/index.m3u8
@@ -2743,6 +2756,190 @@ http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/12476.m3u8
 http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/12477.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/icxqVOG.jpg",UK | Racing TV 
 http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/12479.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png",ZA: SUPERSPORT Grandstand
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2629.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",ZA: SUPERSPORT PSL
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2630.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",ZA: SUPERSPORT Premier league
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2631.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png",ZA: SUPERSPORT LaLiga
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2632.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",ZA: SUPERSPORT Football
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2633.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1-live.png",ZA: SUPERSPORT Variety 1
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2634.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png",ZA: SUPERSPORT Variety 2
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2635.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-blitz-live.png",ZA: SUPERSPORT Blitz
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2636.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png",ZA: SUPERSPORT Variety 4
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2637.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-3.png",ZA: SUPERSPORT Variety 3
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2638.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action-live.png",ZA: SUPERSPORT Action
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2639.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",PREMIER SPORTS UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6555/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",UK Premier Sports 1 SD IE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12284/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT Sport 1 UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2505/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT Sport 2 UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2506/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT SPORT 1 FHD UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6566/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT SPORT 2 FHD UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6565/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT SPORT 3 FHD UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6564/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT SPORT ESPN FHD UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6563/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",SKY SPORTS PREMIER LEAGUE UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7335/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",SKY SPORTS FOOTBALL UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7336/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",SKY SPORTS MAIN EVENT UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7337/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",SKY SPORTS ARENA UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7338/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",SKY SPORTS MIX UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7339/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sky Sports Action HD UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7340/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",SKY SPORTS F1 UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7342/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sky Sports Action FHD UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7345/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",EUROSPORT 2 HD UK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6556/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",FOX SPORTS 1 US
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7322/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",FOX SPORTS 2 US
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7323/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",CBS SPORTS NETWORK US
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7324/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",NBC SPORTS NETWORK US
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7327/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",NHL NETWORK US
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7328/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",UFC FIGHT PASS
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6554/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",beIN Sports 1 HD EN
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6132/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",beIN Sports 2 HD EN
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6133/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Arena Sport 1 HD HR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7329/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Arena Sport 2 HD HR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7330/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Arena Sport 3 HD HR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7331/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Arena Sport 4 HD HR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7332/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Arena Sport 5 HD HR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7333/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Arena Sport 6 HD HR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7334/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Bein Sports 1 HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2499/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Bein Sports 2 HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2500/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Bein Sports 3 HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2501/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",RMC Sport 1 HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2545/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",RMC Sport 2 HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2546/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",RMC Sport 3 HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2547/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Infosport+ HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2544/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Canal+ Sport HD FR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2502/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",C MORE FOOTBALL HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12032/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",EUROSPORT 1 HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12047/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",VIASAT SPORT EXTRA HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12074/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",V Sport Football FHD
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/11110/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",VIASAT SPORT HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12075/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",V Sport Vinter FHD
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/11111/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",VIASAT SPORT FOOTBAL HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12076/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",VIASAT SPORT GOLF HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12077/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",V Sport Vinter HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12078/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",VIASAT SPORT PREMIUM HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12079/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",TV3 SPORT SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/12100/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",C More Sport HD SE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2515/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",ONE HD IL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2340/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sport 5 HD IL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2341/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",SPORT 2 HD IL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2352/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sport 1 HD IL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2353/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Polsat Sport FHD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7296/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",POLSAT SPORT NEWS HD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7303/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",POLSAT SPORT EXTRA HD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7310/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",POLSAT SPORT FIGHT HD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7311/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Eleven Sports 1 HD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2518/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Eleven Sports 2 HD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2517/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",nSport+ PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2519/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",TVP Sport HD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2520/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sportklub HD PL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2521/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",FOX Sports 1 HD NL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2552/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",FOX Sports 2 HD NL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2553/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",FOX Sports 4 HD NL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2554/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Ziggo Sport Select HD NL
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2560/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Nova Sport 1 HD CZ
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2555/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Nova Sport 2 HD CZ
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2556/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sport 2 HD CZ
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2557/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sport 1 HD DE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2503/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sky Sport Bundesliga 9 DE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6097/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Motorvision TV DE
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6112/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Star Sports 2 IN
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2507/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",TV 2 SPORT HD DK
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2537/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",TV 2 Sport 2 HD NO
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2540/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",C More Sport 1 HD FI
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2541/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BEIN SPORTS HD ES
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2543/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sport 1 HD LT
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2549/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sport Klub 4 HD HR
+http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7272/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
 http://89.187.175.143:80/3080/index.m3u8
@@ -3325,632 +3522,3 @@ https://live-content.xumo.com/232/content/XM0WAV20E516IN/18441009/master.m3u8
 https://live-content.xumo.com/232/content/XM0L43M3GWTYVH/21869916/master.m3u8
 #EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0ORWSE5P1PRF/600x340.jpg",Merry Ex Mas
 https://live-content.xumo.com/1068/content/XM0ORWSE5P1PRF/22530640/master.m3u8
-
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/150px-A%26E_Network_logo.svg.png",A&E
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108795.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png",ABC
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108796.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ABC_Spark_Logo.png/230px-ABC_Spark_Logo.png",ABC Spark
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108797.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png",AMC
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108798.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/180px-2018_Animal_Planet_logo.svg.png",ANIMAL Planet
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108799.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/150px-BBC_News_2019.svg.png",BBC News
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108800.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png",BBC World News
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108801.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/BBC_Canada_logo.svg/250px-BBC_Canada_logo.svg.png",BBC Canada
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108802.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/220px-BNN_Bloomberg.svg.png",BNN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108803.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png",BRAVO
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108804.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/220px-Cartoon_Network_logo.svg.png",CARTOON Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108805.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Calgary
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108806.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Charlottetown
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108807.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Halifax
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108808.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108809.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/CBC_News_Network_logo.svg/220px-CBC_News_Network_logo.svg.png",CBC News
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108810.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Ottawa
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108811.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Regina
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108812.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Vancouver
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108813.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Windsor
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108814.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Current_logo_for_CBC_Television.png/220px-Current_logo_for_CBC_Television.png",CBC Winnipeg
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108815.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/210px-Citytv_logo.svg.png",CITY Calgary
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108816.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/210px-Citytv_logo.svg.png",CITY Montreal
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108817.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/210px-Citytv_logo.svg.png",CITY Toronto
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108818.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/210px-Citytv_logo.svg.png",CITY Vancouver
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108819.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/200px-CMT_2017_logo.png",CMT
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108820.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN International
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108821.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108822.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/220px-Starz_2016.svg.png",STARZ Comedy
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108823.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Cooking_Channel_Canada.png/200px-Cooking_Channel_Canada.png",COOKING Channel
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108824.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/230px-Cottage_Life_Logo.svg.png",COTTAGE Life
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108825.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CP24_Channel.png/150px-CP24_Channel.png",CP 24
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108826.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png",CRAVE 1
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108827.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png",CRAVE 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108828.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png",CRAVE 3
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108829.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png",CRAVE 4
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108830.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crime_and_Investigation_logo.png/180px-Crime_and_Investigation_logo.png",Crime & Investigation
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108831.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/200px-CTV_2_2018.svg.png",CTV 2 Vancouver
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108832.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/200px-CTV_logo_2018.svg.png",CTV Calgary
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108833.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/200px-CTV_logo_2018.svg.png",CTV Halifax
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108834.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/200px-CTV_logo_2018.svg.png",CTV Montreal
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108835.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://download.logo.wine/logo/CTV_News/CTV_News-Logo.wine.png",CTV News
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108836.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CTV_News_2019.svg/200px-CTV_News_2019.svg.png",CTV Ottawa
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108837.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/200px-CTV_Sci-Fi_Channel_2019.svg.png",CTV SYFY
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108838.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/200px-CTV_logo_2018.svg.png",CTV Toronto
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108839.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/200px-CTV_logo_2018.svg.png",CTV Vancouver
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108840.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/200px-CTV_2_2018.svg.png",CTV 2 Ottawa
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108841.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/200px-Daystar_TV.PNG",DAYSTAR TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108842.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/DejaView_logo.svg/150px-DejaView_logo.svg.png",DEJAVIEW
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108843.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/120px-Discovery_Science_Canada_2011.PNG",DISCOVERY Science
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108844.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Discovery_world_channel.png/250px-Discovery_world_channel.png",DISCOVERY World
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108845.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/220px-Discovery_Channel_-_Logo_2019.svg.png",DISCOVERY
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108846.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png",DISNEY JR
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108847.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png",DISNEY XD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108848.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/DIY_Canada.svg/165px-DIY_Canada.svg.png",DIY Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108849.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/40px-E%21_Logo_2012.svg.png",E!
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108850.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Family_Jr._logo.svg/200px-Family_Jr._logo.svg.png",FAMILY JR
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108851.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Food_Network_Canada_%282013%29_Logo.png/150px-Food_Network_Canada_%282013%29_Logo.png",FOOD Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108852.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png",FOX
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108853.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png",FOX News
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108854.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png",FOX Sports Racing
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108855.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/220px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",CA-FR | TÉLÉ-QUÉBEC
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108856.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/150px-FX_International_logo.svg.png",FX
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108857.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/130px-FXX_Logo.svg.png",FXX
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108858.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png",GLOBAL
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108859.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Global_Halifax.png",GLOBAL Halifax
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108860.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/200px-Globaltoronto.svg.png",GLOBAL Toronto
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108861.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png",GLOBAL Vancouver
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108862.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/220px-Game_Show_Network_2018.svg.png",GSN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108863.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",History 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108864.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108865.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png",HBO
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108866.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HIFI_logo.svg/241px-HIFI_logo.svg.png",HIFI
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108867.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png",HISTORY
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108868.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/HLN_TV_logo.png",HLN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108869.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png",INVESTIGATION Discovery
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108870.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/260px-Knowledge_Network_2012.svg.png",KNOWLEDGE Kids
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108871.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/La_Canal_Nouvelles_2014.png",CA-FR | LCN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108872.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/220px-LMN_logo_2019.svg.png",LIFETIME Movie Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108873.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/220px-Logo_Lifetime_2020.svg.png",LIFETIME
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108874.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",LOVE Nature
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108875.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Makeful_TV.png/200px-Makeful_TV.png",MAKEFUL
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108876.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MavTV-2018.PNG/200px-MavTV-2018.PNG",MAVTV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108877.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png",MLB Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108878.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/180px-Movietime.svg.png",MovieTime
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108879.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/150px-MTV2_logo_2013.svg.png",MTV 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108880.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nat_Geo_HD.png/200px-Nat_Geo_HD.png",NATIONAL Geographic HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108881.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png",NAT Geo Wild
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108882.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png",NCAA College Sports Package 1
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108883.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png",NCAA College Sports Package 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108884.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png",NCAA College Sports Package 3
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108885.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/200px-NCAA_logo.svg.png",NCAA College Sports Package 4
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108886.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png",NFL Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108887.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/250px-Nicktoons_UK_Logo_2010.svg.png",NICKTOONS HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108888.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/CJON-TV.PNG/200px-CJON-TV.PNG",NTV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108889.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/OLN_logo_2012.png/200px-OLN_logo_2012.png",OLN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108890.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/220px-Omni_TV_2018.svg.png",OMNI 1 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108891.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/220px-Omni_TV_2018.svg.png",OMNI 2 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108892.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/One_TV_Get_Fit.png/150px-One_TV_Get_Fit.png",ONE
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108893.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Paramount_Network_%28Blue%29_Logo.png/200px-Paramount_Network_%28Blue%29_Logo.png",PARAMOUNT Network HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108894.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Peachtree.png/200px-Peachtree.png",PEACH Tree
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108895.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png",CA-FR | PRISE 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108896.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Series_Plus_2020_logo_Hi_Res.png/200px-Series_Plus_2020_logo_Hi_Res.png",CA-FR | SÉRIES+
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108897.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/TSC_2017_logo.png",SHOPPING
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108898.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/150px-Showcase_Logo_2015.png",SHOWCASE
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108899.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/150px-Silverscreenclassics.svg.png",SILVER Screen Classics
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108900.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Slice_2017.png",SLICE
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108901.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Smithsonian_Channel_current_logo.png/300px-Smithsonian_Channel_current_logo.png",SMITHSONIAN Channel HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108902.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Paramount_Network_%28Blue%29_Logo.png/200px-Paramount_Network_%28Blue%29_Logo.png",SPIKE TV / PARAMOUNT CANADA
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108903.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/265px-Starz_2016.svg.png",Starz 1
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108904.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/265px-Starz_2016.svg.png",Starz 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108905.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Super_Channel_%28Canada%29_logo.svg/220px-Super_Channel_%28Canada%29_logo.svg.png",Super Channel Fuse
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108906.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Super_Channel_%28Canada%29_logo.svg/220px-Super_Channel_%28Canada%29_logo.svg.png",Super Channel Heart & Home
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108907.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Super_Channel_%28Canada%29_logo.svg/220px-Super_Channel_%28Canada%29_logo.svg.png",Super Channel Vault
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108908.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",CA-FR | SUPER ÉCRAN 4
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108909.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",CA-FR | SUPER ÉCRAN 3
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108910.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",CA-FR | SUPER ÉCRAN 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108911.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png",TELETOON HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108912.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png",TRAVEL Escape
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108913.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Treehouse_TV_2013.png/200px-Treehouse_TV_2013.png",TREEHOUSE HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108914.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/TVO_HD.PNG",TVO HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108915.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Vision_TV_logo.svg/100px-Vision_TV_logo.svg.png",VISION TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108916.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png",WEATHER Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108917.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png",WFN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108918.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/250px-WGN_9_logo.svg.png",WGN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108919.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/250px-Wild_TV_logo_2020.png",Wild TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108920.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png",WWE
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108921.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Yes_4G_Logo.png",YES
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108922.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/BeIN_Sports_Canada.png/150px-BeIN_Sports_Canada.png",BEIN Sports
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108923.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png",FIGHT NETWORK
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108924.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Game_Plus_Neetwork.png/200px-Game_Plus_Neetwork.png",GAME+
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108925.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png",TSN 4
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108926.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png",TSN 5
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108927.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/210px-SN_360_logo.svg.png",SPORTSNET 360
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108928.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/250px-Logo_Sportsnet_2011.svg.png",SPORTSNET East
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108929.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/250px-Sportsnetone2011.svg.png",SPORTSNET One
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108930.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/250px-SportsnetOntario2011.png",SPORTSNET Ontario
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108931.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/SportsnetPacific2011.png/250px-SportsnetPacific2011.png",SPORTSNET Pacific
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108932.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/250px-Logo_Sportsnet_2011.svg.png",SPORTSNET West
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108933.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/250px-SportsnetWorld.svg.png",SPORTSNET World
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108934.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/220px-TVA_logo_2020.svg.png",CA-FR | TVA Montreal
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108935.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/220px-TVO_logo.svg.png",TV Ontario
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108936.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.baselinecommunications.com/wp-content/uploads/2018/03/aptn-HD-min.png",APTN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108937.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png",Adult Swim
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108938.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png",Nickelodeon
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108939.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",CA-FR | SUPER ÉCRAN 1
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108940.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Much_-_2013_logo.svg/220px-Much_-_2013_logo.svg.png",Much Music
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108941.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/200px-CHCH2010.svg.png",CHCH
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108942.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/BeIN_Sports_Canada.png/150px-BeIN_Sports_Canada.png",BEIN Sports - CANADA
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108943.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png",HGTV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108944.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png",TSN 1
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108945.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png",TSN 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108946.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png",TSN 3
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/108947.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: 5 StarMax FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100333.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | 360 CRIME
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100334.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: DISTRICT OF COLUMBIA NETWORK
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100335.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US A&E FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100336.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: ABC 2 Portland
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100337.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: ABC National
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100338.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: 3ABN
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100339.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | Adult Swim
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100340.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | AFN Prime Atlantic
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100341.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: ALTERNATIVE
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100342.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | American Classic
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100343.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | American Heroes HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100344.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Animal Planet East
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100345.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Animal Planet HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100346.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Animal Planet West
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100347.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | ASPIRE TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100348.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | AT&T SPORTSNET HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100349.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | AWE Channel
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100350.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: Baby TV FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100351.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: beIN Sports US HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100352.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: BET HER FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100353.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: BET HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100354.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | Bible Explorations TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100355.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | Bloomberg HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100356.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Bloomberg HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100357.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: Boomerang HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100358.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Bounce TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100359.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Bravo HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100360.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: Big Ten Network HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100362.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: NBC National
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100363.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: BUZZR TV HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100364.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | BYU HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100365.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | C-SPAN 1 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100366.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: California Music Channel FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100367.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | CAPITAL TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100368.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: Cartoon Network HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100370.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: CBN HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100371.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: CBN News
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100372.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: CBS Sports Network HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100373.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: Cheddar News
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100374.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: Cinemax 5 Star Max
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100375.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US |  Cinemax More Maxx HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100376.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: CLEO TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100377.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | CMT HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100378.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | CNBC HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100379.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | CNBC WORLD FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100380.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Pluto COMEDY TV HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | COURT TV HD" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png",USA | COURT TV HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100382.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | Cowboy Channel HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100383.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",CA | CP24 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100384.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US Crime+ Investigation FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100385.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: CW Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100386.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | ESPN DEPORTES
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100387.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Discovery Channel EAST
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100388.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Discovery Channel HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100389.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: AMC HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100390.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Investigation Discovery HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100391.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Discovery Life HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100392.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Discovery Science HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100393.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Discovery Turbo HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100394.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Disney Channel HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100395.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Disney JR HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100396.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | ELEVEN SPORTS Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100397.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: EPIX 2 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100398.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: EPIX Hits HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100399.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: EPIX HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100400.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | ESPN 1 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100401.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | ESPN 3 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100402.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | ESPN U HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100403.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Eugene
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100404.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | FAILARMY HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100405.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Food Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100406.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Fox News HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100407.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Fox National
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100408.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA |  FYI HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100409.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | GRIT TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100410.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | HBO 2 FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100411.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Comedy Central HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100412.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA |  HBO Family FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100413.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA |  HBO HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100414.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | HBO Signature FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100415.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | HBO Zone FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100416.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: HGTV HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100417.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | History 2
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100418.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Hope  Channel
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100419.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: IFC HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100420.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | IndiePlex FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100421.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | ION FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100422.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | CINEMAX LATINO
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100423.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | LAW & Crime HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100424.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | THE LONGHORN NETWORK HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100425.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | MAV TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100426.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Mihan TV HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100427.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: MLB HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100428.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | MOTOR TREND
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100429.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | MoviePlex FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100430.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | MSG 2 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100431.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | MSG HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100432.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | MSG PLUS HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100433.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: MTV 2 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100434.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: MTV HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100435.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | NFL Network FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100436.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | NHL NETWORK HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100437.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Nickelodeon HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100438.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Nickelodeon MUSIC
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100439.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Nick JR
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100440.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | ONE AMERICA NEWS
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100442.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: FXX HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100443.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | PAC 12 Area HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100444.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | PAC-12 Arizona HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100445.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | PAC-12 Los Angeles FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100446.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | PBS America
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100447.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: FXM HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100448.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | QVC HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100449.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: FX HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100450.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | SHOWTIME Next HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100451.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: USA TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100452.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: TRU TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100453.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Spike HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100454.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Sportsman Channel
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100455.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: STADIUM
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100456.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | START TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100457.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | STARZ  HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100458.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: SYFY HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100459.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | TasteMade HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100460.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | TASTEMADE EAST
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100461.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US | TBN 24
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100462.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Teen nickelodeon HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100463.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US |  Connecticut Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100464.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Tennis Channel HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100465.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | The Blaze
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100466.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | Cinemax  THRILLERMAX
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100467.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | TLC Channel
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100468.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: TNT HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100470.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: TV Land HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100472.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Lifetime Movies
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100473.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: TVONE
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100474.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | UNIMAS HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100475.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Lifetime
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100476.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: VH1 HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100477.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Viceland HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100478.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: WE TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100479.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: E! Network
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100480.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | WORLD FISHING NETWORK HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100481.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA | WWE Network FHD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100482.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: DIY Network HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100483.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Oxygen TV
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/100484.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Hallmark Movies & Mysteries HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/116614.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",US: Sony Movies
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/116615.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: TBS HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119345.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Disney XD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119346.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: CNN HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119347.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Nat Geo Wild HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119350.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Hallmark Channel HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119351.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: National Geographic HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119353.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: OWN HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119365.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: PBS Kids
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119366.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Fuse HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119367.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Free Form
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119368.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: Paramount HD
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119369.m3u8
-#EXTINF:-1 group-title="IPTV TEST" tvg-logo="https://www.iptvbayiol.com/image/cache/data/Server/14307574_0_b-min-800x800.jpg",USA: EPIX Drive-In
-http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/119370.m3u8
