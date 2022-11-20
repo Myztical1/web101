@@ -1143,6 +1143,176 @@ http://ky-iptv.com:80/Davey123/Davey123/175911.m3u8
 http://ky-iptv.com:80/Davey123/Davey123/175912.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/8f91fff5f5426d4fe0589438724fc81f.png",USA Paramount East UHD
 http://ky-iptv.com:80/Davey123/Davey123/175914.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/a74acac51a09c41d12051fdaaf459476.png",US: 5 STARMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150357.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/160bf9730f9699b6025b49a730d864ed.png",US: ACTIONMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150358.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX EAST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150359.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX WEST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150360.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/1fbada6e2d37df9706eabb06558b1db7.png",US: OUTERMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150361.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://latinoamericatv.vip:8080/images/091faafc658c3157bf3452d669290132.png",US: MOREMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150362.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/5b5e1fd418c68e5655615dc12a471673.png",US: THRILLERMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150363.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png",US: EPIX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150364.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/33ed80c31a5ceece1d8b42930f283060.png",US: EPIX 2
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150365.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/449ef154d647d703f5f7d6b604740c60.png",US: EPIX DRIVE-IN
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150366.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/a4ab43e553cc22d0c3e268b55cc6066b.png",US: EPIX HITS
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150367.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/10718ab4dbde3899bbc31dc48d8a5f91.png",US: HBO EAST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150368.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/f2973347dfd89ca735e8ee43bbfbb48b.png",US: HBO 2
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150369.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/bd92803d5defb80f6e80c2243301375e.png",US: HBO FAMILY
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150370.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/c202c96c71d0e8817ece662524bdce7a.png",US: HBO SIGNATURE
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150371.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/efb429f49591f00a44ea4e14e93d56a0.png",US: HBO PLUS
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150372.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/192ecbac40cd27d775f99337ba93b913.png",US: HBO WEST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150373.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/9db33946c136281a913bdfd2447c9bf9.png",US: HBO ZONE
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150374.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/e09db8638d2bcbe4fd768d1c9672a57f.png",US: HDNET MOVIES
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150375.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/4c1321feb975219e202367390d69e53a.png",US: MOVIE PLEX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150376.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/db059dc8a47602a03922791832109693.png",US: INDIE PLEX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150377.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/de80c3b033cac62b8c199ef866d3d3cd.png",US: RETRO PLEX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150378.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/ab0f6caa9805cabc974ba5c835b30a23.png",US: SHOWTIME EAST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150379.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/ab0f6caa9805cabc974ba5c835b30a23.png",US: SHOWTIME WEST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150380.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://epg.justco.cc/guide/logos/SHOWTIME BEYOND.png",US: SHOWTIME SHOWCASE
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150381.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/22a09eae943b6174e51accf5da586360.png",US: SHOWTIME EXTREME
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150382.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/ea686ff21bf525a3d06c7b346dbc6a37.png",US: SHOWTIME FAMILY ZONE
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150383.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/92447e03a06cc805b279c38c9e35c671.png",US: SHOWTIME NEXT
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150384.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/834818fdffba43917df672392b4d64b4.png",US: SHOWTIME WOMEN
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150385.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/9ddc776ce1df88425a9d1ca0fb77edc7.png",US: STARZ COMEDY
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150386.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/b2c43ebabb7c849a357fa221da49c24b.png",US: STARZENCORE
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150387.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/b2c43ebabb7c849a357fa221da49c24b.png",US: Starz Encore West
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150388.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/116e61022a8c5933a759124db21c968c.png",US: STARZENCORE ACTION
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150389.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/6bb0d5d14331d5574244575ef118caa6.png",US: STARZ ENCORE CLASSIC
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150390.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/324c8d5f876d45cae6c3db4409cf1652.png",US: STARZENCORE SUSPENSE
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150391.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/bb0ce5935f18c27caa7556b6afe5a7fa.png",US: STARZENCORE WESTERNS
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150392.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/0c83f368a29d1381e414dec6ecb4f222.png",US: STARZ IN BLACK
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150393.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/19149e7186af1a52b9fb461242f07516.png",US: STARZ KIDS & FAMILY
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150394.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/0a6909d16b68b1906d5ffbc9827d9b13.png",US: SHOWTIME BET
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150395.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/160bf9730f9699b6025b49a730d864ed.png",US: ACTIONMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150396.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX EAST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150397.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX WEST
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150398.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/1fbada6e2d37df9706eabb06558b1db7.png",US: OUTERMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150399.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://latinoamericatv.vip:8080/images/091faafc658c3157bf3452d669290132.png",US: MOREMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150400.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/5b5e1fd418c68e5655615dc12a471673.png",US: THRILLERMAX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150401.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png",US: EPIX
+http://streamgo.vip:8008/live/joaquin04/joaquin04/150402.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/a69bdcd2969477c4a8a88c11f8c3f21c.png",USA MOV | 5Starmax
+http://tvstarlife.com:25461/live/geovany/geovany/27339.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/7613348ba51d72bcaad0ce141fbb8572.png",USA MOV | Actionmax
+http://tvstarlife.com:25461/live/geovany/geovany/27340.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/a4c164b96a85e428c344f2170ce7a428.png",USA MOV | Cinemax
+http://tvstarlife.com:25461/live/geovany/geovany/27341.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/49001e409276c8a0feed807d1db4990a.png",USA MOV | CMT
+http://tvstarlife.com:25461/live/geovany/geovany/27342.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/b9bc4ce1eee9397b0845993ad054298a.png",USA MOV | Free Form
+http://tvstarlife.com:25461/live/geovany/geovany/27343.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/d62e32afc8ee4e87e886ba69e5252acc.png",USA MOV | FXM
+http://tvstarlife.com:25461/live/geovany/geovany/27344.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/4a13be8857c6455529d0151368a58ce3.png",USA MOV | Hallmark Drama
+http://tvstarlife.com:25461/live/geovany/geovany/27345.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/7d2f6a312bd161ec1b30895e73abce6a.png",USA MOV | Hallmark
+http://tvstarlife.com:25461/live/geovany/geovany/27346.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/74de574f6312b678de90de7153a66a4d.png",USA MOV | Hallmark MYM
+http://tvstarlife.com:25461/live/geovany/geovany/27347.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/19740b2d2f4859ab096d3c0f6586ddb7.png",USA MOV | HBO
+http://tvstarlife.com:25461/live/geovany/geovany/27348.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/181e1ef1a86b68d42f26e23e232a5d3f.png",USA MOV | HBO East
+http://tvstarlife.com:25461/live/geovany/geovany/27349.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/242cdb7453faa8ffb42cb78785d03642.png",USA MOV | HBO 2
+http://tvstarlife.com:25461/live/geovany/geovany/27350.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/c0afaed727cb30d56ac4a6ab17c569a7.png",USA MOV | HBO Comedy
+http://tvstarlife.com:25461/live/geovany/geovany/27351.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/c8c14683a763353aa555bd7a9fd7bade.png",USA MOV | HBO Family
+http://tvstarlife.com:25461/live/geovany/geovany/27352.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/dcff80bf8df13ea323bd2af46c95f481.png",USA MOV | HBO Signature
+http://tvstarlife.com:25461/live/geovany/geovany/27353.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/19f4769b1eab87822631ed9bed4a8357.png",USA MOV | HBO Zone
+http://tvstarlife.com:25461/live/geovany/geovany/27354.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/f32ebc805287436509cfb322e5c4462b.png",USA MOV | Lifetime Movies
+http://tvstarlife.com:25461/live/geovany/geovany/27355.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/7827e3337f267d5227ffaaeafd5f9a91.png",USA MOV | Outermax
+http://tvstarlife.com:25461/live/geovany/geovany/27356.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/bf27961a73b2b8d21bd73f3036b2198f.png",USA MOV | Paramount
+http://tvstarlife.com:25461/live/geovany/geovany/27357.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/20477b28e029cf3d7f2a5a8c0d92bfde.png",USA MOV | Revolt
+http://tvstarlife.com:25461/live/geovany/geovany/27358.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/f6a85dd250e1e96057baf77ed5b0faf4.png",USA MOV | Showtime
+http://tvstarlife.com:25461/live/geovany/geovany/27359.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/ceaf447b3fa2fb09e301af04f041d980.png",USA MOV | Showtime 2
+http://tvstarlife.com:25461/live/geovany/geovany/27360.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/7c3fa58ac393291d0b046c6471266d10.png",USA MOV | Showtime Extreme
+http://tvstarlife.com:25461/live/geovany/geovany/27361.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/b54e15bd058f816bd9e10a6e544e8b7e.png",USA MOV | Showtime Next
+http://tvstarlife.com:25461/live/geovany/geovany/27362.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/e44026d44cff16b8bb5ce32cb821fdd9.png",USA MOV | SKY Cinema Action
+http://tvstarlife.com:25461/live/geovany/geovany/27363.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/03cf61cb68ed7a83cb2c7d362de8be47.png",USA MOV | SKY Cinema Comedy
+http://tvstarlife.com:25461/live/geovany/geovany/27364.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/79a39d6b43da93ab1200140dc5a22e5b.png",USA MOV | SKY Cinema Sci Fi Horror
+http://tvstarlife.com:25461/live/geovany/geovany/27365.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/a547f74ec882c309c5072a13c861b097.png",USA MOV | Sony Movies
+http://tvstarlife.com:25461/live/geovany/geovany/27366.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/567966172ae7c5e20d3582e832638465.png",USA MOV | Starz Cinema
+http://tvstarlife.com:25461/live/geovany/geovany/27367.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/129e372e7641d44a28cfd9572dc3e332.png",USA MOV | Starz Comedy
+http://tvstarlife.com:25461/live/geovany/geovany/27368.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/cf9baaa4249334b0046e0935fa05a9f4.png",USA MOV | Starz Edge
+http://tvstarlife.com:25461/live/geovany/geovany/27369.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/9134c2b35fed761d4ea05dd01761c49c.png",USA MOV | Starz Encore esp
+http://tvstarlife.com:25461/live/geovany/geovany/27370.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/f77f8f8802cf52970d3afadb471b6901.png",USA MOV | Starz Encore Action
+http://tvstarlife.com:25461/live/geovany/geovany/27371.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/12cdc0df25912a04132cf646cefa2ba7.png",USA MOV | Starz Black
+http://tvstarlife.com:25461/live/geovany/geovany/27372.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/6aaa9251e489d9c76c6b0bf2fde544d9.png",USA MOV | Starz Encore Suspense
+http://tvstarlife.com:25461/live/geovany/geovany/27373.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/e03f3930d01381cd23c710a5aec60a9a.png",USA MOV | Starz Encore Westerns
+http://tvstarlife.com:25461/live/geovany/geovany/27374.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/0c3410576ef6e9f2f302dd73bd78a5c7.png",USA MOV | Starz Kids And Family
+http://tvstarlife.com:25461/live/geovany/geovany/27375.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/f9ce53d34fdfbd667b3673065f21c105.png",USA MOV | Sundance
+http://tvstarlife.com:25461/live/geovany/geovany/27376.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://tvstarlife.com:25461/images/76d8dc26f8ce8800b5c230c4c6352310.png",USA MOV | TCM
+http://tvstarlife.com:25461/live/geovany/geovany/27377.m3u8
 
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://whoatv.com/wp-content/uploads/2014/08/TV3-logo.png",3E Ireland
 http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428343.m3u8
@@ -2037,6 +2207,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-raycomsports-ono
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/20b970c1_D0CF72b/posters/c3daaca8a93d087bb3d12921d9e2f9fa/c3daaca8a93d087bb3d12921d9e2f9fa.png",Strongman Champions League
 https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/06/fubo-sports-network-logo-dark-768x432.jpg",Fubo Sports Network (720p)
+https://is.gd/klbNjf
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
