@@ -2888,6 +2888,12 @@ http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/2549/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",Sport Klub 4 HD HR
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/7272/index.m3u8
 
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR" tvg-logo="https://st1.latestly.com/wp-content/uploads/2022/11/FIFA-World-Cup-2022-Live-Score-Updates-784x441.jpg",|WC| WORLD CUP LIVE SCORE
+https://is.gd/Iy5LJ4
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR" tvg-logo="https://us.mpnewsnow.com/wp-content/uploads/2022/11/s6-FIFA-World-Cup.jpg",|UK| BBC ONE UNITED KINGDOM             
+https://is.gd/PW4Ip5
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR" tvg-logo="https://us.mpnewsnow.com/wp-content/uploads/2022/11/s6-FIFA-World-Cup.jpg",|UK| ITV 1 UNITED KINGDOM               
+https://is.gd/1LRkF0
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR" tvg-logo="https://us.mpnewsnow.com/wp-content/uploads/2022/11/s6-FIFA-World-Cup.jpg",T&T| CNC3 HD
 https://is.gd/SwEN4F
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR" tvg-logo="https://us.mpnewsnow.com/wp-content/uploads/2022/11/s6-FIFA-World-Cup.jpg",UK| BBC 1 HD
