@@ -2634,12 +2634,6 @@ https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88455
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88456
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",TEN 1 HD IN
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2809.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/ad/ad90d9e30079d59b053b9c6d6553b2f8.jpeg",Star Sports 1 IN
-http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2813.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/ad/ad90d9e30079d59b053b9c6d6553b2f8.jpeg",Star Sports 2 IN
-http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2812.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/ad/ad90d9e30079d59b053b9c6d6553b2f8.jpeg",Star Sports 3 IN
-http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2811.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://51.79.21.44:80/images/571c1637ba98b7697b39033c68198ec4.png",Ten Cricket HD IN
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2807.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/ad/ad90d9e30079d59b053b9c6d6553b2f8.jpeg",Star Sports 1 HD IN
@@ -2654,49 +2648,41 @@ http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2806.m3u8
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2805.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",Willow Cricket IN
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/2798.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.cricfooty.com/wp-content/uploads/2017/08/Sony_SIX.png",SONY SIX HD VIP IN
-http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/43597.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png",SONY TEN2 HD VIP IN
-http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/43595.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/ad/ad90d9e30079d59b053b9c6d6553b2f8.jpeg",STAR SPORTS 1 HD VIP IN
-http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/43609.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/ad/ad90d9e30079d59b053b9c6d6553b2f8.jpeg",STAR SPORTS 2 HD VIP IN
-http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/43607.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports3hduk.png",S Sports Action HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Action.png",S Sports Action HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/333.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports3uk.png",S Sports Action UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Action.png",S Sports Action UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/374.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsarenahduk.png",S Sports Arena HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_ArenaHD.png",S Sports Arena HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/6201.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsarenauk.png",S Sports Arena UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_ArenaHD.png",S Sports Arena UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/6200.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports2hduk.png",S Sports Cricket HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png",S Sports Cricket HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/334.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports2uk.png",S Sports Cricket UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png",S Sports Cricket UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/375.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsf1hduk.png",S Sports F1 HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png",S Sports F1 HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/371.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsf1uk.png",S Sports F1 UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png",S Sports F1 UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/337.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsfootballhduk.png",S Sports Football HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football_HD.png",S Sports Football HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/6204.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsfootballuk.png",S Sports Football UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football_HD.png",S Sports Football UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/6203.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports4hduk.png",Sky Sports Golf HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",Sky Sports Golf HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/332.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports4uk.png",S Sports Golf UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",S Sports Golf UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/373.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports1hduk.png",S Sports Main Event HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",S Sports Main Event HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/335.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports1uk.png",S Sports Main Event UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",S Sports Main Event UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/376.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsmixhduk.png",S Sports Mix HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Mix_HD.png",S Sports Mix HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/1821.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysportsnewshquk.png",S Sports News HQ UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_News_HD.png",S Sports News HQ UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/336.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports5hduk.png",S Sports Premier League HD UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png",S Sports Premier League HD UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/331.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://195.154.221.171/picons/skysports5uk.png",S Sports Premier League UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png",S Sports Premier League UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/372.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",PREMIER SPORTS UK
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6555/index.m3u8
