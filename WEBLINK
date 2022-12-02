@@ -2560,7 +2560,7 @@ https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/29811
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/185
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/440px-BT_Sport_logo_2019.svg.png",UK: BT Sport Mosaic
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/23402
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",UK: BT Sport Mosaic 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/440px-BT_Sport_logo_2019.svg.png",UK: BT Sport Mosaic 2
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/30929
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png",UK: Racing TV  FHD
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/211
@@ -2684,6 +2684,58 @@ http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/336.m3u8
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/331.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png",S Sports Premier League UK
 http://albtv.in:8080/live/BrankoVorkapic/KZi8zfrk57/372.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://advanced-television.com/wp-content/uploads/2021/07/PremierSports.jpg",Premier Sports 1
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81717.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://advanced-television.com/wp-content/uploads/2021/07/PremierSports.jpg",Premier Sports 1 FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81718.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://advanced-television.com/wp-content/uploads/2021/07/PremierSports.jpg",Premier Sports 2
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81719.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://advanced-television.com/wp-content/uploads/2021/07/PremierSports.jpg",Premier Sports 2 FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81720.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png",Racing TV
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81721.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png",Racing UK FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81722.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Action.png",Sky Sports Action FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81723.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_ArenaHD.png",Sky Sports Arena FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81726.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png",Sky Sports Cricket
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81727.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png",Sky Sports Cricket FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81728.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png",Sky Sports F1
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81729.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png",Sky Sports F1 FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81730.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football_HD.png",Sky Sports Football
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81731.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football_HD.png",Sky Sports Football FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81732.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",Sky Sports Golf
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81733.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",Sky Sports Golf FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81734.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",Sky Sports Main Event
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81735.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png",Sky Sports Main Event FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81736.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Mix_HD.png",Sky Sports Mix
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81737.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Mix_HD.png",Sky Sports Mix FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81738.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_News_HD.png",Sky Sports News FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81740.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://miro.medium.com/max/3656/1*3VpvBBTGB77-qqhe5Ki_AQ.png",Sky Sports NFL FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81741.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png",Sky Sports Premier League
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81742.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png",Sky Sports Premier League FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81743.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png",Sky Sports Racing
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81744.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png",Sky Sports Racing FHD
+http://4kplus.org:80/live/darkmen1/ifXsydwyDj/81745.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",PREMIER SPORTS UK
 http://16081945.ottrast.com/iptv/RVE9FDH9H28Q9Q/6555/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/b/474-4744908_sports-ball-png.png",BT Sport 1 UK
