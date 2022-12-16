@@ -4840,6 +4840,20 @@ https://tv4.live/api/stream/citi/citi/movie/tt11245972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/17/d1172e00097fa60770be9d6a4e6540cb/d1172e00097fa60770be9d6a4e6540cb.jpg",Last Seen Alive (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt10242388
 
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/A-CHRISTMAS-CAROL.png",EN| A CHRISTMAS CAROL FHD
+http://line.premiumpowers.net:80/Richard23/Richard23/1066683
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 1 FHD
+http://line.premiumpowers.net:80/Richard23/Richard23/1066682
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 2 FHD
+http://line.premiumpowers.net:80/Richard23/Richard23/1066681
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 3 FHD
+http://line.premiumpowers.net:80/Richard23/Richard23/1066680
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 4 FHD
+http://line.premiumpowers.net:80/Richard23/Richard23/1066679
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 5 FHD
+http://line.premiumpowers.net:80/Richard23/Richard23/1066678
+#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 6 FHD
+http://line.premiumpowers.net:80/Richard23/Richard23/1066677
 #EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://i.imgur.com/hlIDlD1.jpg",The Greatest Gift Ever Given  
 https://live-content.xumo.com/1837/content/XM0YNW9RGMTJZF/22526143/master.m3u8
 #EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM08F4QXES68A1/600x340.jpg",The Christmas Candle
