@@ -223,29 +223,9 @@ https://5b622f07944df.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",3ABN Kids Network
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8 
 
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Tves SD
-http://higherpro.xyz:8080/Eli/Eli/10359
-#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg",VE: Telesur SD
-http://higherpro.xyz:8080/Eli/Eli/10360
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Telesur (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/10362
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Meridiano
-http://higherpro.xyz:8080/Eli/Eli/10364
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Globovision
-http://higherpro.xyz:8080/Eli/Eli/10365
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/10367
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenevisionPlus.ve.png",VE: Venevision Plus
-http://higherpro.xyz:8080/Eli/Eli/10368
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Vive HD
-http://higherpro.xyz:8080/Eli/Eli/10369
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenezolanadeTelevision.ve.png",VE: Venezolana de Television
-http://higherpro.xyz:8080/Eli/Eli/10371
-#EXTINF:-1 group-title="Español" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png",TV FAMILIA
-http://higherpro.xyz:8080/Eli/Eli/60989
 #EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",Tves SD
 http://higherpro.xyz:8080/Eli/Eli/10359
-#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg",Telesur SD
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",Telesur SD
 http://higherpro.xyz:8080/Eli/Eli/10360
 #EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Telesur (MOVIL)
 http://higherpro.xyz:8080/Eli/Eli/10362
@@ -255,13 +235,13 @@ http://higherpro.xyz:8080/Eli/Eli/10364
 http://higherpro.xyz:8080/Eli/Eli/10365
 #EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus (MOVIL)
 http://higherpro.xyz:8080/Eli/Eli/10367
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenevisionPlus.ve.png",VE: Venevision Plus
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus
 http://higherpro.xyz:8080/Eli/Eli/10368
 #EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Vive HD
 http://higherpro.xyz:8080/Eli/Eli/10369
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenezolanadeTelevision.ve.png",VE: Venezolana de Television
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venezolana de Television
 http://higherpro.xyz:8080/Eli/Eli/10371
-#EXTINF:-1 group-title="Español" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png",TV FAMILIA
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",TV FAMILIA
 http://higherpro.xyz:8080/Eli/Eli/60989
 #EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E (MOVIL)
 http://higherpro.xyz:8080/Eli/Eli/79
