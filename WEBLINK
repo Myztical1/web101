@@ -223,6 +223,330 @@ https://5b622f07944df.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",3ABN Kids Network
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8 
 
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Tves SD
+http://higherpro.xyz:8080/Eli/Eli/10359
+#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg",VE: Telesur SD
+http://higherpro.xyz:8080/Eli/Eli/10360
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Telesur (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/10362
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Meridiano
+http://higherpro.xyz:8080/Eli/Eli/10364
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Globovision
+http://higherpro.xyz:8080/Eli/Eli/10365
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/10367
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenevisionPlus.ve.png",VE: Venevision Plus
+http://higherpro.xyz:8080/Eli/Eli/10368
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Vive HD
+http://higherpro.xyz:8080/Eli/Eli/10369
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenezolanadeTelevision.ve.png",VE: Venezolana de Television
+http://higherpro.xyz:8080/Eli/Eli/10371
+#EXTINF:-1 group-title="Español" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png",TV FAMILIA
+http://higherpro.xyz:8080/Eli/Eli/60989
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",Tves SD
+http://higherpro.xyz:8080/Eli/Eli/10359
+#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg",Telesur SD
+http://higherpro.xyz:8080/Eli/Eli/10360
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Telesur (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/10362
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Meridiano
+http://higherpro.xyz:8080/Eli/Eli/10364
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Globovision
+http://higherpro.xyz:8080/Eli/Eli/10365
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/10367
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenevisionPlus.ve.png",VE: Venevision Plus
+http://higherpro.xyz:8080/Eli/Eli/10368
+#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Vive HD
+http://higherpro.xyz:8080/Eli/Eli/10369
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.iptv-epg.com/ve/VenezolanadeTelevision.ve.png",VE: Venezolana de Television
+http://higherpro.xyz:8080/Eli/Eli/10371
+#EXTINF:-1 group-title="Español" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png",TV FAMILIA
+http://higherpro.xyz:8080/Eli/Eli/60989
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/79
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/81
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/80
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E op
+http://higherpro.xyz:8080/Eli/Eli/65016
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/84
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/83
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/82
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/85
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/87
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/86
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",Cine TV: Cine Latino
+http://higherpro.xyz:8080/Eli/Eli/95
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",Cine TV: Cine Latino (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/94
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/88
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/91
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal Full HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/90
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/89
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg",Cine TV: Cinema Dinamita
+http://higherpro.xyz:8080/Eli/Eli/97
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg",Cine TV: Cinema Dinamita (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/96
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",Cine TV: Cinemax (CO)
+http://higherpro.xyz:8080/Eli/Eli/93
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",Cine TV: Cinemax (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/92
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/2jPFbFZ/CLAROCINEMA.jpg",Cine TV: Claro Cinema
+http://higherpro.xyz:8080/Eli/Eli/98
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE
+http://higherpro.xyz:8080/Eli/Eli/100
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/99
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE Full HD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/101
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FX (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/134
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FX FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/135
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FXM (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/136
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden
+http://higherpro.xyz:8080/Eli/Eli/137
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden Edge (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/141
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden FHD
+http://higherpro.xyz:8080/Eli/Eli/138
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO
+http://higherpro.xyz:8080/Eli/Eli/142
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2
+http://higherpro.xyz:8080/Eli/Eli/146
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 FHD
+http://higherpro.xyz:8080/Eli/Eli/148
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/149
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 HD
+http://higherpro.xyz:8080/Eli/Eli/147
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family
+http://higherpro.xyz:8080/Eli/Eli/150
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family FHD
+http://higherpro.xyz:8080/Eli/Eli/152
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/153
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family HD
+http://higherpro.xyz:8080/Eli/Eli/151
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO FHD
+http://higherpro.xyz:8080/Eli/Eli/144
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/145
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO HD
+http://higherpro.xyz:8080/Eli/Eli/143
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg",Cine TV: HBO Mundi
+http://higherpro.xyz:8080/Eli/Eli/164
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS
+http://higherpro.xyz:8080/Eli/Eli/154
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/157
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS FHD
+http://higherpro.xyz:8080/Eli/Eli/156
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS HD
+http://higherpro.xyz:8080/Eli/Eli/155
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP
+http://higherpro.xyz:8080/Eli/Eli/166
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/165
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP FHD
+http://higherpro.xyz:8080/Eli/Eli/167
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature
+http://higherpro.xyz:8080/Eli/Eli/159
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/158
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature FHD
+http://higherpro.xyz:8080/Eli/Eli/161
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature HD
+http://higherpro.xyz:8080/Eli/Eli/160
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO Subtitulado
+http://higherpro.xyz:8080/Eli/Eli/162
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO Subtitulado FHD
+http://higherpro.xyz:8080/Eli/Eli/163
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME
+http://higherpro.xyz:8080/Eli/Eli/169
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/168
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME FHD
+http://higherpro.xyz:8080/Eli/Eli/170
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/THM6pYL/STARACTION.jpg",Cine TV: STAR ACTION HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/112
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/102
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/104
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/103
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg",Cine TV: STAR COMEDY
+http://higherpro.xyz:8080/Eli/Eli/119
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg",Cine TV: STAR COMEDY HD
+http://higherpro.xyz:8080/Eli/Eli/120
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VWnc34s/STARSERIES.jpg",Cine TV: STAR SERIES (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/133
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT (MOVIL)
+http://higherpro.xyz:8080/Eli/Eli/171
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT FHD (ARG)(Dual Audio)
+http://higherpro.xyz:8080/Eli/Eli/174
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT FHD (CO)
+http://higherpro.xyz:8080/Eli/Eli/173
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/172
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES (CO)
+http://higherpro.xyz:8080/Eli/Eli/175
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES FHD (CO)
+http://higherpro.xyz:8080/Eli/Eli/177
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES HD (CO)
+http://higherpro.xyz:8080/Eli/Eli/176
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| : CINEMAX
+http://higherpro.xyz:8080/Eli/Eli/13768
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",CINE| A3 Cine
+http://higherpro.xyz:8080/Eli/Eli/13987
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",CINE| A3 Series HD
+http://higherpro.xyz:8080/Eli/Eli/13933
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| CINEMAX 
+http://higherpro.xyz:8080/Eli/Eli/13769
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg",CINE| Cinemax Action HD
+http://higherpro.xyz:8080/Eli/Eli/13766
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINE| Cinemax East HD
+http://higherpro.xyz:8080/Eli/Eli/13764
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINE| Cinemax FHD
+http://higherpro.xyz:8080/Eli/Eli/13765
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| CINEMAX HD
+http://higherpro.xyz:8080/Eli/Eli/13767
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg",CINE| DE PELICULA
+http://higherpro.xyz:8080/Eli/Eli/13832
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg",CINE| DE PELICULA CLASICO
+http://higherpro.xyz:8080/Eli/Eli/13833
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg",CINE| DE PELICULA PLUS
+http://higherpro.xyz:8080/Eli/Eli/13831
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
+http://higherpro.xyz:8080/Eli/Eli/13825
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
+http://higherpro.xyz:8080/Eli/Eli/13826
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
+http://higherpro.xyz:8080/Eli/Eli/13827
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",CINE| EUROPA EUROPA
+http://higherpro.xyz:8080/Eli/Eli/13828
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",CINE| Europa Europa
+http://higherpro.xyz:8080/Eli/Eli/13829
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg",CINE| INDIE PLEX HD
+http://higherpro.xyz:8080/Eli/Eli/13763
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg",CINE| OuterMax HD
+http://higherpro.xyz:8080/Eli/Eli/13759
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| PARAMOUNT
+http://higherpro.xyz:8080/Eli/Eli/13814
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Channel
+http://higherpro.xyz:8080/Eli/Eli/13816
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13815
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| PARAMOUNT NETWORK
+http://higherpro.xyz:8080/Eli/Eli/13818
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Network HD
+http://higherpro.xyz:8080/Eli/Eli/13817
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg",CINE| Showtime East HD
+http://higherpro.xyz:8080/Eli/Eli/13757
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg",CINE| Showtime HD
+http://higherpro.xyz:8080/Eli/Eli/13756
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg",CINE| Showtime West HD
+http://higherpro.xyz:8080/Eli/Eli/13755
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony
+http://higherpro.xyz:8080/Eli/Eli/13810
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony HD
+http://higherpro.xyz:8080/Eli/Eli/13808
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony HD 
+http://higherpro.xyz:8080/Eli/Eli/13809
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| SPACE
+http://higherpro.xyz:8080/Eli/Eli/13778
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space
+http://higherpro.xyz:8080/Eli/Eli/13779
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space HD
+http://higherpro.xyz:8080/Eli/Eli/13780
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space HD
+http://higherpro.xyz:8080/Eli/Eli/13781
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="PPV STARZ",CINE| Starz Cinema HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13754
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="PPV STARZ",CINE| Starz Comedy HD
+http://higherpro.xyz:8080/Eli/Eli/13752
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="PPV STARZ",CINE| Starz East HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13751
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="PPV STARZ",CINE| Starz Edge HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13750
+#EXTINF:-1 group-title="Español" tvg-logo="https://1.bp.blogspot.com/-VoIB30k-IWQ/Uqkju9h-NWI/AAAAAAAAdCk/gnQoEHszfoA/s1600/Encore+logo+2013.png" group-title="PPV STARZ",CINE| Starz Encore Black HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13748
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="PPV STARZ",CINE| Starz Encore Classic HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13747
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="PPV STARZ",CINE| Starz Encore Family HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13745
+#EXTINF:-1 group-title="Español" tvg-logo="https://1.bp.blogspot.com/-VoIB30k-IWQ/Uqkju9h-NWI/AAAAAAAAdCk/gnQoEHszfoA/s1600/Encore+logo+2013.png" group-title="PPV STARZ",CINE| Starz Encore HD
+http://higherpro.xyz:8080/Eli/Eli/13744
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="PPV STARZ",CINE| Starz Encore Suspense HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13743
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="PPV STARZ",CINE| Starz Encore Western HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13742
+#EXTINF:-1 group-title="Español" tvg-logo="https://www.gravesat.com/img/upload/starz-logo.png" group-title="PPV STARZ",CINE| Starz HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13741
+#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="PPV STARZ",CINE| Starz West HD_1080P
+http://higherpro.xyz:8080/Eli/Eli/13739
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal
+http://higherpro.xyz:8080/Eli/Eli/13783
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
+http://higherpro.xyz:8080/Eli/Eli/13782
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
+http://higherpro.xyz:8080/Eli/Eli/13784
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
+http://higherpro.xyz:8080/Eli/Eli/13785
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy
+http://higherpro.xyz:8080/Eli/Eli/13770
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy
+http://higherpro.xyz:8080/Eli/Eli/13773
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| SyFy HD
+http://higherpro.xyz:8080/Eli/Eli/13771
+#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy HD
+http://higherpro.xyz:8080/Eli/Eli/13772
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS
+http://higherpro.xyz:8080/Eli/Eli/13789
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS
+http://higherpro.xyz:8080/Eli/Eli/13791
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS HD
+http://higherpro.xyz:8080/Eli/Eli/13792
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
+http://higherpro.xyz:8080/Eli/Eli/13786
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
+http://higherpro.xyz:8080/Eli/Eli/13787
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
+http://higherpro.xyz:8080/Eli/Eli/13788
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel
+http://higherpro.xyz:8080/Eli/Eli/13813
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13811
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13812
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel
+http://higherpro.xyz:8080/Eli/Eli/13774
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel
+http://higherpro.xyz:8080/Eli/Eli/13775
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13776
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel HD
+http://higherpro.xyz:8080/Eli/Eli/13777
+#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg",CINE|RetroPlex HD
+http://higherpro.xyz:8080/Eli/Eli/13824
+#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",CIN| I-SAT 
+http://higherpro.xyz:8080/Eli/Eli/10314
+#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",CIN| I-SAT MX.
+http://higherpro.xyz:8080/Eli/Eli/10315
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1c961811ad68433fe9403cff3b2da4e5.png",A&E
 http://tvstarlife.com:25461/live/Marco01/Marco01/92.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png",CINELATINO
