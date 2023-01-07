@@ -20,15 +20,15 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://is.gd/27jm3T
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-https://is.gd/yTBaFj
+https://is.gd/yva0nx
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 https://is.gd/RVYMSV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
-https://is.gd/PLNi1j
+https://is.gd/2d1E9B
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://is.gd/iRCHii
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-https://is.gd/PIRls5
+https://is.gd/tk8qlm
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tent.png",CAR| TEN TV HD
 http://iptv365.xyz:900/3160760056/1016703067/400200044
@@ -243,634 +243,350 @@ http://higherpro.xyz:8080/Eli/Eli/10369
 http://higherpro.xyz:8080/Eli/Eli/10371
 #EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",TV FAMILIA
 http://higherpro.xyz:8080/Eli/Eli/60989
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/79
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E Full HD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/81
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E Full HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/80
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E op
-http://higherpro.xyz:8080/Eli/Eli/65016
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC Full HD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/84
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC Full HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/83
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg",Cine TV: AMC HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/82
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/85
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN Full HD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/87
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg",Cine TV: AXN Full HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/86
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",Cine TV: Cine Latino
-http://higherpro.xyz:8080/Eli/Eli/95
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg",Cine TV: Cine Latino (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/94
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/88
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal Full HD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/91
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal Full HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/90
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg",Cine TV: Cinecanal HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/89
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg",Cine TV: Cinema Dinamita
-http://higherpro.xyz:8080/Eli/Eli/97
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg",Cine TV: Cinema Dinamita (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/96
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",Cine TV: Cinemax (CO)
-http://higherpro.xyz:8080/Eli/Eli/93
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",Cine TV: Cinemax (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/92
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/2jPFbFZ/CLAROCINEMA.jpg",Cine TV: Claro Cinema
-http://higherpro.xyz:8080/Eli/Eli/98
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE
-http://higherpro.xyz:8080/Eli/Eli/100
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/99
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg",Cine TV: DHE Full HD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/101
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FX (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/134
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FX FHD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/135
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg",Cine TV: FXM (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/136
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden
-http://higherpro.xyz:8080/Eli/Eli/137
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden Edge (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/141
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",Cine TV: Golden FHD
-http://higherpro.xyz:8080/Eli/Eli/138
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO
-http://higherpro.xyz:8080/Eli/Eli/142
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2
-http://higherpro.xyz:8080/Eli/Eli/146
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 FHD
-http://higherpro.xyz:8080/Eli/Eli/148
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 FHD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/149
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",Cine TV: HBO 2 HD
-http://higherpro.xyz:8080/Eli/Eli/147
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family
-http://higherpro.xyz:8080/Eli/Eli/150
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family FHD
-http://higherpro.xyz:8080/Eli/Eli/152
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family FHD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/153
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",Cine TV: HBO Family HD
-http://higherpro.xyz:8080/Eli/Eli/151
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO FHD
-http://higherpro.xyz:8080/Eli/Eli/144
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO FHD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/145
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO HD
-http://higherpro.xyz:8080/Eli/Eli/143
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg",Cine TV: HBO Mundi
-http://higherpro.xyz:8080/Eli/Eli/164
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS
-http://higherpro.xyz:8080/Eli/Eli/154
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/157
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS FHD
-http://higherpro.xyz:8080/Eli/Eli/156
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",Cine TV: HBO PLUS HD
-http://higherpro.xyz:8080/Eli/Eli/155
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP
-http://higherpro.xyz:8080/Eli/Eli/166
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/165
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",Cine TV: HBO POP FHD
-http://higherpro.xyz:8080/Eli/Eli/167
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature
-http://higherpro.xyz:8080/Eli/Eli/159
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/158
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature FHD
-http://higherpro.xyz:8080/Eli/Eli/161
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",Cine TV: HBO Signature HD
-http://higherpro.xyz:8080/Eli/Eli/160
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO Subtitulado
-http://higherpro.xyz:8080/Eli/Eli/162
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",Cine TV: HBO Subtitulado FHD
-http://higherpro.xyz:8080/Eli/Eli/163
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME
-http://higherpro.xyz:8080/Eli/Eli/169
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/168
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",Cine TV: HBO XTREME FHD
-http://higherpro.xyz:8080/Eli/Eli/170
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/THM6pYL/STARACTION.jpg",Cine TV: STAR ACTION HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/112
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/102
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL FHD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/104
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",Cine TV: STAR CHANNEL HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/103
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg",Cine TV: STAR COMEDY
-http://higherpro.xyz:8080/Eli/Eli/119
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/LdrjdBV/STARCOMEDY.jpg",Cine TV: STAR COMEDY HD
-http://higherpro.xyz:8080/Eli/Eli/120
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VWnc34s/STARSERIES.jpg",Cine TV: STAR SERIES (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/133
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/171
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT FHD (ARG)(Dual Audio)
-http://higherpro.xyz:8080/Eli/Eli/174
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT FHD (CO)
-http://higherpro.xyz:8080/Eli/Eli/173
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",Cine TV: TNT HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/172
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES (CO)
-http://higherpro.xyz:8080/Eli/Eli/175
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES FHD (CO)
-http://higherpro.xyz:8080/Eli/Eli/177
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",Cine TV: TNT SERIES HD (CO)
-http://higherpro.xyz:8080/Eli/Eli/176
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| : CINEMAX
-http://higherpro.xyz:8080/Eli/Eli/13768
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",CINE| A3 Cine
-http://higherpro.xyz:8080/Eli/Eli/13987
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",CINE| A3 Series HD
-http://higherpro.xyz:8080/Eli/Eli/13933
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| CINEMAX 
-http://higherpro.xyz:8080/Eli/Eli/13769
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg",CINE| Cinemax Action HD
-http://higherpro.xyz:8080/Eli/Eli/13766
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINE| Cinemax East HD
-http://higherpro.xyz:8080/Eli/Eli/13764
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",CINE| Cinemax FHD
-http://higherpro.xyz:8080/Eli/Eli/13765
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",CINE| CINEMAX HD
-http://higherpro.xyz:8080/Eli/Eli/13767
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg",CINE| DE PELICULA
-http://higherpro.xyz:8080/Eli/Eli/13832
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg",CINE| DE PELICULA CLASICO
-http://higherpro.xyz:8080/Eli/Eli/13833
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg",CINE| DE PELICULA PLUS
-http://higherpro.xyz:8080/Eli/Eli/13831
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
-http://higherpro.xyz:8080/Eli/Eli/13825
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
-http://higherpro.xyz:8080/Eli/Eli/13826
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg",CINE| EURO CHANNEL
-http://higherpro.xyz:8080/Eli/Eli/13827
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",CINE| EUROPA EUROPA
-http://higherpro.xyz:8080/Eli/Eli/13828
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",CINE| Europa Europa
-http://higherpro.xyz:8080/Eli/Eli/13829
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg",CINE| INDIE PLEX HD
-http://higherpro.xyz:8080/Eli/Eli/13763
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg",CINE| OuterMax HD
-http://higherpro.xyz:8080/Eli/Eli/13759
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| PARAMOUNT
-http://higherpro.xyz:8080/Eli/Eli/13814
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Channel
-http://higherpro.xyz:8080/Eli/Eli/13816
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Channel HD
-http://higherpro.xyz:8080/Eli/Eli/13815
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| PARAMOUNT NETWORK
-http://higherpro.xyz:8080/Eli/Eli/13818
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg",CINE| Paramount Network HD
-http://higherpro.xyz:8080/Eli/Eli/13817
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg",CINE| Showtime East HD
-http://higherpro.xyz:8080/Eli/Eli/13757
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg",CINE| Showtime HD
-http://higherpro.xyz:8080/Eli/Eli/13756
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg",CINE| Showtime West HD
-http://higherpro.xyz:8080/Eli/Eli/13755
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony
-http://higherpro.xyz:8080/Eli/Eli/13810
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony HD
-http://higherpro.xyz:8080/Eli/Eli/13808
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg",CINE| Sony HD 
-http://higherpro.xyz:8080/Eli/Eli/13809
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| SPACE
-http://higherpro.xyz:8080/Eli/Eli/13778
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space
-http://higherpro.xyz:8080/Eli/Eli/13779
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space HD
-http://higherpro.xyz:8080/Eli/Eli/13780
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg",CINE| Space HD
-http://higherpro.xyz:8080/Eli/Eli/13781
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="PPV STARZ",CINE| Starz Cinema HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13754
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="PPV STARZ",CINE| Starz Comedy HD
-http://higherpro.xyz:8080/Eli/Eli/13752
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="PPV STARZ",CINE| Starz East HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13751
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="PPV STARZ",CINE| Starz Edge HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13750
-#EXTINF:-1 group-title="Español" tvg-logo="https://1.bp.blogspot.com/-VoIB30k-IWQ/Uqkju9h-NWI/AAAAAAAAdCk/gnQoEHszfoA/s1600/Encore+logo+2013.png" group-title="PPV STARZ",CINE| Starz Encore Black HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13748
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="PPV STARZ",CINE| Starz Encore Classic HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13747
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="PPV STARZ",CINE| Starz Encore Family HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13745
-#EXTINF:-1 group-title="Español" tvg-logo="https://1.bp.blogspot.com/-VoIB30k-IWQ/Uqkju9h-NWI/AAAAAAAAdCk/gnQoEHszfoA/s1600/Encore+logo+2013.png" group-title="PPV STARZ",CINE| Starz Encore HD
-http://higherpro.xyz:8080/Eli/Eli/13744
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="PPV STARZ",CINE| Starz Encore Suspense HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13743
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="PPV STARZ",CINE| Starz Encore Western HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13742
-#EXTINF:-1 group-title="Español" tvg-logo="https://www.gravesat.com/img/upload/starz-logo.png" group-title="PPV STARZ",CINE| Starz HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13741
-#EXTINF:-1 group-title="Español" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="PPV STARZ",CINE| Starz West HD_1080P
-http://higherpro.xyz:8080/Eli/Eli/13739
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal
-http://higherpro.xyz:8080/Eli/Eli/13783
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
-http://higherpro.xyz:8080/Eli/Eli/13782
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
-http://higherpro.xyz:8080/Eli/Eli/13784
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg",CINE| Studio Universal HD
-http://higherpro.xyz:8080/Eli/Eli/13785
-#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy
-http://higherpro.xyz:8080/Eli/Eli/13770
-#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy
-http://higherpro.xyz:8080/Eli/Eli/13773
-#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| SyFy HD
-http://higherpro.xyz:8080/Eli/Eli/13771
-#EXTINF:-1 group-title="Español" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-2002-720x480.png",CINE| Syfy HD
-http://higherpro.xyz:8080/Eli/Eli/13772
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS
-http://higherpro.xyz:8080/Eli/Eli/13789
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS
-http://higherpro.xyz:8080/Eli/Eli/13791
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg",CINE| TBS HD
-http://higherpro.xyz:8080/Eli/Eli/13792
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
-http://higherpro.xyz:8080/Eli/Eli/13786
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
-http://higherpro.xyz:8080/Eli/Eli/13787
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg",CINE| TCM
-http://higherpro.xyz:8080/Eli/Eli/13788
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel
-http://higherpro.xyz:8080/Eli/Eli/13813
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel HD
-http://higherpro.xyz:8080/Eli/Eli/13811
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",CINE| Universal Channel HD
-http://higherpro.xyz:8080/Eli/Eli/13812
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel
-http://higherpro.xyz:8080/Eli/Eli/13774
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel
-http://higherpro.xyz:8080/Eli/Eli/13775
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel HD
-http://higherpro.xyz:8080/Eli/Eli/13776
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg",CINE| Warner Channel HD
-http://higherpro.xyz:8080/Eli/Eli/13777
-#EXTINF:-1 group-title="Español" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg",CINE|RetroPlex HD
-http://higherpro.xyz:8080/Eli/Eli/13824
-#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",CIN| I-SAT 
-http://higherpro.xyz:8080/Eli/Eli/10314
-#EXTINF:-1 group-title="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",CIN| I-SAT MX.
-http://higherpro.xyz:8080/Eli/Eli/10315
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1c961811ad68433fe9403cff3b2da4e5.png",A&E
-http://tvstarlife.com:25461/live/Marco01/Marco01/92.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/92.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png",CINELATINO
-http://tvstarlife.com:25461/live/Marco01/Marco01/114.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/114.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/5f2a35a3f04e349ece8e017584c227be.png",FXM
-http://tvstarlife.com:25461/live/Marco01/Marco01/98.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/98.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/91f0581c21b08992162709c90ad3cea8.png",HBO
-http://tvstarlife.com:25461/live/Marco01/Marco01/126.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/126.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0cef6205e5f94f767fe6308c2ae81628.png",SPACE
-http://tvstarlife.com:25461/live/Marco01/Marco01/99.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/99.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3d46804c65402ec6b4ea8c50758018fc.png",TCM
-http://tvstarlife.com:25461/live/Marco01/Marco01/102.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/102.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/a09aff4221d54c43c484c90a3b0c0068.png",TNT
-http://tvstarlife.com:25461/live/Marco01/Marco01/103.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/103.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/6d6632a8b7978d1c8878aa8bbbd10d4a.png",TNT SERIES
-http://tvstarlife.com:25461/live/Marco01/Marco01/104.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/104.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/32e4e51d69a0a2478c95f59f159bddd8.png",CINE LATINO
-http://tvstarlife.com:25461/live/Marco01/Marco01/74.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/74.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ce90cf4c3812f4d12b50b0082cd51eaf.png",DE PELICULA CLASICO
-http://tvstarlife.com:25461/live/Marco01/Marco01/76.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/76.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/07dd8750dce6ae4f3477c59596f3d7fd.png",DE PELICULA PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/77.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/77.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3bc1db6d58f324d86a6d846893f959b2.png",GOLDEN EDGE
-http://tvstarlife.com:25461/live/Marco01/Marco01/25485.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/25485.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/714dde2d5322d169a2954101ae8399bc.png",HBO POP
-http://tvstarlife.com:25461/live/Marco01/Marco01/88.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/88.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c5c07ceec72d940ad285ab4bb11444df.png",HBO XTREME
-http://tvstarlife.com:25461/live/Marco01/Marco01/90.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/90.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/324c8d5f876d45cae6c3db4409cf1652.png",STARZ SUSPENSE
-http://tvstarlife.com:25461/live/Marco01/Marco01/1642.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/1642.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/334b6ae982cb9f6d75b32a22f843072d.png",AMC
-http://tvstarlife.com:25461/live/Marco01/Marco01/93.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/93.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/59da749494066673b13b030e6e1964af.png",AXN
-http://tvstarlife.com:25461/live/Marco01/Marco01/27866.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27866.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/402c922bc94cf2d73bc0f8d68966ef1a.png",CINECANAL
-http://tvstarlife.com:25461/live/Marco01/Marco01/7.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/7.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/a15cbfc7c4af32c16b6fc62c76d134da.png",CINEMAX
-http://tvstarlife.com:25461/live/Marco01/Marco01/96.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/96.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/7a0fcc145d223c1b68554d05cad01c17.png",AZ CINEMA
-http://tvstarlife.com:25461/live/Marco01/Marco01/115.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/115.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/2003e541784e6c223a178af0696254ba.png",DE PELICULA
-http://tvstarlife.com:25461/live/Marco01/Marco01/116.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/116.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9fb3a06aabd3fbf2272deeb2b218e59c.png",De Pelicula Clasico
-http://tvstarlife.com:25461/live/Marco01/Marco01/26049.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/26049.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f2db3b6883f0aa48d42db0dfe85b354d.png",DE PELICULA PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/117.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/117.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c3f9558d681bac963339b7c69894c4f7.jpg",FX
-http://tvstarlife.com:25461/live/Marco01/Marco01/97.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/97.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f14bbd867909bb7dd0ac4573e8893913.png",GOLDEN
-http://tvstarlife.com:25461/live/Marco01/Marco01/109.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/109.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/e0bd51731fc8bce68517a74c329e93f4.png",GOLDEN EDGE
-http://tvstarlife.com:25461/live/Marco01/Marco01/110.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/110.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f14bbd867909bb7dd0ac4573e8893913.png",GOLDEN PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/111.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/111.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f14bbd867909bb7dd0ac4573e8893913.png",GOLDEN PREMIER
-http://tvstarlife.com:25461/live/Marco01/Marco01/112.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/112.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f14bbd867909bb7dd0ac4573e8893913.png",GOLDEN PREMIER 2
-http://tvstarlife.com:25461/live/Marco01/Marco01/26047.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/26047.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0866d03368c9a1891cc7f62800a2c44d.png",PARAMOUNT CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/107.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/107.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/2aeb434aacbe2a352b700376ae5dc9f9.png",SONY CHANEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/100.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/100.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9671f8dd757ce697df626432e5f86d9d.png",STAR CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/35.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/35.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/4b764f15c56a9525fa0409a01dcb03b5.png",STUDIO UNIVERSAL
-http://tvstarlife.com:25461/live/Marco01/Marco01/23.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/23.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3a60bd3d076dcf123836ed08694c4800.png",SYFY
-http://tvstarlife.com:25461/live/Marco01/Marco01/101.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/101.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/39bf2a99c4b2c254441f4a969580a77f.png",UNIVERSAL CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/105.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/105.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/7e24ba66a736d5b13fd88641394be740.png",WARNER
-http://tvstarlife.com:25461/live/Marco01/Marco01/108.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/108.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/01efb8d134da4071edd7552f4b04817b.png",HBO 2
-http://tvstarlife.com:25461/live/Marco01/Marco01/127.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/127.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/a07b6439696ae5747ce18e0b76198bf2.png",HBO FAMILY
-http://tvstarlife.com:25461/live/Marco01/Marco01/128.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/128.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/a15cbfc7c4af32c16b6fc62c76d134da.png",HBO MUNDI
-http://tvstarlife.com:25461/live/Marco01/Marco01/130.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/130.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/8dab71cd68e2a8b333112b2e3634d5e0.png",HD || HBO PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/129.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/129.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/804908bb28c2ecbde0ea625369a3a7dc.png",HBO POP
-http://tvstarlife.com:25461/live/Marco01/Marco01/131.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/131.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/a1b78744a7165bf7144e36b9e3de7af7.png",HBO SIGNATURE
-http://tvstarlife.com:25461/live/Marco01/Marco01/132.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/132.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9ea14534c249fe19e2bec15c963b8412.png",HBO XTREME
-http://tvstarlife.com:25461/live/Marco01/Marco01/133.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/133.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ea0081eda1caf99e6427a1301bae1712.png",AZ CINEMA
-http://tvstarlife.com:25461/live/Marco01/Marco01/75.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/75.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9f8532ce2e8a8cbf4ea3dc3e9011b6e6.png",FX
-http://tvstarlife.com:25461/live/Marco01/Marco01/66.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/66.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/97da073f18af6140159f8b227c6a6434.png",HBO
-http://tvstarlife.com:25461/live/Marco01/Marco01/84.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/84.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ef4a2c8c8ff423ec19468d67afcd3635.png",HBO FAMILY
-http://tvstarlife.com:25461/live/Marco01/Marco01/53.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/53.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c1241ed24643425c53c36fd60fecf1bb.png",HBO Mundi
-http://tvstarlife.com:25461/live/Marco01/Marco01/27927.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27927.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/04289a196b40bb3752d350c37f742d6a.png",HBO PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/87.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/87.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/a5d10a38f7a30121fee6484427cfaf47.png",FSONY CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/9.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/9.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/62e083909134852a31d4ed52ebef2211.png",UNIVERSAL CRIMEN
-http://tvstarlife.com:25461/live/Marco01/Marco01/27750.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27750.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9d3ab221be5999e88eef9f1265103421.png",A&E
-http://tvstarlife.com:25461/live/Marco01/Marco01/3.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/3.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/334b6ae982cb9f6d75b32a22f843072d.png",AMC
-http://tvstarlife.com:25461/live/Marco01/Marco01/4.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/4.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c02d25ca923b1e2a3ebe64c1ec2f8587.png",AXN
-http://tvstarlife.com:25461/live/Marco01/Marco01/94.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/94.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/32e4e51d69a0a2478c95f59f159bddd8.png",CINE LATINO
-http://tvstarlife.com:25461/live/Marco01/Marco01/31.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/31.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f204c2bb90cdea63c54c2902bb91b1d3.png",CINECANAL
-http://tvstarlife.com:25461/live/Marco01/Marco01/6.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/6.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1584b89689483150a227922158703af7.png",CINEMAX
-http://tvstarlife.com:25461/live/Marco01/Marco01/8.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/8.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/040808be4944d1112e615dfa654a9df0.png",WARNER
-http://tvstarlife.com:25461/live/Marco01/Marco01/25.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/25.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/040808be4944d1112e615dfa654a9df0.png",WARNER
-http://tvstarlife.com:25461/live/Marco01/Marco01/138.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/138.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ea0081eda1caf99e6427a1301bae1712.png",AZ CINEMA
-http://tvstarlife.com:25461/live/Marco01/Marco01/32.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/32.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/8d815c5d0bab8d11c0c371de15cb6311.png",DE PELICULA
-http://tvstarlife.com:25461/live/Marco01/Marco01/33.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/33.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ce90cf4c3812f4d12b50b0082cd51eaf.png",DE PELICULA CLASICO
-http://tvstarlife.com:25461/live/Marco01/Marco01/33472.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/33472.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/07dd8750dce6ae4f3477c59596f3d7fd.png",De Pelicula Plus
-http://tvstarlife.com:25461/live/Marco01/Marco01/34.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/34.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9f8532ce2e8a8cbf4ea3dc3e9011b6e6.png",FX
-http://tvstarlife.com:25461/live/Marco01/Marco01/10.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/10.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/2b8a9f8fb3e3943b3ccb4b30f2250191.png",FXM
-http://tvstarlife.com:25461/live/Marco01/Marco01/11.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/11.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0636ea724839cfcd2b58b9df246aa0ef.png",GOLDEN
-http://tvstarlife.com:25461/live/Marco01/Marco01/26.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/26.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3bc1db6d58f324d86a6d846893f959b2.png",GOLDEN EDGE
-http://tvstarlife.com:25461/live/Marco01/Marco01/27.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/574dc37a72e16a83420f7868b5818c0f.png",GOLDEN PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/28.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/28.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/6a93c6f08be69d718557cf543f07ce52.png",GOLDEN PREMIER
-http://tvstarlife.com:25461/live/Marco01/Marco01/29.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/29.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/314abd0e8f15a54da7076f7efc50d3ad.png",PARAMOUNT CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/24.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/24.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c2349be573c952c1286d86ff025451e5.png",SONY CINE
-http://tvstarlife.com:25461/live/Marco01/Marco01/27438.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27438.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/2f5c82f22744ee8ca281033971d000c6.png",SPACE
-http://tvstarlife.com:25461/live/Marco01/Marco01/12.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/12.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ab6216e356ebdca071c4174697187ef1.png",STAR CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/36.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/36.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/bc486719c238c21c888b27c6d4a631c8.png",STARZ EN ESPAÑOL
-http://tvstarlife.com:25461/live/Marco01/Marco01/30.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/30.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3771d6992c68249491f9e4a29d128746.png",STUDIO UNIVERSAL
-http://tvstarlife.com:25461/live/Marco01/Marco01/22.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/22.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/4d1063b9bb0201dcdb6b5aca17addf30.png",SYFY
-http://tvstarlife.com:25461/live/Marco01/Marco01/15.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/15.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1ebdf20c4bd5f8c89634b3757023824b.png",TCM
-http://tvstarlife.com:25461/live/Marco01/Marco01/16.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/16.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c504d5313df6f96d72b21e5fd7af0e7c.png",TNT
-http://tvstarlife.com:25461/live/Marco01/Marco01/17.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/17.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/b5ee659b55320a9258d604a346d9e30b.png",TNT SERIES
-http://tvstarlife.com:25461/live/Marco01/Marco01/20.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/20.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ad53569d78be6d28f23efa8028a3f32b.png",UNIVERSAL CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/21.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/21.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/fa74cbc7ae46e0180e812e6b2f38918c.png",UNIVERSAL CINEMA
-http://tvstarlife.com:25461/live/Marco01/Marco01/30030.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/30030.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/fa74cbc7ae46e0180e812e6b2f38918c.png",UNIVERSAL CINEMA
-http://tvstarlife.com:25461/live/Marco01/Marco01/142.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/142.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f3a48eb8fb41c50359a515eaaf3cc7a6.png",UNIVERSAL COMEDY
-http://tvstarlife.com:25461/live/Marco01/Marco01/30034.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/30034.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/62e083909134852a31d4ed52ebef2211.png",UNIVERSAL CRIMEN
-http://tvstarlife.com:25461/live/Marco01/Marco01/30027.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/30027.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1395ecba79747d88becaef9e2eef781d.png",UNIVERSAL PREMIERE
-http://tvstarlife.com:25461/live/Marco01/Marco01/30032.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/30032.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0cf92449f196de8bf8e04bed65f1da3b.png",UNIVERSAL REALITY
-http://tvstarlife.com:25461/live/Marco01/Marco01/30029.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/30029.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/97da073f18af6140159f8b227c6a6434.png",HBO
-http://tvstarlife.com:25461/live/Marco01/Marco01/50.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/50.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9eea6fc6c3ebc37abbbef7d3186fd80b.png",HBO 2
-http://tvstarlife.com:25461/live/Marco01/Marco01/52.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/52.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ef4a2c8c8ff423ec19468d67afcd3635.png",HBO FAMILY
-http://tvstarlife.com:25461/live/Marco01/Marco01/54.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/54.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c1241ed24643425c53c36fd60fecf1bb.png",HBO MUNDI
-http://tvstarlife.com:25461/live/Marco01/Marco01/57.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/57.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/04289a196b40bb3752d350c37f742d6a.png",HBO PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/56.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/56.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/04289a196b40bb3752d350c37f742d6a.png",HBO PLUS
-http://tvstarlife.com:25461/live/Marco01/Marco01/55.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/55.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/714dde2d5322d169a2954101ae8399bc.png",HBO POP
-http://tvstarlife.com:25461/live/Marco01/Marco01/59.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/59.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/7a61c2faf8e6877001a3b06231e57b81.png",HBO SIGNATURE
-http://tvstarlife.com:25461/live/Marco01/Marco01/60.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/60.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c5c07ceec72d940ad285ab4bb11444df.png",HBO XTREME
-http://tvstarlife.com:25461/live/Marco01/Marco01/63.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/63.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/b90216ae891d1eb64d138c73b2d50ebc.png",MULTIPREMIER
-http://tvstarlife.com:25461/live/Marco01/Marco01/117758.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/117758.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/533ab17bea64bb7abe875f85090237fe.png",Animal Planet
-http://tvstarlife.com:25461/live/Marco01/Marco01/135.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/135.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/027eee66b8b634ac7f692c8a01308b9c.png",Discovery Channel
-http://tvstarlife.com:25461/live/Marco01/Marco01/137.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/137.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/8e00bd9d10723662b731895bb225b783.png",Discovery Familia
-http://tvstarlife.com:25461/live/Marco01/Marco01/27289.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27289.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/a9a60839727eb7270366c827387097e3.png",Discovery H&H
-http://tvstarlife.com:25461/live/Marco01/Marco01/144.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/144.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/16e91e88c20f6890a14fddff3a2c4780.png",Discovery ID
-http://tvstarlife.com:25461/live/Marco01/Marco01/146.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/146.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/6881e3757b3e2921ee146cbe707d45d6.png",Discovery Science
-http://tvstarlife.com:25461/live/Marco01/Marco01/151.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/151.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/dc28920c292db7e7529a9175e77fc2d2.png",Discovery Theater
-http://tvstarlife.com:25461/live/Marco01/Marco01/140.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/140.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ca478894e5278191506d70bea465ffe0.png",Discovery TLC
-http://tvstarlife.com:25461/live/Marco01/Marco01/27290.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27290.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0f68f8aa41b0651a29bf4e64e32c8880.png",Discovery Turbo
-http://tvstarlife.com:25461/live/Marco01/Marco01/148.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/148.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/deb5451670ce3cbccd5aea841511e68a.png",Discovery World
-http://tvstarlife.com:25461/live/Marco01/Marco01/2.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/2.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1f2121f36f817bd18540e5fa7de06f59.png",DW
-http://tvstarlife.com:25461/live/Marco01/Marco01/152.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/152.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/01d5025d4b2efb5843ed430f331b87fc.png",Gourmet
-http://tvstarlife.com:25461/live/Marco01/Marco01/159.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/159.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/490b2834e65737c1fce95e468cc8b8bf.png",H2
-http://tvstarlife.com:25461/live/Marco01/Marco01/158.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/158.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/26e104754d63adb5a0f6ce026be7182b.png",HGTV
-http://tvstarlife.com:25461/live/Marco01/Marco01/161.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/161.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0e11655aad4e3a0392b54ccf27e1ae96.png",History Channel
-http://tvstarlife.com:25461/live/Marco01/Marco01/156.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/156.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9650d18af61e4f2fd4cf67de3215e04f.png",History En Español
-http://tvstarlife.com:25461/live/Marco01/Marco01/157.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/157.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f99f63127e9991d4d248b73daac1a882.png",Nat Geo
-http://tvstarlife.com:25461/live/Marco01/Marco01/154.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/154.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/35addec5bc1a5fa42fd9e5be00439bfe.png",Nat Geo Mundo
-http://tvstarlife.com:25461/live/Marco01/Marco01/155.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/155.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/35addec5bc1a5fa42fd9e5be00439bfe.png",Nat Geo Wild
-http://tvstarlife.com:25461/live/Marco01/Marco01/218.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/218.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/9fc93d2502fd2404cd80b60ee47e045c.jpg",Animal Planet
-http://tvstarlife.com:25461/live/Marco01/Marco01/164.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/164.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/59836387eaf383dc566ff2e188fcc60b.jpg",Discovery Channel
-http://tvstarlife.com:25461/live/Marco01/Marco01/165.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/165.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/48f33ceba64582f4cd17028fb8ee907c.png",Discovery H&H
-http://tvstarlife.com:25461/live/Marco01/Marco01/168.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/168.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/386db1cd32bc4ddb7d9b3d4ed9b148ef.png",Discovery ID
-http://tvstarlife.com:25461/live/Marco01/Marco01/169.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/169.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0f83692a7b1461c2bcd106840b82c100.png",Discovery Science
-http://tvstarlife.com:25461/live/Marco01/Marco01/171.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/171.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/b96a7c3487f6659b9e1bd16921372c48.png",Discovery Turbo
-http://tvstarlife.com:25461/live/Marco01/Marco01/170.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/170.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/cabdb9991ee652b3cc71d3206a1c778b.png",Discovery World
-http://tvstarlife.com:25461/live/Marco01/Marco01/179.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/179.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/6a800efc9e31c91e9a8c98189febf9b4.png",Gourmet
-http://tvstarlife.com:25461/live/Marco01/Marco01/173.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/173.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/71abe104b4cd84f289586ff4bfc1fd92.png",History Channel
-http://tvstarlife.com:25461/live/Marco01/Marco01/172.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/172.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/48f33ceba64582f4cd17028fb8ee907c.png",Discovery H&H
-http://tvstarlife.com:25461/live/Marco01/Marco01/180.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/180.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/386db1cd32bc4ddb7d9b3d4ed9b148ef.png",Discovery ID
-http://tvstarlife.com:25461/live/Marco01/Marco01/181.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/181.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0f83692a7b1461c2bcd106840b82c100.png",Discovery Science
-http://tvstarlife.com:25461/live/Marco01/Marco01/183.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/183.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/e03be0e9fb76eb349514679cc514c949.png",Discovery Theater
-http://tvstarlife.com:25461/live/Marco01/Marco01/178.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/178.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/77f6dcc23a15dc01efdc7400dae58901.png",HGTV
-http://tvstarlife.com:25461/live/Marco01/Marco01/186.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/186.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/d4f8688c45465af1b7d2851373ec31c8.png",Nat Geo
-http://tvstarlife.com:25461/live/Marco01/Marco01/153.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/153.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/8437d455826806e18cd6143a885a2844.png",DISTRITO COMEDIA
-http://tvstarlife.com:25461/live/Marco01/Marco01/27291.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27291.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3afd46de7205719433b1e5a8f864e392.png",COMEDY CENTRAL
-http://tvstarlife.com:25461/live/Marco01/Marco01/27752.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27752.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/e720b5c7e7c5d344a5c5965595c77325.png",E !
-http://tvstarlife.com:25461/live/Marco01/Marco01/27292.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27292.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/ff3567e3cd2857c50469d4625bddec0d.png",LIFETIME
-http://tvstarlife.com:25461/live/Marco01/Marco01/27295.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27295.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/35e0d0012c745618ba4875b28341d454.png",Unicable
-http://tvstarlife.com:25461/live/Marco01/Marco01/27523.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27523.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/09c893023899cc9edc809fbf4206e30c.png",PASIONES
-http://tvstarlife.com:25461/live/Marco01/Marco01/1178.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/1178.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/8abf4b2bc8e269eebb995ac60b2bced9.png",GARAGE TV
-http://tvstarlife.com:25461/live/Marco01/Marco01/30036.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/30036.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/2efc70e710179037e1cab962a14ced48.png",Tlnovelas
-http://tvstarlife.com:25461/live/Marco01/Marco01/27942.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27942.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0bb94b5eb2ebb6afeb4737dacb592a01.png",DISNEY CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/219.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/219.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3b16040eae5ed7be2e6bab4880014b8a.png",DISNEY JUNIOR
-http://tvstarlife.com:25461/live/Marco01/Marco01/220.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/220.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/89811a832e9d53669788f2444c1841e0.png",Cartoonito
-http://tvstarlife.com:25461/live/Marco01/Marco01/207.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/207.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0bb94b5eb2ebb6afeb4737dacb592a01.png",DISNEY CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/210.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/210.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/78353b5a3b8541c2f0bdf61c7a3fcd71.png",NICK
-http://tvstarlife.com:25461/live/Marco01/Marco01/213.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/213.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/337ed01ef1c4a03998626e2329513a9c.png",BABY TV
-http://tvstarlife.com:25461/live/Marco01/Marco01/188.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/188.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/89811a832e9d53669788f2444c1841e0.png",BOOMERANG
-http://tvstarlife.com:25461/live/Marco01/Marco01/189.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/189.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/35b841aa96ed54ba0515200644b488f6.png",CARTOON NETWORK
-http://tvstarlife.com:25461/live/Marco01/Marco01/190.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/190.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/e8b794dfa8082694fccce018bc494c75.png",DISCOVERY KIDS
-http://tvstarlife.com:25461/live/Marco01/Marco01/191.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/191.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/0bb94b5eb2ebb6afeb4737dacb592a01.png",DISNEY CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/192.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/192.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/3b16040eae5ed7be2e6bab4880014b8a.png",DISNEY JUNIOR
-http://tvstarlife.com:25461/live/Marco01/Marco01/194.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/194.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/78353b5a3b8541c2f0bdf61c7a3fcd71.png",NICK
-http://tvstarlife.com:25461/live/Marco01/Marco01/198.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/198.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/d83a8b146dba69b3dadf74d3a30b7d00.png",NICK JR
-http://tvstarlife.com:25461/live/Marco01/Marco01/199.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/199.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/d83a8b146dba69b3dadf74d3a30b7d00.png",FNICK JR
-http://tvstarlife.com:25461/live/Marco01/Marco01/200.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/200.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f23832a88b39191189872d3a5e273969.png",NICKTOONS
-http://tvstarlife.com:25461/live/Marco01/Marco01/201.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/201.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f23832a88b39191189872d3a5e273969.png",NICKTOONS
-http://tvstarlife.com:25461/live/Marco01/Marco01/202.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/202.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/f23832a88b39191189872d3a5e273969.png",NICKTOONS
-http://tvstarlife.com:25461/live/Marco01/Marco01/203.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/203.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/35b841aa96ed54ba0515200644b488f6.png",Cartoon Network
-http://tvstarlife.com:25461/live/Marco01/Marco01/204.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/204.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/e6b828fc46a9018fd5d247c72c68a708.png",TOONCAST
-http://tvstarlife.com:25461/live/Marco01/Marco01/27288.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27288.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/dfe07ac34d63c21a3574a777416abccd.png",BITME
-http://tvstarlife.com:25461/live/Marco01/Marco01/27751.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27751.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/7451cac1369319c5c7c90c54cf2e7f42.png",Cartoonito
-http://tvstarlife.com:25461/live/Marco01/Marco01/27877.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27877.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/be2055bb00213baf435e4214d5106cf3.png",Baby First
-http://tvstarlife.com:25461/live/Marco01/Marco01/27898.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/27898.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/130ac03ba8b18dba6c8762f23315ad00.png",BANDAMAX
-http://tvstarlife.com:25461/live/Marco01/Marco01/589.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/589.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/b3a577e257ebeb1640d90357c2aeb820.png",FMTV
-http://tvstarlife.com:25461/live/Marco01/Marco01/590.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/590.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/188bc426639232f05a0c6161962d9b60.png",CONCERT CHANNEL
-http://tvstarlife.com:25461/live/Marco01/Marco01/591.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/591.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c087d2d55b9d80c666062a426393fae6.png",Telehit
-http://tvstarlife.com:25461/live/Marco01/Marco01/592.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/592.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="https://www.myinterestingfacts.com/wp-content/uploads/2013/12/blues-music-image.jpg",BLUES
-http://tvstarlife.com:25461/live/Marco01/Marco01/594.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/594.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/35e1b11ee5382d17d25615f5ff31a989.png",FVH1
-http://tvstarlife.com:25461/live/Marco01/Marco01/595.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/595.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/130ac03ba8b18dba6c8762f23315ad00.png",BANDAMAX
-http://tvstarlife.com:25461/live/Marco01/Marco01/607.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/607.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/b3a577e257ebeb1640d90357c2aeb820.png",MTV
-http://tvstarlife.com:25461/live/Marco01/Marco01/608.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/608.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/b3a577e257ebeb1640d90357c2aeb820.png",MTV 80s
-http://tvstarlife.com:25461/live/Marco01/Marco01/611.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/611.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/b3a577e257ebeb1640d90357c2aeb820.png",MTV Hits
-http://tvstarlife.com:25461/live/Marco01/Marco01/614.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/614.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c087d2d55b9d80c666062a426393fae6.png",TELEHIT
-http://tvstarlife.com:25461/live/Marco01/Marco01/610.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/610.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/c97854da5e774632baa8fb1af553b481.png",VIDEO ROLA
-http://tvstarlife.com:25461/live/Marco01/Marco01/612.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/612.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIES" tvg-logo="http://n2086.securepoint.io:25461/images/1f155fc332fdf841ee9c6cb7e9447997.png",CA CRAVE 1
 http://n2086.securepoint.io:25461/sharlene/sharlene/53646
@@ -2043,98 +1759,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146683
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/fbbc6297045c7a2a67d30c7c929318f5.png",Disney XD
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/a74acac51a09c41d12051fdaaf459476.png",US: 5 STARMAX
-http://streamgo.vip:8008/live/criss/criss/150357.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/160bf9730f9699b6025b49a730d864ed.png",US: ACTIONMAX
-http://streamgo.vip:8008/live/criss/criss/150358.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX EAST
-http://streamgo.vip:8008/live/criss/criss/150359.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX WEST
-http://streamgo.vip:8008/live/criss/criss/150360.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/1fbada6e2d37df9706eabb06558b1db7.png",US: OUTERMAX
-http://streamgo.vip:8008/live/criss/criss/150361.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://latinoamericatv.vip:8080/images/091faafc658c3157bf3452d669290132.png",US: MOREMAX
-http://streamgo.vip:8008/live/criss/criss/150362.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/5b5e1fd418c68e5655615dc12a471673.png",US: THRILLERMAX
-http://streamgo.vip:8008/live/criss/criss/150363.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png",US: EPIX
-http://streamgo.vip:8008/live/criss/criss/150364.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/33ed80c31a5ceece1d8b42930f283060.png",US: EPIX 2
-http://streamgo.vip:8008/live/criss/criss/150365.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/449ef154d647d703f5f7d6b604740c60.png",US: EPIX DRIVE-IN
-http://streamgo.vip:8008/live/criss/criss/150366.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/a4ab43e553cc22d0c3e268b55cc6066b.png",US: EPIX HITS
-http://streamgo.vip:8008/live/criss/criss/150367.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/10718ab4dbde3899bbc31dc48d8a5f91.png",US: HBO EAST
-http://streamgo.vip:8008/live/criss/criss/150368.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/f2973347dfd89ca735e8ee43bbfbb48b.png",US: HBO 2
-http://streamgo.vip:8008/live/criss/criss/150369.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/bd92803d5defb80f6e80c2243301375e.png",US: HBO FAMILY
-http://streamgo.vip:8008/live/criss/criss/150370.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/c202c96c71d0e8817ece662524bdce7a.png",US: HBO SIGNATURE
-http://streamgo.vip:8008/live/criss/criss/150371.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/efb429f49591f00a44ea4e14e93d56a0.png",US: HBO PLUS
-http://streamgo.vip:8008/live/criss/criss/150372.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/192ecbac40cd27d775f99337ba93b913.png",US: HBO WEST
-http://streamgo.vip:8008/live/criss/criss/150373.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/9db33946c136281a913bdfd2447c9bf9.png",US: HBO ZONE
-http://streamgo.vip:8008/live/criss/criss/150374.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/e09db8638d2bcbe4fd768d1c9672a57f.png",US: HDNET MOVIES
-http://streamgo.vip:8008/live/criss/criss/150375.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/4c1321feb975219e202367390d69e53a.png",US: MOVIE PLEX
-http://streamgo.vip:8008/live/criss/criss/150376.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/db059dc8a47602a03922791832109693.png",US: INDIE PLEX
-http://streamgo.vip:8008/live/criss/criss/150377.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/de80c3b033cac62b8c199ef866d3d3cd.png",US: RETRO PLEX
-http://streamgo.vip:8008/live/criss/criss/150378.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/ab0f6caa9805cabc974ba5c835b30a23.png",US: SHOWTIME EAST
-http://streamgo.vip:8008/live/criss/criss/150379.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/ab0f6caa9805cabc974ba5c835b30a23.png",US: SHOWTIME WEST
-http://streamgo.vip:8008/live/criss/criss/150380.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://epg.justco.cc/guide/logos/SHOWTIME BEYOND.png",US: SHOWTIME SHOWCASE
-http://streamgo.vip:8008/live/criss/criss/150381.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/22a09eae943b6174e51accf5da586360.png",US: SHOWTIME EXTREME
-http://streamgo.vip:8008/live/criss/criss/150382.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/ea686ff21bf525a3d06c7b346dbc6a37.png",US: SHOWTIME FAMILY ZONE
-http://streamgo.vip:8008/live/criss/criss/150383.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/92447e03a06cc805b279c38c9e35c671.png",US: SHOWTIME NEXT
-http://streamgo.vip:8008/live/criss/criss/150384.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/834818fdffba43917df672392b4d64b4.png",US: SHOWTIME WOMEN
-http://streamgo.vip:8008/live/criss/criss/150385.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/9ddc776ce1df88425a9d1ca0fb77edc7.png",US: STARZ COMEDY
-http://streamgo.vip:8008/live/criss/criss/150386.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/b2c43ebabb7c849a357fa221da49c24b.png",US: STARZENCORE
-http://streamgo.vip:8008/live/criss/criss/150387.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/b2c43ebabb7c849a357fa221da49c24b.png",US: Starz Encore West
-http://streamgo.vip:8008/live/criss/criss/150388.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/116e61022a8c5933a759124db21c968c.png",US: STARZENCORE ACTION
-http://streamgo.vip:8008/live/criss/criss/150389.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/6bb0d5d14331d5574244575ef118caa6.png",US: STARZ ENCORE CLASSIC
-http://streamgo.vip:8008/live/criss/criss/150390.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/324c8d5f876d45cae6c3db4409cf1652.png",US: STARZENCORE SUSPENSE
-http://streamgo.vip:8008/live/criss/criss/150391.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/bb0ce5935f18c27caa7556b6afe5a7fa.png",US: STARZENCORE WESTERNS
-http://streamgo.vip:8008/live/criss/criss/150392.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/0c83f368a29d1381e414dec6ecb4f222.png",US: STARZ IN BLACK
-http://streamgo.vip:8008/live/criss/criss/150393.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/19149e7186af1a52b9fb461242f07516.png",US: STARZ KIDS & FAMILY
-http://streamgo.vip:8008/live/criss/criss/150394.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/0a6909d16b68b1906d5ffbc9827d9b13.png",US: SHOWTIME BET
-http://streamgo.vip:8008/live/criss/criss/150395.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/160bf9730f9699b6025b49a730d864ed.png",US: ACTIONMAX
-http://streamgo.vip:8008/live/criss/criss/150396.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX EAST
-http://streamgo.vip:8008/live/criss/criss/150397.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/59c6b2870302b1e2530f5aadc3ef856f.png",US: CINEMAX WEST
-http://streamgo.vip:8008/live/criss/criss/150398.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/1fbada6e2d37df9706eabb06558b1db7.png",US: OUTERMAX
-http://streamgo.vip:8008/live/criss/criss/150399.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://latinoamericatv.vip:8080/images/091faafc658c3157bf3452d669290132.png",US: MOREMAX
-http://streamgo.vip:8008/live/criss/criss/150400.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/5b5e1fd418c68e5655615dc12a471673.png",US: THRILLERMAX
-http://streamgo.vip:8008/live/criss/criss/150401.m3u8
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png",US: EPIX
-http://streamgo.vip:8008/live/criss/criss/150402.m3u8
 
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://n2086.securepoint.io:25461/images/9d8248813d68c041253a2079dc1bca2f.png",4SEVEN
 http://n2086.securepoint.io:25461/carolyn/carolyn/53828
@@ -2617,7 +2241,7 @@ http://edge.bz:8080/jackson2/jackson2/102334
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://j3n2j7f2.rocketcdn.me/wp-content/uploads/2020/07/jackie-chan.jpg",JACKIE CHAN MOVIES
 http://edge.bz:8080/jackson2/jackson2/54269
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://www.korsgaardscommentary.com/wp-content/uploads/blogger/_h58DRnMe8bw/TPcbsEgsA5I/AAAAAAAAAFQ/9rfxvZi4wn8/s1600/bruce_lee.jpg",BRUCE LEE MOVIES
-https://is.gd/XPnVGY
+https://is.gd/Qk2ilu
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://www.freepngimg.com/thumb/chuck_norris/37613-5-chuck-norris-photos.png",CHUCK NORRIS MOVIES
 http://edge.bz:8080/jackson2/jackson2/117229
 
@@ -3200,10 +2824,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",Willow Cricket
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/jamaica/11-SportsMax[1].jpg",SPORTSMAX 1
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20SportsMax%202.png",SPORTSMAX 2
@@ -3385,51 +3008,51 @@ http://ky-iptv.com:80/live/Jerry1234/Jerry1234/1116408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxpdmVvbmxpbmVzZXJ2aWNlcy5tYXF0dl9pY29uXzBfNGY5ZjBjYTU/icon.png?w=170&fakeurl=1",MAQ TV
 http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1  group-title="Sports" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple111/v4/ee/e2/74/eee274ae-0f75-edb2-685a-c1b8996e9d4e/source/512x512bb.jpg",PTV Sports
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/490
+http://server.sibfungold.info:8080/gen_iptvservice/geniptv/490
 #EXTINF:-1 group-title="Sports" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORTS 1 (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98864.ts
+http://humiptv.live:8080/live/12345678/12345678/98864.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg",STAR SPORTS 2 (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98865.ts
+http://humiptv.live:8080/live/12345678/12345678/98865.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607",STAR SPORTS 1 HINDI (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98866.ts
+http://humiptv.live:8080/live/12345678/12345678/98866.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709",STAR SPORTS SELECT 1 (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98867.ts
+http://humiptv.live:8080/live/12345678/12345678/98867.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956",START SPORTS SELECT 2 (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98868.ts
+http://humiptv.live:8080/live/12345678/12345678/98868.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg",TEN 1 (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98861.ts
+http://humiptv.live:8080/live/12345678/12345678/98861.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",TEN 2 (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98862.ts
+http://humiptv.live:8080/live/12345678/12345678/98862.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg",TEN 3 (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98863.ts
+http://humiptv.live:8080/live/12345678/12345678/98863.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png",SONY SIX (4K).
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98870.ts
+http://humiptv.live:8080/live/12345678/12345678/98870.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/12.ts
+http://humiptv.live:8080/live/12345678/12345678/12.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K)
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/23566.ts
+http://humiptv.live:8080/live/12345678/12345678/23566.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png",CRI:ASTRO CRICKET HD
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/2494.ts
+http://humiptv.live:8080/live/12345678/12345678/2494.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Fox-sports-1-colour.png/revision/latest/scale-to-width-down/340?cb=20170407112553",FOX CRICKET 501
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/1856.ts
+http://humiptv.live:8080/live/12345678/12345678/1856.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.imgbin.com/2/7/1/imgbin-logo-ptv-sports-television-channel-pakistan-cricket-8YvzSP5MmbjMiT27N1RsitE0D.jpg",PTV SPORTS
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/89.ts
+http://humiptv.live:8080/live/12345678/12345678/89.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS.
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/130714.ts
+http://humiptv.live:8080/live/12345678/12345678/130714.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/Geo_Super_Old.png/revision/latest/scale-to-width-down/340?cb=20111001230224",GEO SUPER
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/101.ts
+http://humiptv.live:8080/live/12345678/12345678/101.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png",TEN SPORTS
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/98.ts
+http://humiptv.live:8080/live/12345678/12345678/98.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ4BE5UBNTC7C5wLeBgR72ZQ-6DGnn-k1sYQ&usqp=CAU",WILLOW CRICKET
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/215.ts
+http://humiptv.live:8080/live/12345678/12345678/215.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",WILLOW CRICKET XTRA
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/5040.ts
+http://humiptv.live:8080/live/12345678/12345678/5040.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg",TEN CRICKET
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/9886.ts
+http://humiptv.live:8080/live/12345678/12345678/9886.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRof7pKQWsk2gO9X5VjAeZNQ6_3nQOl-PKMyQ&usqp=CAU",BEIN CRICKET HD
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/9115.ts
+http://humiptv.live:8080/live/12345678/12345678/9115.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://infotelematico.com/wp-content/uploads/AF3461F4-0338-475C-B244-DBC76715C7FD.jpeg",FREE SPORTS HD
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/24123.ts
+http://humiptv.live:8080/live/12345678/12345678/24123.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png",BOX NATION
 http://ys-users.com:8080/live/ysattar1@gmail.com/6bhQRJUL7V/428235.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 1
@@ -4567,318 +4190,3 @@ https://tv4.live/api/stream/citi/citi/movie/tt6020800
 https://tv4.live/api/stream/citi/citi/movie/tt11245972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.cineb.net/xxrz/250x400/188/d1/17/d1172e00097fa60770be9d6a4e6540cb/d1172e00097fa60770be9d6a4e6540cb.jpg",Last Seen Alive (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt10242388
-
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/A-CHRISTMAS-CAROL.png",EN| A CHRISTMAS CAROL FHD
-http://line.premiumpowers.net:80/Richard23/Richard23/1066683
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 1 FHD
-http://line.premiumpowers.net:80/Richard23/Richard23/1066682
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 2 FHD
-http://line.premiumpowers.net:80/Richard23/Richard23/1066681
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 3 FHD
-http://line.premiumpowers.net:80/Richard23/Richard23/1066680
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 4 FHD
-http://line.premiumpowers.net:80/Richard23/Richard23/1066679
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 5 FHD
-http://line.premiumpowers.net:80/Richard23/Richard23/1066678
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="http://logo.protv.cc/picons/logos/USA/CHRISTMAS-MOVIES.png",EN| CHRISTMAS MOVIES 6 FHD
-http://line.premiumpowers.net:80/Richard23/Richard23/1066677
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://i.imgur.com/hlIDlD1.jpg",The Greatest Gift Ever Given  
-https://live-content.xumo.com/1837/content/XM0YNW9RGMTJZF/22526143/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM08F4QXES68A1/600x340.jpg",The Christmas Candle
-https://live-content.xumo.com/2788/content/XM08F4QXES68A1/23290739/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0A76F010NUAQ/896x504.png",Chasing the Star
-https://live-content.xumo.com/228/content/XM0A76F010NUAQ/22991288/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0AEIQLLOD9JO/600x340.jpg",A Christmas Kiss
-https://live-content.xumo.com/232/content/XM0AEIQLLOD9JO/18440989/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0M9Z7Q04BN18/600x340.jpg",Christmas on Holly Lane
-https://live-content.xumo.com/247/content/XM0M9Z7Q04BN18/21753060/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM01N6M2X7NUPR/600x340.jpg",The Christmas Bunny
-https://live-content.xumo.com/232/content/XM01N6M2X7NUPR/18451027/remuxed-XUMO-11403/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM05UQ8DU6Q2BJ/600x340.jpg",Dear Santa
-https://live-content.xumo.com/247/content/XM05UQ8DU6Q2BJ/22161814/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0QYQBUSPW0V0/600x340.jpg",Christmas Break-In
-https://live-content.xumo.com/247/content/XM0QYQBUSPW0V0/21665944/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0AQUCEZWCEFA/600x340.jpg",Christmas Crush
-https://live-content.xumo.com/247/content/XM0AQUCEZWCEFA/19056752/remuxed-XUMO-11403/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0N11BUF0DG9F/600x340.jpg",Christmas For A Dollar
-https://player.zype.com/manifest/5a1da6b38c73f214da0063fb.m3u8?ad_enabled=false&api_key=3PASB80DgKOdJoEdFmyaWw&https=true
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0JC21A1O2751/600x340.jpg",Christmas Grace
-https://live-content.xumo.com/1869/content/XM0JC21A1O2751/22501150/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0LTYQM5Q8YDI/600x340.jpg",A Christmas Solo
-https://live-content.xumo.com/247/content/XM0LTYQM5Q8YDI/21752382/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://i.imgur.com/mRMM6OC.jpg",A Very Corgi Christmas
-https://live-content.xumo.com/2726/content/XM03NWWUAF7PBQ/23310041/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0XUCJBERW1KM/600x340.jpg",A Christmas Village
-https://live-content.xumo.com/2726/content/XM0XUCJBERW1KM/23309985/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0YGIQDYP7KA0/600x340.jpg",A Holiday For Love
-https://live-content.xumo.com/2726/content/XM0YGIQDYP7KA0/23309991/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0EDGNSOWLYYZ/600x340.jpg",Christmas Wedding Runaway
-https://live-content.xumo.com/2726/content/XM0EDGNSOWLYYZ/23309986/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0EVXBU0NBZ94/600x340.jpg",Christmas Mountain - The Story Of A Cowboy Angel
-https://live-content.xumo.com/2045/content/XM0EVXBU0NBZ94/22577351/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0GQGEWHAC4V5/600x340.jpg",Shoelaces for Christmas
-https://live-content.xumo.com/2726/content/XM0GQGEWHAC4V5/23310039/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0LIWLWC9HP50/600x340.jpg",Holiday Switch
-https://live-content.xumo.com/2726/content/XM0LIWLWC9HP50/23309987/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0AKPXH2WSM6Z/600x340.jpg",Chasing Christmas
-https://live-content.xumo.com/228/content/XM0AKPXH2WSM6Z/22531900/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0F0UCND3WE7D/600x340.jpg",Christmas Child - A Max Lucado Story
-https://live-content.xumo.com/228/content/XM0F0UCND3WE7D/21895995/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM04TRR3XZS8P2/600x340.jpg",Christmas Tail
-https://live-content.xumo.com/232/content/XM04TRR3XZS8P2/21875895/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM01LZENR65PAZ/600x340.jpg",Paper Angels
-https://live-content.xumo.com/228/content/XM01LZENR65PAZ/21892739/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0V50CYRNAKDT/600x340.jpg",Candles in the Dark
-https://live-content.xumo.com/243/content/XM0V50CYRNAKDT/22074225/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM03STQ2A87988/600x340.jpg",Christmas Wander
-https://live-content.xumo.com/228/content/XM03STQ2A87988/22523668/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0H1IPBX74BGA/600x340.jpg",Red Big Fire Truck
-https://live-content.xumo.com/1837/content/XM0H1IPBX74BGA/21948792/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM04JWZYT4WNSO/600x340.jpg",The Man Who Saved Christmas
-https://live-content.xumo.com/232/content/XM04JWZYT4WNSO/21870995/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM03P471N0UYG4/600x340.jpg",Runaway Christmas Bride
-https://live-content.xumo.com/1068/content/XM03P471N0UYG4/21563900/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM04F0B8W1YW8H/600x340.jpg",Noelle
-https://live-content.xumo.com/228/content/XM04F0B8W1YW8H/23088403/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0OWTVOJSWTJC/600x340.jpg",Homeless For The Holidays
-https://live-content.xumo.com/1837/content/XM0OWTVOJSWTJC/22207196/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0O9FA8IR10ZJ/600x340.jpg",Small Town Santa
-https://live-content.xumo.com/232/content/XM0O9FA8IR10ZJ/21868292/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM07P73UV32UKE/600x340.jpg",Yes Virginia : There Is A Santa Claus
-https://player.zype.com/manifest/5a1da2ce8c73f214d200638c.m3u8?ad_enabled=false&api_key=3PASB80DgKOdJoEdFmyaWw&https=true
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0T4C6HT6FJ0M/600x340.jpg",Homeless For The Holidays
-https://live-content.xumo.com/228/content/XM0T4C6HT6FJ0M/21892261/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0VG2NIUPV57L/600x340.jpg",12 Days Of Christmas Eve
-https://live-content.xumo.com/197/content/XM0VG2NIUPV57L/19165992/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM071TTHL0DNMZ/600x340.jpg",A Christmas Carol (1984)
-https://live-content.xumo.com/286/content/XM071TTHL0DNMZ/21421660/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM01JJ1MZEREEF/600x340.jpg",Discarding Santa
-https://live-content.xumo.com/905/content/XM01JJ1MZEREEF/22529638/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0PE394Q592SB/600x340.jpg",For Love's Sake
-https://live-content.xumo.com/234/content/XM0PE394Q592SB/22979803/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0WAV20E516IN/600x340.jpg",A Golden Christmas 3
-https://live-content.xumo.com/232/content/XM0WAV20E516IN/18441009/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0L43M3GWTYVH/600x340.jpg",A Little Christmas Business
-https://live-content.xumo.com/232/content/XM0L43M3GWTYVH/21869916/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0ORWSE5P1PRF/600x340.jpg",Merry Ex Mas
-https://live-content.xumo.com/1068/content/XM0ORWSE5P1PRF/22530640/master.m3u8
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NTZf/A%20Chipmunk%20Christmas%20%281981%29.jpg",A Chipmunk Christmas (1981)
-https://od.lk/s/NDRfMjQyMDY0NTlf/A%20Chipmunk%20Christmas%20%281981%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NTNf/A%20Christmas%20Carol%20%282009%29.jpg",A Christmas Carol (2009)
-https://od.lk/s/NDRfMjQyMDY1MTBf/A%20Christmas%20Carol%20%282009%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NTVf/A%20Christmas%20Story%20%281983%29.jpg",A Christmas Story (1983)
-https://od.lk/s/NDRfMjQyMTQ1OTZf/A%20Christmas%20Story%20%281983%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NTRf/A%20Christmas%20Story%202%20%282012%29.jpg",A Christmas Story 2 (2012)
-https://od.lk/s/NDRfMjQyMTQ1NTdf/A%20Christmas%20Story%202%20%282012%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ3OTI2OTZf/An%20Elf%27s%20Story.jpg",An Elf's Story (2011)
-https://od.lk/s/NDRfMjQ4MDAxNzFf/An%20Elf%27s%20Story%20%282011%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ4MDg5MThf/Angela%27s%20Christmas%20Wish%20%282020%29.jpg",Angelas Christmas Wish (2020)
-https://od.lk/s/NDRfMjQ4MDExMTFf/Angelas%20Christmas%20Wish%20%282020%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NzVf/A%20Flintstone%20Christmas%201977.jpg",A Flintstone Christmas (1977)
-https://od.lk/s/NDRfMjQ3OTI5Mjlf/A%20Flintstone%20Christmas%20%281977%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NzNf/A%20Flintstone%20Christmastv.jpg",A Flintstones Christmas (TV)
-https://od.lk/s/NDRfMjQyMDY1NTBf/A%20Flintstones%20Christmas%20%28TV%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3Nzdf/A%20Flintstones%20Christmas%20Carol.jpg",A Flintstones Christmas Carol
-https://od.lk/s/NDRfMjQyMTM4MTJf/A%20Flintstones%20Christmas%20Carol%20%281994%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/s/NDRfMjQyMTE3NzZf/A%20Flintstone%20Family%20Christmas.jpg",A Flintstones Family Christmas 1993
-https://od.lk/s/NDRfMjQyMDMzNDdf/A%20Flintstones%20Family%20Christmas%201993.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3Njhf/A%20Frozen%20Christmas%203%20%282018%29.jpg",A Frozen Christmas 3 (2018)
-https://od.lk/s/NDRfMjQyMDY1MjNf/A%20Frozen%20Christmas%203%20%282018%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ3OTI2NzFf/A%20Garfield%20Christmas%20%281987%29.jpg",A Garfield Christmas (1987)
-https://od.lk/s/NDRfMjQ3OTk4OTVf/A%20Garfield%20Christmas%20%281987%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ4MDg5MTRf/A%20Merry%20Friggin%27%20Christmas%20%282014%29.jpg",A Merry Friggn Christmas (2014)
-https://od.lk/s/NDRfMjQ4MDExMTJf/A%20Merry%20Friggin%20Christmas%20%282014%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3ODZf/A%20Miser%20Brothers%27%20Christmas.jpg",A Miser Brothers Christmas (2008)
-https://od.lk/s/NDRfMjQyMTQxNjRf/A%20Miser%20Brothers%20Christmas%20%282008%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ4MDg5MTZf/A.Muppet.Christmas.Letters.to.Santa.2008.jpg",A Muppet Christmas Letters to Santa(2008)
-https://od.lk/s/NDRfMjQ4MDcwNThf/A%20Muppet%20Christmas%20Letters%20to%20Santa%282008%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3OTRf/A%20Sesame%20Street%20Christmas%20Carol.jpg",A Sesame Street Christmas Carol (2006)
-https://od.lk/s/NDRfMjQyMDYyODFf/A%20Sesame%20Street%20Christmas%20Carol%20%282006%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3ODVf/a%20Special%20Sesame%20Street%20Christmas.jpg",A Special Sesame Street Christmas - 1978
-https://od.lk/s/NDRfMjQyMDU5ODlf/A%20Special%20Sesame%20Street%20Christmas%20-%201978.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/s/NDRfMjQyMTE3ODhf/A%20Very%20Harold%20%26%20Kumar%20Christmas.jpg",A Very Harold And Kumar Christmas (2011)
-https://od.lk/s/NDRfMjQyMDU5OTJf/A%20Very%20Harold%20And%20Kumar%20Christmas%20%282011%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MDRf/AVeryMurrayChristmas_poster.jpg",A Very Murray Christmas (2015)
-https://od.lk/s/NDRfMjQyMDkwMDZf/A%20Very%20Murray%20Christmas%20%282015%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MDJf/All%20I%20Want%20for%20Christmas%20Is%20You.jpg",All I Want For Christmas Is You (2017)
-https://od.lk/s/NDRfMjQyMDY1NTJf/All%20I%20Want%20For%20Christmas%20Is%20You%20%282017%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MDVf/Arthur%20Christmas.jpg",Arthur Christmas (2011)
-https://od.lk/s/NDRfMjQyMDY1MDBf/Arthur%20Christmas%20%282011%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTQwOTdf/Babes_in_toyland_1961_poster.jpg",Babes In Toyland (1961)
-https://od.lk/s/NDRfMjQyMTM4MjRf/Babes%20In%20Toyland%20%281961%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTM3Njhf/babes%20in%20toyloand.jpg",Babes In Toyland (1986)
-https://od.lk/s/NDRfMjQyMTQwOTRf/Babes%20In%20Toyland%20%281986%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MDZf/Bad%20Santa.jpg",Bad Santa (2003)
-https://od.lk/s/NDRfMjQyMTUxODVf/Bad.Santa.2003.720p.BrRip.x264.YIFY.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MDNf/Bad%20Santa%202.jpg",Bad Santa 2 (2016)
-https://od.lk/s/NDRfMjQyMTUzNTNf/Bad%20Santa%202%20%282016%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MDhf/BAH%20HUMDUCK.jpg",Bah, Humduck! A Looney Tunes Christmas (2006)
-https://od.lk/s/NDRfMjQyMDY0Nzhf/Bah%2C%20Humduck%21%20A%20Looney%20Tunes%20Christmas%20%282006%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NjJf/A.Charlie.Brown.Christmas.1965.jpg",Charlie Brown A Charlie Brown Christmas (1965)
-https://od.lk/s/NDRfMjQyMTM3NjJf/Charlie%20Brown%20A%20Charlie%20Brown%20Christmas%20%281966%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NjBf/Its.Christmastime.Again.Charlie.Brown.1992.jpg",Charlie Bown Its Christmas time Again Charlie Brown (1992)
-https://od.lk/s/NDRfMjQyMTM3NjBf/Charlie%20Brown%20Its%20Christmas%20time%20Again%20Charlie%20Brown%20%281992%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxOTlf/classic%20holiday%20stories.jpg",Classic Christmas Holiday Stories
-https://od.lk/s/NDRfMjQyMDYyNzJf/Christmas%20Holiday%20Stories.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4Mzdf/christmas%20vacation.jpg",Christmas Vacation (1989)
-https://od.lk/s/NDRfMjQyMDYyNzNf/Christmas%20Vacation%20%281989%29%20REMASTERED.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4Mzhf/christmas%20with%20the%20kranks.jpg",Christmas with the Kranks (2004)
-https://od.lk/s/NDRfMjQyMDU5OTNf/Christmas%20with%20the%20Kranks%20%282004%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTUzODFf/curious%20george.jpg",Curious George A Very Monkey Christmas (2009)
-https://od.lk/s/NDRfMjQyMTUzODNf/Curious%20George%20A%20Very%20Monkey%20Christmas%20%282009%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MzZf/deck%20the%20halls.jpg",Deck The Halls (2006)
-https://od.lk/s/NDRfMjQyMDYyNzRf/Deck%20The%20Halls%20%282006%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ4MDg5MjFf/Dolly%20Partons%20-%20Christmas%20on%20the%20Square%20%282020%29.jpg",Dolly Parton's - Christmas On The Square (2020)
-https://od.lk/s/NDRfMjQ4MDExMTRf/Dolly%20Parton%27s%20-%20Christmas%20On%20The%20Square%20%282020%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTM4MjNf/eight-crazy-nights-2002.jpg",Eight Crazy Nights (2002)
-https://od.lk/s/NDRfMjQyMTM4MjFf/Eight%20Crazy%20Nights%282002%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTU3NDFf/Elliot.The.Littlest.Reindeer.2018.jpg",Elliot The Littlest Reindeer (2018)
-https://od.lk/s/NDRfMjQ3OTI2MzRf/Elliot%20The%20Littlest%20Reindeer%20%282018%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4NDFf/elf.jpg",Elf (2003)
-https://od.lk/s/NDRfMjQyMDYyNzVf/Elf%20%282003%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE5NDlf/Elf%20-%20Buddy%27s%20Musical%20Christmas.jpg",Elf Buddys Musical Christmas (2014)
-https://od.lk/s/NDRfMjQyMDU5OTRf/Elf%20Buddys%20Musical%20Christmas%20%282014%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/s/NDRfMjQyMTM3Njdf/Elf%20Pets%20A%20Fox%20Cub%27s%20Christmas%20Tale.jpg",Elf Pets A Fox Cubs Christmas Tale (2019)
-https://od.lk/s/NDRfMjQyMTM3NDhf/Elf%20Pets%20A%20Fox%20Cubs%20Christmas%20Tale%20%282019%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTU3NDJf/elf%20pets%20sants%20raindeer%20rescue.jpg",Elf Pets Santas Reindeer Rescue (2020)
-https://od.lk/s/NDRfMjQyMDYyNzZf/Elf%20Pets%20Santas%20Reindeer%20Rescue%20%282020%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/s/NDRfMjQyMTM3NjZf/Elf.Pets.Santas.St.Bernards.Save.Christmas.2018.jpg",Elf Pets Santas St. Bernards Save Christmas (2018)
-https://od.lk/s/NDRfMjQyMTU0MzJf/Elf%20Pets%20Santas%20St.%20Bernards%20Save%20Christmas%20%282018%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/s/NDRfMjQyMTE5NTJf/elfette%20saves%20christmas.jpg",Elfette Saves Christmas (2019)
-https://od.lk/s/NDRfMjQyMTA0MThf/Elfette%20Saves%20Christmas%20%282019%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE5NTRf/elmos%20christmas%20countdown.jpg",Elmo Christmas Countdown (2007)
-https://od.lk/s/NDRfMjQyMDY0NTdf/Elmo%20Christmas%20Countdown%20%282007%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE5NTNf/Elmo%20Saves%20Christmas.jpg",Elmo Saves Christmas (1988)
-https://od.lk/s/NDRfMjQyMDY0NThf/Elmo%20Saves%20Christmas%20%281988%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMTZf/ernest%20saves%20christmas.jpg",Ernest Saves Christmas (1988)
-https://od.lk/s/NDRfMjQyMDYyODVf/Ernest%20Saves%20Christmas%20%281988%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/s/NDRfMjQ4MDg5MTVf/Fatman%20%282020%29.jpg",Fatman (2020)
-https://od.lk/s/NDRfMjQ4MDExMTNf/Fatman.2020.1080p.WEBRip.x265-RARBG.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMTVf/four%20christmases.jpg",Four Christmases (2008)
-https://od.lk/s/NDRfMjQyMDYyODhf/Four%20Christmases%20%282008%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMThf/fred%20claus.jpg",Fred Clause (2007)
-https://od.lk/s/NDRfMjQyMTk1Mzlf/Fred.Claus.2007.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMTdf/frosty%20returns.jpg",Frosty Returns (1992)
-https://od.lk/s/NDRfMjQyMTUzNzRf/Frosty%20Returns.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMjVf/frosty%20the%20snowman.jpg",Frosty The Snowman (1969)
-https://od.lk/s/NDRfMjQyMTUzNTdf/Frosty%20The%20Snowman%20%281969%29
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMjFf/home%20alone.jpg",Home Alone (1990)
-https://od.lk/s/NDRfMjQyMDYzNDhf/Home%20Alone%20%281990%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMTlf/home%20alone%202.jpg",Home Alone 2 Lost In New York (1992)
-https://od.lk/s/NDRfMjQyMDYzNTVf/Home%20Alone%202%20Lost%20In%20New%20York%20%281992%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMjJf/home%20alone%20the%20holiday%20heist.jpg",Home Alone The Holiday Heist (2012)
-https://od.lk/s/NDRfMjQyMDYzNjRf/Home%20Alone%20The%20Holiday%20Heist%20%282012%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMjRf/How%20the%20Grinch%20Stole%20Christmas%202000.jpg",How the Grinch Stole Christmas (2000) 
-https://od.lk/s/NDRfMjQyMDYzNjZf/How%20the%20Grinch%20Stole%20Christmas%20%282000%29%20REMASTERED.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMjNf/how%20the%20grinch%20stole%20christmas%201966.jpg",How The Grinch Stole Christmas! (1966)
-https://od.lk/s/NDRfMjQyMDY1MDhf/How%20The%20Grinch%20Stole%20Christmas%21%20%281966%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNTdf/ill%20be%20home%20for%20christmas.jpg",I'll Be Home For Christmas (1998)
-https://od.lk/s/NDRfMjQyMDY0NzBf/I%27ll%20Be%20Home%20For%20Christmas%20%281998%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMjZf/ice%20age%20a%20mamoth%20christmas.jpeg",Ice Age A Mammoth Christmas (2011)
-https://od.lk/s/NDRfMjQyMDY0OTdf/Ice%20Age%20A%20Mammoth%20Christmas%20%282011%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNTBf/it%27s%20a%20mery%20muppet%20christmas.jpg",It's A Very Merry Muppet Christmas Movie (2002)
-https://od.lk/s/NDRfMjQyMTA0MTlf/It%27s%20A%20Very%20Merry%20Muppet%20Christmas%20Movie%20%282002%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNDZf/it%27s%20a%20wonderful%20life.jpg",Its A Wonderful Life Colorized Version (1946)
-https://od.lk/s/NDRfMjQyMDYwNzdf/Its%20A%20Wonderful%20Life%20Colorized%20Version%20%281946%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNDhf/jack%20frost%201998.jpg",Jack Frost (1998)
-https://od.lk/s/NDRfMjQyMDY1MjZf/Jack%20Frost%20%281998%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNDdf/jack%20frost.jpg",Jack Frost (1979)
-https://od.lk/s/NDRfMjQyMTY1NDBf/Jack%20Frost%20%281979%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNTJf/jingle%20all%20the%20way.jpg",Jingle All The Way (1996)
-https://od.lk/s/NDRfMjQyMDYwODBf/Jingle%20All%20The%20Way%20%281996%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjFf/jingle%20all%20the%20way%202.jpg",Jingle All the Way 2 (2014)
-https://od.lk/s/NDRfMjQyMDYwODFf/Jingle%20All%20the%20Way%202%20%282014%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTM3NzBf/Jingle.Jangle.A.Christmas.Journey.2020.jpg",Jingle Jangle A Christmas Journey (2020)
-https://od.lk/s/NDRfMjQyMTM3NDdf/Jingle%20Jangle%20A%20Christmas%20Journey%20%282020%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNTRf/klaus.jpg",Klaus (2019)
-https://od.lk/s/NDRfMjQyMDY1MDFf/Klaus%20%282019%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjBf/mickeys%20magical%20christmas.jpg",Mickey's Magical Christmas Snowed In At The House Of Mouse (2001)
-https://od.lk/s/NDRfMjQyMDY1NTFf/Mickey%27s%20Magical%20Christmas%20Snowed%20In%20At%20The%20House%20Of%20Mouse%20%282001%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwNTNf/mickeys%20christmas%20carol.jpg",Mickeys Christmas Carol (1983)
-https://od.lk/s/NDRfMjQyMDYzNjdf/Mickeys%20Christmas%20Carol%20-%20Remastered%20%281983%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTEwMTVf/Santa-Claus-PNG-Images.png",Mickeys house of mouse
-https://od.lk/s/NDRfMjQyMDYzNzZf/Mickeys%20house%20of%20mouse.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjZf/mickeys%20once%20apon%20a%20christmas.jpg",Mickeys once upon a xmas
-https://od.lk/s/NDRfMjQyMDYzNzdf/Mickeys%20once%20upon%20a%20xmas.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjVf/mickeys%20twice%20apon%20a%20christmas.jpg",Mickeys twice upon a christmas
-https://od.lk/s/NDRfMjQyMDYzNzhf/Mickeys%20twice%20upon%20a%20christmas.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/s/NDRfMjQ4MDg5MjJf/Mighty%20Express%20-%20A%20Mighty%20Christmas%20%282020%29.jpg",Mighty Express A Mighty Christmas (2020)
-https://od.lk/s/NDRfMjQ4MDEzNjVf/Mighty%20Express%20A%20Mighty%20Christma%20%282020%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjJf/miracle%20on%2034th%20street.jpg",Miracle On 34th Street (1947)
-https://od.lk/s/NDRfMjQyMDYzNzlf/Miracle%20On%2034th%20Street%20%281947%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTM3Njlf/mr%20magoo.jpg",Mr Magoos Christmas Carol (1962)
-https://od.lk/s/NDRfMjQyMTM4MDdf/Mr%20Magoos%20Christmas%20Carol%20%281962%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjNf/niko%202%20little%20brother.jpg",Niko 2 Little Brother Big. rouble A Christmas Adventure (2012)
-https://od.lk/s/NDRfMjQyMDY1NzNf/Niko%202%20Little%20Brother%20Big.%20rouble%20A%20Christmas%20Adventure%20%282012%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjRf/oh%20deer%20its%20christmas%20again.jpg",Oh Deer It's Christmas (2018)
-https://od.lk/s/NDRfMjQyMDY1Mjhf/Oh%20Deer%2C%20It%27s%20Christmas%20%282018%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ4MDg5MTlf/Olaf%E2%80%99s%20Frozen%20Adventure%20%282017%29.jpg",Olaf's Frozen Adventure (2017)
-https://od.lk/s/NDRfMjQ4MDE0MTZf/Olaf%27s%20Frozen%20Adventure%20%282017%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NTlf/once-upon-a-sesame-street-christmas-2016.jpg",Once Upon A Sesame Street Christmas (2016)
-https://od.lk/s/NDRfMjQyMTM3MzJf/Once%20Upon%20A%20Sesame%20Street%20Christmas%20%282016%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE3NjFf/One%20Magic%20Christmas%20%281985%29.jpg",One Magic Christmas (1985)
-https://od.lk/s/NDRfMjQyMTM2MzNf/One%20Magic%20Christmas%20%281985%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTMxMDhf/prancer.jpg",Prancer (1989)
-https://od.lk/s/NDRfMjQyMTMxMDRf/Prancer%20%281989%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMjlf/prep%20%26%20landing.jpg",Prep & Landing Naughty vs. Nice (2011)
-https://od.lk/s/NDRfMjQyMDY0Nzdf/Prep%20%26%20Landing%20Naughty%20vs.%20Nice%20%282011%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzFf/rudolph%20and%20frosty%20christmas%20in%20july.jpg",Rudolph And Frosty's Christmas In July (1979)
-https://od.lk/s/NDRfMjQyMDY1Mjlf/Rudolph%20And%20Frosty%27s%20Christmas%20In%20July%20%281979%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzBf/rudolph%20the%20red%20nose%20raindeer.jpg",Rudolph the Red Nosed Reindeer (1964)
-https://od.lk/s/NDRfMjQyMDYzODdf/Rudolph%20the%20Red%20Nosed%20Reindeer%20%281964%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzVf/santa%20clause%20the%20movie.jpg",Santa Claus - The Movie (1985)
-https://od.lk/s/NDRfMjQyMDY1NzRf/Santa%20Claus%20-%20The%20Movie%20%281985%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzNf/santa%20claus%20is%20comin%20to%20town%201970.jpg",Santa Claus Is Comin' To Town (1970)
-https://od.lk/s/NDRfMjQyMDY0OTlf/Santa%20Claus%20Is%20Comin%27%20To%20Town%20%281970%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTE4MDdf/Scrooged.jpg",Scrooged (1988)
-https://od.lk/s/NDRfMjQyMTIxODlf/Scrooged%20%281988%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzZf/smurfs%20holiday%20celebration.jpeg",Smurfs Holiday Celebration 1
-https://od.lk/s/NDRfMjQyMDYzODhf/Smurfs%20Holiday%20Celebration%201.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzZf/smurfs%20holiday%20celebration.jpeg",Smurfs Holiday Celebration 2
-https://od.lk/s/NDRfMjQyMDYzOTBf/Smurfs%20Holiday%20Celebration%202.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxOTRf/spookley%20christmas.jpg",Spookley the square pumpkin and the christmas kittens (2019)
-https://od.lk/s/NDRfMjQyMTA0ODVf/spookley%20the%20square%20pumpkin%20and%20the%20christmas%20kittens%20%282019%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzRf/surviving%20christmas.jpg",Surviving Christmas (2004)
-https://od.lk/s/NDRfMjQyMDYzOTRf/Surviving%20Christmas%20%282004%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxMzdf/The_Christmas_Chronicles.png"group-title="Christmas Movies",The Christmas Chronicles (2018)
-https://od.lk/s/NDRfMjQyMDYzOTVf/The%20Christmas%20Chronicles%20%282018%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ4MDg5MjNf/The%20Christmas%20Chronicles%202%20%282020%29.jpg",The Christmas Chronicles 2 (2020)
-https://od.lk/s/NDRfMjQ4MDE1ODJf/The%20Christmas%20Chronicles%202%20%282020%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNzNf/the%20flight%20before%20christmas.jpg",The Flight Before Christmas
-https://od.lk/s/NDRfMjQyMTc0MDRf/FLIGHT_BEFORE_CHRISTMAS_Title1.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIwMjdf/the%20grinch.jpg",The Grinch (2018)
-https://od.lk/s/NDRfMjQyMTE2OTBf/The%20Grinch%20%282018%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNjVf/the%20man%20who%20invented%20christmas.jpg",The Man Who Invented Christmas (2017)
-https://od.lk/s/NDRfMjQyMDY1NTNf/The%20Man%20Who%20Invented%20Christmas%20%282017%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNTdf/the%20muppet%20christmas%20carol.jpg",The Muppet Christmas Carol (1992)
-https://od.lk/s/NDRfMjQyMTM1Mjhf/The%20Muppet%20Christmas%20Carol%20%281992%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNzlf/the%20night%20before%20christmas.jpeg",The Night Before Christmas
-https://od.lk/s/NDRfMjQyMDY0MTVf/The%20Night%20Before%20Christmas.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNTVf/the%20night%20they%20saved%20christmas.jpg",The Night They Saved Christmas (1984)
-https://od.lk/s/NDRfMjQyMDc0MTVf/The%20Night%20They%20Saved%20Christmas%20%281984%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNTZf/the%20nightmare%20before%20christmas.jpg",The Nightmare Before Christmas (1993)
-https://od.lk/s/NDRfMjQyMDY0MTZf/The%20Nightmare%20Before%20Christmas%20%281993%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNTRf/polar%20express.jpgg",The Polar Express (2004)
-https://od.lk/s/NDRfMjQyMTM0Nzhf/The%20Polar%20Express%20%282004%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNjFf/the%20santa%20clause.jpg",The Santa Clause (1994)
-https://od.lk/s/NDRfMjQyMTM0NzFf/The%20Santa%20Clause%20%281994%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNjBf/the%20santa%20clause%202.jpg",The Santa Clause 2 (2002)
-https://od.lk/s/NDRfMjQyMTM1Mjdf/The%20Santa%20Clause%202%20%282002%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNTlf/the%20santa%20claus%203.jpg",The Santa Clause 3 (2006)
-https://od.lk/s/NDRfMjQyMDc2Mjdf/The%20Santa%20Clause%203%20%282006%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNjRf/the%20year%20without%20santa%20claus.jpg",The Year Without A Santa Claus (1974)
-https://od.lk/s/NDRfMjQyMTA1NDRf/The%20Year%20Without%20A%20Santa%20Claus%20%281974%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ4MDg5MjBf/Tyler%20Perry%27s%20A%20Madea%20Christmas%20%282013%29.jpg",Tyler Perrys A Madea Christmas (2013)
-https://od.lk/s/NDRfMjQ4MDkxNDhf/Tyler.Perrys.A.Madea.Christmas.%282013%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNzJf/white%20christmas.jpg",White Christmas (1954)
-https://od.lk/s/NDRfMjQyMDY0MTdf/White%20Christmas%20%281954%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTM3NzRf/Winnie%20The%20Pooh%20and%20Christmas%20Too.jpg",Winnie the Pooh and Christmas Too (1991)
-https://od.lk/s/NDRfMjQ3OTExMTdf/Winnie%20the%20Pooh%20and%20Christmas%20Too%20%281991%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTM3NzFf/Winnie.the.Pooh.A.Very.Merry.Pooh.Year.2002.jpg",Winnie the Pooh A Very Merry Poo Year (2002)
-https://od.lk/s/NDRfMjQyMTM3ODFf/Winnie%20the%20Pooh%20A%20Very%20Merry%20Poo%20Year%20%282002%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNjJf/Woody%20Woodpecker%20and%20Friends.jpg",Woody Woodpecker and Friends Holiday Favorites (2014)
-https://od.lk/s/NDRfMjQyMDY0Nzlf/Woodpecker%20and%20Friends%20Holiday%20Favorites%20%282014%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQyMTIxNjNf/yogi%20allstar%20christmas.jpg",Yogi Bears All-Star Comedy Christmas Caper (1982)
-https://od.lk/s/NDRfMjQyMTIyMDdf/Yogi%20Bears%20All-Star%20Comedy%20Christmas%20Caper%20%281982%29.mp4
-#EXTINF:-1 group-title="Xmas Movies" tvg-logo="https://od.lk/d/NDRfMjQ3OTI5NjJf/yogis%20first%20christmas.jpg",Yogi's First Christmas (1980)
-https://od.lk/s/NDRfMjQ3OTI5NjNf/Yogi%27s%20First%20Christmas%20%5B1980%5D.mp4
