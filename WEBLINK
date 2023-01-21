@@ -223,26 +223,6 @@ https://5b622f07944df.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",3ABN Kids Network
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8 
 
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",Tves SD
-http://higherpro.xyz:8080/Eli/Eli/10359
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",Telesur SD
-http://higherpro.xyz:8080/Eli/Eli/10360
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Telesur (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/10362
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Meridiano
-http://higherpro.xyz:8080/Eli/Eli/10364
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Globovision
-http://higherpro.xyz:8080/Eli/Eli/10365
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus (MOVIL)
-http://higherpro.xyz:8080/Eli/Eli/10367
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venevision Plus
-http://higherpro.xyz:8080/Eli/Eli/10368
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Vive HD
-http://higherpro.xyz:8080/Eli/Eli/10369
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",VE: Venezolana de Television
-http://higherpro.xyz:8080/Eli/Eli/10371
-#EXTINF:-1 group-title="Español" tvg-logo="https://icons.iconarchive.com/icons/iconscity/flags/256/venezuela-icon.png",TV FAMILIA
-http://higherpro.xyz:8080/Eli/Eli/60989
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/1c961811ad68433fe9403cff3b2da4e5.png",A&E
 http://tvstarlife.com:25461/live/cesar/cesar123/92.m3u8
 #EXTINF:-1 group-title="Español" tvg-logo="http://tvstarlife.com:25461/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png",CINELATINO
@@ -1097,16 +1077,14 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME EAST
 http://fortv.cc:8080/12345/56789/46214
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME WEST
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:SHOW.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",SHOWTIME 2 WEST
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-HD.png",SHOWTIME HD
-http://line.premiumpowers.net:80/Richard23/Richard23/45503
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-EAST-HD.png",SHOWTIME EAST HD
 http://line.premiumpowers.net:80/Richard23/Richard23/45504
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME WEST
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:SHOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-BEYOND-HD.png",SHOWTIME WEST HD
 http://line.premiumpowers.net:80/Richard23/Richard23/92020
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",SHOWTIME 2 WEST
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-2-HD.jpeg",SHOWTIME 2 HD
 http://line.premiumpowers.net:80/Richard23/Richard23/45505
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-EXTREME-HD.jpg",SHOWTIME EXTREME HD
@@ -1545,220 +1523,6 @@ http://ky-iptv.com:80/millerk/millerk/175911
 http://ky-iptv.com:80/millerk/millerk/175912
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://163.123.140.162:80/images/8f91fff5f5426d4fe0589438724fc81f.png",USA Paramount East UHD
 http://ky-iptv.com:80/millerk/millerk/175914
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145912
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/1ba98ca1509c2c8b751a72a8a5429c35.png",ADULT SWIM
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145913
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/19e5d0c769a5459b8bf08d15186803bb.png",AMC HD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145914
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/a0f51adc850787b366e4ec16df064428.png",AMC+
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145915
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/41b60bedce7778b77acaf64cfa067f2d.png",AMERICAN HEROS CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145916
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/9e0bed69858a3eec7dde677072dfb39f.png",ANIMAL PLANET
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145917
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/c2c1e527f02a615d096c56ac577f4216.png",ANTENNA TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145918
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/73cef6c3411c25ee858525550899bf3d.png",ASPIRE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145919
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/3f3575221cf4993838e239a7c2b2a9ca.png",AWE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145920
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/f8940140a6782beff4c7eddcb4b02b8a.png",AXS TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145921
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/575ed24e9b2dfb5873eb9fddfc33fa7d.jpg",BBC AMERICA
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145922
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/0c23eba97720c742fe3ad8210e57e13d.png",BET
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145923
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/9bcf1c764ac9461a4cf4d1e12a24bd6a.png",BET HER
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145924
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/0c0ab352cd3bc627d6a71119bb05ff6b.png",BET JAMS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145925
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/bb2d41d852b054999a0a72405ca31407.png",BET SOUL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145926
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/47c31c02c74226cd61ef45635b37fdeb.png",Black News Channel
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145927
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/a8e0e416c7a7ee8cff2acc3fd91fb6c7.png",BOUNCE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145928
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/7b44a30de71c6832621a79844e8838da.png",BRAVO EAST
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145929
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/c437eb8e130142f4884bfdb1a2a862b2.png",BUZZR
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145930
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/7af7edec6eb54299fa1e76f63ab79fad.png",CMT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145932
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/76b4decddc2f0f9e1de62972b5215afc.png",COMEDY CENTRAL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145933
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/edfbacd6a358b585d160cf9a20819d96.png",COMET
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145934
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/924644c4e8e776ad0542dc342b41d2bb.png",COOKING CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145935
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/ff0061ad0de315b1b7de0a4e94a3d7d7.jpg",COURT TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145936
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/e5f0426d38093d68c1ee37ad4e8f2e86.png",COZI
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145937
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/ce457994cc3b00466600c64ba9ce5f3e.png",Crime & Investigation
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145938
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/21c8728c3491af37386d260e197ad175.png",DABL TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145939
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/714c1395c1db930be3408474f5307c1c.png",DESTINATION AMERICA
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145941
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/813513ce030768aab17b38d54a047587.png",DISCOVERY CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/10530365e0ee56cba31169318a730557.png",DISCOVERY FAMILY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145943
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/68c8c7f8417d7e4fd093507b43f8e859.png",DISCOVERY LIFE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145944
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/da8ac601fa6360317336e44ecb6b3790.png",DISCOVERY SCIENCE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145945
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/c364778261e11fb446593c5d4e9dc258.png",DISCOVERY VELOCITY (MOTORTREND)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145946
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/89c3154699a0da6a3f599eb17b2edfc0.png",DIY Network
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145947
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/1a436d08e524f50252849b943f279a26.png",DOG TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145948
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://www.pngkey.com/png/detail/406-4065017_e-tv-1-logo-png-transparent-e-entertainment.png",E! ENTERTAINMENT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145949
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/2588b95ee34e39f115e859619c350c33.png",FOOD NETWORK
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145951
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/4ea3147216f3d8b63268ef1d55750f26.png",FREEFORM
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145952
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/3752357110c8147a62242eed5dcb8b8b.png",FUSE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145953
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/fe943df7ac4737b7d0f62d0bc86fe26a.png",FX
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145954
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/167534a2eb0447bc65ef87de0d4fd428.png",FXM (Retro)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145955
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/89f43b4ae4b3506c74aaf9ddd6a1b74a.png",FXX
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/603e2bc19150fc24cf41e37b72b18110.png",FYI
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145957
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/67af8bef234f8a2b1f93af3f325df4c2.png",GAC FAMILY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145958
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/GetTV_2016_logo.png/revision/latest?cb=20161005001607",GET TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145959
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/065665ce79099ec4e2f354997731b8eb.png",GRIT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145960
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/dfd94c28ed9bdf9339a6b3c17d6bcbad.png",GSN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145961
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/fc3547042b986b27d2c4e424651e5075.png",HALLMARK CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145962
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/c9b22d4a8b9988ba96579c2f2f774e9e.png",HALLMARK DRAMA
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145963
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/1eac9f40fa52168aec8ea909292fec6f.png",HALLMARK MOVIES AND MYSTERIES
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145964
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/ac3d3c1d29633b944281f22dd8843291.png",HEROS & ICONS (H&I)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145965
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/4c1f163a271e2a4d7b827318e7875d97.png",HGTV 
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145966
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/ac4458c31ff83c5acfdb64d7a66d89a8.png",HISTORY CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/96eea7d1c6891110e44a9b47aa566c06.png",HLN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145968
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/943eb933b92cc0ef56b340b8bfd501f0.png",HSN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145969
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/f0a09355af523b2f97ff30325ae5a08a.png",INSP
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145970
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/bb2e68f5aad696bc026c71ea492744e2.png",INVESTIGATION DISCOVERY (ID)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145971
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/9e368a75ae32303bd4e29d954c406664.png",ION TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145972
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/f20b5e6da65c0af44430982d0adde6e0.png",JUSTICE CENTRAL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145973
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://cdn-profiles.tunein.com/s306885/images/logod.png?t=153899",LAW & CRIME
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145974
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/331ed07e7de0e7b5866cc1af25123d5b.png",LIFETIME
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145975
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/931babe325f2ac373817942ed5a4a581.png",LOGO
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145976
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/b74e931973e5a1b4e755dbe06a6c56e2.png",ME TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145977
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/e4d93f392f132d6313eb0f067fd7796c.png",MTV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145978
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/5681de4ccbeaa07166f301fb798878a6.png",MTV 2
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145979
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/5c226bf04f30652bdc6ddee4f2e46bf6.png",MTV CLASSIC
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145980
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/0b154974190cdb1c21dce1b1fdaafc35.png",MTV LIVE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145981
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/1be458a8b064ff3eb7a4331922fb6f36.png",NASA TV HD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145982
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/bbc6152be681f21578fb4844fb7925b3.png",NATGEO
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145983
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/31685bc726016ea89563466eb99193f5.png",NATGEO WILD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145984
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/1533f7d04db20d4e8f03de1e39c36a04.jpg",OVATION
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145985
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/4217c88379b2f49f0b6b4a19e57ed81e.png",OWN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145986
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/8e7cf3da14b7a8ceaaefd3af97941bcc.png",OXYGEN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145987
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/b8d23ce5088382253e9cf0eb42cec19e.png",PARAMOUNT NETWORK
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145988
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-us-east-2-fastly-a.www.philo.com%2Fimages%2Fchannel_logos%2FPEOPLTV%2Flarge_dark.png&f=1&nofb=1",PEOPLE TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145989
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/547cf4c90822a4be3d76717391d7c43f.png",QVC
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145991
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/b7dacfc887cc8e798e204d62d428cfd7.png",QVC 2
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145992
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/0873377fc02b98be8b02e6905a07abd1.png",REELZ
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145993
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Retroplex_logo.svg/revision/latest/scale-to-width-down/200?cb=20100322084249",RETRO PLEX
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145994
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/c36cb59a04d5bd6a93a944d28d607291.png",REVOLT
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145995
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/de9d9004412aa61754891d866b372fd4.png",SMITHSONIAN CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145996
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/1fed534516eb0fe9d19202046e9fa451.png",SUNDANCE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145997
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/097f237bd4aab234fc91e5dd8c911ca5.png",SYFY
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145998
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/d0d166e8d9bee9d3e7d0520819d22bd0.png",TASTEMADE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145999
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/d55a490cbf95c2f83462f0849c6e0ae8.png",TBS EAST
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146000
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/35ea90f53b9ab170a70143cd66830ac8.png",TCM
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146001
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/12c5cec6c7bfc8f2ea96f31e7cc76c55.png",TLC
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146002
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzu2a7KPLtANm-aLNRv9YaHXZVjgo27mkOeMHc2UEYOgOEtOup&s",TNT EAST
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146003
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/91e9466842c4ddd266095fa313f1ac39.png",TRAVEL CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146004
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/7c0de871e877a74a2f390dcb6dd98d73.png",TRUTV EAST
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146005
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/2f585bd733be6f769910cc1ee8c17b4f.png",TV LAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146006
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/77e7a18f5716489c9e4c378e0385725b.png",TV ONE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146007
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/4e1e487929068d58af9fde212d80d0bd.png",USA NETWORK
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146008
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/a7eea859fabc969568b41d917aeb9ca2.png",VH1
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146009
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/13fab3c0c7a9d7537532ec0e8884f3ff.png",VICELAND
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146010
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/28258448e1736ccccc86fa6bc96abb40.png",WE TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146011
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/cc56a1e72bad7cee58b236b78d01eee8.png",WEATHER CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146012
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY CHANNEL
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146675
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/7b560a73185805d6904181cd85bc8d1d.png",DISNEY JR
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146676
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/1499c975b5b7590e6d56bb907e22faa8.png",NICK JR
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146677
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/675d5bc11f79b4761671d9eae34ff788.png",NICK MUSIC
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146678
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/f23832a88b39191189872d3a5e273969.png",NICK TOONS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146679
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/bcd716d621991584006e4f9bad7a1f6c.png",NICKELODEON
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146680
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/25200b24af24de3cc3722c7acbc6c476.png",PBS KIDS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146681
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/e4c2ac1ceb834f05cdca7a81465c73d8.png",TEEN NICK
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/c926f907a36c1ce1e8479bac8cdb6d96.png",UNIVERSAL KIDS
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146683
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://un-pluggedtv.net:8080/images/fbbc6297045c7a2a67d30c7c929318f5.png",Disney XD
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146684
 
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://ukforthesky.xyz:25461/images/9d8248813d68c041253a2079dc1bca2f.png",4SEVEN
 http://ukforthesky.xyz:25461/carolyn/carolyn/53828
