@@ -30,6 +30,21 @@ https://is.gd/RVYMSV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 http://ukforthesky.xyz:25461/dannygirl/dannygirl/218021
 
+#EXTINF:-1 group-title="REQUESTED" tvg-logo="https://picon-13398.kxcdn.com/cbsdrama.jpg",CBS Drama UK
+http://clientportal.link:80/bahsndjoihugv/Bu9pat6565/3945
+#EXTINF:-1 group-title="REQUESTED" tvg-logo="https://picon-13398.kxcdn.com/cbsreality.jpg",CBS Reality UK
+http://clientportal.link:80/bahsndjoihugv/Bu9pat6565/3946
+#EXTINF:-1 group-title="REQUESTED" tvg-logo="https://picon-13398.kxcdn.com/cbsrealityplus1.jpg",CBS Reality +1 UK
+http://clientportal.link:80/bahsndjoihugv/Bu9pat6565/14776
+#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://5.44.253.151:80/images/cd8e562c9e75d149fd942348d495ff04.png",UK CBS Action
+http://185.156.74.135:80/Saced455/321321555888/189916.ts
+#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://5.44.253.151:80/images/08cdb0f63e703daea4511a86bef2c053.png",UK CBS DRAMA
+http://185.156.74.135:80/Saced455/321321555888/391272.ts
+#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://185.156.74.135:80/images/b260e8c5174a974630f9e4edb62af8cb.png",UK CBS Justice
+http://185.156.74.135:80/Saced455/321321555888/189917.ts
+#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://77.247.109.54:80/images/6b54f51e25416190d28fe2f9a42f9eaa.png",UK CBS Reality
+http://185.156.74.135:80/Saced455/321321555888/189918.ts
+
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tent.png",CAR| TEN TV HD
 http://iptv365.xyz:900/3160760056/1016703067/400200044
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/wint.png",CAR| WIN TV HD
@@ -2460,6 +2475,84 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chun
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y3l2bszt",USA | ACCUWEATHER
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254909
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y635q6ek",USA | AL JAZEERA ENG
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254910
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y6ramxpm",USA | BBC AMERICA
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/256107
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y6ramxpm",USA | BBC AMERICA SD
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254911
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/BNC_2021.svg/revision/latest/scale-to-width-down/512?cb=20210331135651",USA | BLACK NEWS CHANNEL
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254912
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y4nyema6",USA | BLOOMBERG
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254913
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y6nxab4q",USA | CHEDDAR BUSINESS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254917
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y4hu4yrt",USA | CHEDDAR NEWS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254918
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/yxvosab8",USA | CNBC
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254919
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y6jgujbb",USA | CNBC WORLD
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254920
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y5fcel2b",USA | CNN
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254921
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y5fcel2b",USA | CNN sd (BACKUP)
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254922
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://epg4you.com/logos/cnninternational.png",USA | CNN INTERNATIONAL
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254923
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y6komklv",USA | CSPAN
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254914
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y5gj36q5",USA | CSPAN 2
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254915
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://stopthecap.com/wp-content/uploads/2010/02/cspan3.png",USA | CSPAN 3
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254916
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y3q8b6ec",USA | FOX BUSINESS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254924
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/yyyu9wgn",USA | FOX NEWS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254925
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/yyyu9wgn",USA | FOX NEWS sd (BACKUP)
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254926
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y2lu7dzl",USA | FREE SPEECH TV
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254927
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/yycdxlfz",USA | HLN
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254928
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://epg.justco.cc/guide/logos/Infowars.png",USA | INFO WARS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/256106
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y23bfuul",USA | MSNBC
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254929
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y5phtb2n",USA | NEWS 12 BROOKLYN
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254930
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/yxmppgh7",USA | NEWS 12 CONNECTICUT
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254931
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y4vxgdhv",USA | NEWS 12 LONG ISLAND
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254932
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y4oga5mv",USA | NEWS 12 NEW JERSEY
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254933
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y62g4o5n",USA | NEWS 12 THE BRONX
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254934
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y4vxgdhv",USA | NEWS 12 WESTCHESTER
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254935
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y2mjz595",USA | NEWSMAX TV
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254936
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://riverviewobserver.net/wp-content/uploads/2015/02/NEWS-12-672x372.jpg",US News 12 New York 
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/334334
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/NewsNetLogo.png/250px-NewsNetLogo.png",US Newsnet
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/334335
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/WAXN_2009.png",US TV 64 (WAXN) CHARLOTTE
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/328968
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://wgnamericaupfront.com/img/newsNation.png",USA | NEWSNATION* (FORMERLY WGN AMERICA)
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254937
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y3j2jodx",USA | NEWSY
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254938
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/yxjq9z8w",USA | ONE AMERICA NEWS NETWORK
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254939
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://apk.eternaltv.net/icons/rt-news.jpg",USA | RT NEWS
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254940
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://apk.eternaltv.net/icons/blazetv.jpg",USA | THE BLAZE
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254941
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://tinyurl.com/y66eawmm",USA | THE WEATHER CHANNEL
+http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254942
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Quest_logo.png",QUEST
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
@@ -2665,6 +2758,56 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",THE BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports NFL HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/3598
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsnfluk.jpg",Sky Sports NFL UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14747
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg",Sky Sports Arena FHD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/16969
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg",Sky Sports Arena HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/16968
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/5600
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14753
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/5601
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14750
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/20024
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football FHD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/16970
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/3600
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14744
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/4458
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14742
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsboxoffice-clivebesle.jpg",Sky Sports Box Office (Live During Events Only) UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14756
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1 HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/3603
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1.jpg",Sky Sports F1 UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14739
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix FHD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14902
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmix.jpg",Sky Sports Mix UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/14926
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg",Sky Sports News HD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/1954
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 FHD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/13091
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg",Eurosport 1 UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/3590
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 FHD UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/13092
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg",Eurosport 2 UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/3591
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/sportystufftvuk.jpg",Sporty Stuff TV UK
+http://clientportal.link:80/RmuZvOzxZu/sZwk7hO5HX/85577
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Sky%20Sports%20News.png",SKY SPORTS NEWS [FHD]
 http://tvpanel.one:80/live/den9179/611carc/586757.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/Sky%20Sports%20News.png",SKY SPORTS NEWS [HD]
