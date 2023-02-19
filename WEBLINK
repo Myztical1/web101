@@ -2799,6 +2799,28 @@ http://humiptv.live:8080/live/002/002/9886.ts
 http://humiptv.live:8080/live/002/002/9115.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://infotelematico.com/wp-content/uploads/AF3461F4-0338-475C-B244-DBC76715C7FD.jpeg",FREE SPORTS HD
 http://humiptv.live:8080/live/002/002/24123.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://b.top4top.io/p_247364akp1.png",Sky Sports F1 (4K)
+http://humiptv.live:8080/live/002/002/122181.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://f.top4top.io/p_2473anxmd1.png",Sky Sports News (4K)
+http://humiptv.live:8080/live/002/002/122408.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://b.top4top.io/p_2473t4qmh1.png",Sky Sports Main Event (4k)
+http://humiptv.live:8080/live/002/002/122409.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://g.top4top.io/p_25631cq331.png",Sky Sports Premier League (4K)
+http://humiptv.live:8080/live/002/002/122410.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://j.top4top.io/p_2563b7cdj1.png",Sky Sports Football (4K)
+http://humiptv.live:8080/live/002/002/122411.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_247357nqz1.png",Sky Sports Cricket (4K)
+http://humiptv.live:8080/live/002/002/122412.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.top4top.io/p_2473ezaox1.png",Sky Sports Action/NFL (4K)
+http://humiptv.live:8080/live/002/002/122413.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://l.top4top.io/p_2473e4g9y1.png",Sky Sports Arena (4K)
+http://humiptv.live:8080/live/002/002/122414.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://c.top4top.io/p_24736p3vs1.png",Sky Sports Racing (4K)
+http://humiptv.live:8080/live/002/002/122415.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_2473pjofr1.png",Sky Sports Mix (4K)
+http://humiptv.live:8080/live/002/002/122416.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://f.top4top.io/p_2473u7j351.png",Sky Sports Golf (4K)
+http://humiptv.live:8080/live/002/002/122417.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.icons8.com/color/1600/liverpool-fc.png",LFC
 http://247iptv.org:5454/live/Gwendolyn/Gwendolyn/3281.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61rrCc7UQAL.png",MUTV
