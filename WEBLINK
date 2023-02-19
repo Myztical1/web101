@@ -1148,6 +1148,42 @@ http://line.premiumpowers.net:80/Richard23/Richard23/91948
 http://line.premiumpowers.net:80/Richard23/Richard23/91947
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-WEST-HD.png",STARZ ENCORE WEST HD
 http://line.premiumpowers.net:80/Richard23/Richard23/45482
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",Flix HD
+http://watchindia.net:8880/live/62379/61325/2088.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",Prive HD
+http://watchindia.net:8880/live/62379/61325/2103.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now HD
+http://watchindia.net:8880/live/62379/61325/2102.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Romedy_Now.png",Romedy Now
+http://watchindia.net:8880/live/62379/61325/2188.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png",Sky Cinema Action
+http://watchindia.net:8880/live/62379/61325/2176.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png",Sky Cinema Comedy
+http://watchindia.net:8880/live/62379/61325/2177.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Disney.png",Sky Cinema Disney
+http://watchindia.net:8880/live/62379/61325/2175.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png",Sky Cinema Drama
+http://watchindia.net:8880/live/62379/61325/2179.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",Sky Cinema Family
+http://watchindia.net:8880/live/62379/61325/2173.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",Sky Cinema Greats
+http://watchindia.net:8880/live/62379/61325/2172.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png",Sky Cinema Hits
+http://watchindia.net:8880/live/62379/61325/2171.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png",Sky Cinema Premiere
+http://watchindia.net:8880/live/62379/61325/2169.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png",Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/62379/61325/2180.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png",Sky Cinema Select
+http://watchindia.net:8880/live/62379/61325/2170.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png",Sky Cinema Thriller
+http://watchindia.net:8880/live/62379/61325/2178.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png",Sony Pix HD
+http://watchindia.net:8880/live/62379/61325/2101.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png",Star Movies HD
+http://watchindia.net:8880/live/62379/61325/2080.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://watchindia.net/images/channels/english/Star_World_HD.png",Star World HD
+http://watchindia.net:8880/live/62379/61325/2191.ts
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",USA A&E UHD
 http://ky-iptv.com:80/millerk/millerk/175784
@@ -2749,6 +2785,66 @@ http://tvpanel.one:80/live/den9179/611carc/586822.m3u8
 http://tvpanel.one:80/live/den9179/611carc/586824.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://archive.org/download/tvlogos/UK%20-%20Sporty%20stuff%20tv.png",SPORTY STUFF TV [FHD]
 http://tvpanel.one:80/live/den9179/611carc/586825.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png",Star Sports 1 HD 1
+http://watchindia.net:8880/live/62379/61325/808.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png",Star Sports 1 HD 2
+http://watchindia.net:8880/live/62379/61325/2162.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png",Star Sports 1 HD 3
+http://watchindia.net:8880/live/62379/61325/2186.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png",Star Sports 1 HD 4
+http://watchindia.net:8880/live/62379/61325/2232.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png",Star Sports 2 HD 1
+http://watchindia.net:8880/live/62379/61325/1069.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png",Star Sports 2 HD 2
+http://watchindia.net:8880/live/62379/61325/2163.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png",Star Sports Select 1 HD 1
+http://watchindia.net:8880/live/62379/61325/1070.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png",Star Sports Select 1 HD 2
+http://watchindia.net:8880/live/62379/61325/2292.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png",Star Sports Select 2 HD
+http://watchindia.net:8880/live/62379/61325/1071.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png",Sky Sports Cricket
+http://watchindia.net:8880/live/62379/61325/2090.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png",Sky Sports Cricket 2
+http://watchindia.net:8880/live/62379/61325/2143.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png",Sky Sports Main Event
+http://watchindia.net:8880/live/62379/61325/2091.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png",Sky Sports Premier League
+http://watchindia.net:8880/live/62379/61325/2092.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png",Sky Sports Football
+http://watchindia.net:8880/live/62379/61325/2093.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png",Sky Sports F1
+http://watchindia.net:8880/live/62379/61325/2094.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Arena.png",Sky Sports Arena
+http://watchindia.net:8880/live/62379/61325/2095.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png",Sky Sports Golf
+http://watchindia.net:8880/live/62379/61325/2096.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png",Sony Six HD 1
+http://watchindia.net:8880/live/62379/61325/1763.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png",Sony Six HD 2
+http://watchindia.net:8880/live/62379/61325/2144.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/62379/61325/1756.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/62379/61325/2215.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_2_HD.png",Sony Ten 2 HD
+http://watchindia.net:8880/live/62379/61325/1757.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png",Sony Ten 3 HD
+http://watchindia.net:8880/live/62379/61325/1758.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png",Fox Sports 1
+http://watchindia.net:8880/live/62379/61325/2421.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png",Sports 18 1 HD 1
+http://watchindia.net:8880/live/62379/61325/2405.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png",Sports 18 1 HD 2
+http://watchindia.net:8880/live/62379/61325/2417.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png",Sports 18 1
+http://watchindia.net:8880/live/62379/61325/2423.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png",DD Sports
+http://watchindia.net:8880/live/62379/61325/2380.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png",Willow HD 1
+http://watchindia.net:8880/live/62379/61325/1067.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png",Willow HD 2
+http://watchindia.net:8880/live/62379/61325/2145.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
 http://ky-iptv.com:80/live/Jerry1234/Jerry1234/1116408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxpdmVvbmxpbmVzZXJ2aWNlcy5tYXF0dl9pY29uXzBfNGY5ZjBjYTU/icon.png?w=170&fakeurl=1",MAQ TV
