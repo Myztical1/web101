@@ -17,6 +17,18 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TIC4.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://i.imgur.com/1E73l2j.png",CNC3
+https://sktv-forwarders.7m.pl/get.php?x=CNC3
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://i.imgur.com/GhWdqLq.jpg",gayelle
+https://sktv-forwarders.7m.pl/get.php?x=gayelle
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://i.imgur.com/ugAy0UG.jpg",Synergy TV
+https://sktv-forwarders.7m.pl/get.php?x=Synergy_TV
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://i.imgur.com/rxf4x8J.jpg",TTT
+https://sktv-forwarders.7m.pl/get.php?x=TTT
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://i.imgur.com/hSJGncF.jpg",IBN
+https://sktv-forwarders.7m.pl/get.php?x=IBN
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://i.imgur.com/prgVynR.jpg",Trinity TV
+https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://is.gd/27jm3T
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
@@ -29,21 +41,6 @@ http://ukforthesky.xyz:25461/steve99/steve99ygirl/218020
 https://is.gd/RVYMSV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 http://ukforthesky.xyz:25461/steve99/steve99/218021
-
-#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://5.44.253.151:80/images/08cdb0f63e703daea4511a86bef2c053.png",UK CBS DRAMA
-http://185.156.74.135:80/Saced455/321321555888/391272.ts
-#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://185.156.74.135:80/images/b260e8c5174a974630f9e4edb62af8cb.png",UK CBS Justice
-http://185.156.74.135:80/Saced455/321321555888/189917.ts
-#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://77.247.109.54:80/images/6b54f51e25416190d28fe2f9a42f9eaa.png",UK CBS Reality
-http://185.156.74.135:80/Saced455/321321555888/189918.ts
-#EXTINF:-1 group-title="REQUESTED" tvg-logo="https://nine9.com/wp-content/uploads/2016/07/case-logo_cbs.png",USA- CBS EAST
-http://s685.servers.darkside-iptv.co:8080/ChrisNext/V6bDsH9pZYb8/282329.ts
-#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://boss4ever-restream.selfip.com:8000/images/1419a61c7dc4b6e0a63048ddc2db2300.png",UK: CBS Reality
-http://s685.servers.darkside-iptv.co:8080/ChrisNext/V6bDsH9pZYb8/369886.ts
-#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://boss4ever-restream.selfip.com:8000/images/2443ae76c1551ae6f9ffdfa60b67f65a.png",UK: CBS Drama
-http://s685.servers.darkside-iptv.co:8080/ChrisNext/V6bDsH9pZYb8/369887.ts
-#EXTINF:-1 group-title="REQUESTED" tvg-logo="http://boss4ever-restream.selfip.com:8000/images/93bec195269a415809bd5f3b0f21eca1.png",UK: CBS Justice
-http://s685.servers.darkside-iptv.co:8080/ChrisNext/V6bDsH9pZYb8/369888.ts
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tent.png",CAR| TEN TV HD
 http://iptv365.xyz:900/3160760056/1016703067/400200044
