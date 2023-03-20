@@ -933,6 +933,46 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME EAST
 http://fortv.cc:8080/12345/56789/46214
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/starz.png",Starz Cinema West FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34588
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/starz.png",Starz Kids & Family FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34591
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://89.187.170.146:25461/logos/ppv/starz.png",Starz Encore FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34592
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/starz.png",Starz Encore West FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34593
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://hidra.live:80/images/b45220c396423f677c7a029f3c6955e5.png",Starz West FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34517
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://hidra.live:80/images/b45220c396423f677c7a029f3c6955e5.png",Starz Comedy FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34519
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/starz.png",Starz Encore Western FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34524
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://hidra.live:80/images/b45220c396423f677c7a029f3c6955e5.png",Starz Encore Suspense HD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34525
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/showtime.png",Showtime West FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34531
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/5star.png",5 Star FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34535
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/outermax.png",OuterMax FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34536
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/movieplex.png",MoviePlex FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34537
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/moremax.png",MoreMax HD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34539
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/hbo.png",HBO West FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34541
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/retroplex.png",RetroPlex FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34597
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/ppvcine/cinemax.png",Cinemax East FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34603
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/usa/moviemax.png" group-title="USA",US: MovieMax FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/312743
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/usa/hbosignature.png" group-title="USA",US: HBO Signature FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/312744
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/usa/hbo.png" group-title="USA",US: HBO Plus West FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/312745
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.tvcl.xyz/usa/cinemax.png" group-title="USA",US: Cinemax West FHD
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/312746
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/SHOWTIME-EAST-HD.png",SHOWTIME EAST HD
 http://line.premiumpowers.net:80/e8d7124069/fb458f4a3a/45504
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME WEST
@@ -989,6 +1029,102 @@ http://line.premiumpowers.net:80/e8d7124069/fb458f4a3a/91948
 http://line.premiumpowers.net:80/e8d7124069/fb458f4a3a/91947
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/STARZ-ENCORE-WEST-HD.png",STARZ ENCORE WEST HD
 http://line.premiumpowers.net:80/e8d7124069/fb458f4a3a/45482
+
+
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 01
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34477
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 02
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34478
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 03
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34479
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 04
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34480
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 05
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34481
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 06
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34482
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 07
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34483
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 08
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34484
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 09
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34485
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 10
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34486
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 11
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34487
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 12
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34488
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 13
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34489
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 14
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34490
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 15
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34491
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 16
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34492
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 17
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34493
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 18
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34494
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 19
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34495
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 20
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34496
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 21
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34497
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 22
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34498
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 23
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34499
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 24
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34500
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 25
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34501
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 26
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34502
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 27
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34503
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 28
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34504
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 30
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34506
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 31
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34507
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 32
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34508
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 33
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34509
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 34
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34510
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 35
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34511
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 36
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34512
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 37
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34513
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png",PPV: Cinema 38
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/312748
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 01
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34549
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 02
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34550
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 03
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34555
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 04
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34557
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 05
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34561
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 06
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34564
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 07
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34572
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 08
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34574
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 09
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34582
+#EXTINF:-1 group-title="PPV CINEMA" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinemausa.png",PPV USA: Cinema 10
+http://dnsplay.xyz:80/rbkhihvo/tBoBv15r69/34586
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",USA A&E UHD
 http://ky-iptv.com:80/millerk/millerk/175784
