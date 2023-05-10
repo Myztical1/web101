@@ -1792,374 +1792,478 @@ http://ky-iptv.com:80/chris7676/chris7676/189879
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://77.247.109.54:80/images/d7c2717d7dbb65bc9e34e9cdda7f2dec.jpg",UK B4U PLUS
 http://ky-iptv.com:80/chris7676/chris7676/189888
 
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/AE-logo-500x333.png",|CA| A&E
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141112.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png",|CA| ABC Spark
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141113.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ddd30505-d933-481e-a65c-f45fc44571fa/df3ssv3-8b354007-c384-4560-a462-a98b8e09804f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RkZDMwNTA1LWQ5MzMtNDgxZS1hNjVjLWY0NWZjNDQ1NzFmYVwvZGYzc3N2My04YjM1NDAwNy1jMzg0LTQ1NjAtYTQ2Mi1hOThiOGUwOTgwNGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.esK4RREE2Q8X7WmAZROeSqd2HhnrI6RUkMtAYLas25U",|CA| Adult Swim
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141115.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://play-lh.googleusercontent.com/FwmRYhctX6U3dgBCCP5W8NbUM6TRS7Ag7KgSYJAOD-Ijxw6zugp98TOCFLWg0SBJnOam",|CA| Amazing Discoveries TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141116.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",|CA| AMC
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141117.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.svg.png",|CA| ANIMAL PLANET
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141118.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://seeklogo.com/images/A/aptn-logo-ABB7562105-seeklogo.com.png",|CA| APTN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141119.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/1200px-BNN_Bloomberg.svg.png",|CA| beIN Sports
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141120.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/1200px-BNN_Bloomberg.svg.png",|CA| BNN Bloomberg
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141121.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_D_logo.png",|CA| Canal D
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141122.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",|CA| Cartoon Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141124.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Current_logo_for_CBC_Television.png",|CA| CBC Calgary CBRT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141125.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Current_logo_for_CBC_Television.png",|CA| CBC Charlottetown
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141126.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Current_logo_for_CBC_Television.png",|CA| CBC Edmonton CBXT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141127.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Current_logo_for_CBC_Television.png",|CA| CBC Halifax CBHT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141128.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="http://g5g.best:8080/aminelast/5CuY0l0gms/22186",|CA| CBC News Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141129.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/CBC-Television-Logo.png",|CA| CBC Ottawa CBOT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141130.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/640px-CBC_Television_2009.svg.png",|CA| CBC Regina CBKT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141131.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://cdn.worldvectorlogo.com/logos/cbc-toronto.svg",|CA| CBC Toronto CBLT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141132.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581433046965-cbc-vancouver.png",|CA| CBC Vancouver CBUT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141133.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_Local_WSR_4CLR.jpg",|CA| CBC Windsor CBET DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141134.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Current_logo_for_CBC_Television.png",|CA| CBC Winnipeg CBWT DT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141135.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.chch.com/wp-content/uploads/2018/11/chch_logo_web.png",|CA| CHCH TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141136.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CityNews_logo.svg/1280px-CityNews_logo.svg.png",|CA| CityNews Toronto
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141138.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png",|CA| Citytv
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141139.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/CMT_Canada_2015_logo.png",|CA| CMT Canada
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141140.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="data:image/png;base64,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",|CA| Cooking Channel
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141141.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="data:image/png;base64,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",|CA| Cottage Life TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141142.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/CP24_Channel.png",|CA| CP 24
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141143.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/1280px-Crave_2018_logo.svg.png",|CA| Crave 1
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141145.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/1280px-Crave_2018_logo.svg.png",|CA| Crave 2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141146.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/1280px-Crave_2018_logo.svg.png",|CA| Crave 3
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141147.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/1280px-Crave_2018_logo.svg.png",|CA| Crave 4
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141148.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",|CA| Crime+ Investigation
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141149.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",|CA| CTV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141150.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",|CA| CTV 2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141151.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",|CA| CTV 2 Alberta
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141152.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="",|CA| CTV 2 Atlantic
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141153.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",|CA| CTV 2 Barrie
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141154.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",|CA| CTV 2 London
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141155.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",|CA| CTV 2 Ottawa
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141156.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",|CA| CTV 2 Vancouver
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141157.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1200px-CTV_Comedy_Channel_2019.svg.png",|CA| CTV Comedy Channel
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141158.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/1200px-CTV_Drama_Channel_2019.svg.png",|CA| CTV Drama Channel
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141159.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CTV_News_Channel.png",|CA| CTV News Channel
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141160.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="data:image/png;base64,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",|CA| CTV sci-fi
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141161.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/DejaView_logo.svg/800px-DejaView_logo.svg.png",|CA| DejaView
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141162.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",|CA| Discovery Science
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141163.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg",|CA| Discovery Velocity
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141164.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/800px-Logo_Disney_XD.svg.png",|CA| Disney XD
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141166.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dtour_Logo.svg/1280px-Dtour_Logo.svg.png",|CA| Dtour
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141167.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg",|CA| E!
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141168.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",|CA| EWTN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141171.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.pngitem.com/pimgs/m/422-4225016_family-logo-png-transparent-family-channel-logo-canada.png",|CA| Family
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141172.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Family_Jr._logo.svg",|CA| Family Jr
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141173.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",|CA| FIGHT Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141174.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Food_Network_Canada_%282013%29_Logo.png",|CA| Food Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141175.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/FX_Canada_logo.PNG",|CA| FX
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141176.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png",|CA| FXX
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141177.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| Global TV BC
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141178.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| Global TV Calgary
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141179.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| Global TV Edmonton
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141180.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| Global TV Halifax
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141181.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| Global TV Kingston
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141182.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| Global TV News
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141183.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/global-okanagan-logo.png",|CA| Global TV Okanagan
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141184.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| Global TV Peterborough
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141185.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Globalsaskatoon.svg/1200px-Globalsaskatoon.svg.png",|CA| Global TV Saskatoon
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141186.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Globaltoronto.svg/1200px-Globaltoronto.svg.png",|CA| Global TV Toronto
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141187.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Logo_Hard_Knocks_2019.png/800px-Logo_Hard_Knocks_2019.png",|CA| Hard Knocks
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141188.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/HBO_Canada_Logo_Black.png",|CA| HBO 1
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141189.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",|CA| HBO 2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141190.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",|CA| HBO Signature
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141191.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/HGTV_Canada_Logo.svg/1200px-HGTV_Canada_Logo.svg.png",|CA| HGTV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141192.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/History_Channel_logo.svg/revision/latest/scale-to-width-down/200?cb=20180121170122",|CA| History
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141193.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20171215183552",|CA| Investigation Discovery
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141195.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Knowledge_Kids.svg/revision/latest?cb=20200528133206",|CA| knowledge kids
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141196.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png",|CA| Lifetime
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141197.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="http://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",|CA| Love Nature
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141198.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="http://tv.bemakeful.com/wp-content/uploads/2018/09/makeful-logo-black.png",|CA| Makeful TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141199.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://sidroth.ca/wp-content/uploads/2018/11/MC_Logo_Homepage_V2@3x.png",|CA| Miracle Channel
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141200.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png",|CA| MovieTime
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141201.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MTV_Canada_logo.svg/2560px-MTV_Canada_logo.svg.png",|CA| MTV Canada
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141202.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png",|CA| Much Canada
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141203.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/langfr-500px-Natgeologo.svg.png",|CA| NAT GEO
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141204.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png",|CA| NAT GEO Wild
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141205.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/NBA_TV_Canada.svg/1280px-NBA_TV_Canada.svg.png",|CA| NBA TV Canada
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141206.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",|CA| Newfoundland TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141207.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nickelodeon.png",|CA| nickelodeon
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141208.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/OLN_2011.png",|CA| OLN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141209.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.nicepng.com/png/full/873-8735477_browse-directory-capital-one-canada-logo.png",|CA| One
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141210.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1280px-OWN_2011_logo.svg.png",|CA| Oprah Winfrey Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141211.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://play-lh.googleusercontent.com/jsVXFQfgTUMbNvWmk3Ccy4eVFSysQMI0vTEiTzgbLddzIGnPfsFLJ6OK29BRwGYhaPw",|CA| Out TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141212.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",|CA| Paramount Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141213.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.closeup360.com/wp-content/uploads/2020/09/PlayersTV.png",|CA| Players TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141214.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Salt_%2B_Light_Television_logo_%28en%29.svg/1200px-Salt_%2B_Light_Television_logo_%28en%29.svg.png",|CA| Salt+ Light TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141218.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Showcase_Logo_2015.png",|CA| Showcase
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141221.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Silver_Screen_Classics_2003.svg/1200px-Silver_Screen_Classics_2003.svg.png",|CA| Silver Screen Classics
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141222.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Slice_logo_%282017%29.svg/1200px-Slice_logo_%282017%29.svg.png",|CA| Slice
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141223.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png",|CA| Smithsonian Channel
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141224.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://download.logo.wine/logo/Sportsnet_360/Sportsnet_360-Logo.wine.png",|CA| SportsNet 360
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141225.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png",|CA| SportsNet East
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141226.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Sportsnet_New_York.svg/revision/latest/scale-to-width-down/300?cb=20200620220331",|CA| SportsNet New York
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141227.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://download.logo.wine/logo/Sportsnet_One/Sportsnet_One-Logo.wine.png",|CA| SportsNet One
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141228.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/2560px-Logo_Sportsnet_2011.svg.png",|CA| SportsNet Ontario
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141229.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/SportsnetPacific2011.png/500px-SportsnetPacific2011.png",|CA| SportsNet Pacific
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141230.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png",|CA| SportsNet Spectrum
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141231.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://download.logo.wine/logo/Sportsnet/Sportsnet-Logo.wine.png",|CA| SportsNet West
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141232.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://download.logo.wine/logo/Sportsnet_World/Sportsnet_World-Logo.wine.png",|CA| SportsNet World
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141233.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stingray_CMusic_Logo_7.2020.svg/2560px-Stingray_CMusic_Logo_7.2020.svg.png",|CA| Stingray Cmusic
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141234.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/Stingray_iConcerts_RGB_Blue.png/1200px-Stingray_iConcerts_RGB_Blue.png",|CA| Stingray IConcerts
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141235.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-fuse-lrg.png",|CA| Super Channel Fuse
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141236.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-hah-lrg.png",|CA| Super Channel Heart & Home
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141237.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-vault-lrg.png",|CA| Super Channel Vault
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141238.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Turner_Classic_Movies_2021.svg/revision/latest/scale-to-width-down/250?cb=20210901224657",|CA| TCM Canada
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141243.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Shopping_Channel_logo.svg/1200px-The_Shopping_Channel_logo.svg.png",|CA| The Shopping Channel
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141246.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/the-weather-network-logo-vector.png",|CA| The Weather Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141247.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",|CA| TLC
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141248.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="http://3.bp.blogspot.com/-x6NQdIc5B0U/Tptaj3FKx7I/AAAAAAAACXE/cw0yTfQKvtU/s200/Travel+%252B+Escape+logo+2011.png",|CA| Travel Escape
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141249.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Treehouse-Logo.png",|CA| Treehouse TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141250.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png",|CA| TSN 1
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141251.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png",|CA| TSN 2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141252.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png",|CA| TSN 3
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141253.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png",|CA| TSN 4
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141254.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png",|CA| TSN 5
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141255.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/TVOKids-Logo.jpg",|CA| TVO Kids
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141258.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Uvagut_logo.png/927px-Uvagut_logo.png",|CA| Uvagut TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141260.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/VisionTV_2010.svg/1200px-VisionTV_2010.svg.png",|CA| Vision TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141261.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/1200px-W_Network_Logo.svg.png",|CA| W Network
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141263.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://play-lh.googleusercontent.com/4zjNa2cQZJ3Eg5m0BkCKVL4INELsdhZBKRJJ6cLi5P2C7__Oq1dj1QFTZro640jQs88",|CA| Weatherspy
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141264.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://wildtv.ca/storage/logo.png",|CA| Wild TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141265.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/WildBrain_TV_logo.png",|CA| WildBrain TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141266.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://assets-global.website-files.com/5b3e246651a97b4052760e33/5b3e2d6351a97bd67d761859_Yes%20TV%20logo%20WHITE.png",|CA| Yes TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141267.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png",|CA| YTV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141269.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png",|CA| WGN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141272.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/WFN_2005.svg/revision/latest?cb=20220219101436",|CA| WFN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141273.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png",|CA| THE MOVIE NETWORK 4
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141274.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png",|CA| THE MOVIE NETWORK 3
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141275.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png",|CA| THE MOVIE NETWORK 2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141276.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://seeklogo.com/images/T/the-movie-network-logo-0412E730D6-seeklogo.com.png",|CA| THE MOVIE NETWORK 1 HD
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141277.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2018/12/ogm-sc-logo-300x110.png",|CA| SPORTSMAN CHANNEL
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141278.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Spike_TV_logo.svg/2560px-Spike_TV_logo.svg.png",|CA| SPIKE TV / PARAMOUNT
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141279.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Space_TV_Logo.svg/1200px-Space_TV_Logo.svg.png",|CA| SPACE
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141280.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/peachtree.png",|CA| PEACH TREE
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141281.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png",|CA| PBS 
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141282.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/langfr-250px-OWN_2011_logo.svg.png",|CA| OWN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141283.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png",|CA| OMNI 2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141284.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png",|CA| OMNI 1
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141285.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png",|CA| NTV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141286.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_2013_%28flat_version%29.svg/1200px-NBC_2013_%28flat_version%29.svg.png",|CA| NBC EAST
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141288.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/MTV2_logo_2005.svg/1200px-MTV2_logo_2005.svg.png",|CA| MTV 2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141289.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png",|CA| MTV 1
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141290.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png",|CA| MTIME
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141291.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/MAVTV_Canada.png",|CA| MAVTV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141293.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/1200px-KTLA_logo.svg.png",|CA| KTLA
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141294.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/IFC_%28Canada%29_logo.svg/1000px-IFC_%28Canada%29_logo.svg.png",|CA| IFC HD
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141295.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",|CA| ID
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141296.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HLN_2017_new_logo.png",|CA| HLN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141297.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",|CA| H2
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141298.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gusto_TV_logo.jpg/1200px-Gusto_TV_logo.jpg",|CA| GUSTO
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141299.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GSN_logo.svg/1014px-GSN_logo.svg.png",|CA| GSN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141300.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://banner2.cleanpng.com/20180608/owl/kisspng-canadian-open-canadian-women-s-open-glen-abbey-gol-canadian-junior-golf-association-5b1ae6b3580e00.3533995315284896513607.jpg",|CA| GOLF
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141301.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png",|CA| GLOBAL VANCOUVER
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141302.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/GINX_TV_New_Logo.png/revision/latest/scale-to-width-down/300?cb=20210309210208",|CA| GINX ESPORTS TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141303.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png",|CA| FYI
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141304.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/640px-Fashion_TV_Logo.png",|CA| FTV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141305.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png",|CA| FOX NEWS
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141307.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/1a/Fox_Canada_logo.png/revision/latest?cb=20200810223445",|CA| FOX EAST
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141308.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.pngitem.com/pimgs/m/422-4225016_family-logo-png-transparent-family-channel-logo-canada.png",|CA| FAMILY 
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141309.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Family_Chrgd_logo.svg/1200px-Family_Chrgd_logo.svg.png",|CA| FAMILY CHRGD
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141310.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/DIY_Canada.svg/1200px-DIY_Canada.svg.png",|CA| DIY
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141311.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.daystar.com/wp-content/uploads/daystar-logo-retina.png",|CA| DAYSTAR TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141312.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png",|CA| CW 11
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141313.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",|CA| CNN
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141314.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/langfr-150px-CNBC_logo.svg.png",|CA| CNBC
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141315.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png",|CA| CITY VANCOUVER
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141316.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png",|CA| CITY TORONTO
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141317.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png",|CA| CITY CALGARY
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141318.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://logos-marques.com/wp-content/uploads/2021/02/CBS-logo.png",|CA| CBS WEST
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141319.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://logos-marques.com/wp-content/uploads/2021/02/CBS-logo.png",|CA| CBS EAST
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141320.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/BBC_Canada_logo.svg/1280px-BBC_Canada_logo.svg.png",|CA| BBC
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141322.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1200px-CTV_Comedy_Channel_2019.svg.png",|CA| CTV Comedy HD
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141323.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.bravotv.com/sites/bravo/themes/custom/reality/logo.png",|CA| Bravo TV
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141324.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bettv.png",|CA| BET
-http://62.182.85.148:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/141325.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Cooking%20Channel.png",CA: COOKING CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3007.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Lifetime.png",CA: LIFETIME
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3044.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/US%20-%20Comedy%20TV.png",CA: COMEDY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406048.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Gameshow%20Network.png",CA: GAME SHOW NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406050.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/space.png",CA: SPACE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406052.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/TheCw.png",CA: CW
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406053.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Syfy.png",CA: SYFY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406054.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CBC.png",CA: CBC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443580.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20A%26E.png",CA: A&E
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443581.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20ABC%20Spark.png",CA: ABC SPARK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443582.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CMT.png",CA: CMT CANADA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443653.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Cottage%20Life.png",CA: COTTAGE LIFE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443654.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Daystar.png",CA: DAYSTAR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443655.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20DEJAVIEW.png",CA: DEJA VIEW
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443656.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/E%21.png",CA: E! ENTERTAINMENT
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443657.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20FX.png",CA: FX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443658.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20FXX.png",CA: FXX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443659.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Slice.png",CA: SLICE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443660.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Food%20Network.png",CA: FOOD NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443661.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Love%20Nature.png",CA: LOVE NATURE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443662.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Makeful.png",CA: MAKEFUL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443663.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Miracle%20Channel.png",CA: MIRACLE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443664.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Much.png",CA: MUCH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443665.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20NTV.png",CA: NTV NEWS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443666.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/OLN.png",CA: OLN 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443667.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Omini%201.png",CA: OMNI 1 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443668.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Omni%202.png",CA: OMNI 2 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443669.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | ENT",CA: ONE SOCCER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443670.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Paramount.png",CA: PARAMOUNT NETWORK 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443671.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Series%20Plus.png",CA: SERIES PLUS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443673.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Shopping%20Channel.png",CA: SHOPPING CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443674.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-TVO.png",CA: TVO 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443675.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Yes%20TV.png",CA: YES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/443676.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Adult%20Swim.png",CA: ADULT SWIM
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444163.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/AMC.png",CA: AMC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444164.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20DTour.png",CA: DTOUR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444167.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/HGTV.png",CA: HGTV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444168.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | ENT",CA: SHOW
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444169.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV COMEDY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489173.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV%20Drama.png",CA: CTV DRAMA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489174.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Family.png",CA: FAMILY EAST
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489175.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Game%20Plus.png",CA: GAME PLUS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489176.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV LIFE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489177.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20OWN.png",CA: OWN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489178.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV SY-FY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489179.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/BBCAmerica.png",CA: BBC CANADA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/561072.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Bravo.png",CA: BRAVO 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/561073.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20FOX.png",CA: FOX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/561074.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20ABC.png",CA: ABC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564813.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20NBC.png",CA: NBC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564814.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Family%20CHRGD.png",CA: FAMILY CHRGD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564816.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/US%20MY%20NETWORK.png",CA: MY 49 BUFFALO (WNYO) 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564819.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20PBS.png",CA: PBS BUFFALO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564822.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20PBS.png" group-title="CA | ENT",PBS DETROIT 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564823.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Showcase.png",CA: SHOWCASE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564825.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Super%20Channel%20Heart%20%26%20Home.png",CA: SUPER CHANNEL HEART & HOME
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564826.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20W%20Network.png",CA: W NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564828.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBS.png",CA: CBS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580814.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Family%20CHRGD.png",CA: CHRGD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580815.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Game%20TV.png",CA: GAME TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580817.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Vision.png",CA: VISION TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580818.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20ABC.png",CA: ABC WEST
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580820.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20BET.png",CA: BET
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580824.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20MAX.png",CA: MAX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580825.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/H2.png",CA: H2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/2998.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/History%20USA.png",CA: HISTORY CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/2999.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/National%20Geographic.png",CA: NATIONAL GEOGRAPHIC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3000.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Discovery.png",CA: DISCOVERY CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3001.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Nat%20Geo%20Wild.png",CA: NAT GEO WILD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3002.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20FYI.png",CA: FYI
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3003.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20DIY.png",CA: DIY NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3004.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TLC.png",CA: TLC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3005.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Crime%20and%20Investiagtion.png",CA: CRIME+ INVESTIGATION
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3008.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Travel%20Escape.png",CA: TRAVEL ESCAPE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3009.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/wild.png",CA: WILD TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3010.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Investiagtion%20Discovery.png",CA: INVESTIGATION DISCOVERY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3011.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20BBC%20Canada.png",CA: BBC EARTH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392008.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SmithSonianChannel.png",CA: SMITHSONIAN CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392033.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Velocity.png",CA: DISCOVERY VELOCITY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392034.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/DocumentaryChannelCanada.png",CA: DOCUMENTARY CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406049.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Animal%20Planet.png",CA: ANIMAL PLANET 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/561071.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Discovery%20Science.png",CA: DISCOVERY SCIENCE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564809.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Cpac.png",CA: CPAC ENGLISH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3012.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CNBC.png",CA: CNBC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3013.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC%20News.png",CA: CBC NEWS NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3014.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Cpac.png",CA: CPAC QC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3016.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Cable%20Plus%2024.png",CA: CABLEPULSE 24
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3017.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Fox%20News.png",CA: FOX NEWS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3019.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20BBC%20World%20News.png",CA: BBC WORLD NEWS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3020.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TV%20Orionto.png",CA: TV ONTARIO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3021.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/BNN.png",CA: BNN BLOOMBERG
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3022.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/HLN.png",CA: HLN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3023.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20ICI.png",CA: ICI RADIO-CANADA TOR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3024.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CHCH.png",CA: CHCH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3025.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CNN.png",CA: CNN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3026.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CNN.png",CA: CNN INTERNATIONAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3027.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CCTV%20News.png",CA: CTV NEWS CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3028.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Headline%20News.png",CA: HEADLINE NEWS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3030.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20The%20Weather%20Network.png",CA: THE WEATHER NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3117.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC%20News.png",CA: CBC NEWS TORONTO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406045.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/BBC%20News.png",CA: BBC WORLD NEWS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406056.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20BBC%20Canada.png",CA: BBC CANADA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444125.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/APTN.png",CA: APTN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/485204.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CP24.png",CA: CP24
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/489172.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20ICI.png",CA: ICI TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564817.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/MSNBC.png",CA: MSNBC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564818.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20NTV.png",CA: NTV ST. JOHN`S
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564820.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20The%20Weather%20Network.png",CA: WEATHER NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564829.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/NTV.png",CA: NTV NEWFOUNDLAND
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580819.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Nickelodeon.png",CA: NICKELODEON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3031.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Family%20Jr.png",CA: FAMILY JR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3032.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Disney%20XD.png",CA: DISNEY XD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3033.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Disney%20Channel.png",CA: DISNEY CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3034.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Disney%20Junior%20UK.png",CA: DISNEY JUNIOR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3035.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CartoonNetwork.png",CA: CARTOON NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3037.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Knowledge%20Kids.png",CA: KNOWLEDGE KIDS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3038.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Treehouse.png",CA: TREEHOUSE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3039.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20YTV.png",CA: YTV EAST
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3040.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/TeleToon.png",CA: TELETOON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392035.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/nicktoons.png",CA: NICKTOONS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392037.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Peachtree%20TV.png",CA: PEACHTREE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392038.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Boomerang.png",CA: BOOMERANG
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444126.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Much%20Music.png",CA: MUCH MUSIC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3041.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/MTV.png",CA: MTV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3042.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/MTV.png",CA: MTV 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3043.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Movietime.png",CA: MOVIETIME
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3046.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE 1
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392014.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392015.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE 3
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392016.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE 4
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392017.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/HBO.png",CA: HBO 
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392018.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/HBO.png",CA: HBO 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392020.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/IFC.png",CA: IFC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392022.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Lifetime.png",CA: LIFETIME MOVIE NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392023.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: SILVER SCREEN CLASSICS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392025.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/TMC.png",CA: TURNER CLASSIC MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392026.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/StarzUs.png",CA: STARZ 1
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392027.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/StarzUs.png",CA: STARZ 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392028.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SuperChannel.png",CA: SUPER CHANNEL FUSE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392030.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SuperChannel.png",CA: SUPER CHANNEL VAULT
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392031.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Spike.png",CA: SPIKE TV / PARAMOUNT CANADA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392032.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: HOLLYWOOD SUITE 2000'S
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564844.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: HOLLYWOOD SUITE 70'S
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564845.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: HOLLYWOOD SUITE 80'S
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564846.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: HOLLYWOOD SUITE 90's
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564847.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE WEST 1
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580810.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE WEST 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580811.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE WEST 3
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580812.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | MOVIES",CA: CRAVE WEST 4
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580813.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/beinsports.png",CA: BEIN SPORTS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3047.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20MAV%20TV.png",CA: MAV TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3048.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20NFL%20Network.png",CA: NFL NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3049.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20NBA%20TV.png",CA: NBA TV CANADA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3050.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/MlbNetwork.png",CA: MLB NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3051.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Golf%20Channel.png",CA: GOLF CHANNEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3052.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Fight%20Network.png",CA: FIGHT NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3053.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Fox%20Sports%20Racing.png",CA: FOX SPORTS RACING
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3054.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TSN%201.png",CA: TSN 1
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3055.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TSN%202.png",CA: TSN 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3056.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TSN%203.png",CA: TSN 3
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3057.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TSN%204.png",CA: TSN 4
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3058.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TSN%205.png",CA: TSN 5
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3059.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Sportsnet%20West.png",CA: SPORTSNET WEST
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3060.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Sportsnet%20Pacific.png",CA: SPORTSNET PACIFIC
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3061.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Sportsnet%20Ontario.png",CA: SPORTSNET ONTARIO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3062.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Sportsnet%20One.png",CA: SPORTSNET ONE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3065.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Sportsnet%20East.png",CA: SPORTSNET EAST
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3066.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20Sportsnet%20360.png",CA: SPORTSNET 360
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3067.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TVA%20Sports%201.png",CA: TVA SPORTS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3069.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SportsNetwork.png",CA: SPORTS NET WORLD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444252.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/TSN%201.png",CA: TSN (LIVE EVENTS ONLY)
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564810.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SportsNetwork.png",CA: SPORTSNET NEWS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564811.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SportsNetwork.png",CA: SPORTSNET PPV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564812.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | SPORTS",CA: ONE SOCCER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564821.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="" group-title="CA | SPORTS",CA: REV TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564824.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/NHL.png",CA: NHL NETWORK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580828.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SportsNetwork.png",CA: SPORTSNET WORLD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580829.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/SportsNetwork.png",CA: SPORTSNET SPECTRUM
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580830.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20TVA%20Sports%201.png",CA: TVA SPORTS 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580831.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL HALIFAX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3085.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL MONTREAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3086.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL VANCOUVER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3087.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL TORONTO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3089.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/City.png",CA: CITY CALGARY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3090.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/City.png",CA: CITY MONTREAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3091.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/City.png",CA: CITY VANCOUVER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3093.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC ST. JOHN'S
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3095.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC CENTRAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3096.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC MONTREAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3099.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC CALGARY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3101.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC OTTAWA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3103.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC TORONTO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3104.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC VANCOUVER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3105.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV 2 HALIFAX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3106.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV TORONTO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3107.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV 2 VANCOUVER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3108.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV CALGARY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3109.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV HALIFAX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3110.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV MONTREAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3111.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV OTTAWA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3112.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV VANCOUVER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3114.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV 2 OTTAWA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/3115.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV REGINA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/230600.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV KITCHENER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/238754.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC CHARLOTTETOWN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392001.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC EDMONTON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392002.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC FREDERICTON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392003.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC HALIFAX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392004.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC REGINA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392005.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC WINDSOR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392006.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC WINNIPEG
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392007.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CTV BARRIE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392009.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CTV LONDON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392010.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CTV NORTH BAY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392011.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CTV SUDBURY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392012.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CTV WINNIPEG
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/392013.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CityTV.png",CA: CITY TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/406047.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC YELLOWKNIFE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444104.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL TV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/444249.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CBC.png",CA: CBC MONTREAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564758.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV 2 WINDSOR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564789.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV 2 LONDON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564791.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV 2 VANCOUVER ISLAND
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564792.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV 2 WINDSOR ONTARIO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564793.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564794.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV PRINCE ALBERT SASKATCHEWAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564797.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV SASKATOON SASKATCHEWAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564798.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV SAULT STE. MARIE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564799.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV TIMMINS ONTARIO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564801.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL CALGARY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564803.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL DURHAM
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564804.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL EDMONTON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564806.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/Global.png",CA: GLOBAL WINNIPEG NEWS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564808.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CA%20-%20CTV.png",CA: CTV MONCTON NEW BRUNSWICK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564827.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/City.png",CA: CITY TORONTO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/564933.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://archive.org/download/tvlogos/CTV.png",CA: CTV 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/580816.ts
 
 #EXTINF:-1 group-title="REAL GOOD TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/jxidzf.png",A&E
 http://174.44.3.13:8183/play/a_e.m3u8
@@ -2406,6 +2510,314 @@ http://fortv.cc:8080/live/jonathan/jonathan/119435.m3u8
 http://fortv.cc:8080/live/jonathan/jonathan/119436.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: THRILLER
 http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTION MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764511.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: AL PACINO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764512.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: ANDY SERKIS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764513.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: ANTHONY HOPKINS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764514.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: ANTHONY MARKIE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764515.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: ARNOLD SCHWARZENEGGER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764516.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: BENEDICT CUMBERBATCH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764517.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: BRAD PITT
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764518.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: BRADLEY COOPER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764519.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: BRENDAN FRASER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764520.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: BRUCE LEE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764521.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: BRUCE WILLIS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764522.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: CHRIS EVANS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764523.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: CHRIS HEMSWORTH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764524.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: CHRIS PINE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764525.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: CHRISTIAN BALE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764526.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: CHRISTOPHER WALKEN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764527.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: CLINT EASTWOOD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764528.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: COLIN FIRTH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764529.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: DANIEL DAY LEWIS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764530.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: DANIEL RADCLIFFE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764531.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: DENZEL WASHINGTON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764532.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: DWAYNE JOHNSON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764533.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: GARY OLDMAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764534.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: HARRISON FORD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764535.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: HENRY CAVILL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764536.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: HUGH JACKMAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764537.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: HUGO WEAVING
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764538.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JACKIE CHAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764539.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JAKE GYLLENHAAL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764540.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JAMES FRANCO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764541.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JAMIE FOXX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764542.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JASON BATEMAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764543.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JASON STATHAM
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764544.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JOAQUIN PHOENIX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764545.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JOHN CENA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764546.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: JOHNNY DEPP
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764547.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: KEANU REEVES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764548.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: LEONARDO DICAPRIO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764549.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: LIAM NEESON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764550.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: MARK RUFFALO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764551.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: MATT DAMON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764552.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: MATTHEW MCCONAUGHEY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764553.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: MICHAEL CAINE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764554.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: MORGAN FREEMAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764555.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: PAUL WALKER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764556.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: ROBERT DE NIRO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764557.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: ROBERT DOWNEY JR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764558.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: ROBERT PATTINSON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764559.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: RYAN REYNOLDS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764560.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: SAMUEL L JACKSON
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764561.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: SYLVESTER STALLONE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764562.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: TOBEY MAGUIRE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764563.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: TOM CRUISE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764564.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: TOMMY LEE JONES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764565.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: VIN DIESEL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764566.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: WILL SMITH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764567.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ACTORS: WILLEM DAFOE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764568.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ALIEN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764569.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ARCHIVE MOVIE 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764570.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: AVERAGE MOVIES 1
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764571.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: BATMAN MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764572.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: BLADE MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764573.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: BOXING MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764574.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: BRUCE LEE MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764575.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: CHRISTMAS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764576.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: COMEDY MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764577.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: COMEDY MOVIES 1
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764578.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: COMEDY MOVIES 2
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764579.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: CRIME MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764580.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: DC CINEMATIC UNIVERSE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764581.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: DIE HARD
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764582.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: FAMILY MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764583.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: FAST AND FURIOUS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764584.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: FINAL DESTINATION
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764585.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: FRIDAY THE 13TH
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764586.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: HARRY POTTER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764587.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: HOME ALONE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764588.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: HORROR MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764589.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: HWF DISNEY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764590.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: INDIANA JONES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764591.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: INSIDIOUS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764592.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JACKIE CHAN MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764593.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JAMES BOND
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764594.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JASON BOURNE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764595.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JCVD MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764596.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JET LI MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764597.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JUMANJI
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764598.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JURASSIC PARK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764599.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: KING OF THE HILL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764600.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: MARVEL CINEMATIC UNIVERSE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764601.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: MEN IN BLACK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764602.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: MISSION IMPOSSIBLE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764603.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: NATHAN FOR YOU
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764604.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: PIRATES OF THE CARIBBEAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764605.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: PLANET OF THE APES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764606.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: PREDATOR/ALIEN MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764607.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: QUENTIN TARANTINO MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764608.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: RAMBO
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764609.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: RESIDENT EVIL
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764610.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ROB ZOMBIE MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764611.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ROCKY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764612.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ROMANCE MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764613.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: SCARY MOVIE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764614.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: SCI-FI MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764615.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: SPIDER MAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764616.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: SPIDERMAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764617.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: SPORTS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764618.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: STAR TREK
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764619.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: STAR TREK MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764620.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: STAR WARS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764621.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: SUPERHERO MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764622.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: SUPERMAN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764623.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: TALES FROM THE LOOP
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764624.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: TEXAS CHAINSAW MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764625.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE CHRONICLES OF NARNIA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764626.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE CONJURING
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764627.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE HUNGER GAMES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764628.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE LORD OF THE RINGS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764629.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE MARINE
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764630.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE MATRIX
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764631.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE MUMMY
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764632.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE TERMINATOR
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764633.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE TRANSPORTER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764634.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE TWILIGHT SAGA
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764635.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THRILLER MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764636.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: TRANSFORMERS
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764637.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: UNIVERSAL SOLDIER
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764638.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: VAMPIRE MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764639.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: WAR MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764640.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: X-MEN
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764641.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: US MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764642.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: BACK TO THE FUTURE MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764643.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: CARRY ON MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764644.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: CHRISTMAS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764645.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: DIE HARD MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764646.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: FAST AND FURIOUS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764647.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: FIFTY SHADES MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764648.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: HARRY POTTER MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764649.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: INDIANA JONES MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764650.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: INSIDIOUS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764651.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: JOHNNY ENGLISH MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764652.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: LORD OF THE RINGS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764653.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: MARVEL MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764654.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: PIRATES OF THE CARIBBEAN MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764655.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: PITCH PERFECT MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764656.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: RAMBO MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764657.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: ROCKY MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764658.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: TAKEN MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764659.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: STAR WARS MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764660.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE GODFATHER MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764661.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE HOBBIT MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764662.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE MATRIX MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764663.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://archive.org/download/tvlogos/247%20Movies.png",24/7: THE PURGE MOVIES
+http://62.182.86.121:80/live/closincali/u4F1vfyuh2/764664.ts
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png",CBS HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u8
