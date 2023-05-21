@@ -1792,478 +1792,418 @@ http://181.233.124.38:80/Lorena2023/Lorena2023/189879
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://77.247.109.54:80/images/d7c2717d7dbb65bc9e34e9cdda7f2dec.jpg",UK B4U PLUS
 http://181.233.124.38:80/Lorena2023/Lorena2023/189888
 
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: COOKING CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/3007.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: LIFETIME
-http://62.182.86.121:80/live/Cal/Cal/3044.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: COMEDY
-http://62.182.86.121:80/live/Cal/Cal/406048.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GAME SHOW NETWORK
-http://62.182.86.121:80/live/Cal/Cal/406050.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPACE
-http://62.182.86.121:80/live/Cal/Cal/406052.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CW
-http://62.182.86.121:80/live/Cal/Cal/406053.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SYFY
-http://62.182.86.121:80/live/Cal/Cal/406054.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC
-http://62.182.86.121:80/live/Cal/Cal/443580.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: A&E
-http://62.182.86.121:80/live/Cal/Cal/443581.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ABC SPARK
-http://62.182.86.121:80/live/Cal/Cal/443582.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CMT CANADA
-http://62.182.86.121:80/live/Cal/Cal/443653.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: COTTAGE LIFE
-http://62.182.86.121:80/live/Cal/Cal/443654.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DAYSTAR
-http://62.182.86.121:80/live/Cal/Cal/443655.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DEJA VIEW
-http://62.182.86.121:80/live/Cal/Cal/443656.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: E! ENTERTAINMENT
-http://62.182.86.121:80/live/Cal/Cal/443657.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FX
-http://62.182.86.121:80/live/Cal/Cal/443658.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FXX
-http://62.182.86.121:80/live/Cal/Cal/443659.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SLICE
-http://62.182.86.121:80/live/Cal/Cal/443660.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FOOD NETWORK
-http://62.182.86.121:80/live/Cal/Cal/443661.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: LOVE NATURE
-http://62.182.86.121:80/live/Cal/Cal/443662.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MAKEFUL
-http://62.182.86.121:80/live/Cal/Cal/443663.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MIRACLE
-http://62.182.86.121:80/live/Cal/Cal/443664.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MUCH
-http://62.182.86.121:80/live/Cal/Cal/443665.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NTV NEWS
-http://62.182.86.121:80/live/Cal/Cal/443666.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: OLN 
-http://62.182.86.121:80/live/Cal/Cal/443667.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: OMNI 1 
-http://62.182.86.121:80/live/Cal/Cal/443668.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: OMNI 2 
-http://62.182.86.121:80/live/Cal/Cal/443669.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ONE SOCCER
-http://62.182.86.121:80/live/Cal/Cal/443670.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: PARAMOUNT NETWORK 
-http://62.182.86.121:80/live/Cal/Cal/443671.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SERIES PLUS
-http://62.182.86.121:80/live/Cal/Cal/443673.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SHOPPING CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/443674.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TVO 
-http://62.182.86.121:80/live/Cal/Cal/443675.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: YES
-http://62.182.86.121:80/live/Cal/Cal/443676.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ADULT SWIM
-http://62.182.86.121:80/live/Cal/Cal/444163.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: AMC
-http://62.182.86.121:80/live/Cal/Cal/444164.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DTOUR
-http://62.182.86.121:80/live/Cal/Cal/444167.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HGTV
-http://62.182.86.121:80/live/Cal/Cal/444168.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SHOW
-http://62.182.86.121:80/live/Cal/Cal/444169.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV COMEDY
-http://62.182.86.121:80/live/Cal/Cal/489173.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV DRAMA
-http://62.182.86.121:80/live/Cal/Cal/489174.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FAMILY EAST
-http://62.182.86.121:80/live/Cal/Cal/489175.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GAME PLUS
-http://62.182.86.121:80/live/Cal/Cal/489176.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV LIFE
-http://62.182.86.121:80/live/Cal/Cal/489177.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: OWN
-http://62.182.86.121:80/live/Cal/Cal/489178.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV SY-FY
-http://62.182.86.121:80/live/Cal/Cal/489179.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BBC CANADA
-http://62.182.86.121:80/live/Cal/Cal/561072.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BRAVO 
-http://62.182.86.121:80/live/Cal/Cal/561073.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FOX
-http://62.182.86.121:80/live/Cal/Cal/561074.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ABC
-http://62.182.86.121:80/live/Cal/Cal/564813.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NBC
-http://62.182.86.121:80/live/Cal/Cal/564814.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FAMILY CHRGD
-http://62.182.86.121:80/live/Cal/Cal/564816.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MY 49 BUFFALO (WNYO) 
-http://62.182.86.121:80/live/Cal/Cal/564819.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: PBS BUFFALO
-http://62.182.86.121:80/live/Cal/Cal/564822.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",PBS DETROIT 
-http://62.182.86.121:80/live/Cal/Cal/564823.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SHOWCASE
-http://62.182.86.121:80/live/Cal/Cal/564825.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SUPER CHANNEL HEART & HOME
-http://62.182.86.121:80/live/Cal/Cal/564826.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: W NETWORK
-http://62.182.86.121:80/live/Cal/Cal/564828.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBS
-http://62.182.86.121:80/live/Cal/Cal/580814.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CHRGD
-http://62.182.86.121:80/live/Cal/Cal/580815.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GAME TV
-http://62.182.86.121:80/live/Cal/Cal/580817.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: VISION TV
-http://62.182.86.121:80/live/Cal/Cal/580818.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ABC WEST
-http://62.182.86.121:80/live/Cal/Cal/580820.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BET
-http://62.182.86.121:80/live/Cal/Cal/580824.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MAX
-http://62.182.86.121:80/live/Cal/Cal/580825.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: H2
-http://62.182.86.121:80/live/Cal/Cal/2998.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HISTORY CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/2999.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NATIONAL GEOGRAPHIC
-http://62.182.86.121:80/live/Cal/Cal/3000.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DISCOVERY CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/3001.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NAT GEO WILD
-http://62.182.86.121:80/live/Cal/Cal/3002.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FYI
-http://62.182.86.121:80/live/Cal/Cal/3003.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DIY NETWORK
-http://62.182.86.121:80/live/Cal/Cal/3004.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TLC
-http://62.182.86.121:80/live/Cal/Cal/3005.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRIME+ INVESTIGATION
-http://62.182.86.121:80/live/Cal/Cal/3008.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TRAVEL ESCAPE
-http://62.182.86.121:80/live/Cal/Cal/3009.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: WILD TV
-http://62.182.86.121:80/live/Cal/Cal/3010.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: INVESTIGATION DISCOVERY
-http://62.182.86.121:80/live/Cal/Cal/3011.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BBC EARTH
-http://62.182.86.121:80/live/Cal/Cal/392008.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SMITHSONIAN CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/392033.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DISCOVERY VELOCITY
-http://62.182.86.121:80/live/Cal/Cal/392034.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DOCUMENTARY CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/406049.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ANIMAL PLANET 
-http://62.182.86.121:80/live/Cal/Cal/561071.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DISCOVERY SCIENCE
-http://62.182.86.121:80/live/Cal/Cal/564809.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CPAC ENGLISH
-http://62.182.86.121:80/live/Cal/Cal/3012.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CNBC
-http://62.182.86.121:80/live/Cal/Cal/3013.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC NEWS NETWORK
-http://62.182.86.121:80/live/Cal/Cal/3014.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CPAC QC
-http://62.182.86.121:80/live/Cal/Cal/3016.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CABLEPULSE 24
-http://62.182.86.121:80/live/Cal/Cal/3017.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FOX NEWS
-http://62.182.86.121:80/live/Cal/Cal/3019.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BBC WORLD NEWS
-http://62.182.86.121:80/live/Cal/Cal/3020.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TV ONTARIO
-http://62.182.86.121:80/live/Cal/Cal/3021.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BNN BLOOMBERG
-http://62.182.86.121:80/live/Cal/Cal/3022.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HLN
-http://62.182.86.121:80/live/Cal/Cal/3023.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ICI RADIO-CANADA TOR
-http://62.182.86.121:80/live/Cal/Cal/3024.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CHCH
-http://62.182.86.121:80/live/Cal/Cal/3025.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CNN
-http://62.182.86.121:80/live/Cal/Cal/3026.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CNN INTERNATIONAL
-http://62.182.86.121:80/live/Cal/Cal/3027.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV NEWS CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/3028.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HEADLINE NEWS
-http://62.182.86.121:80/live/Cal/Cal/3030.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: THE WEATHER NETWORK
-http://62.182.86.121:80/live/Cal/Cal/3117.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC NEWS TORONTO
-http://62.182.86.121:80/live/Cal/Cal/406045.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BBC WORLD NEWS
-http://62.182.86.121:80/live/Cal/Cal/406056.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BBC CANADA
-http://62.182.86.121:80/live/Cal/Cal/444125.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: APTN
-http://62.182.86.121:80/live/Cal/Cal/485204.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CP24
-http://62.182.86.121:80/live/Cal/Cal/489172.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ICI TV
-http://62.182.86.121:80/live/Cal/Cal/564817.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MSNBC
-http://62.182.86.121:80/live/Cal/Cal/564818.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NTV ST. JOHN`S
-http://62.182.86.121:80/live/Cal/Cal/564820.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: WEATHER NETWORK
-http://62.182.86.121:80/live/Cal/Cal/564829.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NTV NEWFOUNDLAND
-http://62.182.86.121:80/live/Cal/Cal/580819.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NICKELODEON
-http://62.182.86.121:80/live/Cal/Cal/3031.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FAMILY JR
-http://62.182.86.121:80/live/Cal/Cal/3032.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DISNEY XD
-http://62.182.86.121:80/live/Cal/Cal/3033.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DISNEY CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/3034.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: DISNEY JUNIOR
-http://62.182.86.121:80/live/Cal/Cal/3035.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CARTOON NETWORK
-http://62.182.86.121:80/live/Cal/Cal/3037.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: KNOWLEDGE KIDS
-http://62.182.86.121:80/live/Cal/Cal/3038.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TREEHOUSE
-http://62.182.86.121:80/live/Cal/Cal/3039.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: YTV EAST
-http://62.182.86.121:80/live/Cal/Cal/3040.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TELETOON
-http://62.182.86.121:80/live/Cal/Cal/392035.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NICKTOONS
-http://62.182.86.121:80/live/Cal/Cal/392037.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: PEACHTREE
-http://62.182.86.121:80/live/Cal/Cal/392038.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BOOMERANG
-http://62.182.86.121:80/live/Cal/Cal/444126.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MUCH MUSIC
-http://62.182.86.121:80/live/Cal/Cal/3041.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MTV
-http://62.182.86.121:80/live/Cal/Cal/3042.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MTV 2
-http://62.182.86.121:80/live/Cal/Cal/3043.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MOVIETIME
-http://62.182.86.121:80/live/Cal/Cal/3046.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE 1
-http://62.182.86.121:80/live/Cal/Cal/392014.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE 2
-http://62.182.86.121:80/live/Cal/Cal/392015.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE 3
-http://62.182.86.121:80/live/Cal/Cal/392016.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE 4
-http://62.182.86.121:80/live/Cal/Cal/392017.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HBO 
-http://62.182.86.121:80/live/Cal/Cal/392018.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HBO 2
-http://62.182.86.121:80/live/Cal/Cal/392020.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: IFC
-http://62.182.86.121:80/live/Cal/Cal/392022.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: LIFETIME MOVIE NETWORK
-http://62.182.86.121:80/live/Cal/Cal/392023.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SILVER SCREEN CLASSICS
-http://62.182.86.121:80/live/Cal/Cal/392025.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TURNER CLASSIC MOVIES
-http://62.182.86.121:80/live/Cal/Cal/392026.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: STARZ 1
-http://62.182.86.121:80/live/Cal/Cal/392027.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: STARZ 2
-http://62.182.86.121:80/live/Cal/Cal/392028.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SUPER CHANNEL FUSE
-http://62.182.86.121:80/live/Cal/Cal/392030.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SUPER CHANNEL VAULT
-http://62.182.86.121:80/live/Cal/Cal/392031.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPIKE TV / PARAMOUNT CANADA
-http://62.182.86.121:80/live/Cal/Cal/392032.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HOLLYWOOD SUITE 2000'S
-http://62.182.86.121:80/live/Cal/Cal/564844.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HOLLYWOOD SUITE 70'S
-http://62.182.86.121:80/live/Cal/Cal/564845.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HOLLYWOOD SUITE 80'S
-http://62.182.86.121:80/live/Cal/Cal/564846.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: HOLLYWOOD SUITE 90's
-http://62.182.86.121:80/live/Cal/Cal/564847.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE WEST 1
-http://62.182.86.121:80/live/Cal/Cal/580810.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE WEST 2
-http://62.182.86.121:80/live/Cal/Cal/580811.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE WEST 3
-http://62.182.86.121:80/live/Cal/Cal/580812.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CRAVE WEST 4
-http://62.182.86.121:80/live/Cal/Cal/580813.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: BEIN SPORTS
-http://62.182.86.121:80/live/Cal/Cal/3047.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MAV TV
-http://62.182.86.121:80/live/Cal/Cal/3048.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NFL NETWORK
-http://62.182.86.121:80/live/Cal/Cal/3049.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NBA TV CANADA
-http://62.182.86.121:80/live/Cal/Cal/3050.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: MLB NETWORK
-http://62.182.86.121:80/live/Cal/Cal/3051.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GOLF CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/3052.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FIGHT NETWORK
-http://62.182.86.121:80/live/Cal/Cal/3053.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: FOX SPORTS RACING
-http://62.182.86.121:80/live/Cal/Cal/3054.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TSN 1
-http://62.182.86.121:80/live/Cal/Cal/3055.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TSN 2
-http://62.182.86.121:80/live/Cal/Cal/3056.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TSN 3
-http://62.182.86.121:80/live/Cal/Cal/3057.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TSN 4
-http://62.182.86.121:80/live/Cal/Cal/3058.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TSN 5
-http://62.182.86.121:80/live/Cal/Cal/3059.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET WEST
-http://62.182.86.121:80/live/Cal/Cal/3060.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET PACIFIC
-http://62.182.86.121:80/live/Cal/Cal/3061.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET ONTARIO
-http://62.182.86.121:80/live/Cal/Cal/3062.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET ONE
-http://62.182.86.121:80/live/Cal/Cal/3065.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET EAST
-http://62.182.86.121:80/live/Cal/Cal/3066.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET 360
-http://62.182.86.121:80/live/Cal/Cal/3067.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TVA SPORTS
-http://62.182.86.121:80/live/Cal/Cal/3069.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTS NET WORLD
-http://62.182.86.121:80/live/Cal/Cal/444252.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TSN (LIVE EVENTS ONLY)
-http://62.182.86.121:80/live/Cal/Cal/564810.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET NEWS
-http://62.182.86.121:80/live/Cal/Cal/564811.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET PPV
-http://62.182.86.121:80/live/Cal/Cal/564812.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: ONE SOCCER
-http://62.182.86.121:80/live/Cal/Cal/564821.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: REV TV
-http://62.182.86.121:80/live/Cal/Cal/564824.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: NHL NETWORK
-http://62.182.86.121:80/live/Cal/Cal/580828.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET WORLD
-http://62.182.86.121:80/live/Cal/Cal/580829.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: SPORTSNET SPECTRUM
-http://62.182.86.121:80/live/Cal/Cal/580830.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: TVA SPORTS 2
-http://62.182.86.121:80/live/Cal/Cal/580831.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL HALIFAX
-http://62.182.86.121:80/live/Cal/Cal/3085.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL MONTREAL
-http://62.182.86.121:80/live/Cal/Cal/3086.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL VANCOUVER
-http://62.182.86.121:80/live/Cal/Cal/3087.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL TORONTO
-http://62.182.86.121:80/live/Cal/Cal/3089.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CITY CALGARY
-http://62.182.86.121:80/live/Cal/Cal/3090.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CITY MONTREAL
-http://62.182.86.121:80/live/Cal/Cal/3091.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CITY VANCOUVER
-http://62.182.86.121:80/live/Cal/Cal/3093.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC ST. JOHN'S
-http://62.182.86.121:80/live/Cal/Cal/3095.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC CENTRAL
-http://62.182.86.121:80/live/Cal/Cal/3096.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC MONTREAL
-http://62.182.86.121:80/live/Cal/Cal/3099.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC CALGARY
-http://62.182.86.121:80/live/Cal/Cal/3101.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC OTTAWA
-http://62.182.86.121:80/live/Cal/Cal/3103.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC TORONTO
-http://62.182.86.121:80/live/Cal/Cal/3104.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC VANCOUVER
-http://62.182.86.121:80/live/Cal/Cal/3105.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2 HALIFAX
-http://62.182.86.121:80/live/Cal/Cal/3106.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV TORONTO
-http://62.182.86.121:80/live/Cal/Cal/3107.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2 VANCOUVER
-http://62.182.86.121:80/live/Cal/Cal/3108.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV CALGARY
-http://62.182.86.121:80/live/Cal/Cal/3109.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV HALIFAX
-http://62.182.86.121:80/live/Cal/Cal/3110.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV MONTREAL
-http://62.182.86.121:80/live/Cal/Cal/3111.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV OTTAWA
-http://62.182.86.121:80/live/Cal/Cal/3112.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV VANCOUVER
-http://62.182.86.121:80/live/Cal/Cal/3114.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2 OTTAWA
-http://62.182.86.121:80/live/Cal/Cal/3115.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV REGINA
-http://62.182.86.121:80/live/Cal/Cal/230600.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV KITCHENER
-http://62.182.86.121:80/live/Cal/Cal/238754.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC CHARLOTTETOWN
-http://62.182.86.121:80/live/Cal/Cal/392001.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC EDMONTON
-http://62.182.86.121:80/live/Cal/Cal/392002.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC FREDERICTON
-http://62.182.86.121:80/live/Cal/Cal/392003.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC HALIFAX
-http://62.182.86.121:80/live/Cal/Cal/392004.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC REGINA
-http://62.182.86.121:80/live/Cal/Cal/392005.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC WINDSOR
-http://62.182.86.121:80/live/Cal/Cal/392006.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC WINNIPEG
-http://62.182.86.121:80/live/Cal/Cal/392007.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV BARRIE
-http://62.182.86.121:80/live/Cal/Cal/392009.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV LONDON
-http://62.182.86.121:80/live/Cal/Cal/392010.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV NORTH BAY
-http://62.182.86.121:80/live/Cal/Cal/392011.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV SUDBURY
-http://62.182.86.121:80/live/Cal/Cal/392012.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV WINNIPEG
-http://62.182.86.121:80/live/Cal/Cal/392013.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CITY TV
-http://62.182.86.121:80/live/Cal/Cal/406047.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC YELLOWKNIFE
-http://62.182.86.121:80/live/Cal/Cal/444104.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL TV
-http://62.182.86.121:80/live/Cal/Cal/444249.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CBC MONTREAL
-http://62.182.86.121:80/live/Cal/Cal/564758.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2 WINDSOR
-http://62.182.86.121:80/live/Cal/Cal/564789.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2 LONDON
-http://62.182.86.121:80/live/Cal/Cal/564791.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2 VANCOUVER ISLAND
-http://62.182.86.121:80/live/Cal/Cal/564792.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2 WINDSOR ONTARIO
-http://62.182.86.121:80/live/Cal/Cal/564793.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV
-http://62.182.86.121:80/live/Cal/Cal/564794.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV PRINCE ALBERT SASKATCHEWAN
-http://62.182.86.121:80/live/Cal/Cal/564797.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV SASKATOON SASKATCHEWAN
-http://62.182.86.121:80/live/Cal/Cal/564798.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV SAULT STE. MARIE
-http://62.182.86.121:80/live/Cal/Cal/564799.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV TIMMINS ONTARIO
-http://62.182.86.121:80/live/Cal/Cal/564801.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL CALGARY
-http://62.182.86.121:80/live/Cal/Cal/564803.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL DURHAM
-http://62.182.86.121:80/live/Cal/Cal/564804.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL EDMONTON
-http://62.182.86.121:80/live/Cal/Cal/564806.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: GLOBAL WINNIPEG NEWS
-http://62.182.86.121:80/live/Cal/Cal/564808.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV MONCTON NEW BRUNSWICK
-http://62.182.86.121:80/live/Cal/Cal/564827.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CITY TORONTO
-http://62.182.86.121:80/live/Cal/Cal/564933.ts
-#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://www.cccam.store/resources/img/ca.png",CA: CTV 2
-http://62.182.86.121:80/live/Cal/Cal/580816.ts
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/2iWI1DX.png",CA: A&E
+http://186.233.184.11:25461/newdeal/newdeal/340
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/8KMwW0A.png",CA: ABC
+http://186.233.184.11:25461/newdeal/newdeal/341
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/BlteyWa.png",CA: ABC SPARK
+http://186.233.184.11:25461/newdeal/newdeal/342
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/6QS5xJz.png",CA: AMC
+http://186.233.184.11:25461/newdeal/newdeal/343
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="http://culturemixonline.com/wp-content/uploads/2017/07/adult-swim-logo.png",CA: ADULT SWIM
+http://186.233.184.11:25461/newdeal/newdeal/344
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/fPaHTid.png",CA: ANIMAL PLANET
+http://186.233.184.11:25461/newdeal/newdeal/345
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/APTN_Colour-300x300.jpg",CA: APTN
+http://186.233.184.11:25461/newdeal/newdeal/346
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/EpNXL0N.png",CA: BBC Canada
+http://186.233.184.11:25461/newdeal/newdeal/347
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/BzXxuOD.png",CA: BNN Bloomberg
+http://186.233.184.11:25461/newdeal/newdeal/348
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/BBC%20EARTH.png",CA: BBC EARTH
+http://186.233.184.11:25461/newdeal/newdeal/349
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/one%20canada.png",CA: Canada One
+http://186.233.184.11:25461/newdeal/newdeal/350
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cartoon%20net.png",CA: CARTOON NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/351
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CA: CBC NEWS
+http://186.233.184.11:25461/newdeal/newdeal/352
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC REGINA
+http://186.233.184.11:25461/newdeal/newdeal/353
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC CALGARY
+http://186.233.184.11:25461/newdeal/newdeal/354
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC Charlottetown
+http://186.233.184.11:25461/newdeal/newdeal/355
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC Fredericton
+http://186.233.184.11:25461/newdeal/newdeal/356
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC Halifax
+http://186.233.184.11:25461/newdeal/newdeal/357
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC MONTREAL
+http://186.233.184.11:25461/newdeal/newdeal/358
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC OTTAWA
+http://186.233.184.11:25461/newdeal/newdeal/359
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC TORONTO
+http://186.233.184.11:25461/newdeal/newdeal/360
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC ST. JOHNS
+http://186.233.184.11:25461/newdeal/newdeal/361
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC VANCOUVER
+http://186.233.184.11:25461/newdeal/newdeal/362
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC WINDSOR
+http://186.233.184.11:25461/newdeal/newdeal/363
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CA: CBC WINNIPEG
+http://186.233.184.11:25461/newdeal/newdeal/364
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/chch.png",CA: CHCH
+http://186.233.184.11:25461/newdeal/newdeal/365
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/7P0A93a.png",CA: CITY CALGARY
+http://186.233.184.11:25461/newdeal/newdeal/366
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/7P0A93a.png",CA: CITY MONTREAL
+http://186.233.184.11:25461/newdeal/newdeal/367
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/7P0A93a.png",CA: CITY TORONTO
+http://186.233.184.11:25461/newdeal/newdeal/368
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/7P0A93a.png",CA: CITY VANCOUVER
+http://186.233.184.11:25461/newdeal/newdeal/369
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cmt.png",CA: CMT
+http://186.233.184.11:25461/newdeal/newdeal/370
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cnn.png",CA: CNN
+http://186.233.184.11:25461/newdeal/newdeal/371
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cnn%20internation.png",CA: CNN INTERNATIONAL
+http://186.233.184.11:25461/newdeal/newdeal/372
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cooking%20channel.png",CA: COOKING CHANNEL
+http://186.233.184.11:25461/newdeal/newdeal/373
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cottage%20life.png",CA: COTTAGE LIFE
+http://186.233.184.11:25461/newdeal/newdeal/374
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cp24.png",CA: CP 24
+http://186.233.184.11:25461/newdeal/newdeal/375
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/cpac.png",CA: CPAC
+http://186.233.184.11:25461/newdeal/newdeal/376
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CA: CRAVE 1
+http://186.233.184.11:25461/newdeal/newdeal/377
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CA: CRAVE 2
+http://186.233.184.11:25461/newdeal/newdeal/378
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CA: CRAVE 3
+http://186.233.184.11:25461/newdeal/newdeal/379
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CA: CRAVE 4
+http://186.233.184.11:25461/newdeal/newdeal/380
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/crime%20and%20invest.png",CA: CRIME & INVESTIGATION
+http://186.233.184.11:25461/newdeal/newdeal/381
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/ctv%20comedy.png",CA: CTV COMEDY
+http://186.233.184.11:25461/newdeal/newdeal/382
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CA: CTV DRAMA
+http://186.233.184.11:25461/newdeal/newdeal/383
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CA: CTV2 Atlantic
+http://186.233.184.11:25461/newdeal/newdeal/385
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CA: CTV2 Alberta
+http://186.233.184.11:25461/newdeal/newdeal/386
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="ttps://technetnetwork.com/logos/canada/ctv%202.png",CA: CTV 2 BARRIE
+http://186.233.184.11:25461/newdeal/newdeal/387
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CA: CTV CALGARY
+http://186.233.184.11:25461/newdeal/newdeal/388
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CA: CTV Edmonton
+http://186.233.184.11:25461/newdeal/newdeal/389
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV",CA: CTV Halifax
+http://186.233.184.11:25461/newdeal/newdeal/390
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CA: CTV KITCHENER
+http://186.233.184.11:25461/newdeal/newdeal/391
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CA: CTV LIFE
+http://186.233.184.11:25461/newdeal/newdeal/392
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV 2 LONDON
+http://186.233.184.11:25461/newdeal/newdeal/393
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV2 OTTAWA
+http://186.233.184.11:25461/newdeal/newdeal/394
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV Moncton
+http://186.233.184.11:25461/newdeal/newdeal/395
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV MONTREAL
+http://186.233.184.11:25461/newdeal/newdeal/396
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV OTTAWA
+http://186.233.184.11:25461/newdeal/newdeal/397
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA CTV Sydney
+http://186.233.184.11:25461/newdeal/newdeal/399
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV TORONTO
+http://186.233.184.11:25461/newdeal/newdeal/400
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV Timmins
+http://186.233.184.11:25461/newdeal/newdeal/401
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV WINNIPEG
+http://186.233.184.11:25461/newdeal/newdeal/402
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV2 Windsor
+http://186.233.184.11:25461/newdeal/newdeal/403
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV VANCOUVER
+http://186.233.184.11:25461/newdeal/newdeal/404
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV 2 VANCOUVER
+http://186.233.184.11:25461/newdeal/newdeal/405
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV NEWS CHANNEL
+http://186.233.184.11:25461/newdeal/newdeal/406
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA: CTV SCI FI
+http://186.233.184.11:25461/newdeal/newdeal/407
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/day%20star.png",CA: DAYSTAR TV
+http://186.233.184.11:25461/newdeal/newdeal/408
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/dejaview.png",CA: DEJAVIEW
+http://186.233.184.11:25461/newdeal/newdeal/409
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/discovery%20hd.png",CA: DISCOVERY
+http://186.233.184.11:25461/newdeal/newdeal/410
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/discovery%20sci.png",CA: DISCOVERY SCIENCE
+http://186.233.184.11:25461/newdeal/newdeal/411
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/disney%20jr.png",CA: DISNEY JR
+http://186.233.184.11:25461/newdeal/newdeal/412
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/disney%20dx.png",CA: DISNEY XD
+http://186.233.184.11:25461/newdeal/newdeal/413
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Qym2zVK.png",CA: MAGNOLIA NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/414
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/dtour.png",CA: DTOUR
+http://186.233.184.11:25461/newdeal/newdeal/415
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/E%21.png",CA: E!
+http://186.233.184.11:25461/newdeal/newdeal/416
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/familt%20chrgd.png",CA: FAMILY CHRGD
+http://186.233.184.11:25461/newdeal/newdeal/417
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/FAMILY.png",CA: FAMILY
+http://186.233.184.11:25461/newdeal/newdeal/418
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/FAMILY%20JR.png",CA: FAMILY JUNIOR
+http://186.233.184.11:25461/newdeal/newdeal/419
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/joEwyfu.png",CA: FOOD NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/420
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/fox%20hd.png",CA: Fox HD
+http://186.233.184.11:25461/newdeal/newdeal/421
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/fox%20news.png",CA: FOX NEWS
+http://186.233.184.11:25461/newdeal/newdeal/422
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/5qweqZO.png",CA: FX
+http://186.233.184.11:25461/newdeal/newdeal/423
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/BJvME2T.png",CA: FXX
+http://186.233.184.11:25461/newdeal/newdeal/424
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/game%20tv.png",CA: Game TV
+http://186.233.184.11:25461/newdeal/newdeal/425
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/game%20show%20net.png",CA: GAME SHOW NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/426
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: GLOBAL CALGARY
+http://186.233.184.11:25461/newdeal/newdeal/427
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: GLOBAL HALIFAX
+http://186.233.184.11:25461/newdeal/newdeal/429
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: GLOBAL
+http://186.233.184.11:25461/newdeal/newdeal/433
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: GLOBAL EDMONTON
+http://186.233.184.11:25461/newdeal/newdeal/434
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: Global Maritimes - Saint John
+http://186.233.184.11:25461/newdeal/newdeal/435
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: GLOBAL Winnipeg
+http://186.233.184.11:25461/newdeal/newdeal/437
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: GLOBAL TORONTO
+http://186.233.184.11:25461/newdeal/newdeal/438
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/zztwznS.png",CA: GLOBAL VANCOUVER
+http://186.233.184.11:25461/newdeal/newdeal/439
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/GOLF%20CHANNEL.png",CA: GOLF CHANNEL
+http://186.233.184.11:25461/newdeal/newdeal/442
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/gsn.png",CA: GSN
+http://186.233.184.11:25461/newdeal/newdeal/445
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/qHqU6p6.png" group-title="CBS Locals",TX CBS 11 (Dallas-Fort Worth)
+http://186.233.184.11:25461/newdeal/newdeal/446
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/h2.png",CA: H2
+http://186.233.184.11:25461/newdeal/newdeal/448
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/hbo%202%20hd.png",CA: HBO 2
+http://186.233.184.11:25461/newdeal/newdeal/450
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="ttps://technetnetwork.com/logos/canada/hbo%20hd.png",CA: HBO
+http://186.233.184.11:25461/newdeal/newdeal/452
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/hgtv.png",CA: HGTV
+http://186.233.184.11:25461/newdeal/newdeal/454
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/the%20history%20channel.png",CA: HISTORY
+http://186.233.184.11:25461/newdeal/newdeal/456
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="ttps://technetnetwork.com/logos/canada/HLN.png",CA: HLN
+http://186.233.184.11:25461/newdeal/newdeal/458
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",CA: HOLLYWOOD SUITE 00'S MOVIES
+http://186.233.184.11:25461/newdeal/newdeal/461
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",CA: HOLLYWOOD SUITE 70'S MOVIES
+http://186.233.184.11:25461/newdeal/newdeal/464
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: AL BIRMINGHAM WIAT
+http://186.233.184.11:25461/newdeal/newdeal/465
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",CA: HOLLYWOOD SUITE 80'S MOVIES
+http://186.233.184.11:25461/newdeal/newdeal/468
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",CA: HOLLYWOOD SUITE 90'S MOVIES
+http://186.233.184.11:25461/newdeal/newdeal/471
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",AL CBS 8 (WAKA) Montgomery
+http://186.233.184.11:25461/newdeal/newdeal/473
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",CA: Fairchild Television
+http://186.233.184.11:25461/newdeal/newdeal/475
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",CA: Fairchild 2
+http://186.233.184.11:25461/newdeal/newdeal/477
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: AL MOBILE WKRG
+http://186.233.184.11:25461/newdeal/newdeal/479
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",CA: Fairchild Television W
+http://186.233.184.11:25461/newdeal/newdeal/480
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",CA: Fairchild Television Mandarin
+http://186.233.184.11:25461/newdeal/newdeal/481
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/d0FcsAX.png" group-title="CBS Locals",GA CBS 46 (Atlanta)
+http://186.233.184.11:25461/newdeal/newdeal/483
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/ifc.png",CA: IFC
+http://186.233.184.11:25461/newdeal/newdeal/485
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: GA AUGUSTA WRDW
+http://186.233.184.11:25461/newdeal/newdeal/487
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: GA SAVANNAH WTOC
+http://186.233.184.11:25461/newdeal/newdeal/489
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/investigation%20dis.png",CA: INVESTIGATION DISCOVERY
+http://186.233.184.11:25461/newdeal/newdeal/490
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: GA THOMASVILLE WCTV
+http://186.233.184.11:25461/newdeal/newdeal/493
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",TX CBS (Austin)
+http://186.233.184.11:25461/newdeal/newdeal/496
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/lifetime%20hd.png",CA: LIFETIME
+http://186.233.184.11:25461/newdeal/newdeal/501
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/62QpuIf.png" group-title="CBS Locals",CBS: MD BALTIMORE WJZ
+http://186.233.184.11:25461/newdeal/newdeal/503
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/MH8MrhR.png" group-title="CBS Locals",CBS: MA BOSTON WBZ
+http://186.233.184.11:25461/newdeal/newdeal/505
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/lifetime%20hd.png",CA: LIFETIME MOVIE NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/506
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="",CA: Love Nature
+http://186.233.184.11:25461/newdeal/newdeal/508
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: SC CHARLESTON WCSC
+http://186.233.184.11:25461/newdeal/newdeal/510
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/makeful.png",CA: MakeFul
+http://186.233.184.11:25461/newdeal/newdeal/512
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: SC COLUMBIA WLTX
+http://186.233.184.11:25461/newdeal/newdeal/514
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: SC FLORENCE WBTW
+http://186.233.184.11:25461/newdeal/newdeal/517
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/max%20tv.png",CA: MAX
+http://186.233.184.11:25461/newdeal/newdeal/520
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: IL CHICAGO WBBM
+http://186.233.184.11:25461/newdeal/newdeal/521
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",OH CBS 12 (WKRC) Cincinnati
+http://186.233.184.11:25461/newdeal/newdeal/525
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="ttps://technetnetwork.com/logos/canada/miracle.png",CA: MIRACLE
+http://186.233.184.11:25461/newdeal/newdeal/527
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/4EAtK5A.png" group-title="CBS Locals",CBS CLEVELAND WOIO
+http://186.233.184.11:25461/newdeal/newdeal/529
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: OH COLUMBUS WBNS
+http://186.233.184.11:25461/newdeal/newdeal/531
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/movie%20time.png",CA: MOVIETIME
+http://186.233.184.11:25461/newdeal/newdeal/533
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: CT HARTFORD WFSB
+http://186.233.184.11:25461/newdeal/newdeal/535
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: CO DENVER KCNC
+http://186.233.184.11:25461/newdeal/newdeal/537
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/mtv%202.png",CA: MTV 2
+http://186.233.184.11:25461/newdeal/newdeal/544
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: MI DETROIT WWJ
+http://186.233.184.11:25461/newdeal/newdeal/545
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: CA FRESNO KGPE
+http://186.233.184.11:25461/newdeal/newdeal/546
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/NsCDHCe.png" group-title="CBS Locals",CBS: TX HOUSTON KHOU
+http://186.233.184.11:25461/newdeal/newdeal/547
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/MUCH.png",CA: MUCH
+http://186.233.184.11:25461/newdeal/newdeal/548
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/NBA%20TV.png - Sports",CA: NBA TV Canada
+http://186.233.184.11:25461/newdeal/newdeal/551
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: LOS ANGELES CA KCBS
+http://186.233.184.11:25461/newdeal/newdeal/552
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: CA LOS ANGELES KCAL 9
+http://186.233.184.11:25461/newdeal/newdeal/553
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="",CA: NAT GEO
+http://186.233.184.11:25461/newdeal/newdeal/554
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: LA SHREVEPORT KSLA
+http://186.233.184.11:25461/newdeal/newdeal/558
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/NAT%20GEO%20WILD.png",CA: NAT GEO WILD
+http://186.233.184.11:25461/newdeal/newdeal/560
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",LA CBS (New Orleans)
+http://186.233.184.11:25461/newdeal/newdeal/561
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/NICK%20TOONS.png",CA: NICKTOONS
+http://186.233.184.11:25461/newdeal/newdeal/563
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/ntv.png",CA: NTV
+http://186.233.184.11:25461/newdeal/newdeal/566
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/OLN.png",CA: OLN
+http://186.233.184.11:25461/newdeal/newdeal/568
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/OMNI%20TV.png",CA: OMNI 1
+http://186.233.184.11:25461/newdeal/newdeal/571
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/OMNI%20TV.png",CA: OMNI 2
+http://186.233.184.11:25461/newdeal/newdeal/573
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="ttps://technetnetwork.com/logos/canada/omni%20bc.png",CA: OMNI BC
+http://186.233.184.11:25461/newdeal/newdeal/576
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/one%20canada.png",CA: ONE
+http://186.233.184.11:25461/newdeal/newdeal/578
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/PARAMOUNT.png",CA: PARAMOUNT NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/581
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/Cuallrw.png" group-title="CBS Locals",CBS: FL MIAMI WFOR
+http://186.233.184.11:25461/newdeal/newdeal/582
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/peach%20tree.png",CA: PEACH TREE
+http://186.233.184.11:25461/newdeal/newdeal/584
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: MS JACKSON WJTV
+http://186.233.184.11:25461/newdeal/newdeal/585
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/prise%202.png",CA: PRISE 2
+http://186.233.184.11:25461/newdeal/newdeal/587
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: NEW YORK NY WCBS
+http://186.233.184.11:25461/newdeal/newdeal/588
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/rewind.png",CA: REWIND
+http://186.233.184.11:25461/newdeal/newdeal/591
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: NY BUFFALO WIVB
+http://186.233.184.11:25461/newdeal/newdeal/592
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: NY ROCHESTER WROC
+http://186.233.184.11:25461/newdeal/newdeal/594
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/silver%20screen.png",CA: SILVER SCREEN CLASSICS
+http://186.233.184.11:25461/newdeal/newdeal/595
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: NY SCHENECTADY WRGB
+http://186.233.184.11:25461/newdeal/newdeal/597
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/SLICE.png",CA: SLICE
+http://186.233.184.11:25461/newdeal/newdeal/599
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: NC GREENSBORO WFMY
+http://186.233.184.11:25461/newdeal/newdeal/601
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/SMITHONION.png",CA: SMITHSONIAN CHANNEL
+http://186.233.184.11:25461/newdeal/newdeal/603
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: NC CHARLOTTE WBTV
+http://186.233.184.11:25461/newdeal/newdeal/605
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/SUPER%20CHANNEL%20FUSE.png",CA: SUPER CHANNEL FUSE
+http://186.233.184.11:25461/newdeal/newdeal/607
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/KOTV_6_logo.png" group-title="CBS Locals",OK CBS KOTV (Tulsa)
+http://186.233.184.11:25461/newdeal/newdeal/609
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/SUPER%20CCHANNEL%20HART%20AND%20HOME.png",CA: SUPER CHANNEL HEART & HOME
+http://186.233.184.11:25461/newdeal/newdeal/611
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: OK OKLAHOMA CITY KWTV
+http://186.233.184.11:25461/newdeal/newdeal/612
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/super%20channel%20vault.png",CA: Super Channel Vault
+http://186.233.184.11:25461/newdeal/newdeal/614
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/supercran.png" group-title="French Canadian",CA: SUPER ECRAN 1
+http://186.233.184.11:25461/newdeal/newdeal/617
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://cdn11.bigcommerce.com/s-zg392ntjsl/product_images/uploaded_images/wkmg-orlando.png" group-title="CBS Locals",CBS: FL ORLANDO WKMG
+http://186.233.184.11:25461/newdeal/newdeal/619
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://igniteteentreatment.com/wp-content/uploads/2019/12/logo-cbs-8-news-now.png" group-title="CBS Locals",CBS: LAS VEGAS NV KLAS
+http://186.233.184.11:25461/newdeal/newdeal/623
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs-47-wjax.png" group-title="CBS Locals",CBS: FL JACKSONVILLE WJAX
+http://186.233.184.11:25461/newdeal/newdeal/625
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/supercran.png" group-title="French Canadian",CA: SUPER ECRAN 3
+http://186.233.184.11:25461/newdeal/newdeal/627
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="CBS Locals",CBS: PA PHILADELPHIA KYW
+http://186.233.184.11:25461/newdeal/newdeal/629
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/supercran.png" group-title="French Canadian",CA: SUPER ECRAN 4
+http://186.233.184.11:25461/newdeal/newdeal/630
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: AZ PHOENIX KPHO
+http://186.233.184.11:25461/newdeal/newdeal/633
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: PA PITTSBURGH KDKA
+http://186.233.184.11:25461/newdeal/newdeal/637
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: TX SAN ANTONIO KENS
+http://186.233.184.11:25461/newdeal/newdeal/639
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/series%20plus.png" group-title="French Canadian",CA: SERIES Plus
+http://186.233.184.11:25461/newdeal/newdeal/641
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: CA SAN DIEGO KFMB
+http://186.233.184.11:25461/newdeal/newdeal/643
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/4N3OBws.png" group-title="CBS Locals",CBS: CA SAN FRANCISCO KPIX
+http://186.233.184.11:25461/newdeal/newdeal/645
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/TELETOON.png" group-title="French Canadian",CA: TELETOON HD
+http://186.233.184.11:25461/newdeal/newdeal/646
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: WA SEATTLE KIRO
+http://186.233.184.11:25461/newdeal/newdeal/647
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/tlc.png",CA: TLC
+http://186.233.184.11:25461/newdeal/newdeal/648
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: MO ST. LOUIS KMOV
+http://186.233.184.11:25461/newdeal/newdeal/649
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/tln.png",CA: TLN
+http://186.233.184.11:25461/newdeal/newdeal/650
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://image.roku.com/developer_channels/prod/b669dd09045530ae29c7cf411786954c4f32be319c1e5703f632e76039d4af43.png" group-title="CBS Locals",CBS: TN NASHVILLE WTVF
+http://186.233.184.11:25461/newdeal/newdeal/651
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: DC WASHINGTON WUSA
+http://186.233.184.11:25461/newdeal/newdeal/652
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/travel%20escape.png",CA: TRAVEL ESCAPE
+http://186.233.184.11:25461/newdeal/newdeal/653
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: WI MILWAUKEE WDJT
+http://186.233.184.11:25461/newdeal/newdeal/654
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/TREE%20HOUSE.png",CA: TREEHOUSE
+http://186.233.184.11:25461/newdeal/newdeal/655
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://i.imgur.com/93kD8JF.png" group-title="CBS Locals",CBS: WI GREEN BAY WFRV
+http://186.233.184.11:25461/newdeal/newdeal/656
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/VISION%20TV.png",CA: VISION TV
+http://186.233.184.11:25461/newdeal/newdeal/662
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/W%20CHANNEL.png",CA: W NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/665
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/THE%20WEATHER%20NETWORK.png",CA: WEATHER NETWORK
+http://186.233.184.11:25461/newdeal/newdeal/667
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/wgn.png",CA: WGN
+http://186.233.184.11:25461/newdeal/newdeal/669
+#EXTINF:-1 group-title="CAN CHANNELS" tvg-logo="https://technetnetwork.com/logos/canada/wild%20tv.png",CA: Wild TV
+http://186.233.184.11:25461/newdeal/newdeal/670
 
 #EXTINF:-1 group-title="REAL GOOD TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/jxidzf.png",A&E
 http://174.44.3.13:8183/play/a_e.m3u8
@@ -3089,6 +3029,130 @@ http://181.233.124.38:80/BBrown384/564657344453/1769168.ts
 http://181.233.124.38:80/BBrown384/564657344453/1847433.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://5.44.253.151:80/images/d52256cbe4fb8680863d201da9a2e032.png",UK SKY SPORTS GOLF HD
 http://181.233.124.38:80/BBrown384/564657344453/391434.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skynews.jpg",Sky News UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3570
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skynews.jpg",Sky News HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/19039
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg",BT Sport 1 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14657
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg",BT Sport 1 HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/1991
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg",BT Sport 1 UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3586
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg",BT Sport 2 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14658
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg",BT Sport 2 HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/1992
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport2.jpg",BT Sport 2 UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3588
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",BT Sport 3 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14659
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",BT Sport 3 UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/1965
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport 4 UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/2673
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg",BT Sport 4 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/1980
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg",BT Sport Box Office FHD (Live During Events Only)
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/23754
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg",BT Sport Box Office HD
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/23755
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports NFL HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3598
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsnfluk.jpg",Sky Sports NFL UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14747
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg",Sky Sports Arena FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/16969
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg",Sky Sports Arena HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/16968
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/5600
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14753
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/5601
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14750
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/20024
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/16970
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3600
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14744
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/4458
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14742
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1 HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3603
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1.jpg",Sky Sports F1 UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14739
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14902
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmix.jpg",Sky Sports Mix UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14926
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg",Sky Sports News HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/1954
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/13091
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg",Eurosport 1 UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3590
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/13092
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg",Eurosport 2 UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3591
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/sportystufftvuk.jpg",Sporty Stuff TV UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/85577
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/viaplaysports1uk.jpg",Viaplay Sports 1 HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3584
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/rangerstvuk.jpg",Rangers TV (Live During Match Only) UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/16801
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/racinguk.jpg",Racing TV UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/3585
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/racinguk.jpg",Racing TV HD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/15019
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14651
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14652
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports NFL FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14653
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14654
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14655
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1 FHD UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14656
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg",SuperSport PSL HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28894
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28895
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28896
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-grandstand-za.jpg",SuperSport Grandstand HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28897
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-2-za.jpg",SuperSport Variety 2 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28898
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-1-za.jpg",SuperSport Variety 1 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28899
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-action-za.jpg",SuperSport Action HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28900
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg",SuperSport Football HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-4-za.jpg",SuperSport Variety 4 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28902
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-3-za.jpg",SuperSport Variety 3 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28903
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-rugby-za.jpg",SuperSport Rugby HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28904
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-cricket-za.jpg",SuperSport Cricket HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28905
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-blitz-za.jpg",SuperSport Blitz HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28906
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-maximo-1-za.jpg",SuperSport Maximo 1 HD ZA
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28907
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://server.solanaflix.com:8080/images/1f262f0319876c9cf1e459eb607e3340.png",SKY SPORTS NEWS FHD
 http://eirena.solanaflix.com:8080/play/M4NL-RaxNUryco6A6yXvTKfYGyuvj8W_O_co-4ldW_HO5Us2tgQrVekcirZkKeoy
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://server.solanaflix.com:8080/images/891a92ee8dd6674128e3eeabdc933919.png",SKY SPORTS F1 FHD
