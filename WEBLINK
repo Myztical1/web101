@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTINF:-1,#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
+#EXTM3U x-tvg-url="http://epg-4iptv.com:2086/xmltv.php?username=09876&password=09876&type=m3u_plus"
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
@@ -30,6 +32,8 @@ https://is.gd/RVYMSV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 http://iptv365.xyz:80/3160760056/5CD5B7DC/400200042
 
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.inewsguyana.com/wp-content/uploads/2016/01/NCN-logo.jpg,NCN GUYANA 
+http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://jamaicaonlinetv.com/wp-content/uploads/2021/05/Untitled-1.png",Jamaica Online TV (1080p)
 https://hls-cdn.tvstartup11.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tent.png",CAR| TEN TV HD
@@ -1251,6 +1255,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",HALLMARK CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:HALLMARK.smil/playlist.m3u8
+http://gtv01.airlinktt.co/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES & MYSTERIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png",HALLMARK DRAMA
@@ -2724,7 +2729,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COSMO.smil/playlist
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/TeenNick.us.png",TEENNICK US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:TEEN_NICK.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://image.roku.com/developer_channels/prod/6b2b50120c956877502ffa7f550c8cb3a57bf779f208270d08f9c6fad86933e7.png",HAPPY KIDS
-https://happykids-roku.amagi.tv/playlist.m3u8
+https://happykids-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/QNwbBzzC/Happy-Kids.png",HAPPY KIDS Jr
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png",Young Hollywood 
@@ -3204,6 +3209,12 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chun
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.rapidtvnews.com/images/2017/05/NHK_World_logo_-_9_May_2017.png",NHKWORLD 
+http://gtv01.airlinktt.co/live/smil:NHKWORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.pinimg.com/originals/87/a6/f7/87a6f7a17a1e9a95e4b28c3822568b48.png",DW_ENGLISH 
+http://gtv01.airlinktt.co/live/smil:DW_ENGLISH.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.pinimg.com/736x/64/0e/f4/640ef463a0bf7ed406639c4a3e7dc73c--knight-rider-amazing-friends.jpg,NBC 
+http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Quest_logo.png",QUEST
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
@@ -3834,66 +3845,6 @@ https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88454
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88455
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/440px-BT_Sport_logo_2019.svg.png",UK: BT Sport 4 FHD 50FPS
 https://stream.borisis.gay:8443/S2Az57Csr3rR/Q5a9pHbFrHHk/88456
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png",SS ACTION
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489562.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-blitz.png",SS BLITZ
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489556.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png",SS CRICKET
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489560.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",SS FOOTBALL
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489558.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-golf.png",SS GOLF
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489561.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png",SS GRANDSTAND
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489565.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTXteWZfiVmFCvR0Oncaf_KYuVT7dWbcjQNTHNMNTZP3tFtuqw3IF2EaB3MZQq2lK5g1KHPdxFO4_Qa2WXgZai84HG5fi6LC2YWVsj4MJ3HepW_r9SfSVg5i57KhfWqWNBuUnhtsVuYOp0lNpJBFC82MZbFepH9lZCbJm-vl5qo3W_HgJ0EmbRtsZr/s802/lig.png",SS LALIGA
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489563.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png",SS MOTORSPORT
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489566.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-play.png",SS PLAY
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489564.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",SS PREMIER LEAGUE
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489557.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.multichoice.com/media/1309/mc_logo-supersport_prep.png",SS PSL
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489567.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby.png",SS RUGBY
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489568.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-tennis-live.png",SS TENNIS
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489559.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png",SS VARIETY 1
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489552.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png",SS VARIETY 2
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489553.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-3.png",SS VARIETY 3
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489554.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png",SS VARIETY 4
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/489555.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO  | ARENA 2
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485573.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1491351944/6593.png",ASTRO  | BEIN SPORTS 1
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485570.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png",ASTRO  | BEIN SPORTS 2
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485571.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1491350506/6592.png",ASTRO  | BEIN SPORTS 3
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485572.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/320px-SPOTV_logo.svg.png",ASTRO  | SPOTV
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485574.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641921495-.png",ASTRO  | SPOTV 2
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485575.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SUPER SPORTS ARENA HD
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485563.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png",ASTRO SUPER SPORTS EUROSPORT HD
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485568.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SUPER SPORTS 1 HD
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485564.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SUPER SPORTS 2 HD
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485565.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SUPER SPORTS 3 HD
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485566.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SUPER SPORTS 4 HD
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485567.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SUPERSPORT 5
-http://23.227.140.78:8080/live/arty.haley@yahoo.com/hVShSpvitS/485569.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/accn.png",ACC NETWORK
 http://edge.bz:8080/123456789/987654321/192
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/altitudesports.png",ALTITUDE SPORTS
