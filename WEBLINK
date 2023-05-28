@@ -1225,6 +1225,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/pla
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",HBO MUNDI
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO PLUS
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:HBO_PLUS.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SkB7tj3L2nM91pWNEpNKMDXZyKlt5epyZg&usqp=CAU",HBO SIGNATURE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
@@ -3288,11 +3289,13 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",Willow Cricket
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
+http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/jamaica/11-SportsMax[1].jpg",SPORTSMAX 1
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ub4n3p1577888924.png",SPORTSMAX 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/playlist.m3u
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/a2bceb39_D0CF72b/posters/435a211b6a30f702b51ae3ab252b85dd/435a211b6a30f702b51ae3ab252b85dd.png",Pac-12 Insider
 https://pac12-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/33137bc3_D0CF72b/posters/fc0321cc3e94053d2a9ea6588631239a/fc0321cc3e94053d2a9ea6588631239a.jpg",World Poker Tour
