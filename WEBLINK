@@ -1,6 +1,6 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
-#EXTM3U x-tvg-url="http://epg-4iptv.com:2086/xmltv.php?username=09876&password=09876&type=m3u_plus"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz"
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
@@ -1393,6 +1393,230 @@ http://tv.nousiptv.com:8080/monicaferraz/518260/8137
 http://tv.nousiptv.com:8080/monicaferraz/518260/8133
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/44Nw86c/starz-encore.jpg",STARZ IN BLACK
 http://tv.nousiptv.com:8080/monicaferraz/518260/8126
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HBO.png",HBO
+http://tv.nousiptv.com:8080/monicaferraz/518260/8210
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png",HBO 2
+http://tv.nousiptv.com:8080/monicaferraz/518260/8222
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HBO-ZONE.png",HBO ZONE
+http://tv.nousiptv.com:8080/monicaferraz/518260/22381
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png",HBO FAMILY
+http://tv.nousiptv.com:8080/monicaferraz/518260/8216
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HBO-COMEDY.png",HBO COMEDY
+http://tv.nousiptv.com:8080/monicaferraz/518260/18769
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png",HBO SIGNATURE
+http://tv.nousiptv.com:8080/monicaferraz/518260/29345
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-I-SAT.png",I-SAT
+http://tv.nousiptv.com:8080/monicaferraz/518260/29342
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-mega-tv.png",MEGA TV
+http://tv.nousiptv.com:8080/monicaferraz/518260/45280
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-TNT.png",TNT
+http://tv.nousiptv.com:8080/monicaferraz/518260/18767
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-FOX.png",FOX
+http://tv.nousiptv.com:8080/monicaferraz/518260/29349
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HALLMARK-MOVIES-&-MISTERIES.png",HALLMARK DRAMA
+http://tv.nousiptv.com:8080/monicaferraz/518260/3781
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-HALLMARK-MOVIES-&-MISTERIES.png",HALLMARK MOVIES & MISTERIES
+http://tv.nousiptv.com:8080/monicaferraz/518260/3782
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-BRAVO.png",BRAVO HD
+http://tv.nousiptv.com:8080/monicaferraz/518260/1156215
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-BRAVO.png",BRAVO OP2
+http://tv.nousiptv.com:8080/monicaferraz/518260/49279
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-LIFETIME-MOVIES.png",LIFETIME MOVIES
+http://tv.nousiptv.com:8080/monicaferraz/518260/17175
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png",CINEMAX MOVIEMAX
+http://tv.nousiptv.com:8080/monicaferraz/518260/17417
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-FYI.png",FYI
+http://tv.nousiptv.com:8080/monicaferraz/518260/3771
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-USA-NETWORK.png",USA NETWORK
+http://tv.nousiptv.com:8080/monicaferraz/518260/3780
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-VICELAND.png",VICELAND
+http://tv.nousiptv.com:8080/monicaferraz/518260/3792
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-BET.png",BET
+http://tv.nousiptv.com:8080/monicaferraz/518260/17416
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-movieplex.png",MOVIEPLEX
+http://tv.nousiptv.com:8080/monicaferraz/518260/22374
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-SHOWCASE.png",SHOWCASE
+http://tv.nousiptv.com:8080/monicaferraz/518260/22380
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos2/-YES-TV.png",YES TV
+http://tv.nousiptv.com:8080/monicaferraz/518260/22382
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-TBS.png",TBS
+http://tv.nousiptv.com:8080/monicaferraz/518260/29353
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-CW-NETWORK.png",CW MIAMI
+http://tv.nousiptv.com:8080/monicaferraz/518260/38325
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png",HBO 2  DIRECTV
+http://198.27.117.10:8080/12345/54321/302342
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/649aebb8d36a1d92125c27816f2011b6.gif",American Horrors
+http://198.27.117.10:8080/12345/54321/302343
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/a97859b43af54752d0a699cb91d4ccce.jpg",SHOWTIME Showcase West
+http://198.27.117.10:8080/12345/54321/302344
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/dae9d223dbc233965540b31a930d01d9.gif",SHOWTIME Next West
+http://198.27.117.10:8080/12345/54321/302345
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/447eee2ede9bdb0f8ff75b0260a0af11.jpg",SHOWTIME Familyzone West
+http://198.27.117.10:8080/12345/54321/302346
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/be98350aac11c804f6a3a2a806003261.jpg",SHOWTIME Extreme West
+http://198.27.117.10:8080/12345/54321/302347
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/d2ad21dfb131192cce0fc5ec487d5a28.gif",Paramount Channel
+http://198.27.117.10:8080/12345/54321/302348
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/3e00099dba793bc9fbc0b786a3536e0e.jpg",Lifetime Movies
+http://198.27.117.10:8080/12345/54321/302349
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/93aa7abe7c9f6df8bf802dbb3b46974e.jpg",HALLMARK MM
+http://198.27.117.10:8080/12345/54321/302350
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/069427030859f3d2c8a401d3c2f33c4c.jpg",HALLMARK DRAMA
+http://198.27.117.10:8080/12345/54321/302351
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",HBO Zone East
+http://198.27.117.10:8080/12345/54321/302352
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/b3e591e103c4d3fa2b0f5c1bf9611135.png",HBO Signature East
+http://198.27.117.10:8080/12345/54321/302353
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png",HBO Family East
+http://198.27.117.10:8080/12345/54321/302354
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",HBO Comedy East
+http://198.27.117.10:8080/12345/54321/302355
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png",HBO 2 East
+http://198.27.117.10:8080/12345/54321/302356
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",HBO East
+http://198.27.117.10:8080/12345/54321/302357
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/65d503a27b51fbd249ceef1fb6d330a4.gif",OuterMax
+http://198.27.117.10:8080/12345/54321/302358
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/c1bfb59e55d04f9c51c505bed8a2577f.jpg",Action Max
+http://198.27.117.10:8080/12345/54321/302359
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/3a9bae1dcf3cb3684af610ce0a2a0f55.jpg",Moremax
+http://198.27.117.10:8080/12345/54321/302360
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif",Cinemax
+http://198.27.117.10:8080/12345/54321/302361
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/60c8905674ce9a2822d3c70f2d977da2.jpg",Epix 2
+http://198.27.117.10:8080/12345/54321/302362
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/c40779e89529f9801807185c7279f939.jpg",Epix Hits
+http://198.27.117.10:8080/12345/54321/302363
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/dae9d223dbc233965540b31a930d01d9.gif",Showtime Next East
+http://198.27.117.10:8080/12345/54321/302364
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/fa112410432377168a405897d9940d58.gif",Showtime Women East
+http://198.27.117.10:8080/12345/54321/302365
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/c2ccec15b02588c1cfd511dc87e390f3.jpg",Fubo Movies
+http://198.27.117.10:8080/12345/54321/302366
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/b8782e6335f2078c3f7d8f70903c0a2a.jpg",STARZ Encore Classic West
+http://198.27.117.10:8080/12345/54321/302367
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/e9574d04db57396b95b1257ae8d71083.gif",STARZ Encore Family West
+http://198.27.117.10:8080/12345/54321/302368
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/bdf4459d6023875bcc21b6dd82d8261e.gif",STARZ Encore Suspense West
+http://198.27.117.10:8080/12345/54321/302369
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/d9e44966e779fc3912367b2b5a5e188e.gif",STARZ Encore Westerns West
+http://198.27.117.10:8080/12345/54321/302370
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/f7d2c6781681c534d8ee3c02a7b03db6.gif",STARZ in Black West
+http://198.27.117.10:8080/12345/54321/302371
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/e06b56a57189cf73d82a1dfc70d1bd8e.gif",Starz Kids & Family
+http://198.27.117.10:8080/12345/54321/302372
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/2069b17df0a3ad6902ee27ee67d9fc20.jpg",TCM
+http://198.27.117.10:8080/12345/54321/302373
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/65d503a27b51fbd249ceef1fb6d330a4.gif",OUTERMAX (US)
+http://198.27.117.10:8080/12345/54321/302374
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/68bfaa86b3e65b84d0083127c1ec7858.gif",CINEMAX THRILLERMAX (US)
+http://198.27.117.10:8080/12345/54321/302375
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",HBO (EST) HD (US)
+http://198.27.117.10:8080/12345/54321/302376
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",HBO EAST (US)
+http://198.27.117.10:8080/12345/54321/302377
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/efb429f49591f00a44ea4e14e93d56a0.png",SKYUS:HBO PLUS (US)
+http://198.27.117.10:8080/12345/54321/302378
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/b3e591e103c4d3fa2b0f5c1bf9611135.png",HBO SIGNATURE (US)
+http://198.27.117.10:8080/12345/54321/302379
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",SKYUS:HBO WEST (US)
+http://198.27.117.10:8080/12345/54321/302380
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",HBO ZONE (US)
+http://198.27.117.10:8080/12345/54321/302381
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/d2ad21dfb131192cce0fc5ec487d5a28.gif",PARAMOUNT CHANNEL (US)
+http://198.27.117.10:8080/12345/54321/302382
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/c3f99740cc055ff74469729a33e59bb8.gif",SHOWTIME BEYOND (US)
+http://198.27.117.10:8080/12345/54321/302383
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/62a42b80c1b90a3e2f3b763c5dbb4eeb.gif",SHOWTIME
+http://198.27.117.10:8080/12345/54321/302384
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/68c7385421afbc8f46e39c1d70db33da.gif",STARZ COMEDY (US)
+http://198.27.117.10:8080/12345/54321/302385
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/1e82b74d0a16fb54cf7aeab2e9b4458f.gif",SKYUS:STARMAX (US)
+http://198.27.117.10:8080/12345/54321/302386
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/690a5a52dec350cc72069e56d843e5c8.gif",SKYUS:STARZ EDGE HD (US)
+http://198.27.117.10:8080/12345/54321/302387
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/335111bd776d4d6072b51333d3f809c0.gif",CINEMAX EAST (US)
+http://198.27.117.10:8080/12345/54321/302388
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/c295cbb8ddadfb3a02a30b001a995b45.gif",SKYUS:MOREMAX (US)
+http://198.27.117.10:8080/12345/54321/302389
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/9e100ca369e0c731d1912b9736906e9d.gif",ACTIONMAX (US)
+http://198.27.117.10:8080/12345/54321/302390
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/65d503a27b51fbd249ceef1fb6d330a4.gif",OUTERMAX (US)
+http://198.27.117.10:8080/12345/54321/302391
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/0d1f27ecfb026523c776b198068ba995.gif",AMC PRESENTS HD
+http://198.27.117.10:8080/12345/54321/302392
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/766a3cb5d7bdf717b0fa47daebebf422.gif",MOVIE 5 STARMAX HD
+http://198.27.117.10:8080/12345/54321/302393
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",MOVIE HBO HD
+http://198.27.117.10:8080/12345/54321/302394
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png",MOVIE HBO ZONE HD
+http://198.27.117.10:8080/12345/54321/302395
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/7a2e0c19465552f0d82cd38a6cffa9b5.gif",STARZ HD
+http://198.27.117.10:8080/12345/54321/302396
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/982fbd74fcc368ed5dcfd59b324bb669.gif",MOVIE STARZ ENCORE WEST HD
+http://198.27.117.10:8080/12345/54321/302397
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/e06b56a57189cf73d82a1dfc70d1bd8e.gif",MOVIE STARZ KIDS & FAMILY HD
+http://198.27.117.10:8080/12345/54321/302398
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/bdf4459d6023875bcc21b6dd82d8261e.gif",MOVIE STARZ ENCORE SUSPENSE HD
+http://198.27.117.10:8080/12345/54321/302399
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/e9574d04db57396b95b1257ae8d71083.gif",MOVIE STARZ ENCORE FAMILY HD
+http://198.27.117.10:8080/12345/54321/302400
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/1c0100515b5e1ea3bdf9077610b3764c.gif",MOVIE STARZ ENCORE BLACK HD
+http://198.27.117.10:8080/12345/54321/302401
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://go-nextlevel.xyz:25461/images/5aa188c50c31bbedcd42103a9ddcf10e.png",MOVIE STARZ COMEDY HD
+http://198.27.117.10:8080/12345/54321/302402
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/e1174d949a5f06b12eb624c1f3b75828.gif",MOVIE STARZ CINEMA WEST HD
+http://198.27.117.10:8080/12345/54321/302403
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/e1174d949a5f06b12eb624c1f3b75828.gif",MOVIE STARZ CINEMA HD
+http://198.27.117.10:8080/12345/54321/302404
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/eea06bb8d3c67f18ec19e4f9732a373e.gif",MOVIE SHOWTIME WEST HD
+http://198.27.117.10:8080/12345/54321/302405
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/65d503a27b51fbd249ceef1fb6d330a4.gif",MOVIE OUTEMAX HD
+http://198.27.117.10:8080/12345/54321/302406
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/241bb1ec3153facf6d646da34b7220f7.gif",MOVIE MOVIEMAX HD
+http://198.27.117.10:8080/12345/54321/302407
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/9450c699a21683518bf22214ada366a8.gif",MOVIE INDIEPLEX HD
+http://198.27.117.10:8080/12345/54321/302408
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/b3e591e103c4d3fa2b0f5c1bf9611135.png",MOVIE HBO SIGNATURE HD
+http://198.27.117.10:8080/12345/54321/302409
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png",MOVIE HBO 2 WEST HD
+http://198.27.117.10:8080/12345/54321/302410
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png",MOVIE HBO 2 HD
+http://198.27.117.10:8080/12345/54321/302411
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://iptvglobal.site:25461/images/efb429f49591f00a44ea4e14e93d56a0.png",MOVIE HBO PLUS WEST HD
+http://198.27.117.10:8080/12345/54321/302412
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/335111bd776d4d6072b51333d3f809c0.gif",MOVIE CINEMAX EAST HD
+http://198.27.117.10:8080/12345/54321/302413
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/095c0c79f725baa932846cedb479a745.gif",Cinemax MoreMax West
+http://198.27.117.10:8080/12345/54321/302422
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/68bfaa86b3e65b84d0083127c1ec7858.gif",Cinemax ThrillerMax West
+http://198.27.117.10:8080/12345/54321/302423
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/df3c519d8ace1b2035afa8522f9daa5a.gif",CINEMAX MOVIEMAX East
+http://198.27.117.10:8080/12345/54321/302424
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/d8d471be5e0439416d54b70299456635.gif",CINEMAX OUTER MAX
+http://198.27.117.10:8080/12345/54321/302425
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/68bfaa86b3e65b84d0083127c1ec7858.gif",CINEMAX THRILLERMAX East
+http://198.27.117.10:8080/12345/54321/302426
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/095c0c79f725baa932846cedb479a745.gif",CINEMAX MOREMAX East
+http://198.27.117.10:8080/12345/54321/302427
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b9c21867f7373b3e5ea769fde86cad95.gif",EPIX
+http://198.27.117.10:8080/12345/54321/302428
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 2
+http://198.27.117.10:8080/12345/54321/302414
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 3
+http://198.27.117.10:8080/12345/54321/302415
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 4
+http://198.27.117.10:8080/12345/54321/302416
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 6
+http://198.27.117.10:8080/12345/54321/302417
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 9
+http://198.27.117.10:8080/12345/54321/302418
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 18
+http://198.27.117.10:8080/12345/54321/302419
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 19
+http://198.27.117.10:8080/12345/54321/302420
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",CINEMA PPVV 20
+http://198.27.117.10:8080/12345/54321/302421
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",USA A&E UHD
 http://181.233.124.38:80/Roberta1/Roberta2/175784
