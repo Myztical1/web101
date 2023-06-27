@@ -4081,6 +4081,109 @@ http://edge.bz:8080/51227/51227/52043
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/supersport.png",SUPERSPORT TENNIS
 http://edge.bz:8080/51227/51227/52044
 
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PREMIER SPORTS UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6555/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EUROSPORT 2 HD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6556/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT ESPN FHD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6563/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT 3 FHD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6564/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT 2 FHD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT 1 FHD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Eleven Sports 3 PT
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7062/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Eleven Sports 6 PT
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7064/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS 1 US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7322/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS 2 US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",CBS SPORTS NETWORK US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7324/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBC SPORTS NETWORK US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7327/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NHL NETWORK US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7328/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS PREMIER LEAGUE UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS FOOTBALL UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7336/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MAIN EVENT UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7337/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ARENA UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7338/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MIX UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7339/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sky Sports Action HD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7340/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS RACING UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7341/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS F1 UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7342/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS CRICKET UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7343/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS GOLF UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7344/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sky Sports Action FHD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7345/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MUTV UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/10078/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EUROSPORT 1 HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12047/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EUROSPORT 2 HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12048/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT EXTRA HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12074/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12075/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT FOOTBAL HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12076/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT GOLF HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12077/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",V Sport Vinter HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12078/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT PREMIUM HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fox Sports South
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19138/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS ARIZONA HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19139/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS FLORIDA HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19140/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS HOUSTON HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19141/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS PRIME TICKET HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19142/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS SOUTHWEST PLUS HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19143/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS SPORTSTIME OHIO HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19144/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS SUN HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19145/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS OKLAHOMA HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19146/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX NEWS CHANNEL FHD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19147/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bally Sports Great Lakes
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19149/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BALLY SPORTS SUN
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19150/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BALLY SPORTS SOUTHEAST CAROLINAS
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19151/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BALLY SPORTS NORTH
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19152/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bally SPORTS MIDWEST
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19153/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Espn News HD USA
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19154/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ESPN 2 HD USA
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19155/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ESPN USA
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19156/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Alternative
 http://ky-iptv.com:80/live/BBrown384/564657344453/177087.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Dance/ EDM
