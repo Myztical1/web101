@@ -2703,18 +2703,20 @@ https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://ae01.alicdn.com/kf/HTB15PBtSVXXXXXOXXXXq6xXFXXXX/Cloud-Sunset-Wild-West-Dallas-Cowboys-Scene-Theme-Party-backdrop-Vinyl-cloth-High-quality-Computer-printed.jpg_640x640.jpg",Now WILD WEST
 https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-id="stirr-westerns.us" tvg-chno="205" tvg-logo="https://i.imgur.com/ZRZw2vZ.png",HLS STIRR Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg",Westerns TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/65/USBA300005MK_20220621T075928.png",Pluto TV Westerns
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f33318210549000806a530/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBB32000196O_20220712T041415.png",FilmRise Western
-https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_filmrisewestern_001.m3u8?ads.caid=FilmriseWesterns&ads.csid=samsungtvplus_us_filmrisewesterns_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9999541&ads.xumo_imdb_genre=Western&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
 http://fortv.cc:8080/live/jonathan/jonathan/119435.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",24/7 CALA WESTERN
 http://173.225.246.25:8889/udp/239.203.20.13:4003
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
+http://hardcoremedia.xyz:80/asxxibud/7733204294/192
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
+http://hardcoremedia.xyz:80/asxxibud/7733204294/227
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-western-logo.jpg",PinkWestern
+http://hardcoremedia.xyz:80/asxxibud/7733204294/14432
 
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png",Flicks of Fury
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2735,6 +2737,76 @@ http://181.233.124.38:80/BBrown384/564657344453/1862574.ts
 http://181.233.124.38:80/BBrown384/564657344453/1862575.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 5
 http://181.233.124.38:80/BBrown384/564657344453/1862535.ts
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/se63syAbUJEhxYiT94todb3tGYL.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293656.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgveqayMFUIZbFqN87ghiKmmxt3.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293657.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SDWSo51faiK7wKz1EK9asfGzxv.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293658.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsfGHWbyJiScLpaVI3Od6sKVSPm.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293659.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp1qOZJThAGHfrB4uOlmg0JsPvO.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293660.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Lj3o0q1vOeZDw59sxLbkHUjhhv.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293661.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGMISnGy4HdTLRtHw42RnJ6dTM8.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293662.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oNDSCwBCg6Y4k3ioZBx93ylvl2.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293663.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57kngzlMiKkn6yg5lDfcxNmcYF4.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293664.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcrItP1ICY8jLOwDjduXWWoA7sQ.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293665.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i6bhYbxe2g02e3GhljtktuyDMj.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293666.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpXgo4SztT8ySEOP00QrpXk88U0.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293667.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1C49MPtKZ8fZXtzwSj4Ha0eEEjl.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293668.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/613Xlbq6fHoS3b7uJqXvDxq66XE.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293669.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QmEa8N0eIJg3KtWzwZABef9fHb.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293670.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTZvlQhP1wQrlPWLjsa6LDZFWWN.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293671.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwMTpqm2GcjudUE256LulKshX6v.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293672.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grukSdgBClzpnbi4hOycrAd1pTj.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293673.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCAiIBRYcxsqAIxMG7J42ZZ6C37.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293674.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lme6eIZ12ar3fsOodNCUuVul9cq.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293675.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gXphwegja8ccflsDaFqcf6g587.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293676.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBwNSSakV97sjm6ejy7XYRK4Xyy.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293677.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUHLbk9cjLCZEvLTbzJ1IMLHLFg.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293678.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylJCiBhBiWwXOGLefFmSd7NkfKn.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293679.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uk1r6yciqXDoynFvxu7ka17qAuu.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293680.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z446TqbbOb7emtN1S8iOrwTHz7Y.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293681.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9TP3vRaN5PQQHUs1JVwsIMWeNH.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293682.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqUBrSBtPYLvCtfqHF5sapU6Div.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293683.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKk4Tkys5Dhl0jbE3K7bklcOxWY.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293684.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1PMgaEetjurCloTizcsREggBYM.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293685.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDJ1gtxRP4IAnROj6ahCke83MCR.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293686.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx096h9NXZvRYSVcsaeIFbDA0jF.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293687.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyRKKD4kESbGcbuw6KrICpxlcFU.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293688.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTrU2SP1BCtt2RGeojA8torrPAM.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293689.mp4
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vJi1xPMlC4qb41h08kvKZQXyFj.jpg",Kung Fu Collection
+http://paddygadget1.org:8080/movie/Eric/kamqhcer/1293690.mp4
 
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ANIMATION
 http://fortv.cc:8080/live/jonathan/jonathan/119420.m3u8
