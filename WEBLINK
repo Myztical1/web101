@@ -4174,6 +4174,372 @@ http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19154/index.m3u8
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19155/index.m3u8
 #EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ESPN USA
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19156/index.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PTV SPORTS
+http://alphabetagama.myddns.me/sports2021/ptvsports/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PTV SPORTS HD
+http://alphabetagama.myddns.me/sports2021/ptvsportssd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",GEO SUPER
+http://alphabetagama.myddns.me/sports2021/geosuper/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TEN SPORTS PAKISTANI
+http://alphabetagama.myddns.me/sports2021/tensportspk/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 1 HD
+http://alphabetagama.myddns.me/sports2021/ten1hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 1
+http://alphabetagama.myddns.me/sports2021/ten1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 2 HD
+http://alphabetagama.myddns.me/sports2021/ten2hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 2
+http://alphabetagama.myddns.me/sports2021/ten2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 3 HD
+http://alphabetagama.myddns.me/sports2021/ten3hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 3
+http://alphabetagama.myddns.me/sports2021/ten3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS FIRST
+http://alphabetagama.myddns.me/sports2021/starspfirst/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS SELECT 1
+http://alphabetagama.myddns.me/sports2021/starspselect1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS SELECT 2
+http://alphabetagama.myddns.me/sports2021/starspselect2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 SD
+http://alphabetagama.myddns.me/sports2021/starsports1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 HD
+http://alphabetagama.myddns.me/sports2021/starsphd1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 2 SD
+http://alphabetagama.myddns.me/sports2021/starsports2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 2 HD
+http://alphabetagama.myddns.me/sports2021/starsphd2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 HINDI
+http://alphabetagama.myddns.me/sports2021/starsports1hindi/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 HINDI HD
+http://alphabetagama.myddns.me/sports2021/starsphd1hindi/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS TAMIL
+http://alphabetagama.myddns.me/sports2021/starsports3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY SIX
+http://alphabetagama.myddns.me/sports2021/sonysix/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY SIX HD
+http://alphabetagama.myddns.me/sports2021/sonysixhd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",WILLOW CRICKET
+http://alphabetagama.myddns.me/sports2021/willowhd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PREMIER SPORTS
+http://alphabetagama.myddns.me/sports2021/premire/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS NEWS
+http://alphabetagama.myddns.me/sports2021/skyspnews/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MAIN EVENT
+http://alphabetagama.myddns.me/sports2021/skymaineventsd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MAIN EVENT HD
+http://alphabetagama.myddns.me/sports2021/skymainevent/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ACTION
+http://alphabetagama.myddns.me/sports2021/skyactionsd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ACTION HD
+http://alphabetagama.myddns.me/sports2021/skyaction/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS GOLF
+http://alphabetagama.myddns.me/sports2021/skygolfsd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS GOLF HD
+http://alphabetagama.myddns.me/sports2021/skygolf/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS LEAGUE
+http://alphabetagama.myddns.me/sports2021/skyleaguesd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS LEAGUE HD
+http://alphabetagama.myddns.me/sports2021/skypleague/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ARENA
+http://alphabetagama.myddns.me/sports2021/skyarenasd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ARENA HD
+http://alphabetagama.myddns.me/sports2021/skyarena/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS FOOTBALL
+http://alphabetagama.myddns.me/sports2021/skyfootballsd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS FOOTBALL HD
+http://alphabetagama.myddns.me/sports2021/skyfootball/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS F1
+http://alphabetagama.myddns.me/sports2021/skyf1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY MIX
+http://alphabetagama.myddns.me/sports2021/skymix/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 1
+http://alphabetagama.myddns.me/sports2021/bt1sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 1 HD
+http://alphabetagama.myddns.me/sports2021/bt1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 2
+http://alphabetagama.myddns.me/sports2021/bt2sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 2 HD
+http://alphabetagama.myddns.me/sports2021/bt2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 3
+http://alphabetagama.myddns.me/sports2021/bt3sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 3 HD
+http://alphabetagama.myddns.me/sports2021/bt3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY NEWS
+http://alphabetagama.myddns.me/sports2021/skynews/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ESPN
+http://alphabetagama.myddns.me/sports2021/espn1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY ESPN
+http://alphabetagama.myddns.me/sports2021/sonyespn/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY ESPN HD
+http://alphabetagama.myddns.me/sports2021/sonyespnhd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 1 SD
+http://alphabetagama.myddns.me/sports2021/euro1sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 1 HD
+http://alphabetagama.myddns.me/sports2021/eurosp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 2 SD
+http://alphabetagama.myddns.me/sports2021/euro2sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 2 HD
+http://alphabetagama.myddns.me/sports2021/eurosp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BOX NATION
+http://alphabetagama.myddns.me/sports2021/boxnation/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SETANTA
+http://alphabetagama.myddns.me/sports2021/setantasp/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",UK RACING
+http://alphabetagama.myddns.me/sports2021/ukracing/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AT THE RACES
+http://alphabetagama.myddns.me/sports2021/attheraces/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",WWE NETWORK
+http://alphabetagama.myddns.me/sports2021/wwehd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Dubai Sports
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MUTV
+http://alphabetagama.myddns.me/sports2021/mutv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",REAL MADRID
+http://alphabetagama.myddns.me/sports2021/realmadrid/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",LFC TV
+http://alphabetagama.myddns.me/sports2021/lfctv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN USA
+http://alphabetagama.myddns.me/sports2021/beinusa/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN SPORTS NEWS
+http://alphabetagama.myddns.me/sports2021/beinsportsnews/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 1 SD
+http://alphabetagama.myddns.me/sports2021/bein1sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 1 HD
+http://alphabetagama.myddns.me/sports2021/bein1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 2 SD
+http://alphabetagama.myddns.me/sports2021/bein2sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 2 HD
+http://alphabetagama.myddns.me/sports2021/bein2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 3 SD
+http://alphabetagama.myddns.me/sports2021/bein3sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 3 HD
+http://alphabetagama.myddns.me/sports2021/bein3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 4 SD
+http://alphabetagama.myddns.me/sports2021/bein4sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 4 HD
+http://alphabetagama.myddns.me/sports2021/bein4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 5 SD
+http://alphabetagama.myddns.me/sports2021/bein5sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 5 HD
+http://alphabetagama.myddns.me/sports2021/bein5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 6 SD
+http://alphabetagama.myddns.me/sports2021/bein6sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 6 HD
+http://alphabetagama.myddns.me/sports2021/bein6/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 7 SD
+http://alphabetagama.myddns.me/sports2021/bein7sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 7 HD
+http://alphabetagama.myddns.me/sports2021/bein7/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 8 SD
+http://alphabetagama.myddns.me/sports2021/bein8sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 8 HD
+http://alphabetagama.myddns.me/sports2021/bein8/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 9 SD
+http://alphabetagama.myddns.me/sports2021/bein9sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 9 HD
+http://alphabetagama.myddns.me/sports2021/bein9/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 10 SD
+http://alphabetagama.myddns.me/sports2021/bein10sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 10 HD
+http://alphabetagama.myddns.me/sports2021/bein10/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 11 SD
+http://alphabetagama.myddns.me/sports2021/bein11sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 11 HD
+http://alphabetagama.myddns.me/sports2021/bein11/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 12 SD
+http://alphabetagama.myddns.me/sports2021/bein12sd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 12 HD
+http://alphabetagama.myddns.me/sports2021/bein12/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 13
+http://alphabetagama.myddns.me/sports2021/bein13/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Chelsea TV
+http://alphabetagama.myddns.me/sports2021/chelseatv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 1
+http://alphabetagama.myddns.me/sports2021/arenasp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 2
+http://alphabetagama.myddns.me/sports2021/arenasp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 3
+http://alphabetagama.myddns.me/sports2021/arenasp3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 4
+http://alphabetagama.myddns.me/sports2021/arenasp4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 5
+http://alphabetagama.myddns.me/sports2021/arenasp5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 1 USA
+http://alphabetagama.myddns.me/sports2021/foxsp1usa/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 2 USA
+http://alphabetagama.myddns.me/sports2021/foxsp2usa/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 1 NL
+http://alphabetagama.myddns.me/sports2021/foxsp1nl/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 2 NL
+http://alphabetagama.myddns.me/sports2021/foxsp2nl/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 3 NL
+http://alphabetagama.myddns.me/sports2021/foxsp3nl/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 4 NL
+http://alphabetagama.myddns.me/sports2021/foxsp4nl/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 5 NL
+http://alphabetagama.myddns.me/sports2021/foxsp5nl/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 1
+http://alphabetagama.myddns.me/sports2021/tsn1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 2
+http://alphabetagama.myddns.me/sports2021/tsn2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 3
+http://alphabetagama.myddns.me/sporst2109/tsn3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 4
+http://alphabetagama.myddns.me/sports2021/tsn4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 5
+http://alphabetagama.myddns.me/sports2021/tsn5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET WOLRD
+http://alphabetagama.myddns.me/sports2021/sportnetworld/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET ONTARIO
+http://alphabetagama.myddns.me/sports2021/sportnetontario/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET ONE
+http://alphabetagama.myddns.me/sports2021/sportnetone/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET 360
+http://alphabetagama.myddns.me/sports2021/sportnet360/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 1
+http://alphabetagama.myddns.me/sports2021/abudhabisport1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 2
+http://alphabetagama.myddns.me/sports2021/abudhabisport2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 3
+http://alphabetagama.myddns.me/sports2021/abudhabisport3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 4
+http://alphabetagama.myddns.me/sports2021/abudhabisport4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN FRANCE 1
+http://alphabetagama.myddns.me/sports2021/bein1fr/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN FRANCE 2
+http://alphabetagama.myddns.me/sports2021/bein2fr/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN FRANCE 3
+http://alphabetagama.myddns.me/sports2021/bein3fr/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT FOOTBALL HD
+http://alphabetagama.myddns.me/sports2021/viasatfootball/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBA TV
+http://alphabetagama.myddns.me/sports2021/nbatv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBC SN
+http://alphabetagama.myddns.me/sports2021/nbcsn/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NFL NETWORK
+http://alphabetagama.myddns.me/sports2021/nflnetwork/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OSN CRICKET
+http://alphabetagama.myddns.me/sports2021/osncric/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 1
+http://alphabetagama.myddns.me/sports2021/alkass1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 2
+http://alphabetagama.myddns.me/sports2021/alkass2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 4
+http://alphabetagama.myddns.me/sports2021/alkass4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 5
+http://alphabetagama.myddns.me/sports2021/alkass5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 1
+http://alphabetagama.myddns.me/sports2021/sportstv1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 2
+http://alphabetagama.myddns.me/sports2021/sportstv2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 3
+http://alphabetagama.myddns.me/sports2021/sportstv3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 4
+http://alphabetagama.myddns.me/sports2021/sportstv4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 5
+http://alphabetagama.myddns.me/sports2021/sportstv5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BENFICA TV
+http://alphabetagama.myddns.me/sports2021/benficatv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OSN SPORTS 1
+http://alphabetagama.myddns.me/sports2021/osnsp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OSN SPORTS 2
+http://alphabetagama.myddns.me/sports2021/osnsp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORT KLUB 1
+http://alphabetagama.myddns.me/sports2021/spklub1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORT KLUB 2
+http://alphabetagama.myddns.me/sports2021/spklub2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORT KLUB 3
+http://alphabetagama.myddns.me/sports2021/spklub3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SP 1 ITALY
+http://alphabetagama.myddns.me/sports2021/skyspitaly/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SP 1 DE
+http://alphabetagama.myddns.me/sports2021/skysp1de/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SP 2 DE
+http://alphabetagama.myddns.me/sports2021/skysp2de/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKYNET HD
+http://alphabetagama.myddns.me/sports2021/skynetsp/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 1
+http://alphabetagama.myddns.me/sports2021/ss1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 2
+http://alphabetagama.myddns.me/sports2021/ss2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 3
+http://alphabetagama.myddns.me/sports2021/ss3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 4
+http://alphabetagama.myddns.me/sports2021/ss4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ZIGGO SPORTS SELECT
+http://alphabetagama.myddns.me/sports2021/ziggoselect/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EIR SPORTS 1
+http://alphabetagama.myddns.me/sports2021/eirsp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EIR SPORTS 2
+http://alphabetagama.myddns.me/sports2021/eirsp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 1
+http://alphabetagama.myddns.me/sports2021/digisp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 2
+http://alphabetagama.myddns.me/sports2021/digisp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 3
+http://alphabetagama.myddns.me/sports2021/digisp3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 4
+http://alphabetagama.myddns.me/sports2021/digisp4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FIGHTBOX
+http://alphabetagama.myddns.me/sports2021/fightbox/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",D SPORTS
+http://alphabetagama.myddns.me/sports2021/dsports/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SFR SPORTS 1
+http://alphabetagama.myddns.me/sports2021/sfrsp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SFR SPORTS 2
+http://alphabetagama.myddns.me/sports2021/sfrsp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SFR SPORTS 3
+http://alphabetagama.myddns.me/sports2021/sfrsp3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FREE SPORTS
+http://alphabetagama.myddns.me/sports2021/freesports/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY BOX OFFICE
+http://alphabetagama.myddns.me/sports2021/skyboxoffice/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT ESPN
+http://alphabetagama.myddns.me/sports2021/btespn/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 1
+http://alphabetagama.myddns.me/sports2021/otesp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 2
+http://alphabetagama.myddns.me/sports2021/otesp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 3
+http://alphabetagama.myddns.me/sports2021/otesp3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 4
+http://alphabetagama.myddns.me/sports2021/otesp4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 5
+http://alphabetagama.myddns.me/sports2021/otesp5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 6
+http://alphabetagama.myddns.me/sports2021/otesp6/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 7
+http://alphabetagama.myddns.me/sports2021/otesp7/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 8
+http://alphabetagama.myddns.me/sports2021/otesp8/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 1
+http://alphabetagama.myddns.me/sports2021/beoutq1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 2
+http://alphabetagama.myddns.me/sports2021/beoutq2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 3
+http://alphabetagama.myddns.me/sports2021/beoutq3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 4
+http://alphabetagama.myddns.me/sports2021/beoutq4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 5
+http://alphabetagama.myddns.me/sports2021/beoutq5/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 6
+http://alphabetagama.myddns.me/sports2021/beoutq6/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 7
+http://alphabetagama.myddns.me/sports2021/beoutq7/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ASTRO CRICKET
+http://alphabetagama.myddns.me/sports2021/astrocricket/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",KSA SPORTS 1
+http://alphabetagama.myddns.me/sports2021/saudisports1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",KSA SPORTS 2
+http://alphabetagama.myddns.me/sports2021/saudisports2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",UFC FIGHT
+http://alphabetagama.myddns.me/sports2021/ufcfight/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTS MAX
+http://alphabetagama.myddns.me/sports2021/sportsmax/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTS MAX2
+http://alphabetagama.myddns.me/sports2021/sportsmax2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTS MAX CRICKET
+http://alphabetagama.myddns.me/sports2021/sportsmaxcric/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Alternative
 http://ky-iptv.com:80/live/BBrown384/564657344453/177087.ts
