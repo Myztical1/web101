@@ -569,7 +569,6 @@ http://tvstarlife.com:25461/live/jason/123456/610.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="http://tvstarlife.com:25461/images/c97854da5e774632baa8fb1af553b481.png",VIDEO ROLA
 http://tvstarlife.com:25461/live/jason/123456/612.m3u8
 
-
 #EXTINF:-1 group-title="Brazil" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png",A&E FHD
 http://ucsxiptv.com:8080/i4stream/teleg7985789095432354gsdiekv/1
 #EXTINF:-1 group-title="Brazil" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png",A&E HD
@@ -2840,119 +2839,119 @@ http://fortv.cc:8080/live/jonathan/jonathan/119436.m3u8
 http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTION MOVIES
 http://62.182.86.121:80/live/Cal/Cal/764511.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: AL PACINO
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: AL PACINO
 http://62.182.86.121:80/live/Cal/Cal/764512.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: ANDY SERKIS
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ANDY SERKIS
 http://62.182.86.121:80/live/Cal/Cal/764513.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: ANTHONY HOPKINS
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ANTHONY HOPKINS
 http://62.182.86.121:80/live/Cal/Cal/764514.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: ANTHONY MARKIE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ANTHONY MARKIE
 http://62.182.86.121:80/live/Cal/Cal/764515.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: ARNOLD SCHWARZENEGGER
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ARNOLD SCHWARZENEGGER
 http://62.182.86.121:80/live/Cal/Cal/764516.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: BENEDICT CUMBERBATCH
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BENEDICT CUMBERBATCH
 http://62.182.86.121:80/live/Cal/Cal/764517.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: BRAD PITT
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRAD PITT
 http://62.182.86.121:80/live/Cal/Cal/764518.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: BRADLEY COOPER
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRADLEY COOPER
 http://62.182.86.121:80/live/Cal/Cal/764519.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: BRENDAN FRASER
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRENDAN FRASER
 http://62.182.86.121:80/live/Cal/Cal/764520.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: BRUCE LEE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRUCE LEE
 http://62.182.86.121:80/live/Cal/Cal/764521.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: BRUCE WILLIS
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRUCE WILLIS
 http://62.182.86.121:80/live/Cal/Cal/764522.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: CHRIS EVANS
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRIS EVANS
 http://62.182.86.121:80/live/Cal/Cal/764523.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: CHRIS HEMSWORTH
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRIS HEMSWORTH
 http://62.182.86.121:80/live/Cal/Cal/764524.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: CHRIS PINE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRIS PINE
 http://62.182.86.121:80/live/Cal/Cal/764525.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: CHRISTIAN BALE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRISTIAN BALE
 http://62.182.86.121:80/live/Cal/Cal/764526.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: CHRISTOPHER WALKEN
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRISTOPHER WALKEN
 http://62.182.86.121:80/live/Cal/Cal/764527.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: CLINT EASTWOOD
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CLINT EASTWOOD
 http://62.182.86.121:80/live/Cal/Cal/764528.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: COLIN FIRTH
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: COLIN FIRTH
 http://62.182.86.121:80/live/Cal/Cal/764529.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: DANIEL DAY LEWIS
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DANIEL DAY LEWIS
 http://62.182.86.121:80/live/Cal/Cal/764530.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: DANIEL RADCLIFFE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DANIEL RADCLIFFE
 http://62.182.86.121:80/live/Cal/Cal/764531.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: DENZEL WASHINGTON
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DENZEL WASHINGTON
 http://62.182.86.121:80/live/Cal/Cal/764532.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: DWAYNE JOHNSON
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DWAYNE JOHNSON
 http://62.182.86.121:80/live/Cal/Cal/764533.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: GARY OLDMAN
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: GARY OLDMAN
 http://62.182.86.121:80/live/Cal/Cal/764534.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: HARRISON FORD
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HARRISON FORD
 http://62.182.86.121:80/live/Cal/Cal/764535.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: HENRY CAVILL
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HENRY CAVILL
 http://62.182.86.121:80/live/Cal/Cal/764536.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: HUGH JACKMAN
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HUGH JACKMAN
 http://62.182.86.121:80/live/Cal/Cal/764537.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: HUGO WEAVING
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HUGO WEAVING
 http://62.182.86.121:80/live/Cal/Cal/764538.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JACKIE CHAN
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JACKIE CHAN
 http://62.182.86.121:80/live/Cal/Cal/764539.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JAKE GYLLENHAAL
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JAKE GYLLENHAAL
 http://62.182.86.121:80/live/Cal/Cal/764540.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JAMES FRANCO
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JAMES FRANCO
 http://62.182.86.121:80/live/Cal/Cal/764541.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JAMIE FOXX
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JAMIE FOXX
 http://62.182.86.121:80/live/Cal/Cal/764542.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JASON BATEMAN
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JASON BATEMAN
 http://62.182.86.121:80/live/Cal/Cal/764543.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JASON STATHAM
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JASON STATHAM
 http://62.182.86.121:80/live/Cal/Cal/764544.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JOAQUIN PHOENIX
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JOAQUIN PHOENIX
 http://62.182.86.121:80/live/Cal/Cal/764545.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JOHN CENA
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JOHN CENA
 http://62.182.86.121:80/live/Cal/Cal/764546.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: JOHNNY DEPP
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JOHNNY DEPP
 http://62.182.86.121:80/live/Cal/Cal/764547.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: KEANU REEVES
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: KEANU REEVES
 http://62.182.86.121:80/live/Cal/Cal/764548.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: LEONARDO DICAPRIO
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: LEONARDO DICAPRIO
 http://62.182.86.121:80/live/Cal/Cal/764549.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: LIAM NEESON
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: LIAM NEESON
 http://62.182.86.121:80/live/Cal/Cal/764550.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: MARK RUFFALO
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MARK RUFFALO
 http://62.182.86.121:80/live/Cal/Cal/764551.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: MATT DAMON
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MATT DAMON
 http://62.182.86.121:80/live/Cal/Cal/764552.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: MATTHEW MCCONAUGHEY
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MATTHEW MCCONAUGHEY
 http://62.182.86.121:80/live/Cal/Cal/764553.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: MICHAEL CAINE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MICHAEL CAINE
 http://62.182.86.121:80/live/Cal/Cal/764554.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: MORGAN FREEMAN
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MORGAN FREEMAN
 http://62.182.86.121:80/live/Cal/Cal/764555.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: PAUL WALKER
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: PAUL WALKER
 http://62.182.86.121:80/live/Cal/Cal/764556.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: ROBERT DE NIRO
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROBERT DE NIRO
 http://62.182.86.121:80/live/Cal/Cal/764557.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: ROBERT DOWNEY JR
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROBERT DOWNEY JR
 http://62.182.86.121:80/live/Cal/Cal/764558.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: ROBERT PATTINSON
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROBERT PATTINSON
 http://62.182.86.121:80/live/Cal/Cal/764559.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: RYAN REYNOLDS
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: RYAN REYNOLDS
 http://62.182.86.121:80/live/Cal/Cal/764560.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: SAMUEL L JACKSON
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SAMUEL L JACKSON
 http://62.182.86.121:80/live/Cal/Cal/764561.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: SYLVESTER STALLONE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SYLVESTER STALLONE
 http://62.182.86.121:80/live/Cal/Cal/764562.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: TOBEY MAGUIRE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TOBEY MAGUIRE
 http://62.182.86.121:80/live/Cal/Cal/764563.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: TOM CRUISE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TOM CRUISE
 http://62.182.86.121:80/live/Cal/Cal/764564.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: TOMMY LEE JONES
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TOMMY LEE JONES
 http://62.182.86.121:80/live/Cal/Cal/764565.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: VIN DIESEL
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: VIN DIESEL
 http://62.182.86.121:80/live/Cal/Cal/764566.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: WILL SMITH
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: WILL SMITH
 http://62.182.86.121:80/live/Cal/Cal/764567.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTORS: WILLEM DAFOE
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: WILLEM DAFOE
 http://62.182.86.121:80/live/Cal/Cal/764568.ts
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ALIEN
 http://62.182.86.121:80/live/Cal/Cal/764569.ts
@@ -3254,52 +3253,6 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://github.com/dongmenyongge/iptv/raw/main/logo/lovenature4k.png",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Animal Planet UK
-http://alphabetagama.myddns.me/wildsci2019/animalplanet/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Nat Geo UK
-http://alphabetagama.myddns.me/wildsci2019/NatGeo/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Nat Geo Wild UK
-http://alphabetagama.myddns.me/wildsci2019/NatGeoWild/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Discovery UK
-http://alphabetagama.myddns.me/wildsci2019/discoveryuk/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Discovery Science
-http://alphabetagama.myddns.me/wildsci2019/DiscoveryScience/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Discovery History UK
-http://alphabetagama.myddns.me/wildsci2019/DiscoveryHistory/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Discovery Turbo UK
-http://alphabetagama.myddns.me/wildsci2019/discoveryturbo/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",DISCOVERY ID UK
-http://alphabetagama.myddns.me/wildsci2019/DISCOVERYID/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Discovery Hindi
-http://alphabetagama.myddns.me/wildsci2019/discoveryhindi/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Nat GEO Hindi
-http://alphabetagama.myddns.me/wildsci2019/natgeohindi/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Nat GEO Wild Hindi
-http://alphabetagama.myddns.me/wildsci2019/natgeowildhindi/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",DISCOVERY JEET HINDI
-http://alphabetagama.myddns.me/wildsci2019/discoveryidhindi/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Animal Planet HINDI
-http://alphabetagama.myddns.me/wildsci2019/animalplanethindi/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",DISCOVERY TAMIL
-http://34.67.244.169:8567/south2019/discoverytamil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",DISCOVERY TELUGU
-http://34.67.244.169:8567/south2019/discoverytelugu/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",AD NAT GEO
-http://alphabetagama.myddns.me/arab2020/adnatgeo/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",Discovery Bangla
-http://185.149.90.92:3244/bangla2020/discoverybangla/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",History Tv 18 Hindi
-http://alphabetagama.myddns.me/wildsci2019/historytv18/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",CRIME INVESTIGATION
-http://alphabetagama.myddns.me/wildsci2019/crimeinst/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",DISCOVERY SHED UK
-http://alphabetagama.myddns.me/wildsci2019/discoveryshed/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",ANIMAL PLANET HD
-http://alphabetagama.myddns.me/wildsci2019/animalplanethd/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",DISCOVERY WORLD HD
-http://alphabetagama.myddns.me/wildsci2019/disocveryworldhd/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.worldfilmfederation.com/wp-content/uploads/2021/06/doc.png",HISTORY 2 UK
-http://alphabetagama.myddns.me/wildsci2019/history2/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 1
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
@@ -3463,71 +3416,71 @@ http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28906
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-maximo-1-za.jpg",SuperSport Maximo 1 HD ZA
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28907
 #EXTINF:-1 group-title="Sports" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORTS 1 (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98864.ts
+http://humiptv.live:8080/live/623822/623822/98864.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg",STAR SPORTS 2 (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98865.ts
+http://humiptv.live:8080/live/623822/623822/98865.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607",STAR SPORTS 1 HINDI (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98866.ts
+http://humiptv.live:8080/live/623822/623822/98866.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709",STAR SPORTS SELECT 1 (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98867.ts
+http://humiptv.live:8080/live/623822/623822/98867.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956",START SPORTS SELECT 2 (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98868.ts
+http://humiptv.live:8080/live/623822/623822/98868.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg",TEN 1 (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98861.ts
+http://humiptv.live:8080/live/623822/623822/98861.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",TEN 2 (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98862.ts
+http://humiptv.live:8080/live/623822/623822/98862.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg",TEN 3 (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98863.ts
+http://humiptv.live:8080/live/623822/623822/98863.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png",SONY SIX (4K).
-http://humiptv.live:8080/live/Antonio123/Antonio123/98870.ts
+http://humiptv.live:8080/live/623822/623822/98870.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET
-http://humiptv.live:8080/live/Antonio123/Antonio123/12.ts
+http://humiptv.live:8080/live/623822/623822/12.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/23566.ts
+http://humiptv.live:8080/live/623822/623822/23566.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png",CRI:ASTRO CRICKET HD
-http://humiptv.live:8080/live/Antonio123/Antonio123/2494.ts
+http://humiptv.live:8080/live/623822/623822/2494.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Fox-sports-1-colour.png/revision/latest/scale-to-width-down/340?cb=20170407112553",FOX CRICKET 501
-http://humiptv.live:8080/live/Antonio123/Antonio123/1856.ts
+http://humiptv.live:8080/live/623822/623822/1856.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.imgbin.com/2/7/1/imgbin-logo-ptv-sports-television-channel-pakistan-cricket-8YvzSP5MmbjMiT27N1RsitE0D.jpg",PTV SPORTS
-http://humiptv.live:8080/live/Antonio123/Antonio123/89.ts
+http://humiptv.live:8080/live/623822/623822/89.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS.
-http://humiptv.live:8080/live/Antonio123/Antonio123/130714.ts
+http://humiptv.live:8080/live/623822/623822/130714.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/Geo_Super_Old.png/revision/latest/scale-to-width-down/340?cb=20111001230224",GEO SUPER
-http://humiptv.live:8080/live/Antonio123/Antonio123/101.ts
+http://humiptv.live:8080/live/623822/623822/101.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png",TEN SPORTS
-http://humiptv.live:8080/live/Antonio123/Antonio123/98.ts
+http://humiptv.live:8080/live/623822/623822/98.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ4BE5UBNTC7C5wLeBgR72ZQ-6DGnn-k1sYQ&usqp=CAU",WILLOW CRICKET
-http://humiptv.live:8080/live/Antonio123/Antonio123/215.ts
+http://humiptv.live:8080/live/623822/623822/215.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",WILLOW CRICKET XTRA
-http://humiptv.live:8080/live/Antonio123/Antonio123/5040.ts
+http://humiptv.live:8080/live/623822/623822/5040.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg",TEN CRICKET
-http://humiptv.live:8080/live/Antonio123/Antonio123/9886.ts
+http://humiptv.live:8080/live/623822/623822/9886.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRof7pKQWsk2gO9X5VjAeZNQ6_3nQOl-PKMyQ&usqp=CAU",BEIN CRICKET HD
-http://humiptv.live:8080/live/Antonio123/Antonio123/9115.ts
+http://humiptv.live:8080/live/623822/623822/9115.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://infotelematico.com/wp-content/uploads/AF3461F4-0338-475C-B244-DBC76715C7FD.jpeg",FREE SPORTS HD
-http://humiptv.live:8080/live/Antonio123/Antonio123/24123.ts
+http://humiptv.live:8080/live/623822/623822/24123.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://b.top4top.io/p_247364akp1.png",Sky Sports F1 (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122181.ts
+http://humiptv.live:8080/live/623822/623822/122181.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://f.top4top.io/p_2473anxmd1.png",Sky Sports News (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122408.ts
+http://humiptv.live:8080/live/623822/623822/122408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://b.top4top.io/p_2473t4qmh1.png",Sky Sports Main Event (4k)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122409.ts
+http://humiptv.live:8080/live/623822/623822/122409.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://g.top4top.io/p_25631cq331.png",Sky Sports Premier League (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122410.ts
+http://humiptv.live:8080/live/623822/623822/122410.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://j.top4top.io/p_2563b7cdj1.png",Sky Sports Football (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122411.ts
+http://humiptv.live:8080/live/623822/623822/122411.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_247357nqz1.png",Sky Sports Cricket (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122412.ts
+http://humiptv.live:8080/live/623822/623822/122412.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.top4top.io/p_2473ezaox1.png",Sky Sports Action/NFL (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122413.ts
+http://humiptv.live:8080/live/623822/623822/122413.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://l.top4top.io/p_2473e4g9y1.png",Sky Sports Arena (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122414.ts
+http://humiptv.live:8080/live/623822/623822/122414.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://c.top4top.io/p_24736p3vs1.png",Sky Sports Racing (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122415.ts
+http://humiptv.live:8080/live/623822/623822/122415.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_2473pjofr1.png",Sky Sports Mix (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122416.ts
+http://humiptv.live:8080/live/623822/623822/122416.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://f.top4top.io/p_2473u7j351.png",Sky Sports Golf (4K)
-http://humiptv.live:8080/live/Antonio123/Antonio123/122417.ts
+http://humiptv.live:8080/live/623822/623822/122417.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.icons8.com/color/1600/liverpool-fc.png",LFC
 http://247iptv.org:5454/live/boss123/boss123/3281.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61rrCc7UQAL.png",MUTV
@@ -4097,475 +4050,6 @@ http://edge.bz:8080/51227/51227/52043
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/supersport.png",SUPERSPORT TENNIS
 http://edge.bz:8080/51227/51227/52044
 
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PREMIER SPORTS UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6555/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EUROSPORT 2 HD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6556/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT ESPN FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6563/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT 3 FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6564/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT 2 FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORT 1 FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Eleven Sports 3 PT
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7062/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Eleven Sports 6 PT
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7064/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS 1 US
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7322/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS 2 US
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",CBS SPORTS NETWORK US
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7324/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBC SPORTS NETWORK US
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7327/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NHL NETWORK US
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7328/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS PREMIER LEAGUE UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS FOOTBALL UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7336/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MAIN EVENT UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7337/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ARENA UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7338/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MIX UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7339/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sky Sports Action HD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7340/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS RACING UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7341/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS F1 UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7342/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS CRICKET UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7343/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS GOLF UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7344/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sky Sports Action FHD UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7345/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MUTV UK
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/10078/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EUROSPORT 1 HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12047/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EUROSPORT 2 HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12048/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT EXTRA HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12074/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12075/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT FOOTBAL HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12076/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT GOLF HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12077/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",V Sport Vinter HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12078/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT SPORT PREMIUM HD SE
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fox Sports South
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19138/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS ARIZONA HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19139/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS FLORIDA HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19140/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS HOUSTON HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19141/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS PRIME TICKET HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19142/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS SOUTHWEST PLUS HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19143/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS SPORTSTIME OHIO HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19144/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS SUN HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19145/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORTS OKLAHOMA HD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19146/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX NEWS CHANNEL FHD
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19147/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bally Sports Great Lakes
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19149/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BALLY SPORTS SUN
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19150/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BALLY SPORTS SOUTHEAST CAROLINAS
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19151/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BALLY SPORTS NORTH
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19152/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bally SPORTS MIDWEST
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19153/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Espn News HD USA
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19154/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ESPN 2 HD USA
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19155/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ESPN USA
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19156/index.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PTV SPORTS
-http://alphabetagama.myddns.me/sports2021/ptvsports/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PTV SPORTS HD
-http://alphabetagama.myddns.me/sports2021/ptvsportssd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",GEO SUPER
-http://alphabetagama.myddns.me/sports2021/geosuper/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TEN SPORTS PAKISTANI
-http://alphabetagama.myddns.me/sports2021/tensportspk/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 1 HD
-http://alphabetagama.myddns.me/sports2021/ten1hd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 1
-http://alphabetagama.myddns.me/sports2021/ten1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 2 HD
-http://alphabetagama.myddns.me/sports2021/ten2hd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 2
-http://alphabetagama.myddns.me/sports2021/ten2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 3 HD
-http://alphabetagama.myddns.me/sports2021/ten3hd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY TEN 3
-http://alphabetagama.myddns.me/sports2021/ten3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS FIRST
-http://alphabetagama.myddns.me/sports2021/starspfirst/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS SELECT 1
-http://alphabetagama.myddns.me/sports2021/starspselect1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS SELECT 2
-http://alphabetagama.myddns.me/sports2021/starspselect2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 SD
-http://alphabetagama.myddns.me/sports2021/starsports1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 HD
-http://alphabetagama.myddns.me/sports2021/starsphd1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 2 SD
-http://alphabetagama.myddns.me/sports2021/starsports2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 2 HD
-http://alphabetagama.myddns.me/sports2021/starsphd2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 HINDI
-http://alphabetagama.myddns.me/sports2021/starsports1hindi/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS 1 HINDI HD
-http://alphabetagama.myddns.me/sports2021/starsphd1hindi/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",STAR SPORTS TAMIL
-http://alphabetagama.myddns.me/sports2021/starsports3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY SIX
-http://alphabetagama.myddns.me/sports2021/sonysix/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY SIX HD
-http://alphabetagama.myddns.me/sports2021/sonysixhd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",WILLOW CRICKET
-http://alphabetagama.myddns.me/sports2021/willowhd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PREMIER SPORTS
-http://alphabetagama.myddns.me/sports2021/premire/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS NEWS
-http://alphabetagama.myddns.me/sports2021/skyspnews/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MAIN EVENT
-http://alphabetagama.myddns.me/sports2021/skymaineventsd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS MAIN EVENT HD
-http://alphabetagama.myddns.me/sports2021/skymainevent/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ACTION
-http://alphabetagama.myddns.me/sports2021/skyactionsd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ACTION HD
-http://alphabetagama.myddns.me/sports2021/skyaction/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS GOLF
-http://alphabetagama.myddns.me/sports2021/skygolfsd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS GOLF HD
-http://alphabetagama.myddns.me/sports2021/skygolf/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS LEAGUE
-http://alphabetagama.myddns.me/sports2021/skyleaguesd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS LEAGUE HD
-http://alphabetagama.myddns.me/sports2021/skypleague/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ARENA
-http://alphabetagama.myddns.me/sports2021/skyarenasd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS ARENA HD
-http://alphabetagama.myddns.me/sports2021/skyarena/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS FOOTBALL
-http://alphabetagama.myddns.me/sports2021/skyfootballsd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS FOOTBALL HD
-http://alphabetagama.myddns.me/sports2021/skyfootball/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SPORTS F1
-http://alphabetagama.myddns.me/sports2021/skyf1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY MIX
-http://alphabetagama.myddns.me/sports2021/skymix/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 1
-http://alphabetagama.myddns.me/sports2021/bt1sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 1 HD
-http://alphabetagama.myddns.me/sports2021/bt1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 2
-http://alphabetagama.myddns.me/sports2021/bt2sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 2 HD
-http://alphabetagama.myddns.me/sports2021/bt2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 3
-http://alphabetagama.myddns.me/sports2021/bt3sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT SPORTS 3 HD
-http://alphabetagama.myddns.me/sports2021/bt3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY NEWS
-http://alphabetagama.myddns.me/sports2021/skynews/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ESPN
-http://alphabetagama.myddns.me/sports2021/espn1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY ESPN
-http://alphabetagama.myddns.me/sports2021/sonyespn/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SONY ESPN HD
-http://alphabetagama.myddns.me/sports2021/sonyespnhd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 1 SD
-http://alphabetagama.myddns.me/sports2021/euro1sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 1 HD
-http://alphabetagama.myddns.me/sports2021/eurosp1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 2 SD
-http://alphabetagama.myddns.me/sports2021/euro2sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EURO SPORTS 2 HD
-http://alphabetagama.myddns.me/sports2021/eurosp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BOX NATION
-http://alphabetagama.myddns.me/sports2021/boxnation/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SETANTA
-http://alphabetagama.myddns.me/sports2021/setantasp/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",UK RACING
-http://alphabetagama.myddns.me/sports2021/ukracing/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AT THE RACES
-http://alphabetagama.myddns.me/sports2021/attheraces/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",WWE NETWORK
-http://alphabetagama.myddns.me/sports2021/wwehd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Dubai Sports
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MUTV
-http://alphabetagama.myddns.me/sports2021/mutv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",REAL MADRID
-http://alphabetagama.myddns.me/sports2021/realmadrid/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",LFC TV
-http://alphabetagama.myddns.me/sports2021/lfctv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN USA
-http://alphabetagama.myddns.me/sports2021/beinusa/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN SPORTS NEWS
-http://alphabetagama.myddns.me/sports2021/beinsportsnews/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 1 SD
-http://alphabetagama.myddns.me/sports2021/bein1sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 1 HD
-http://alphabetagama.myddns.me/sports2021/bein1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 2 SD
-http://alphabetagama.myddns.me/sports2021/bein2sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 2 HD
-http://alphabetagama.myddns.me/sports2021/bein2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 3 SD
-http://alphabetagama.myddns.me/sports2021/bein3sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 3 HD
-http://alphabetagama.myddns.me/sports2021/bein3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 4 SD
-http://alphabetagama.myddns.me/sports2021/bein4sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 4 HD
-http://alphabetagama.myddns.me/sports2021/bein4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 5 SD
-http://alphabetagama.myddns.me/sports2021/bein5sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 5 HD
-http://alphabetagama.myddns.me/sports2021/bein5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 6 SD
-http://alphabetagama.myddns.me/sports2021/bein6sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 6 HD
-http://alphabetagama.myddns.me/sports2021/bein6/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 7 SD
-http://alphabetagama.myddns.me/sports2021/bein7sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 7 HD
-http://alphabetagama.myddns.me/sports2021/bein7/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 8 SD
-http://alphabetagama.myddns.me/sports2021/bein8sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 8 HD
-http://alphabetagama.myddns.me/sports2021/bein8/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 9 SD
-http://alphabetagama.myddns.me/sports2021/bein9sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 9 HD
-http://alphabetagama.myddns.me/sports2021/bein9/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 10 SD
-http://alphabetagama.myddns.me/sports2021/bein10sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 10 HD
-http://alphabetagama.myddns.me/sports2021/bein10/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 11 SD
-http://alphabetagama.myddns.me/sports2021/bein11sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 11 HD
-http://alphabetagama.myddns.me/sports2021/bein11/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 12 SD
-http://alphabetagama.myddns.me/sports2021/bein12sd/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 12 HD
-http://alphabetagama.myddns.me/sports2021/bein12/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN 13
-http://alphabetagama.myddns.me/sports2021/bein13/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Chelsea TV
-http://alphabetagama.myddns.me/sports2021/chelseatv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 1
-http://alphabetagama.myddns.me/sports2021/arenasp1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 2
-http://alphabetagama.myddns.me/sports2021/arenasp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 3
-http://alphabetagama.myddns.me/sports2021/arenasp3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 4
-http://alphabetagama.myddns.me/sports2021/arenasp4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Arena Sports 5
-http://alphabetagama.myddns.me/sports2021/arenasp5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 1 USA
-http://alphabetagama.myddns.me/sports2021/foxsp1usa/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 2 USA
-http://alphabetagama.myddns.me/sports2021/foxsp2usa/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 1 NL
-http://alphabetagama.myddns.me/sports2021/foxsp1nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 2 NL
-http://alphabetagama.myddns.me/sports2021/foxsp2nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 3 NL
-http://alphabetagama.myddns.me/sports2021/foxsp3nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 4 NL
-http://alphabetagama.myddns.me/sports2021/foxsp4nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX SPORT 5 NL
-http://alphabetagama.myddns.me/sports2021/foxsp5nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 1
-http://alphabetagama.myddns.me/sports2021/tsn1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 2
-http://alphabetagama.myddns.me/sports2021/tsn2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 3
-http://alphabetagama.myddns.me/sporst2109/tsn3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 4
-http://alphabetagama.myddns.me/sports2021/tsn4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TSN SPORTS 5
-http://alphabetagama.myddns.me/sports2021/tsn5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET WOLRD
-http://alphabetagama.myddns.me/sports2021/sportnetworld/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET ONTARIO
-http://alphabetagama.myddns.me/sports2021/sportnetontario/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET ONE
-http://alphabetagama.myddns.me/sports2021/sportnetone/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTSNET 360
-http://alphabetagama.myddns.me/sports2021/sportnet360/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 1
-http://alphabetagama.myddns.me/sports2021/abudhabisport1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 2
-http://alphabetagama.myddns.me/sports2021/abudhabisport2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 3
-http://alphabetagama.myddns.me/sports2021/abudhabisport3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AD SPORTS 4
-http://alphabetagama.myddns.me/sports2021/abudhabisport4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN FRANCE 1
-http://alphabetagama.myddns.me/sports2021/bein1fr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN FRANCE 2
-http://alphabetagama.myddns.me/sports2021/bein2fr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEIN FRANCE 3
-http://alphabetagama.myddns.me/sports2021/bein3fr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VIASAT FOOTBALL HD
-http://alphabetagama.myddns.me/sports2021/viasatfootball/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBA TV
-http://alphabetagama.myddns.me/sports2021/nbatv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBC SN
-http://alphabetagama.myddns.me/sports2021/nbcsn/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NFL NETWORK
-http://alphabetagama.myddns.me/sports2021/nflnetwork/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OSN CRICKET
-http://alphabetagama.myddns.me/sports2021/osncric/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 1
-http://alphabetagama.myddns.me/sports2021/alkass1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 2
-http://alphabetagama.myddns.me/sports2021/alkass2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 4
-http://alphabetagama.myddns.me/sports2021/alkass4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AlKass Sports 5
-http://alphabetagama.myddns.me/sports2021/alkass5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 1
-http://alphabetagama.myddns.me/sports2021/sportstv1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 2
-http://alphabetagama.myddns.me/sports2021/sportstv2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 3
-http://alphabetagama.myddns.me/sports2021/sportstv3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 4
-http://alphabetagama.myddns.me/sports2021/sportstv4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Sports Tv 5
-http://alphabetagama.myddns.me/sports2021/sportstv5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BENFICA TV
-http://alphabetagama.myddns.me/sports2021/benficatv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OSN SPORTS 1
-http://alphabetagama.myddns.me/sports2021/osnsp1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OSN SPORTS 2
-http://alphabetagama.myddns.me/sports2021/osnsp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORT KLUB 1
-http://alphabetagama.myddns.me/sports2021/spklub1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORT KLUB 2
-http://alphabetagama.myddns.me/sports2021/spklub2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORT KLUB 3
-http://alphabetagama.myddns.me/sports2021/spklub3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SP 1 ITALY
-http://alphabetagama.myddns.me/sports2021/skyspitaly/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SP 1 DE
-http://alphabetagama.myddns.me/sports2021/skysp1de/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY SP 2 DE
-http://alphabetagama.myddns.me/sports2021/skysp2de/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKYNET HD
-http://alphabetagama.myddns.me/sports2021/skynetsp/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 1
-http://alphabetagama.myddns.me/sports2021/ss1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 2
-http://alphabetagama.myddns.me/sports2021/ss2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 3
-http://alphabetagama.myddns.me/sports2021/ss3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SUPER SPORTS 4
-http://alphabetagama.myddns.me/sports2021/ss4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ZIGGO SPORTS SELECT
-http://alphabetagama.myddns.me/sports2021/ziggoselect/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EIR SPORTS 1
-http://alphabetagama.myddns.me/sports2021/eirsp1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",EIR SPORTS 2
-http://alphabetagama.myddns.me/sports2021/eirsp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 1
-http://alphabetagama.myddns.me/sports2021/digisp1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 2
-http://alphabetagama.myddns.me/sports2021/digisp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 3
-http://alphabetagama.myddns.me/sports2021/digisp3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",DIGI SPORTS 4
-http://alphabetagama.myddns.me/sports2021/digisp4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FIGHTBOX
-http://alphabetagama.myddns.me/sports2021/fightbox/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",D SPORTS
-http://alphabetagama.myddns.me/sports2021/dsports/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SFR SPORTS 1
-http://alphabetagama.myddns.me/sports2021/sfrsp1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SFR SPORTS 2
-http://alphabetagama.myddns.me/sports2021/sfrsp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SFR SPORTS 3
-http://alphabetagama.myddns.me/sports2021/sfrsp3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FREE SPORTS
-http://alphabetagama.myddns.me/sports2021/freesports/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SKY BOX OFFICE
-http://alphabetagama.myddns.me/sports2021/skyboxoffice/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BT ESPN
-http://alphabetagama.myddns.me/sports2021/btespn/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 1
-http://alphabetagama.myddns.me/sports2021/otesp1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 2
-http://alphabetagama.myddns.me/sports2021/otesp2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 3
-http://alphabetagama.myddns.me/sports2021/otesp3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 4
-http://alphabetagama.myddns.me/sports2021/otesp4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 5
-http://alphabetagama.myddns.me/sports2021/otesp5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 6
-http://alphabetagama.myddns.me/sports2021/otesp6/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 7
-http://alphabetagama.myddns.me/sports2021/otesp7/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",OTE SPORTS 8
-http://alphabetagama.myddns.me/sports2021/otesp8/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 1
-http://alphabetagama.myddns.me/sports2021/beoutq1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 2
-http://alphabetagama.myddns.me/sports2021/beoutq2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 3
-http://alphabetagama.myddns.me/sports2021/beoutq3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 4
-http://alphabetagama.myddns.me/sports2021/beoutq4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 5
-http://alphabetagama.myddns.me/sports2021/beoutq5/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 6
-http://alphabetagama.myddns.me/sports2021/beoutq6/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BEOUTQ 7
-http://alphabetagama.myddns.me/sports2021/beoutq7/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ASTRO CRICKET
-http://alphabetagama.myddns.me/sports2021/astrocricket/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",KSA SPORTS 1
-http://alphabetagama.myddns.me/sports2021/saudisports1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",KSA SPORTS 2
-http://alphabetagama.myddns.me/sports2021/saudisports2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",UFC FIGHT
-http://alphabetagama.myddns.me/sports2021/ufcfight/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTS MAX
-http://alphabetagama.myddns.me/sports2021/sportsmax/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTS MAX2
-http://alphabetagama.myddns.me/sports2021/sportsmax2/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SPORTS MAX CRICKET
-http://alphabetagama.myddns.me/sports2021/sportsmaxcric/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Alternative
 http://ky-iptv.com:80/live/BBrown384/564657344453/177087.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Dance/ EDM
@@ -4610,8 +4094,6 @@ https://tinyurl.com/XITE90ss
 https://tinyurl.com/XiteRock
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://okteve.com/wp-content/uploads/media/504cf03b2b6bc718d416442dda4414cb.jpeg", XITE Just Chill
 https://tinyurl.com/XiteJTCL
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/1920px-Stingray_Digital.svg.png",Stingray Ambience (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/1920px-Stingray_Digital.svg.png",Stingray Classic Rock (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/1920px-Stingray_Digital.svg.png",Stingray Greatest Hits (1080p)
@@ -4655,100 +4137,100 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/1920px-Stingray_Digital.svg.png",Stingray Karaoke
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ADULT ALTERNATIVE
-http://edge.bz:8080/seb1234/seb1234/106396
+http://edge.bz:8080/fredp/fredp/106396
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ALL DAY PARTY
-http://edge.bz:8080/seb1234/seb1234/106397
+http://edge.bz:8080/fredp/fredp/106397
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ALTERNATIVE
-http://edge.bz:8080/seb1234/seb1234/106421
+http://edge.bz:8080/fredp/fredp/106421
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ALTERNATIVE (USA)
-http://edge.bz:8080/seb1234/seb1234/58092
+http://edge.bz:8080/fredp/fredp/58092
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY BIG BAND
-http://edge.bz:8080/seb1234/seb1234/106398
+http://edge.bz:8080/fredp/fredp/106398
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY BILLBOARD
-http://edge.bz:8080/seb1234/seb1234/106424
+http://edge.bz:8080/fredp/fredp/106424
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSIC MASTERS
-http://edge.bz:8080/seb1234/seb1234/106399
+http://edge.bz:8080/fredp/fredp/106399
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSIC ROCK
-http://edge.bz:8080/seb1234/seb1234/106400
+http://edge.bz:8080/fredp/fredp/106400
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSIC ROCK (USA)
-http://edge.bz:8080/seb1234/seb1234/58093
+http://edge.bz:8080/fredp/fredp/58093
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY CLASSICA
-http://edge.bz:8080/seb1234/seb1234/45199
+http://edge.bz:8080/fredp/fredp/45199
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY COUNTRY CLASSICS
-http://edge.bz:8080/seb1234/seb1234/106401
+http://edge.bz:8080/fredp/fredp/106401
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY DANCE CLUBBING
-http://edge.bz:8080/seb1234/seb1234/106402
+http://edge.bz:8080/fredp/fredp/106402
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY EASY LISTENING
-http://edge.bz:8080/seb1234/seb1234/106403
+http://edge.bz:8080/fredp/fredp/106403
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY EXITOS DEL MOMENTO
-http://edge.bz:8080/seb1234/seb1234/58094
+http://edge.bz:8080/fredp/fredp/58094
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY EXITOS REGIONAL
-http://edge.bz:8080/seb1234/seb1234/106413
+http://edge.bz:8080/fredp/fredp/106413
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY FLASHBACK 70'S
-http://edge.bz:8080/seb1234/seb1234/106404
+http://edge.bz:8080/fredp/fredp/106404
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY FLASHBACK 70'S (USA)
-http://edge.bz:8080/seb1234/seb1234/58095
+http://edge.bz:8080/fredp/fredp/58095
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY GREATEST HITS
-http://edge.bz:8080/seb1234/seb1234/106405
+http://edge.bz:8080/fredp/fredp/106405
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY GREATEST HITS (USA)
-http://edge.bz:8080/seb1234/seb1234/56089
+http://edge.bz:8080/fredp/fredp/56089
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HINDI GOLD
-http://edge.bz:8080/seb1234/seb1234/106406
+http://edge.bz:8080/fredp/fredp/106406
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIP HOP
-http://edge.bz:8080/seb1234/seb1234/106407
+http://edge.bz:8080/fredp/fredp/106407
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIP HOP/R&B
-http://edge.bz:8080/seb1234/seb1234/106429
+http://edge.bz:8080/fredp/fredp/106429
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIP HOP/R&B (USA)
-http://edge.bz:8080/seb1234/seb1234/58091
+http://edge.bz:8080/fredp/fredp/58091
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIT LIST
-http://edge.bz:8080/seb1234/seb1234/106408
+http://edge.bz:8080/fredp/fredp/106408
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HIT LIST (USA)
-http://edge.bz:8080/seb1234/seb1234/56090
+http://edge.bz:8080/fredp/fredp/56090
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HOT COUNTRY
-http://edge.bz:8080/seb1234/seb1234/106409
+http://edge.bz:8080/fredp/fredp/106409
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY HOT COUNTRY (USA)
-http://edge.bz:8080/seb1234/seb1234/56091
+http://edge.bz:8080/fredp/fredp/56091
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY JAZZ CLASSIC
-http://edge.bz:8080/seb1234/seb1234/106410
+http://edge.bz:8080/fredp/fredp/106410
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY JUKEBOX OLDIES
-http://edge.bz:8080/seb1234/seb1234/106411
+http://edge.bz:8080/fredp/fredp/106411
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY KIDS STUFF
-http://edge.bz:8080/seb1234/seb1234/106412
+http://edge.bz:8080/fredp/fredp/106412
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY LOUD
-http://edge.bz:8080/seb1234/seb1234/42332
+http://edge.bz:8080/fredp/fredp/42332
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY NATURE
-http://edge.bz:8080/seb1234/seb1234/106414
+http://edge.bz:8080/fredp/fredp/106414
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY NATURESCAPE
-http://edge.bz:8080/seb1234/seb1234/42339
+http://edge.bz:8080/fredp/fredp/42339
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY POP ADULT
-http://edge.bz:8080/seb1234/seb1234/106415
+http://edge.bz:8080/fredp/fredp/106415
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY POP ADULT (USA)
-http://edge.bz:8080/seb1234/seb1234/56092
+http://edge.bz:8080/fredp/fredp/56092
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY POP CLASSIC
-http://edge.bz:8080/seb1234/seb1234/106416
+http://edge.bz:8080/fredp/fredp/106416
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY QELLO
-http://edge.bz:8080/seb1234/seb1234/42337
+http://edge.bz:8080/fredp/fredp/42337
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY REGGAETON
-http://edge.bz:8080/seb1234/seb1234/106417
+http://edge.bz:8080/fredp/fredp/106417
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY REMEMBER THE 80'S
-http://edge.bz:8080/seb1234/seb1234/106418
+http://edge.bz:8080/fredp/fredp/106418
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY REMEMBER THE 80'S (USA)
-http://edge.bz:8080/seb1234/seb1234/58097
+http://edge.bz:8080/fredp/fredp/58097
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY RETRO
-http://edge.bz:8080/seb1234/seb1234/42333
+http://edge.bz:8080/fredp/fredp/42333
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY R'N'B & SOUL
-http://edge.bz:8080/seb1234/seb1234/106419
+http://edge.bz:8080/fredp/fredp/106419
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY ROCK
-http://edge.bz:8080/seb1234/seb1234/106420
+http://edge.bz:8080/fredp/fredp/106420
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY SILK
-http://edge.bz:8080/seb1234/seb1234/106422
+http://edge.bz:8080/fredp/fredp/106422
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY SMOOTH JAZZ
-http://edge.bz:8080/seb1234/seb1234/106423
+http://edge.bz:8080/fredp/fredp/106423
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY THE BLUES
-http://edge.bz:8080/seb1234/seb1234/106425
+http://edge.bz:8080/fredp/fredp/106425
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY THE CHILL LOUNGE
-http://edge.bz:8080/seb1234/seb1234/106426
+http://edge.bz:8080/fredp/fredp/106426
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY THE SPA
-http://edge.bz:8080/seb1234/seb1234/106427
+http://edge.bz:8080/fredp/fredp/106427
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/1605/files/2020/06/stingray_music.jpg",STINGRAY TODAY'S K-POP
-http://edge.bz:8080/seb1234/seb1234/106428
+http://edge.bz:8080/fredp/fredp/106428
