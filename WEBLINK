@@ -197,6 +197,35 @@ https://is.gd/3zoVk1
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.pinimg.com/originals/da/15/73/da1573b8e3e0306222e580da5d4112c9.png",ZEE5 &TV HD
 http://173.225.246.25:8889/udp/239.203.20.2:4002
 
+#EXTINF:-1 group-title="AFRICA" tvg-logo="http://www.apbf.tv/img/abn.jpg",ABN
+https://is.gd/6lvswe
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://standard.gm/wp-content/uploads/2020/08/QTV.jpg",QTV
+https://is.gd/DTtBB5
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://oatsconsultancy.com/assets/images/mozo-tv-logo-510x510.png",MOZO TV
+https://is.gd/J8zO7O
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.zambianews24.com/wp-content/uploads/2020/03/prime-tv.jpg",PRIME TV
+https://is.gd/GZ7UJ5
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://i.pinimg.com/736x/51/d3/2a/51d32a52935d4897ba175907284f8334--folder-s.jpg",BORDER
+https://is.gd/MH5Q29
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.jagobd.com/image/millenniumtvss.jpg",MILLENIUM
+https://is.gd/53mjmX
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://pbs.twimg.com/profile_images/483632495632470017/xLIVsGg1.png",ZNBC2
+https://is.gd/QXuYfU
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://1.bp.blogspot.com/-Yq9ZtaASPC0/UthQqNFGAqI/AAAAAAAAAUI/BI8_SzaEM4g/s1600/Big%2Bbeat%2BAFRICA.jpg",BEATS TV
+https://is.gd/HS3Lwq
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://3.bp.blogspot.com/-38jA2-uBiO4/UzDUNatN9cI/AAAAAAAAQeY/bxN3UejobkY/s1600/LOGO+KBN.png",KBN
+https://is.gd/ycclMd
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/sun-tv-logo-1.png",SUN TV
+https://is.gd/CyKEMd
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://i.ytimg.com/vi/_8871daXUcI/hqdefault.jpg",DEMAND AFRICA
+https://is.gd/kG8qQ3
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://i.ytimg.com/vi/_8871daXUcI/hqdefault.jpg",NOLLYWOOD TV
+https://is.gd/w9XpwP
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://theafricachannel.com/wp-content/themes/travel-lifestyle-culture/img/tac-logo-white-retina2.png",AFRICA CHANNEL 
+https://is.gd/wos9lY
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://theeagleonline.com.ng/wp-content/uploads/2017/02/Africa-Magic-Showcase.png",Africa Magic Showcase
+https://is.gd/fobnDa
+
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",Islamic Broadcasting Network
