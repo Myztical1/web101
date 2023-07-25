@@ -18,167 +18,22 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TIC4.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.inewsguyana.com/wp-content/uploads/2016/01/NCN-logo.jpg",NCN GUYANA 
+http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://jamaicaonlinetv.com/wp-content/uploads/2021/05/Untitled-1.png",Jamaica Online TV (1080p)
+https://hls-cdn.tvstartup11.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://is.gd/27jm3T
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195830
+https://is.gd/FaJTxn
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://is.gd/iRCHii
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268269
+https://is.gd/Jw4wV9
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 https://is.gd/RVYMSV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/400200042
-
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.inewsguyana.com/wp-content/uploads/2016/01/NCN-logo.jpg",NCN GUYANA 
-http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://jamaicaonlinetv.com/wp-content/uploads/2021/05/Untitled-1.png",Jamaica Online TV (1080p)
-https://hls-cdn.tvstartup11.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tent.png",TEN TV HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/400200044
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/wint.png",WIN TV HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376159
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/synerg.png",SYNERGY HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/400208904
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",TV JAAGRITI SD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76409
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY SD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76410
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209654_sankeyah-tv.jpeg",SANKHYA TV HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/710920
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Ietv.jpg/200px-Ietv.jpg",IETV HFD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76413
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://ibntelevision.com/wp-content/themes/ibn/img/logo.png",IBN HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76414
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE THE CARIBBEAN HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76415
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76411
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tten.png",TTEN TRINIDAD SD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195893
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/bbyt.png",BABY TV HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376164
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/toonc.png",TOONCAST HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376233
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dsnj.png",DISNEY JUNIOR FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268290
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dsnxd.png",DISNEY XD FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376152
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dsnch.png",DISNEY CHANNEL FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376151
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/uk/nicjr.png",NICK JR CARIBBEAN HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195854
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ctvcmy.png",CTV COMEDY HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376181
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/parnte.png",PARAMOUNT NETWORK FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376180
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/lfmv.png",LIFETIME MOVIES HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376179
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/lfmwom.png",LIFETIME REAL WOMEN SD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376178
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/liftm.png",LIFETIME FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376177
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/halcha.png",HALLMARK CHANNEL FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376243
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/stuuni.png",STUDIO UNIVERSAL HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376237
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/fr/wartv.png",WARNER HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268272
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/brvo.png",BRAVO FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376235
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fyi.png",FYI FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376234
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tnt.png",TNT FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268275
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tru.png",TRU TV SD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268274
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/usanet.png",USA NETWORK FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268273
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/calsny.png",CANAL SONY HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376176
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/syfy.png",SYFY FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376232
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tcm.png",TCM HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376231
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/discsci.png",DISCOVERY SCIENCE HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376229
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/invedis.png",INVESTIGATION DISCOVERY HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376228
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hist.png",HISTORY HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376226
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/maxpr.png",MAX PRIME HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376225
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/max.png",MAX HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376223
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/euroch.png",EURO CHANNEL HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376222
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tbs.png",TBS HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376221
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fxm.png",FXM HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376220
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fx.png",FX HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376219
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/calac.png",CALA ACTION HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/400318027
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/fa3559f1-a31b-456c-b07b-a0d6822c53e9/calawestern_home.png",CALA WESTERN FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76416
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/89f358e3-04d3-4057-9d82-fba2a724eaaa/channel-weather.png",CALA WEATHER FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76417
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/e7365b46-42ca-47de-beba-86924e474941/calaclassics_home.png",CALA CLASSIC FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76418
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://freebietvshows.org/wp-content/uploads/calabash-tv.png",CALA BASH FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76419
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbocar.png",HBO CARIBBEAN FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195843
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbopl.png",HBO PLUS HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376189
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbofm.png",HBO FAMILY FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376188
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbosgnt.png",HBO SIGNATURE HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376187
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbo.png",HBO EAST HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376186
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbo.png",HBO WEST HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376185
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbo2.png",HBO 2 HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376184
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/starcmd.png",STAR COMEDY FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376172
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/uk/distrb.png",DISCOVERY TURBO HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268289
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/disccv.png",DISCOVERY CIVILIZATION HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/268288
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/natgeo.png",NAT GEO HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376149
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/natgew.png",NAT GEO WILD HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376148
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/outdch.png",OUTDOOR CHANNEL HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376208
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/travch.png",TRAVEL CHANNEL HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376206
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/diynet.png",DIY NETWORK HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376205
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/twrdnet.png",THE WORLD NETWORK HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376204
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fxsopl.png",FOX SOCCER PLUS HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376171
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/espcar.png",ESPN 2 CARIBBEAN HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195836
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/espcar.png",ESPN CARIBBEAN FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195837
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/sptmx.png",SPORTS MAX FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195868
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/sptmx.png",SPORTS MAX 2 FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/195869
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nbcsn.png",NBCSN FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376215
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flwsp.png",FLOW SPORTS FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376145
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flwsp2.png",FLOW SPORTS 2 FHD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/376144
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://therushchannel.com/wp-content/uploads/2021/02/rush_logo_menu.png",RUSH + HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/76412
+https://is.gd/8qb0jk
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
@@ -194,8 +49,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist
 https://is.gd/absMUg
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/n3Jd1p3/image.png",ZEE BOLLYWOOD
 https://is.gd/3zoVk1
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.pinimg.com/originals/da/15/73/da1573b8e3e0306222e580da5d4112c9.png",ZEE5 &TV HD
-http://173.225.246.25:8889/udp/239.203.20.2:4002
 
 #EXTINF:-1 group-title="AFRICA" tvg-logo="http://www.apbf.tv/img/abn.jpg",ABN
 https://is.gd/6lvswe
@@ -2711,12 +2564,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b4
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png",Little Stars Universe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",CineVault Westerns
-https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
-https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 https://is.gd/3u22zR
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.m3u8
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://4.bp.blogspot.com/-K8fXe2YOGvA/WwBM1Grh0vI/AAAAAAAAXgw/7tiBImfsvnAW0EEFEozjwlXxPF9RePMwQCLcBGAs/s1600/Westerns.png",Redbox War and Westerns
+https://redbox-warandwesterns-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6286de930ce6137ba30fc293",Old West TV
+https://d3e900fnvjyq99.cloudfront.net/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657304
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1d130edb295d102c439f",Cowboy Classics
+https://d3e900fnvjyq99.cloudfront.net/d/HSKV2TFJKIB08IVJ32W0/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657295
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",Cinevault Westerns (CA)
+https://gsn-cinevault-westerns-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://image.roku.com/developer_channels/prod/367dbc658de3b546959984f9c1bbcaf44591030c83f32911b08f5975d67d8abf.jpg,The Western Channel
+https://hls.showfer.com/stream/6346d9b5554328cd4b6c036a/airy.m3u8
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",Cinevault Westerns (US)
+https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://ae01.alicdn.com/kf/HTB15PBtSVXXXXXOXXXXq6xXFXXXX/Cloud-Sunset-Wild-West-Dallas-Cowboys-Scene-Theme-Party-backdrop-Vinyl-cloth-High-quality-Computer-printed.jpg_640x640.jpg",Now WILD WEST
 https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg",Westerns TV
@@ -2725,8 +2587,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdc
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f33318210549000806a530/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
 http://fortv.cc:8080/live/jonathan/jonathan/119435.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",24/7 CALA WESTERN
-http://173.225.246.25:8889/udp/239.203.20.13:4003
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
 http://hardcoremedia.xyz:80/asxxibud/7733204294/192
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
