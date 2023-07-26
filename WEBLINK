@@ -29,651 +29,650 @@ https://is.gd/RVYMSV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 https://is.gd/8qb0jk
 
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.inewsguyana.com/wp-content/uploads/2016/01/NCN-logo.jpg",NCN GUYANA 
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.inewsguyana.com/wp-content/uploads/2016/01/NCN-logo.jpg",NCN GUYANA 
 http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://jamaicaonlinetv.com/wp-content/uploads/2021/05/Untitled-1.png",Jamaica Online TV (1080p)
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://jamaicaonlinetv.com/wp-content/uploads/2021/05/Untitled-1.png",Jamaica Online TV (1080p)
 https://hls-cdn.tvstartup11.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CHURCH CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/787994.ts
+http://62.182.86.121:80/live/mell/mell/787994.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(GRENADA) GBN TV
-http://62.182.86.121:80/live/Cal/Cal/787995.ts
+http://62.182.86.121:80/live/mell/mell/787995.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TTT
-http://62.182.86.121:80/live/Cal/Cal/787996.ts
+http://62.182.86.121:80/live/mell/mell/787996.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CCN TV6
-http://62.182.86.121:80/live/Cal/Cal/787997.ts
+http://62.182.86.121:80/live/mell/mell/787997.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TEN TV
-http://62.182.86.121:80/live/Cal/Cal/787998.ts
+http://62.182.86.121:80/live/mell/mell/787998.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WIN TV
-http://62.182.86.121:80/live/Cal/Cal/787999.ts
+http://62.182.86.121:80/live/mell/mell/787999.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SYNERGY
-http://62.182.86.121:80/live/Cal/Cal/788000.ts
+http://62.182.86.121:80/live/mell/mell/788000.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV JAAGRITI
-http://62.182.86.121:80/live/Cal/Cal/788001.ts
+http://62.182.86.121:80/live/mell/mell/788001.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TEMPO
-http://62.182.86.121:80/live/Cal/Cal/788002.ts
+http://62.182.86.121:80/live/mell/mell/788002.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RUSH +
-http://62.182.86.121:80/live/Cal/Cal/788003.ts
+http://62.182.86.121:80/live/mell/mell/788003.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",IETV HFD
-http://62.182.86.121:80/live/Cal/Cal/788004.ts
+http://62.182.86.121:80/live/mell/mell/788004.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GAYELLE THE CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/788005.ts
+http://62.182.86.121:80/live/mell/mell/788005.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA ACTION
-http://62.182.86.121:80/live/Cal/Cal/788006.ts
+http://62.182.86.121:80/live/mell/mell/788006.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA WESTERN
-http://62.182.86.121:80/live/Cal/Cal/788007.ts
+http://62.182.86.121:80/live/mell/mell/788007.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA WEATHER
-http://62.182.86.121:80/live/Cal/Cal/788008.ts
+http://62.182.86.121:80/live/mell/mell/788008.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA CLASSIC
-http://62.182.86.121:80/live/Cal/Cal/788009.ts
+http://62.182.86.121:80/live/mell/mell/788009.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA BASH
-http://62.182.86.121:80/live/Cal/Cal/788010.ts
+http://62.182.86.121:80/live/mell/mell/788010.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) NTN
-http://62.182.86.121:80/live/Cal/Cal/788013.ts
+http://62.182.86.121:80/live/mell/mell/788013.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNC3 TRINIDAD
-http://62.182.86.121:80/live/Cal/Cal/782666.ts
+http://62.182.86.121:80/live/mell/mell/782666.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNS 6 GUYANA
-http://62.182.86.121:80/live/Cal/Cal/782667.ts
+http://62.182.86.121:80/live/mell/mell/782667.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CUBAVISION
-http://62.182.86.121:80/live/Cal/Cal/782668.ts
+http://62.182.86.121:80/live/mell/mell/782668.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CVM JAMAICA
-http://62.182.86.121:80/live/Cal/Cal/782669.ts
+http://62.182.86.121:80/live/mell/mell/782669.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ESPN 2 CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/782670.ts
+http://62.182.86.121:80/live/mell/mell/782670.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ESPN CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/782671.ts
+http://62.182.86.121:80/live/mell/mell/782671.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FAME RADIO
-http://62.182.86.121:80/live/Cal/Cal/782672.ts
+http://62.182.86.121:80/live/mell/mell/782672.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FLOW SPORTS 1
-http://62.182.86.121:80/live/Cal/Cal/782673.ts
+http://62.182.86.121:80/live/mell/mell/782673.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOX 7
-http://62.182.86.121:80/live/Cal/Cal/782674.ts
+http://62.182.86.121:80/live/mell/mell/782674.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GTN
-http://62.182.86.121:80/live/Cal/Cal/782675.ts
+http://62.182.86.121:80/live/mell/mell/782675.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/782676.ts
+http://62.182.86.121:80/live/mell/mell/782676.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HOPE TV
-http://62.182.86.121:80/live/Cal/Cal/782677.ts
+http://62.182.86.121:80/live/mell/mell/782677.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HOT 7 TV
-http://62.182.86.121:80/live/Cal/Cal/782678.ts
+http://62.182.86.121:80/live/mell/mell/782678.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HYPE TV
-http://62.182.86.121:80/live/Cal/Cal/782679.ts
+http://62.182.86.121:80/live/mell/mell/782679.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ISAT
-http://62.182.86.121:80/live/Cal/Cal/782680.ts
+http://62.182.86.121:80/live/mell/mell/782680.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ISLAND LUCK TV
-http://62.182.86.121:80/live/Cal/Cal/782681.ts
+http://62.182.86.121:80/live/mell/mell/782681.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JNN
-http://62.182.86.121:80/live/Cal/Cal/782682.ts
+http://62.182.86.121:80/live/mell/mell/782682.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LVM
-http://62.182.86.121:80/live/Cal/Cal/782683.ts
+http://62.182.86.121:80/live/mell/mell/782683.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MELLO TV
-http://62.182.86.121:80/live/Cal/Cal/782684.ts
+http://62.182.86.121:80/live/mell/mell/782684.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NOS PAIS
-http://62.182.86.121:80/live/Cal/Cal/782685.ts
+http://62.182.86.121:80/live/mell/mell/782685.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NOS TV
-http://62.182.86.121:80/live/Cal/Cal/782686.ts
+http://62.182.86.121:80/live/mell/mell/782686.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ONE CARIBBEAN TV
-http://62.182.86.121:80/live/Cal/Cal/782687.ts
+http://62.182.86.121:80/live/mell/mell/782687.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PBC JAMAICA
-http://62.182.86.121:80/live/Cal/Cal/782688.ts
+http://62.182.86.121:80/live/mell/mell/782688.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PETS
-http://62.182.86.121:80/live/Cal/Cal/782689.ts
+http://62.182.86.121:80/live/mell/mell/782689.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RETV
-http://62.182.86.121:80/live/Cal/Cal/782690.ts
+http://62.182.86.121:80/live/mell/mell/782690.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RNN
-http://62.182.86.121:80/live/Cal/Cal/782691.ts
+http://62.182.86.121:80/live/mell/mell/782691.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SPACE
-http://62.182.86.121:80/live/Cal/Cal/782692.ts
+http://62.182.86.121:80/live/mell/mell/782692.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",STREAM JAMZ
-http://62.182.86.121:80/live/Cal/Cal/782693.ts
+http://62.182.86.121:80/live/mell/mell/782693.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELE CONTACTO 57
-http://62.182.86.121:80/live/Cal/Cal/782694.ts
+http://62.182.86.121:80/live/mell/mell/782694.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELE ECLAIR
-http://62.182.86.121:80/live/Cal/Cal/782695.ts
+http://62.182.86.121:80/live/mell/mell/782695.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELE SUR ENGLISH
-http://62.182.86.121:80/live/Cal/Cal/782696.ts
+http://62.182.86.121:80/live/mell/mell/782696.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELE SUR SPANISH
-http://62.182.86.121:80/live/Cal/Cal/782697.ts
+http://62.182.86.121:80/live/mell/mell/782697.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELEMUNDO
-http://62.182.86.121:80/live/Cal/Cal/782698.ts
+http://62.182.86.121:80/live/mell/mell/782698.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELENORD 8
-http://62.182.86.121:80/live/Cal/Cal/782699.ts
+http://62.182.86.121:80/live/mell/mell/782699.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELESISTEMA 11
-http://62.182.86.121:80/live/Cal/Cal/782700.ts
+http://62.182.86.121:80/live/mell/mell/782700.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELEUNION
-http://62.182.86.121:80/live/Cal/Cal/782701.ts
+http://62.182.86.121:80/live/mell/mell/782701.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELEUNIVERSO 29
-http://62.182.86.121:80/live/Cal/Cal/782702.ts
+http://62.182.86.121:80/live/mell/mell/782702.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",THM
-http://62.182.86.121:80/live/Cal/Cal/782703.ts
+http://62.182.86.121:80/live/mell/mell/782703.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRINITY TV
-http://62.182.86.121:80/live/Cal/Cal/782704.ts
+http://62.182.86.121:80/live/mell/mell/782704.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV CARIB
-http://62.182.86.121:80/live/Cal/Cal/782705.ts
+http://62.182.86.121:80/live/mell/mell/782705.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZNS TV
-http://62.182.86.121:80/live/Cal/Cal/782706.ts
+http://62.182.86.121:80/live/mell/mell/782706.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELE CURACAO
-http://62.182.86.121:80/live/Cal/Cal/782707.ts
+http://62.182.86.121:80/live/mell/mell/782707.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CDM INTERNATIONAL
-http://62.182.86.121:80/live/Cal/Cal/782708.ts
+http://62.182.86.121:80/live/mell/mell/782708.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",IBN
-http://62.182.86.121:80/live/Cal/Cal/782709.ts
+http://62.182.86.121:80/live/mell/mell/782709.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TVJ SPORTS JAMAICA
-http://62.182.86.121:80/live/Cal/Cal/782710.ts
+http://62.182.86.121:80/live/mell/mell/782710.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SPORTS MAX PLUS
-http://62.182.86.121:80/live/Cal/Cal/782711.ts
+http://62.182.86.121:80/live/mell/mell/782711.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SPORTS MAX
-http://62.182.86.121:80/live/Cal/Cal/782712.ts
+http://62.182.86.121:80/live/mell/mell/782712.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CARIBVISION
-http://62.182.86.121:80/live/Cal/Cal/782713.ts
+http://62.182.86.121:80/live/mell/mell/782713.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",OUR TV
-http://62.182.86.121:80/live/Cal/Cal/782714.ts
+http://62.182.86.121:80/live/mell/mell/782714.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TVJ JAMAICA
-http://62.182.86.121:80/live/Cal/Cal/782715.ts
+http://62.182.86.121:80/live/mell/mell/782715.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SPORTS MAX 2
-http://62.182.86.121:80/live/Cal/Cal/782716.ts
+http://62.182.86.121:80/live/mell/mell/782716.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TVN
-http://62.182.86.121:80/live/Cal/Cal/782717.ts
+http://62.182.86.121:80/live/mell/mell/782717.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RPC
-http://62.182.86.121:80/live/Cal/Cal/782718.ts
+http://62.182.86.121:80/live/mell/mell/782718.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELEANTILLAS
-http://62.182.86.121:80/live/Cal/Cal/782719.ts
+http://62.182.86.121:80/live/mell/mell/782719.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOX SOCCER PLUS
-http://62.182.86.121:80/live/Cal/Cal/787883.ts
+http://62.182.86.121:80/live/mell/mell/787883.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",STAR COMEDY
-http://62.182.86.121:80/live/Cal/Cal/787884.ts
+http://62.182.86.121:80/live/mell/mell/787884.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOX BUSINESS
-http://62.182.86.121:80/live/Cal/Cal/787885.ts
+http://62.182.86.121:80/live/mell/mell/787885.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOX NEWS
-http://62.182.86.121:80/live/Cal/Cal/787886.ts
+http://62.182.86.121:80/live/mell/mell/787886.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(HAITI) KAJOU TV
-http://62.182.86.121:80/live/Cal/Cal/787887.ts
+http://62.182.86.121:80/live/mell/mell/787887.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MEGA TV
-http://62.182.86.121:80/live/Cal/Cal/787888.ts
+http://62.182.86.121:80/live/mell/mell/787888.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WAPA 2
-http://62.182.86.121:80/live/Cal/Cal/787889.ts
+http://62.182.86.121:80/live/mell/mell/787889.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WAPA
-http://62.182.86.121:80/live/Cal/Cal/787890.ts
+http://62.182.86.121:80/live/mell/mell/787890.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL 13
-http://62.182.86.121:80/live/Cal/Cal/787891.ts
+http://62.182.86.121:80/live/mell/mell/787891.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL 6
-http://62.182.86.121:80/live/Cal/Cal/787892.ts
+http://62.182.86.121:80/live/mell/mell/787892.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CGTN
-http://62.182.86.121:80/live/Cal/Cal/787893.ts
+http://62.182.86.121:80/live/mell/mell/787893.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HITZ 92 FM
-http://62.182.86.121:80/live/Cal/Cal/787894.ts
+http://62.182.86.121:80/live/mell/mell/787894.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SMILE
-http://62.182.86.121:80/live/Cal/Cal/787895.ts
+http://62.182.86.121:80/live/mell/mell/787895.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TBN TV
-http://62.182.86.121:80/live/Cal/Cal/787896.ts
+http://62.182.86.121:80/live/mell/mell/787896.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV DIRECT 13
-http://62.182.86.121:80/live/Cal/Cal/787897.ts
+http://62.182.86.121:80/live/mell/mell/787897.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VEPACO TV
-http://62.182.86.121:80/live/Cal/Cal/787898.ts
+http://62.182.86.121:80/live/mell/mell/787898.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WGN9
-http://62.182.86.121:80/live/Cal/Cal/787899.ts
+http://62.182.86.121:80/live/mell/mell/787899.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WARNER
-http://62.182.86.121:80/live/Cal/Cal/787900.ts
+http://62.182.86.121:80/live/mell/mell/787900.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PBS
-http://62.182.86.121:80/live/Cal/Cal/787901.ts
+http://62.182.86.121:80/live/mell/mell/787901.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TTEN TRINIDAD
-http://62.182.86.121:80/live/Cal/Cal/787902.ts
+http://62.182.86.121:80/live/mell/mell/787902.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZEE CINEMA
-http://62.182.86.121:80/live/Cal/Cal/787903.ts
+http://62.182.86.121:80/live/mell/mell/787903.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HALLMARK CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/787904.ts
+http://62.182.86.121:80/live/mell/mell/787904.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DENCEHALL REGGAE
-http://62.182.86.121:80/live/Cal/Cal/787905.ts
+http://62.182.86.121:80/live/mell/mell/787905.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CITY TV
-http://62.182.86.121:80/live/Cal/Cal/787906.ts
+http://62.182.86.121:80/live/mell/mell/787906.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",EURONEWS
-http://62.182.86.121:80/live/Cal/Cal/787907.ts
+http://62.182.86.121:80/live/mell/mell/787907.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",STUDIO UNIVERSAL
-http://62.182.86.121:80/live/Cal/Cal/787908.ts
+http://62.182.86.121:80/live/mell/mell/787908.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MSNBC
-http://62.182.86.121:80/live/Cal/Cal/787909.ts
+http://62.182.86.121:80/live/mell/mell/787909.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BRAVO
-http://62.182.86.121:80/live/Cal/Cal/787910.ts
+http://62.182.86.121:80/live/mell/mell/787910.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FYI
-http://62.182.86.121:80/live/Cal/Cal/787911.ts
+http://62.182.86.121:80/live/mell/mell/787911.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TOONCAST
-http://62.182.86.121:80/live/Cal/Cal/787912.ts
+http://62.182.86.121:80/live/mell/mell/787912.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TCM
-http://62.182.86.121:80/live/Cal/Cal/787913.ts
+http://62.182.86.121:80/live/mell/mell/787913.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY SCIENCE
-http://62.182.86.121:80/live/Cal/Cal/787914.ts
+http://62.182.86.121:80/live/mell/mell/787914.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",INVESTIGATION DISCOVERY
-http://62.182.86.121:80/live/Cal/Cal/787915.ts
+http://62.182.86.121:80/live/mell/mell/787915.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HISTORY
-http://62.182.86.121:80/live/Cal/Cal/787916.ts
+http://62.182.86.121:80/live/mell/mell/787916.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MAX PRIME
-http://62.182.86.121:80/live/Cal/Cal/787917.ts
+http://62.182.86.121:80/live/mell/mell/787917.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MAX
-http://62.182.86.121:80/live/Cal/Cal/787918.ts
+http://62.182.86.121:80/live/mell/mell/787918.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",EURO CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/787919.ts
+http://62.182.86.121:80/live/mell/mell/787919.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TBS
-http://62.182.86.121:80/live/Cal/Cal/787920.ts
+http://62.182.86.121:80/live/mell/mell/787920.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FXM
-http://62.182.86.121:80/live/Cal/Cal/787921.ts
+http://62.182.86.121:80/live/mell/mell/787921.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FX
-http://62.182.86.121:80/live/Cal/Cal/787922.ts
+http://62.182.86.121:80/live/mell/mell/787922.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",A&ampE
-http://62.182.86.121:80/live/Cal/Cal/787923.ts
+http://62.182.86.121:80/live/mell/mell/787923.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NBCSN
-http://62.182.86.121:80/live/Cal/Cal/787924.ts
+http://62.182.86.121:80/live/mell/mell/787924.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ESTV
-http://62.182.86.121:80/live/Cal/Cal/787925.ts
+http://62.182.86.121:80/live/mell/mell/787925.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",INSP
-http://62.182.86.121:80/live/Cal/Cal/787926.ts
+http://62.182.86.121:80/live/mell/mell/787926.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HTS
-http://62.182.86.121:80/live/Cal/Cal/787927.ts
+http://62.182.86.121:80/live/mell/mell/787927.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DBS
-http://62.182.86.121:80/live/Cal/Cal/787928.ts
+http://62.182.86.121:80/live/mell/mell/787928.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",OUTDOOR CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/787929.ts
+http://62.182.86.121:80/live/mell/mell/787929.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET GOSPEL
-http://62.182.86.121:80/live/Cal/Cal/787930.ts
+http://62.182.86.121:80/live/mell/mell/787930.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRAVEL CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/787931.ts
+http://62.182.86.121:80/live/mell/mell/787931.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DIY NETWORK
-http://62.182.86.121:80/live/Cal/Cal/787932.ts
+http://62.182.86.121:80/live/mell/mell/787932.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",THE WORLD NETWORK
-http://62.182.86.121:80/live/Cal/Cal/787933.ts
+http://62.182.86.121:80/live/mell/mell/787933.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VH1 CLASSIC
-http://62.182.86.121:80/live/Cal/Cal/787934.ts
+http://62.182.86.121:80/live/mell/mell/787934.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTV 2
-http://62.182.86.121:80/live/Cal/Cal/787935.ts
+http://62.182.86.121:80/live/mell/mell/787935.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTV LIVE
-http://62.182.86.121:80/live/Cal/Cal/787936.ts
+http://62.182.86.121:80/live/mell/mell/787936.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AFRICA CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/787937.ts
+http://62.182.86.121:80/live/mell/mell/787937.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MY DESTINATION TV
-http://62.182.86.121:80/live/Cal/Cal/787938.ts
+http://62.182.86.121:80/live/mell/mell/787938.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RECIPE TV
-http://62.182.86.121:80/live/Cal/Cal/787939.ts
+http://62.182.86.121:80/live/mell/mell/787939.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VICELAND
-http://62.182.86.121:80/live/Cal/Cal/787940.ts
+http://62.182.86.121:80/live/mell/mell/787940.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JUSTICE CENTRAL
-http://62.182.86.121:80/live/Cal/Cal/787941.ts
+http://62.182.86.121:80/live/mell/mell/787941.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO PLUS
-http://62.182.86.121:80/live/Cal/Cal/787942.ts
+http://62.182.86.121:80/live/mell/mell/787942.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO FAMILY
-http://62.182.86.121:80/live/Cal/Cal/787943.ts
+http://62.182.86.121:80/live/mell/mell/787943.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO SIGNATURE
-http://62.182.86.121:80/live/Cal/Cal/787944.ts
+http://62.182.86.121:80/live/mell/mell/787944.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO EAST
-http://62.182.86.121:80/live/Cal/Cal/787945.ts
+http://62.182.86.121:80/live/mell/mell/787945.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO WEST
-http://62.182.86.121:80/live/Cal/Cal/787946.ts
+http://62.182.86.121:80/live/mell/mell/787946.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO 2
-http://62.182.86.121:80/live/Cal/Cal/787947.ts
+http://62.182.86.121:80/live/mell/mell/787947.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNN INTERNATIONAL
-http://62.182.86.121:80/live/Cal/Cal/787948.ts
+http://62.182.86.121:80/live/mell/mell/787948.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CTV COMEDY
-http://62.182.86.121:80/live/Cal/Cal/787949.ts
+http://62.182.86.121:80/live/mell/mell/787949.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LIFETIME MOVIES
-http://62.182.86.121:80/live/Cal/Cal/787950.ts
+http://62.182.86.121:80/live/mell/mell/787950.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LIFETIME REAL WOMEN
-http://62.182.86.121:80/live/Cal/Cal/787951.ts
+http://62.182.86.121:80/live/mell/mell/787951.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LIFETIME
-http://62.182.86.121:80/live/Cal/Cal/787952.ts
+http://62.182.86.121:80/live/mell/mell/787952.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL SONY
-http://62.182.86.121:80/live/Cal/Cal/787953.ts
+http://62.182.86.121:80/live/mell/mell/787953.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WORLD FISHING NETWORK
-http://62.182.86.121:80/live/Cal/Cal/787954.ts
+http://62.182.86.121:80/live/mell/mell/787954.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AXS TV
-http://62.182.86.121:80/live/Cal/Cal/787955.ts
+http://62.182.86.121:80/live/mell/mell/787955.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BABY TV
-http://62.182.86.121:80/live/Cal/Cal/787956.ts
+http://62.182.86.121:80/live/mell/mell/787956.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BOOMERANG
-http://62.182.86.121:80/live/Cal/Cal/787957.ts
+http://62.182.86.121:80/live/mell/mell/787957.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTM TV
-http://62.182.86.121:80/live/Cal/Cal/787958.ts
+http://62.182.86.121:80/live/mell/mell/787958.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CEEN
-http://62.182.86.121:80/live/Cal/Cal/787959.ts
+http://62.182.86.121:80/live/mell/mell/787959.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FEVA TV
-http://62.182.86.121:80/live/Cal/Cal/787960.ts
+http://62.182.86.121:80/live/mell/mell/787960.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RJR 94 FM
-http://62.182.86.121:80/live/Cal/Cal/787961.ts
+http://62.182.86.121:80/live/mell/mell/787961.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",POWER 106 FM
-http://62.182.86.121:80/live/Cal/Cal/787962.ts
+http://62.182.86.121:80/live/mell/mell/787962.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",99 MUSIC FM
-http://62.182.86.121:80/live/Cal/Cal/787963.ts
+http://62.182.86.121:80/live/mell/mell/787963.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RUSH SPORTS
-http://62.182.86.121:80/live/Cal/Cal/787964.ts
+http://62.182.86.121:80/live/mell/mell/787964.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISNEY XD
-http://62.182.86.121:80/live/Cal/Cal/787965.ts
+http://62.182.86.121:80/live/mell/mell/787965.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JAM VISION
-http://62.182.86.121:80/live/Cal/Cal/787966.ts
+http://62.182.86.121:80/live/mell/mell/787966.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNBC
-http://62.182.86.121:80/live/Cal/Cal/787967.ts
+http://62.182.86.121:80/live/mell/mell/787967.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HARE KRSNA
-http://62.182.86.121:80/live/Cal/Cal/787968.ts
+http://62.182.86.121:80/live/mell/mell/787968.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FLOW SPORTS 2
-http://62.182.86.121:80/live/Cal/Cal/787969.ts
+http://62.182.86.121:80/live/mell/mell/787969.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELECURACAO
-http://62.182.86.121:80/live/Cal/Cal/787970.ts
+http://62.182.86.121:80/live/mell/mell/787970.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ARUBA TV
-http://62.182.86.121:80/live/Cal/Cal/787971.ts
+http://62.182.86.121:80/live/mell/mell/787971.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TCFM
-http://62.182.86.121:80/live/Cal/Cal/787972.ts
+http://62.182.86.121:80/live/mell/mell/787972.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AWE
-http://62.182.86.121:80/live/Cal/Cal/787973.ts
+http://62.182.86.121:80/live/mell/mell/787973.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",B4U MUSIC
-http://62.182.86.121:80/live/Cal/Cal/787974.ts
+http://62.182.86.121:80/live/mell/mell/787974.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",B4U MOVIES
-http://62.182.86.121:80/live/Cal/Cal/787975.ts
+http://62.182.86.121:80/live/mell/mell/787975.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BABY FIRST
-http://62.182.86.121:80/live/Cal/Cal/787976.ts
+http://62.182.86.121:80/live/mell/mell/787976.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET SOUL
-http://62.182.86.121:80/live/Cal/Cal/787977.ts
+http://62.182.86.121:80/live/mell/mell/787977.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET JAMS
-http://62.182.86.121:80/live/Cal/Cal/787978.ts
+http://62.182.86.121:80/live/mell/mell/787978.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET HER
-http://62.182.86.121:80/live/Cal/Cal/787979.ts
+http://62.182.86.121:80/live/mell/mell/787979.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNN
-http://62.182.86.121:80/live/Cal/Cal/787980.ts
+http://62.182.86.121:80/live/mell/mell/787980.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",COOKING CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/787981.ts
+http://62.182.86.121:80/live/mell/mell/787981.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DAYSTAR
-http://62.182.86.121:80/live/Cal/Cal/787982.ts
+http://62.182.86.121:80/live/mell/mell/787982.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY TURBO
-http://62.182.86.121:80/live/Cal/Cal/787983.ts
+http://62.182.86.121:80/live/mell/mell/787983.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY CIVILIZATION
-http://62.182.86.121:80/live/Cal/Cal/787984.ts
+http://62.182.86.121:80/live/mell/mell/787984.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GSN
-http://62.182.86.121:80/live/Cal/Cal/787985.ts
+http://62.182.86.121:80/live/mell/mell/787985.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MAV TV
-http://62.182.86.121:80/live/Cal/Cal/787986.ts
+http://62.182.86.121:80/live/mell/mell/787986.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NHK WORLD
-http://62.182.86.121:80/live/Cal/Cal/787987.ts
+http://62.182.86.121:80/live/mell/mell/787987.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NBC GOLF
-http://62.182.86.121:80/live/Cal/Cal/787988.ts
+http://62.182.86.121:80/live/mell/mell/787988.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TNT
-http://62.182.86.121:80/live/Cal/Cal/787989.ts
+http://62.182.86.121:80/live/mell/mell/787989.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRU TV
-http://62.182.86.121:80/live/Cal/Cal/787990.ts
+http://62.182.86.121:80/live/mell/mell/787990.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",USA NETWORK
-http://62.182.86.121:80/live/Cal/Cal/787991.ts
+http://62.182.86.121:80/live/mell/mell/787991.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELE ARUBA
-http://62.182.86.121:80/live/Cal/Cal/787992.ts
+http://62.182.86.121:80/live/mell/mell/787992.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JET TV
-http://62.182.86.121:80/live/Cal/Cal/787993.ts
+http://62.182.86.121:80/live/mell/mell/787993.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) THINK CARIBBEAN TELEVISION
-http://62.182.86.121:80/live/Cal/Cal/788014.ts
+http://62.182.86.121:80/live/mell/mell/788014.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) CBN
-http://62.182.86.121:80/live/Cal/Cal/788015.ts
+http://62.182.86.121:80/live/mell/mell/788015.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) EURONEWS
-http://62.182.86.121:80/live/Cal/Cal/788016.ts
+http://62.182.86.121:80/live/mell/mell/788016.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) GLITZ
-http://62.182.86.121:80/live/Cal/Cal/788017.ts
+http://62.182.86.121:80/live/mell/mell/788017.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) THE TURISM CHANNEL TV
-http://62.182.86.121:80/live/Cal/Cal/788018.ts
+http://62.182.86.121:80/live/mell/mell/788018.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) LOVE TV
-http://62.182.86.121:80/live/Cal/Cal/788019.ts
+http://62.182.86.121:80/live/mell/mell/788019.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) EHSN
-http://62.182.86.121:80/live/Cal/Cal/788020.ts
+http://62.182.86.121:80/live/mell/mell/788020.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) OWN
-http://62.182.86.121:80/live/Cal/Cal/788021.ts
+http://62.182.86.121:80/live/mell/mell/788021.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) CLEO
-http://62.182.86.121:80/live/Cal/Cal/788022.ts
+http://62.182.86.121:80/live/mell/mell/788022.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) LAW
-http://62.182.86.121:80/live/Cal/Cal/788023.ts
+http://62.182.86.121:80/live/mell/mell/788023.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) NBTV
-http://62.182.86.121:80/live/Cal/Cal/788024.ts
+http://62.182.86.121:80/live/mell/mell/788024.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) HISPANIC TV
-http://62.182.86.121:80/live/Cal/Cal/788025.ts
+http://62.182.86.121:80/live/mell/mell/788025.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) GINX
-http://62.182.86.121:80/live/Cal/Cal/788026.ts
+http://62.182.86.121:80/live/mell/mell/788026.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) TRAV
-http://62.182.86.121:80/live/Cal/Cal/788027.ts
+http://62.182.86.121:80/live/mell/mell/788027.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) DANCHALL EXTREME
-http://62.182.86.121:80/live/Cal/Cal/788028.ts
+http://62.182.86.121:80/live/mell/mell/788028.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) ZEE WORLD
-http://62.182.86.121:80/live/Cal/Cal/788029.ts
+http://62.182.86.121:80/live/mell/mell/788029.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) UWI TV
-http://62.182.86.121:80/live/Cal/Cal/788030.ts
+http://62.182.86.121:80/live/mell/mell/788030.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) FBN
-http://62.182.86.121:80/live/Cal/Cal/788031.ts
+http://62.182.86.121:80/live/mell/mell/788031.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW)LN
-http://62.182.86.121:80/live/Cal/Cal/788032.ts
+http://62.182.86.121:80/live/mell/mell/788032.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) SUR PERU
-http://62.182.86.121:80/live/Cal/Cal/788033.ts
+http://62.182.86.121:80/live/mell/mell/788033.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) GIS DOMINICA
-http://62.182.86.121:80/live/Cal/Cal/788034.ts
+http://62.182.86.121:80/live/mell/mell/788034.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CAR:(FLOW) RAI
-http://62.182.86.121:80/live/Cal/Cal/788035.ts
+http://62.182.86.121:80/live/mell/mell/788035.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL+
-http://62.182.86.121:80/live/Cal/Cal/782552.ts
+http://62.182.86.121:80/live/mell/mell/782552.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL+ SPORT 360
-http://62.182.86.121:80/live/Cal/Cal/782553.ts
+http://62.182.86.121:80/live/mell/mell/782553.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL+ DOCS
-http://62.182.86.121:80/live/Cal/Cal/782554.ts
+http://62.182.86.121:80/live/mell/mell/782554.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL+ KIDS
-http://62.182.86.121:80/live/Cal/Cal/782555.ts
+http://62.182.86.121:80/live/mell/mell/782555.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VOIR+
-http://62.182.86.121:80/live/Cal/Cal/782556.ts
+http://62.182.86.121:80/live/mell/mell/782556.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TF1
-http://62.182.86.121:80/live/Cal/Cal/782557.ts
+http://62.182.86.121:80/live/mell/mell/782557.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FRANCE 2
-http://62.182.86.121:80/live/Cal/Cal/782558.ts
+http://62.182.86.121:80/live/mell/mell/782558.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FRANCE 3
-http://62.182.86.121:80/live/Cal/Cal/782559.ts
+http://62.182.86.121:80/live/mell/mell/782559.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FRANCE 4
-http://62.182.86.121:80/live/Cal/Cal/782560.ts
+http://62.182.86.121:80/live/mell/mell/782560.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FRANCE 5
-http://62.182.86.121:80/live/Cal/Cal/782561.ts
+http://62.182.86.121:80/live/mell/mell/782561.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",M6
-http://62.182.86.121:80/live/Cal/Cal/782562.ts
+http://62.182.86.121:80/live/mell/mell/782562.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ARTE
-http://62.182.86.121:80/live/Cal/Cal/782563.ts
+http://62.182.86.121:80/live/mell/mell/782563.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV5 MONDE
-http://62.182.86.121:80/live/Cal/Cal/782564.ts
+http://62.182.86.121:80/live/mell/mell/782564.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL EVENEMENT
-http://62.182.86.121:80/live/Cal/Cal/782565.ts
+http://62.182.86.121:80/live/mell/mell/782565.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GUADELOUPE 1ERE
-http://62.182.86.121:80/live/Cal/Cal/782566.ts
+http://62.182.86.121:80/live/mell/mell/782566.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL 10
-http://62.182.86.121:80/live/Cal/Cal/782567.ts
+http://62.182.86.121:80/live/mell/mell/782567.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ECLAIR TV
-http://62.182.86.121:80/live/Cal/Cal/782568.ts
+http://62.182.86.121:80/live/mell/mell/782568.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ALIZES GUADELOUPE
-http://62.182.86.121:80/live/Cal/Cal/782569.ts
+http://62.182.86.121:80/live/mell/mell/782569.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MARTINIQUE 1ERE
-http://62.182.86.121:80/live/Cal/Cal/782570.ts
+http://62.182.86.121:80/live/mell/mell/782570.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VIÀ ATV
-http://62.182.86.121:80/live/Cal/Cal/782571.ts
+http://62.182.86.121:80/live/mell/mell/782571.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZOUK TV
-http://62.182.86.121:80/live/Cal/Cal/782572.ts
+http://62.182.86.121:80/live/mell/mell/782572.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",KMT
-http://62.182.86.121:80/live/Cal/Cal/782573.ts
+http://62.182.86.121:80/live/mell/mell/782573.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZITATA TV
-http://62.182.86.121:80/live/Cal/Cal/782574.ts
+http://62.182.86.121:80/live/mell/mell/782574.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GRAPHE TV
-http://62.182.86.121:80/live/Cal/Cal/782575.ts
+http://62.182.86.121:80/live/mell/mell/782575.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GUYANE 1ERE
-http://62.182.86.121:80/live/Cal/Cal/782576.ts
+http://62.182.86.121:80/live/mell/mell/782576.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",KOUROU TV
-http://62.182.86.121:80/live/Cal/Cal/782577.ts
+http://62.182.86.121:80/live/mell/mell/782577.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",IOTV
-http://62.182.86.121:80/live/Cal/Cal/782578.ts
+http://62.182.86.121:80/live/mell/mell/782578.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TROTTERS TV
-http://62.182.86.121:80/live/Cal/Cal/782579.ts
+http://62.182.86.121:80/live/mell/mell/782579.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FUSION TV
-http://62.182.86.121:80/live/Cal/Cal/782580.ts
+http://62.182.86.121:80/live/mell/mell/782580.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MY TV CARAÏBES
-http://62.182.86.121:80/live/Cal/Cal/782581.ts
+http://62.182.86.121:80/live/mell/mell/782581.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FRANCE 24
-http://62.182.86.121:80/live/Cal/Cal/782582.ts
+http://62.182.86.121:80/live/mell/mell/782582.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LCP ASSEMBLEE NATIONALE
-http://62.182.86.121:80/live/Cal/Cal/782583.ts
+http://62.182.86.121:80/live/mell/mell/782583.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNEWS
-http://62.182.86.121:80/live/Cal/Cal/782584.ts
+http://62.182.86.121:80/live/mell/mell/782584.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FRANCE INFO:
-http://62.182.86.121:80/live/Cal/Cal/782585.ts
+http://62.182.86.121:80/live/mell/mell/782585.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LCI
-http://62.182.86.121:80/live/Cal/Cal/782586.ts
+http://62.182.86.121:80/live/mell/mell/782586.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BBC WORLD NEWS
-http://62.182.86.121:80/live/Cal/Cal/782587.ts
+http://62.182.86.121:80/live/mell/mell/782587.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BFM TV
-http://62.182.86.121:80/live/Cal/Cal/782588.ts
+http://62.182.86.121:80/live/mell/mell/782588.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BFM BUSINESS
-http://62.182.86.121:80/live/Cal/Cal/782589.ts
+http://62.182.86.121:80/live/mell/mell/782589.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",KTO
-http://62.182.86.121:80/live/Cal/Cal/782590.ts
+http://62.182.86.121:80/live/mell/mell/782590.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NOVELAS TV
-http://62.182.86.121:80/live/Cal/Cal/782591.ts
+http://62.182.86.121:80/live/mell/mell/782591.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",A+
-http://62.182.86.121:80/live/Cal/Cal/782592.ts
+http://62.182.86.121:80/live/mell/mell/782592.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",C8
-http://62.182.86.121:80/live/Cal/Cal/782593.ts
+http://62.182.86.121:80/live/mell/mell/782593.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",W9
-http://62.182.86.121:80/live/Cal/Cal/782594.ts
+http://62.182.86.121:80/live/mell/mell/782594.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TMC
-http://62.182.86.121:80/live/Cal/Cal/782595.ts
+http://62.182.86.121:80/live/mell/mell/782595.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TFX
-http://62.182.86.121:80/live/Cal/Cal/782596.ts
+http://62.182.86.121:80/live/mell/mell/782596.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NRJ 12
-http://62.182.86.121:80/live/Cal/Cal/782597.ts
+http://62.182.86.121:80/live/mell/mell/782597.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CSTAR
-http://62.182.86.121:80/live/Cal/Cal/782598.ts
+http://62.182.86.121:80/live/mell/mell/782598.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TF1 SÉRIES FILMS
-http://62.182.86.121:80/live/Cal/Cal/782599.ts
+http://62.182.86.121:80/live/mell/mell/782599.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",6TER
-http://62.182.86.121:80/live/Cal/Cal/782600.ts
+http://62.182.86.121:80/live/mell/mell/782600.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV BREIZH
-http://62.182.86.121:80/live/Cal/Cal/782601.ts
+http://62.182.86.121:80/live/mell/mell/782601.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TÉVA
-http://62.182.86.121:80/live/Cal/Cal/782602.ts
+http://62.182.86.121:80/live/mell/mell/782602.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PARIS PREMIÈRE
-http://62.182.86.121:80/live/Cal/Cal/782603.ts
+http://62.182.86.121:80/live/mell/mell/782603.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RTL9
-http://62.182.86.121:80/live/Cal/Cal/782604.ts
+http://62.182.86.121:80/live/mell/mell/782604.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",13ÈME RUE
-http://62.182.86.121:80/live/Cal/Cal/782605.ts
+http://62.182.86.121:80/live/mell/mell/782605.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SYFY
-http://62.182.86.121:80/live/Cal/Cal/782606.ts
+http://62.182.86.121:80/live/mell/mell/782606.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",COMÉDIE+
-http://62.182.86.121:80/live/Cal/Cal/782607.ts
+http://62.182.86.121:80/live/mell/mell/782607.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTV FRANCE
-http://62.182.86.121:80/live/Cal/Cal/782608.ts
+http://62.182.86.121:80/live/mell/mell/782608.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MCM
-http://62.182.86.121:80/live/Cal/Cal/782609.ts
+http://62.182.86.121:80/live/mell/mell/782609.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",E! ENTERTAINMENT
-http://62.182.86.121:80/live/Cal/Cal/782610.ts
+http://62.182.86.121:80/live/mell/mell/782610.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GAME ONE
-http://62.182.86.121:80/live/Cal/Cal/782611.ts
+http://62.182.86.121:80/live/mell/mell/782611.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NOLLYWOOD TV
-http://62.182.86.121:80/live/Cal/Cal/782612.ts
+http://62.182.86.121:80/live/mell/mell/782612.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",OLYMPIA TV
-http://62.182.86.121:80/live/Cal/Cal/782613.ts
+http://62.182.86.121:80/live/mell/mell/782613.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PLANÈTE+
-http://62.182.86.121:80/live/Cal/Cal/782614.ts
+http://62.182.86.121:80/live/mell/mell/782614.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PLANÈTE+ AVENTURE
-http://62.182.86.121:80/live/Cal/Cal/782615.ts
+http://62.182.86.121:80/live/mell/mell/782615.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",USHUAÏA TV
-http://62.182.86.121:80/live/Cal/Cal/782616.ts
+http://62.182.86.121:80/live/mell/mell/782616.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRAVELXP
-http://62.182.86.121:80/live/Cal/Cal/782617.ts
+http://62.182.86.121:80/live/mell/mell/782617.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TOUTE L'HISTOIRE
-http://62.182.86.121:80/live/Cal/Cal/782618.ts
+http://62.182.86.121:80/live/mell/mell/782618.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ENGLISH CLUB TV
-http://62.182.86.121:80/live/Cal/Cal/782619.ts
+http://62.182.86.121:80/live/mell/mell/782619.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PLANÈTE+ CRIME
-http://62.182.86.121:80/live/Cal/Cal/782620.ts
+http://62.182.86.121:80/live/mell/mell/782620.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NAT GEO
-http://62.182.86.121:80/live/Cal/Cal/782621.ts
+http://62.182.86.121:80/live/mell/mell/782621.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NAT GEO WILD
-http://62.182.86.121:80/live/Cal/Cal/782622.ts
+http://62.182.86.121:80/live/mell/mell/782622.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SEASONS
-http://62.182.86.121:80/live/Cal/Cal/782623.ts
+http://62.182.86.121:80/live/mell/mell/782623.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RMC STORY
-http://62.182.86.121:80/live/Cal/Cal/782624.ts
+http://62.182.86.121:80/live/mell/mell/782624.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RMC DÉCOUVERTE
-http://62.182.86.121:80/live/Cal/Cal/782625.ts
+http://62.182.86.121:80/live/mell/mell/782625.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CINÉ+ PREMIER
-http://62.182.86.121:80/live/Cal/Cal/782626.ts
+http://62.182.86.121:80/live/mell/mell/782626.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CINÉ+ FRISSON
-http://62.182.86.121:80/live/Cal/Cal/782627.ts
+http://62.182.86.121:80/live/mell/mell/782627.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CINÉ+ ÉMOTION
-http://62.182.86.121:80/live/Cal/Cal/782628.ts
+http://62.182.86.121:80/live/mell/mell/782628.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CINÉ+ FAMIZ
-http://62.182.86.121:80/live/Cal/Cal/782629.ts
+http://62.182.86.121:80/live/mell/mell/782629.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CINÉ+ CLUB
-http://62.182.86.121:80/live/Cal/Cal/782630.ts
+http://62.182.86.121:80/live/mell/mell/782630.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CINÉ+ CLASSIC
-http://62.182.86.121:80/live/Cal/Cal/782631.ts
+http://62.182.86.121:80/live/mell/mell/782631.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ACTION
-http://62.182.86.121:80/live/Cal/Cal/782632.ts
+http://62.182.86.121:80/live/mell/mell/782632.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PARAMOUNT NETWORK
-http://62.182.86.121:80/live/Cal/Cal/782633.ts
+http://62.182.86.121:80/live/mell/mell/782633.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",INFOSPORT+
-http://62.182.86.121:80/live/Cal/Cal/782634.ts
+http://62.182.86.121:80/live/mell/mell/782634.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",L'ÉQUIPE
-http://62.182.86.121:80/live/Cal/Cal/782635.ts
+http://62.182.86.121:80/live/mell/mell/782635.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",EQUIDIA LIVE
-http://62.182.86.121:80/live/Cal/Cal/782636.ts
+http://62.182.86.121:80/live/mell/mell/782636.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",EUROSPORT 1
-http://62.182.86.121:80/live/Cal/Cal/782637.ts
+http://62.182.86.121:80/live/mell/mell/782637.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WATAAA
-http://62.182.86.121:80/live/Cal/Cal/782638.ts
+http://62.182.86.121:80/live/mell/mell/782638.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MGG TV
-http://62.182.86.121:80/live/Cal/Cal/782639.ts
+http://62.182.86.121:80/live/mell/mell/782639.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISNEY CHANNEL
-http://62.182.86.121:80/live/Cal/Cal/782640.ts
+http://62.182.86.121:80/live/mell/mell/782640.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PIWI+
-http://62.182.86.121:80/live/Cal/Cal/782641.ts
+http://62.182.86.121:80/live/mell/mell/782641.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NICK JR
-http://62.182.86.121:80/live/Cal/Cal/782642.ts
+http://62.182.86.121:80/live/mell/mell/782642.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TÉLÉTOON+
-http://62.182.86.121:80/live/Cal/Cal/782643.ts
+http://62.182.86.121:80/live/mell/mell/782643.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GULLI
-http://62.182.86.121:80/live/Cal/Cal/782644.ts
+http://62.182.86.121:80/live/mell/mell/782644.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL J
-http://62.182.86.121:80/live/Cal/Cal/782645.ts
+http://62.182.86.121:80/live/mell/mell/782645.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NICKELODEON
-http://62.182.86.121:80/live/Cal/Cal/782646.ts
+http://62.182.86.121:80/live/mell/mell/782646.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LUDIKIDS
-http://62.182.86.121:80/live/Cal/Cal/782647.ts
+http://62.182.86.121:80/live/mell/mell/782647.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISNEY JR
-http://62.182.86.121:80/live/Cal/Cal/782648.ts
+http://62.182.86.121:80/live/mell/mell/782648.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRACE URBAN
-http://62.182.86.121:80/live/Cal/Cal/782649.ts
+http://62.182.86.121:80/live/mell/mell/782649.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRACE CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/782650.ts
+http://62.182.86.121:80/live/mell/mell/782650.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRACE LATINA
-http://62.182.86.121:80/live/Cal/Cal/782651.ts
+http://62.182.86.121:80/live/mell/mell/782651.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRACE AYITI
-http://62.182.86.121:80/live/Cal/Cal/782652.ts
+http://62.182.86.121:80/live/mell/mell/782652.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BBLACK CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/782653.ts
+http://62.182.86.121:80/live/mell/mell/782653.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRACE GOSPEL
-http://62.182.86.121:80/live/Cal/Cal/782654.ts
+http://62.182.86.121:80/live/mell/mell/782654.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTV HITS
-http://62.182.86.121:80/live/Cal/Cal/782655.ts
+http://62.182.86.121:80/live/mell/mell/782655.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV GLOBO
-http://62.182.86.121:80/live/Cal/Cal/782656.ts
+http://62.182.86.121:80/live/mell/mell/782656.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",3ABN CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/782657.ts
+http://62.182.86.121:80/live/mell/mell/782657.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ARTS
-http://62.182.86.121:80/live/Cal/Cal/782658.ts
+http://62.182.86.121:80/live/mell/mell/782658.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BAHAMAS PARLIAMENT
-http://62.182.86.121:80/live/Cal/Cal/782659.ts
+http://62.182.86.121:80/live/mell/mell/782659.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BASHMENT
-http://62.182.86.121:80/live/Cal/Cal/782660.ts
+http://62.182.86.121:80/live/mell/mell/782660.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL 11
-http://62.182.86.121:80/live/Cal/Cal/782661.ts
+http://62.182.86.121:80/live/mell/mell/782661.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CARS TV
-http://62.182.86.121:80/live/Cal/Cal/782662.ts
+http://62.182.86.121:80/live/mell/mell/782662.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CBC TV 8
-http://62.182.86.121:80/live/Cal/Cal/782663.ts
+http://62.182.86.121:80/live/mell/mell/782663.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CBN TV BVI
-http://62.182.86.121:80/live/Cal/Cal/782664.ts
+http://62.182.86.121:80/live/mell/mell/782664.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CGTN DOCUMENTARY
-http://62.182.86.121:80/live/Cal/Cal/782665.ts
-
+http://62.182.86.121:80/live/mell/mell/782665.ts
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
@@ -1624,6 +1623,142 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/playlist.m
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg",CRACKLE
 http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s34933_ll_h3_ab.png",Cinemax
+https://trezix.tv:443/CharlieS/CharlieS/4772.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s59961_ll_h3_ad.png",Cinemax 5 Star Max
+https://trezix.tv:443/CharlieS/CharlieS/63177.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s59948_ll_h3_ac.png",Cinemax Action Max
+https://trezix.tv:443/CharlieS/CharlieS/24261.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s59373_ll_h3_ad.png",Cinemax More Max
+https://trezix.tv:443/CharlieS/CharlieS/12229.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s59963_ll_h3_ab.png",Cinemax Movie Max
+https://trezix.tv:443/CharlieS/CharlieS/24260.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s59954_ll_h3_ab.png",Cinemax Thriller Max
+https://trezix.tv:443/CharlieS/CharlieS/12231.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s52199_ll_h3_ab.png",REELZ
+https://trezix.tv:443/CharlieS/CharlieS/16103.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s49767_ll_h3_aa.png",RetroPlex
+https://trezix.tv:443/CharlieS/CharlieS/61318.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s70113_ll_h3_aa.png",PixL
+https://trezix.tv:443/CharlieS/CharlieS/24296.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s15295_ll_h3_ac.png",MoviePlex
+https://trezix.tv:443/CharlieS/CharlieS/16100.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s10240_ll_h3_aa.png",HBO
+https://trezix.tv:443/CharlieS/CharlieS/4778.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s61568_ll_h3_ab.png",HBO Canada 1
+https://trezix.tv:443/CharlieS/CharlieS/62490.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s61628_ll_h3_ac.png",HBO Canada 2
+https://trezix.tv:443/CharlieS/CharlieS/62489.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s18429_ll_h3_aa.png",HBO Comedy
+https://trezix.tv:443/CharlieS/CharlieS/4777.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s16585_ll_h3_aa.png",HBO Family
+https://trezix.tv:443/CharlieS/CharlieS/4779.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png",HBO Signature
+https://trezix.tv:443/CharlieS/CharlieS/4781.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s18431_ll_h3_aa.png",HBO Zone
+https://trezix.tv:443/CharlieS/CharlieS/4782.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s10241_ll_h3_aa.png",HBO2
+https://trezix.tv:443/CharlieS/CharlieS/61955.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s33668_ll_h3_ae.png",HDNet Movies
+https://trezix.tv:443/CharlieS/CharlieS/16099.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s11160_ll_h3_aa.png",The Movie Channel
+https://trezix.tv:443/CharlieS/CharlieS/247511.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s17663_ll_h3_aa.png",The Movie Channel Extra
+https://trezix.tv:443/CharlieS/CharlieS/247512.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s64312_ll_h3_aa.png",Turner Classic Movies
+https://trezix.tv:443/CharlieS/CharlieS/16076.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg",ACTION Premium Rush
+https://trezix.tv:443/movie/CharlieS/CharlieS/264568.mp4
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haP8R490QeEzAJgRHuutIuG8KOG.jpg",THRILLERS Premium Rush
+https://trezix.tv:443/movie/CharlieS/CharlieS/264568.mp4
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s65669_ll_h3_ad.png",EPIX
+https://trezix.tv:443/CharlieS/CharlieS/16091.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s103828_ll_h3_ac.png",EPIX Drive-In
+https://trezix.tv:443/CharlieS/CharlieS/16093.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s74073_ll_h3_ac.png",EPIX Hits
+https://trezix.tv:443/CharlieS/CharlieS/16094.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s67929_ll_h3_ac.png",EPIX2
+https://trezix.tv:443/CharlieS/CharlieS/16092.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s33382_ll_h3_ab.png",Crave 1
+https://trezix.tv:443/CharlieS/CharlieS/62485.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s65988_ll_h3_ac.png",Crave 2
+https://trezix.tv:443/CharlieS/CharlieS/62486.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s12223_ll_h3_ab.png",Crave 3
+https://trezix.tv:443/CharlieS/CharlieS/62487.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s21351_ll_h3_ab.png",Crave 4
+https://trezix.tv:443/CharlieS/CharlieS/62488.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s11115_ll_h3_ac.png",Showtime
+https://trezix.tv:443/CharlieS/CharlieS/16104.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s11115_ll_h3_ac.png",Showtime 2
+https://trezix.tv:443/CharlieS/CharlieS/16105.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s60947_ll_h3_aa.png",Showtime Extreme
+https://trezix.tv:443/CharlieS/CharlieS/16107.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s25274_ll_h3_ac.png",Showtime Family Zone
+https://trezix.tv:443/CharlieS/CharlieS/16108.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s68342_ll_h3_aa.png",Showtime Next
+https://trezix.tv:443/CharlieS/CharlieS/16109.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s61001_ll_h3_aa.png",Showtime Showcase
+https://trezix.tv:443/CharlieS/CharlieS/16110.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s11115_ll_h3_ac.png",Showtime West
+https://trezix.tv:443/CharlieS/CharlieS/16111.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s68338_ll_h3_aa.png",Showtime Women
+https://trezix.tv:443/CharlieS/CharlieS/16112.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s68340_h3_aa.png",SHO×BET
+https://trezix.tv:443/CharlieS/CharlieS/16106.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s24031_ll_h3_aa.png",Sky Cinema Action
+https://trezix.tv:443/CharlieS/CharlieS/192595.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s24039_ll_h3_aa.png",Sky Cinema Comedy
+https://trezix.tv:443/CharlieS/CharlieS/192588.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s24032_ll_h3_aa.png",Sky Cinema Drama
+https://trezix.tv:443/CharlieS/CharlieS/192589.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s24040_ll_h3_aa.png",Sky Cinema Family
+https://trezix.tv:443/CharlieS/CharlieS/192592.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s24042_ll_h3_aa.png",Sky Cinema Greats
+https://trezix.tv:443/CharlieS/CharlieS/192590.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s56141_ll_h3_aa.png",Sky Cinema Hits
+https://trezix.tv:443/CharlieS/CharlieS/192594.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s21107_ll_h3_aa.png",Sky Cinema Premier
+https://trezix.tv:443/CharlieS/CharlieS/192586.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s24041_ll_h3_aa.png",Sky Cinema Sci Fi & Horror
+https://trezix.tv:443/CharlieS/CharlieS/192591.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s49139_ll_h3_aa.png",Sky Cinema Select
+https://trezix.tv:443/CharlieS/CharlieS/192593.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s56140_ll_h3_aa.png",Sky Cinema Thriller
+https://trezix.tv:443/CharlieS/CharlieS/192587.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s101302_ll_h3_aa.png" group-title="World News",Sky News (UK)
+https://trezix.tv:443/CharlieS/CharlieS/192630.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s69091_ll_h3_aa.png",Sony Movie Channel
+https://trezix.tv:443/CharlieS/CharlieS/16085.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s19997_ll_h3_aa.png" group-title="World News",Spectrum Bay News 9 (USA)
+https://trezix.tv:443/CharlieS/CharlieS/249301.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s12719_ll_h3_ab.png",Starz
+https://trezix.tv:443/CharlieS/CharlieS/16113.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s19634_ll_h3_ab.png",Starz Cinema
+https://trezix.tv:443/CharlieS/CharlieS/16114.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s34901_ll_h3_ab.png",Starz Comedy
+https://trezix.tv:443/CharlieS/CharlieS/16115.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s16311_ll_h3_ab.png",Starz Edge
+https://trezix.tv:443/CharlieS/CharlieS/16116.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s10178_ll_h3_ab.png",Starz Encore
+https://trezix.tv:443/CharlieS/CharlieS/16117.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s14871_ll_h3_ab.png",Starz Encore Action
+https://trezix.tv:443/CharlieS/CharlieS/16118.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s14870_ll_h3_ab.png",Starz Encore Black
+https://trezix.tv:443/CharlieS/CharlieS/16119.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s14886_ll_h3_ab.png",Starz Encore Family
+https://trezix.tv:443/CharlieS/CharlieS/16121.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s14766_h3_aa.png",Starz Encore Suspense
+https://trezix.tv:443/CharlieS/CharlieS/16122.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s10178_ll_h3_ab.png",Starz Encore West
+https://trezix.tv:443/CharlieS/CharlieS/16123.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s14765_ll_h3_ab.png",Starz Encore Westerns
+https://trezix.tv:443/CharlieS/CharlieS/16124.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s16833_ll_h3_ab.png",Starz in Black
+https://trezix.tv:443/CharlieS/CharlieS/16125.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s19635_ll_h3_ab.png",Starz Kids & Family
+https://trezix.tv:443/CharlieS/CharlieS/16126.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://fanc.tmsimg.com/assets/s12719_ll_h3_ab.png",Starz West
+https://trezix.tv:443/CharlieS/CharlieS/16127.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/47nJH8g/indie-plex.jpg",INDIE PLEX
 http://tv.nousiptv.com:8080/yira.usa/Y2023/8142
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k5ZHTL9/starz-encore-western.jpg",STARZ WESTERN HD
@@ -3360,314 +3495,6 @@ http://fortv.cc:8080/live/jonathan/jonathan/119435.m3u8
 http://fortv.cc:8080/live/jonathan/jonathan/119436.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: THRILLER
 http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ACTION MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764511.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: AL PACINO
-http://62.182.86.121:80/live/Cal/Cal/764512.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ANDY SERKIS
-http://62.182.86.121:80/live/Cal/Cal/764513.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ANTHONY HOPKINS
-http://62.182.86.121:80/live/Cal/Cal/764514.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ANTHONY MARKIE
-http://62.182.86.121:80/live/Cal/Cal/764515.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ARNOLD SCHWARZENEGGER
-http://62.182.86.121:80/live/Cal/Cal/764516.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BENEDICT CUMBERBATCH
-http://62.182.86.121:80/live/Cal/Cal/764517.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRAD PITT
-http://62.182.86.121:80/live/Cal/Cal/764518.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRADLEY COOPER
-http://62.182.86.121:80/live/Cal/Cal/764519.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRENDAN FRASER
-http://62.182.86.121:80/live/Cal/Cal/764520.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRUCE LEE
-http://62.182.86.121:80/live/Cal/Cal/764521.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRUCE WILLIS
-http://62.182.86.121:80/live/Cal/Cal/764522.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRIS EVANS
-http://62.182.86.121:80/live/Cal/Cal/764523.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRIS HEMSWORTH
-http://62.182.86.121:80/live/Cal/Cal/764524.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRIS PINE
-http://62.182.86.121:80/live/Cal/Cal/764525.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRISTIAN BALE
-http://62.182.86.121:80/live/Cal/Cal/764526.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRISTOPHER WALKEN
-http://62.182.86.121:80/live/Cal/Cal/764527.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CLINT EASTWOOD
-http://62.182.86.121:80/live/Cal/Cal/764528.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: COLIN FIRTH
-http://62.182.86.121:80/live/Cal/Cal/764529.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DANIEL DAY LEWIS
-http://62.182.86.121:80/live/Cal/Cal/764530.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DANIEL RADCLIFFE
-http://62.182.86.121:80/live/Cal/Cal/764531.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DENZEL WASHINGTON
-http://62.182.86.121:80/live/Cal/Cal/764532.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DWAYNE JOHNSON
-http://62.182.86.121:80/live/Cal/Cal/764533.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: GARY OLDMAN
-http://62.182.86.121:80/live/Cal/Cal/764534.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HARRISON FORD
-http://62.182.86.121:80/live/Cal/Cal/764535.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HENRY CAVILL
-http://62.182.86.121:80/live/Cal/Cal/764536.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HUGH JACKMAN
-http://62.182.86.121:80/live/Cal/Cal/764537.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HUGO WEAVING
-http://62.182.86.121:80/live/Cal/Cal/764538.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JACKIE CHAN
-http://62.182.86.121:80/live/Cal/Cal/764539.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JAKE GYLLENHAAL
-http://62.182.86.121:80/live/Cal/Cal/764540.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JAMES FRANCO
-http://62.182.86.121:80/live/Cal/Cal/764541.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JAMIE FOXX
-http://62.182.86.121:80/live/Cal/Cal/764542.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JASON BATEMAN
-http://62.182.86.121:80/live/Cal/Cal/764543.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JASON STATHAM
-http://62.182.86.121:80/live/Cal/Cal/764544.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JOAQUIN PHOENIX
-http://62.182.86.121:80/live/Cal/Cal/764545.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JOHN CENA
-http://62.182.86.121:80/live/Cal/Cal/764546.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JOHNNY DEPP
-http://62.182.86.121:80/live/Cal/Cal/764547.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: KEANU REEVES
-http://62.182.86.121:80/live/Cal/Cal/764548.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: LEONARDO DICAPRIO
-http://62.182.86.121:80/live/Cal/Cal/764549.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: LIAM NEESON
-http://62.182.86.121:80/live/Cal/Cal/764550.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MARK RUFFALO
-http://62.182.86.121:80/live/Cal/Cal/764551.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MATT DAMON
-http://62.182.86.121:80/live/Cal/Cal/764552.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MATTHEW MCCONAUGHEY
-http://62.182.86.121:80/live/Cal/Cal/764553.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MICHAEL CAINE
-http://62.182.86.121:80/live/Cal/Cal/764554.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MORGAN FREEMAN
-http://62.182.86.121:80/live/Cal/Cal/764555.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: PAUL WALKER
-http://62.182.86.121:80/live/Cal/Cal/764556.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROBERT DE NIRO
-http://62.182.86.121:80/live/Cal/Cal/764557.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROBERT DOWNEY JR
-http://62.182.86.121:80/live/Cal/Cal/764558.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROBERT PATTINSON
-http://62.182.86.121:80/live/Cal/Cal/764559.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: RYAN REYNOLDS
-http://62.182.86.121:80/live/Cal/Cal/764560.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SAMUEL L JACKSON
-http://62.182.86.121:80/live/Cal/Cal/764561.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SYLVESTER STALLONE
-http://62.182.86.121:80/live/Cal/Cal/764562.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TOBEY MAGUIRE
-http://62.182.86.121:80/live/Cal/Cal/764563.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TOM CRUISE
-http://62.182.86.121:80/live/Cal/Cal/764564.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TOMMY LEE JONES
-http://62.182.86.121:80/live/Cal/Cal/764565.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: VIN DIESEL
-http://62.182.86.121:80/live/Cal/Cal/764566.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: WILL SMITH
-http://62.182.86.121:80/live/Cal/Cal/764567.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: WILLEM DAFOE
-http://62.182.86.121:80/live/Cal/Cal/764568.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ALIEN
-http://62.182.86.121:80/live/Cal/Cal/764569.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ARCHIVE MOVIE 2
-http://62.182.86.121:80/live/Cal/Cal/764570.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: AVERAGE MOVIES 1
-http://62.182.86.121:80/live/Cal/Cal/764571.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BATMAN MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764572.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BLADE MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764573.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BOXING MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764574.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BRUCE LEE MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764575.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRISTMAS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764576.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: COMEDY MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764577.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: COMEDY MOVIES 1
-http://62.182.86.121:80/live/Cal/Cal/764578.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: COMEDY MOVIES 2
-http://62.182.86.121:80/live/Cal/Cal/764579.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CRIME MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764580.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DC CINEMATIC UNIVERSE
-http://62.182.86.121:80/live/Cal/Cal/764581.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DIE HARD
-http://62.182.86.121:80/live/Cal/Cal/764582.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: FAMILY MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764583.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: FAST AND FURIOUS
-http://62.182.86.121:80/live/Cal/Cal/764584.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: FINAL DESTINATION
-http://62.182.86.121:80/live/Cal/Cal/764585.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: FRIDAY THE 13TH
-http://62.182.86.121:80/live/Cal/Cal/764586.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HARRY POTTER
-http://62.182.86.121:80/live/Cal/Cal/764587.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HOME ALONE
-http://62.182.86.121:80/live/Cal/Cal/764588.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HORROR MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764589.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HWF DISNEY
-http://62.182.86.121:80/live/Cal/Cal/764590.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: INDIANA JONES
-http://62.182.86.121:80/live/Cal/Cal/764591.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: INSIDIOUS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764592.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JACKIE CHAN MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764593.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JAMES BOND
-http://62.182.86.121:80/live/Cal/Cal/764594.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JASON BOURNE
-http://62.182.86.121:80/live/Cal/Cal/764595.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JCVD MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764596.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JET LI MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764597.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JUMANJI
-http://62.182.86.121:80/live/Cal/Cal/764598.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JURASSIC PARK
-http://62.182.86.121:80/live/Cal/Cal/764599.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: KING OF THE HILL
-http://62.182.86.121:80/live/Cal/Cal/764600.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MARVEL CINEMATIC UNIVERSE
-http://62.182.86.121:80/live/Cal/Cal/764601.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MEN IN BLACK
-http://62.182.86.121:80/live/Cal/Cal/764602.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MISSION IMPOSSIBLE
-http://62.182.86.121:80/live/Cal/Cal/764603.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: NATHAN FOR YOU
-http://62.182.86.121:80/live/Cal/Cal/764604.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: PIRATES OF THE CARIBBEAN
-http://62.182.86.121:80/live/Cal/Cal/764605.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: PLANET OF THE APES
-http://62.182.86.121:80/live/Cal/Cal/764606.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: PREDATOR/ALIEN MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764607.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: QUENTIN TARANTINO MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764608.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: RAMBO
-http://62.182.86.121:80/live/Cal/Cal/764609.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: RESIDENT EVIL
-http://62.182.86.121:80/live/Cal/Cal/764610.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROB ZOMBIE MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764611.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROCKY
-http://62.182.86.121:80/live/Cal/Cal/764612.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROMANCE MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764613.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SCARY MOVIE
-http://62.182.86.121:80/live/Cal/Cal/764614.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SCI-FI MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764615.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SPIDER MAN
-http://62.182.86.121:80/live/Cal/Cal/764616.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SPIDERMAN
-http://62.182.86.121:80/live/Cal/Cal/764617.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SPORTS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764618.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: STAR TREK
-http://62.182.86.121:80/live/Cal/Cal/764619.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: STAR TREK MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764620.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: STAR WARS
-http://62.182.86.121:80/live/Cal/Cal/764621.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SUPERHERO MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764622.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: SUPERMAN
-http://62.182.86.121:80/live/Cal/Cal/764623.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TALES FROM THE LOOP
-http://62.182.86.121:80/live/Cal/Cal/764624.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TEXAS CHAINSAW MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764625.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE CHRONICLES OF NARNIA
-http://62.182.86.121:80/live/Cal/Cal/764626.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE CONJURING
-http://62.182.86.121:80/live/Cal/Cal/764627.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE HUNGER GAMES
-http://62.182.86.121:80/live/Cal/Cal/764628.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE LORD OF THE RINGS
-http://62.182.86.121:80/live/Cal/Cal/764629.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE MARINE
-http://62.182.86.121:80/live/Cal/Cal/764630.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE MATRIX
-http://62.182.86.121:80/live/Cal/Cal/764631.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE MUMMY
-http://62.182.86.121:80/live/Cal/Cal/764632.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE TERMINATOR
-http://62.182.86.121:80/live/Cal/Cal/764633.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE TRANSPORTER
-http://62.182.86.121:80/live/Cal/Cal/764634.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE TWILIGHT SAGA
-http://62.182.86.121:80/live/Cal/Cal/764635.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THRILLER MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764636.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TRANSFORMERS
-http://62.182.86.121:80/live/Cal/Cal/764637.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: UNIVERSAL SOLDIER
-http://62.182.86.121:80/live/Cal/Cal/764638.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: VAMPIRE MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764639.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: WAR MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764640.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: X-MEN
-http://62.182.86.121:80/live/Cal/Cal/764641.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: US MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764642.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: BACK TO THE FUTURE MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764643.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CARRY ON MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764644.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: CHRISTMAS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764645.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: DIE HARD MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764646.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: FAST AND FURIOUS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764647.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: FIFTY SHADES MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764648.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: HARRY POTTER MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764649.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: INDIANA JONES MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764650.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: INSIDIOUS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764651.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: JOHNNY ENGLISH MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764652.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: LORD OF THE RINGS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764653.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: MARVEL MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764654.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: PIRATES OF THE CARIBBEAN MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764655.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: PITCH PERFECT MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764656.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: RAMBO MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764657.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: ROCKY MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764658.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: TAKEN MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764659.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: STAR WARS MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764660.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE GODFATHER MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764661.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE HOBBIT MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764662.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE MATRIX MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764663.ts
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7: THE PURGE MOVIES
-http://62.182.86.121:80/live/Cal/Cal/764664.ts
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png",CBS HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u8
