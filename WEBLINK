@@ -1505,8 +1505,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/play
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX
 https://is.gd/qBg8NI
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://showbizjunkies.com/wp-content/uploads/2013/07/reelz-channel-logo.jpg",REELZ CHANNEL
-https://is.gd/rWT1VL
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME EAST
@@ -1588,8 +1586,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlis
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://viewmaniac.com/wp-content/uploads/2015/12/Revolt.png",REVOLT HD
-http://ip365.cx:80/JMnsxysV/DAD5B8B7/176704
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.quadro.net/app/uploads/2020/07/WPIX-New-York-Logo.png",WPIX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8
@@ -3354,7 +3350,7 @@ https://d3e900fnvjyq99.cloudfront.net/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.
 https://d3e900fnvjyq99.cloudfront.net/d/HSKV2TFJKIB08IVJ32W0/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657295
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",Cinevault Westerns (CA)
 https://gsn-cinevault-westerns-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://westernschannel.com/wp-content/uploads/2019/10/Westerns-Channel-youtube-logo.png,The Western Channel
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://westernschannel.com/wp-content/uploads/2019/10/Westerns-Channel-youtube-logo.png",The Western Channel
 https://hls.showfer.com/stream/6346d9b5554328cd4b6c036a/airy.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://ae01.alicdn.com/kf/HTB15PBtSVXXXXXOXXXXq6xXFXXXX/Cloud-Sunset-Wild-West-Dallas-Cowboys-Scene-Theme-Party-backdrop-Vinyl-cloth-High-quality-Computer-printed.jpg_640x640.jpg",Now WILD WEST
 https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
