@@ -533,6 +533,91 @@ https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/05/cropped-mtm-globe.png",MTM TV (720p)
 https://wowza.btbn.tv:5443/mtmtv/streams/live.m3u8
 
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-F89h5ZnD2-4/Ymxk2W2wpDI/AAAAAAAADlo/XKEe64t0E-Mjmp8Z5E1xajl-itmXHYsEQCNcBGAsYHQ/w200-h200/1651270871578850-3.png",VEN-CANAL I (X)(720)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153993
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-XlnPcjbR5E4/YmxPVY0P00I/AAAAAAAADj4/A_iavJ1NAWIjIYoGywFxeYDT6OwbB8x2wCNcBGAsYHQ/w200-h200/1651265363730883-5.png",VEN-Globavision (TV)(SD)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153986
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-O34QQmRpH4s/Ymxk2n3VigI/AAAAAAAADls/YYkQtdPlxxIxdMVNok7OIQrv4D4eD18QgCNcBGAsYHQ/w200-h200/1651270873599093-2.png",VEN-Hispantv (X)(HQ)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153994
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-4PrxkdOVgkU/Ymxk3bTD7UI/AAAAAAAADlw/IynrbVTF1A8hj6eYTdQG6CpjuaBBb9dgQCNcBGAsYHQ/w200-h200/1651270875695937-1.png",VEN-IVC (X)(720)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153996
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-p3s-E2xcOEU/YmxmD3JTnSI/AAAAAAAADmI/R24hQO865u0eDQPNsfH2rwLvwVmCleUuACNcBGAsYHQ/w200-h200/1651271182056688-0.png",VEN-Movie Fe (X)(SD)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153995
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-upVRETj3i8I/YmxPX49Xe7I/AAAAAAAADkI/KGgXkkhcTk80BYIooqXKD7a0kZzxM7UtACNcBGAsYHQ/w200-h200/1651265373365780-1.png",VEN-Nubeh TV (X)(720)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153990
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-irl8GPKS6GU/Ymxk1lrBVXI/AAAAAAAADlk/eC6VXBs3vdAH-ufdT36wOHD5GFich4WEQCNcBGAsYHQ/w200-h200/1651270869471576-4.png",VEN-Panavision (X)(1080)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153992
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-bekngLbCxys/YmxPV8lpj1I/AAAAAAAADj8/WoHlHmSzBbETRIm7DeFfUcdxlHX7pNQyACNcBGAsYHQ/w200-h200/1651265365809678-4.png",VEN-RT Ñ (X)(SD)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153987
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telesur.png",VEN-Telesur (M)(1080)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/107203
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-JN8wjuDoHFE/YmxPTcrqfhI/AAAAAAAADjs/Z63W1Nhx7zEl4TdGsgjkM3GCU3jWdKnWwCNcBGAsYHQ/w200-h200/1651265355926147-8.png",VEN-Telesur (X)(1080)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153983
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-MiciUQ0uCbg/YmxPUHBhAzI/AAAAAAAADjw/4gH90MVrzrwpWRsbKmoBEJUasUbnNuR0gCNcBGAsYHQ/w200-h200/1651265359033640-7.png",VEN-Televen (X)(SD)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153985
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-iY9RH4SBkOg/YmxPWxcv-1I/AAAAAAAADkE/0Qv4vhEnjyMA8HD5CICnF7stXWMFxwQAwCNcBGAsYHQ/w200-h200/1651265370402877-2.png",VEN-TLT (X)(1080)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153989
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-DdVWa5HL7Gw/YmxPSDGPdJI/AAAAAAAADjk/O31vWrq8LP8ru1Fci92De5R_AqY9rRWcgCNcBGAsYHQ/w200-h200/1651265350566494-10.png",VEN-Venevision (X)(720)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153981
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://lh3.googleusercontent.com/-YDuwzT6TTPE/YmxPSsK8k1I/AAAAAAAADjo/lsoU8iac454NwS9CR-caxE2pLE-E6UpRACNcBGAsYHQ/w200-h200/1651265352925832-9.png",VEN-Venevision Plus (X)(720)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/153982
+#EXTINF:-1 group-title="Venezuela" tvg-logo="http://ceoapps.org/logos/venevision.png",Venevision
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106073
+#EXTINF:-1 group-title="Venezuela" tvg-logo="http://ceoapps.org/logos/venevision.png",Venevision (Opcion 2)
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106072
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Venevision_Plus_Logo_2016.png",Venevision Plus
+http://magi-stv.net:8080/Joseluis/Joseluis123/2130324
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Rusia today
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106079
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",V Conciencia
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106069
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Canal I
+http://magi-stv.net:8080/Joseluis/Joseluis123/2123566
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Canal Once Del Zulia
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106082
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",CGNTV
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106081
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Globovision
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106060
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",IVC
+http://magi-stv.net:8080/Joseluis/Joseluis123/2145660
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",La Tele Tuya TLT
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106083
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Meridiano
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106062
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Promar
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106080
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Telesur
+http://magi-stv.net:8080/Joseluis/Joseluis123/2123568
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TeleVen
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106065
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TeleVen (Opcion 2)
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106066
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TLT
+http://magi-stv.net:8080/Joseluis/Joseluis123/2123567
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TV Familia
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106068
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TVES
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106070
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Vale TV
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106071
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VEN- Fox Sports Venezuela (M)(720)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/107206
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VEN-Canal I (TV)(1080)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/107197
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VEN-Tves (M)(1080)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/107205
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VEN-Ve Plus (X)(SD)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/107201
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VEN-TLT (M)(HQ)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/107202
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VEN-Globovision (TV)(HQ)
+http://tv.p1a.xyz:43201/castiblancofer1/8NQ9y6oRsH/107198
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Venezolana de Television
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106076
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Vive HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/2106078
+
 #EXTINF:-1 group-title="Brazil" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png",A&E FHD
 http://ucsxiptv.com:8080/i4stream/teleg7985789095432354gsdiekv/1
 #EXTINF:-1 group-title="Brazil" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png",A&E HD
@@ -1464,6 +1549,102 @@ http://103.145.13.105:8080/juanchy/juanchy/18004
 http://103.145.13.105:8080/juanchy/juanchy/18005
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/b948e4fd404c02c3af3b0fcf1ed08a94.gif",USA| CINEMA PPVV 20
 http://103.145.13.105:8080/juanchy/juanchy/18006
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/cc5ae0f96fd5b150c62d53e601c56c80.png",EPIX 2 HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197423
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/c4c98a784460dbd6b7e30f71b466d178.png",EPIX FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17189
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/cdbe022f75045f6a1003781b92177817.png",Hallmark Channel HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17246
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/cdbe022f75045f6a1003781b92177817.png",Hallmark Movies & Mysteries HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17180
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://sdmx.us:25461/images/a5675392a677c28832cbc64e21b390eb.png",HBO
+http://magi-stv.net:8080/Joseluis/Joseluis123/17251
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/hbo2.png",HBO 2 East
+http://magi-stv.net:8080/Joseluis/Joseluis123/17248
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/hbo2.png",HBO 2 FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17259
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://sdmx.us:25461/images/465d7fea202011bbeace2b26d46bd128.png",HBO 2 West
+http://magi-stv.net:8080/Joseluis/Joseluis123/17258
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",HBO Comedy
+http://magi-stv.net:8080/Joseluis/Joseluis123/17304
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",HBO Comedy HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17257
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://sdmx.us:25461/images/a5675392a677c28832cbc64e21b390eb.png",HBO East HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17256
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png",HBO Family
+http://magi-stv.net:8080/Joseluis/Joseluis123/17305
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png",HBO Family HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17255
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://sdmx.us:25461/images/a5675392a677c28832cbc64e21b390eb.png",HBO HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17254
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png",HBO Signature
+http://magi-stv.net:8080/Joseluis/Joseluis123/17252
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png",HBO Signature HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17253
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/hbozone.png",HBO Zone
+http://magi-stv.net:8080/Joseluis/Joseluis123/17306
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/hbozone.png",HBO Zone HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17250
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/79f3a982fd2496a50c5ec8f88e9b608f.png",lifetime movies HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17178
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.app.goo.gl/vzPEbgozMfRcuRg27.png",Movieplex
+http://magi-stv.net:8080/Joseluis/Joseluis123/197424
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/4d0ec9644ed328af0eb2fa9cac57090e.png",Paramount HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17231
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime 2 HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197228
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Extreme HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/196420
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Family Zone HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17226
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17225
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/800px-Showtime_Next.svg.png",Showtime Next HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197232
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Showcase HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17224
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime West HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17223
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:8080/images/0a8181d0ea6f40b81fa79b5b9eeacf41.png",Spike TV
+http://magi-stv.net:8080/Joseluis/Joseluis123/17218
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz Cinema
+http://magi-stv.net:8080/Joseluis/Joseluis123/196411
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz Comedy HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17216
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz Edge HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17309
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/721f8bc2f559e15ce269b083753a1be3.png",Starz Encore Black HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197226
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/721f8bc2f559e15ce269b083753a1be3.png",Starz Encore Classic HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/199765
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/721f8bc2f559e15ce269b083753a1be3.png",Starz Encore Family HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197227
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/721f8bc2f559e15ce269b083753a1be3.png",Starz Encore HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17222
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/5b110419b5d658c4ba5d34fae78cd6cc.png",Starz Encore Suspense
+http://magi-stv.net:8080/Joseluis/Joseluis123/196412
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/721f8bc2f559e15ce269b083753a1be3.png",Starz Encore West HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197231
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/721f8bc2f559e15ce269b083753a1be3.png",Starz Encore Westerns HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/196414
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:8080/images/b45220c396423f677c7a029f3c6955e5.png",Starz HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17221
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz Kids & Family
+http://magi-stv.net:8080/Joseluis/Joseluis123/196415
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/7d63340016cf627156aa959eb3616fa6.png",Starz Kids & Family
+http://magi-stv.net:8080/Joseluis/Joseluis123/2107677
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz West HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17220
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/0e450d1e32291326bded0e1a8b9b4c20.png",Sundance TV HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17219
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:8080/images/14831b3a087423067dd5af937a12204b.png",SyFy
+http://magi-stv.net:8080/Joseluis/Joseluis123/17214
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png",TBS HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17311
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png",TCM
+http://magi-stv.net:8080/Joseluis/Joseluis123/197215
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/tnt.png",TNT HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17313
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://185.156.74.135:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",USA A&E UHD
 http://181.233.124.38:80/Roberta1/Roberta2/175784
