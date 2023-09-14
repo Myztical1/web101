@@ -621,26 +621,133 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2106071
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106076
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Vive HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106078
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",IVC
-http://elmonkey.us:25461/maria23/maria23/91125
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",LA TELE TUYA
-http://elmonkey.us:25461/maria23/maria23/91126
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",CANAL I
-http://elmonkey.us:25461/maria23/maria23/91127
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TELEVEN
-http://elmonkey.us:25461/maria23/maria23/91128
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VENEVISION
-http://elmonkey.us:25461/maria23/maria23/91129
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VENEVISION PLUS
-http://elmonkey.us:25461/maria23/maria23/91130
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",GLOBOVISION
-http://elmonkey.us:25461/maria23/maria23/91131
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",MERIDIANO
-http://elmonkey.us:25461/maria23/maria23/91132
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TELESUR
-http://elmonkey.us:25461/maria23/maria23/91133
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",PROMAR
-http://elmonkey.us:25461/maria23/maria23/91134
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Anzoátegui TV (360p)
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Ávila TV (Caracas) (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cdn.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",BTA TV (720p)
+https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Canal i (720p) [Not 24/7]
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Canal Nubeh TV (720p)
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Cantina TV (1080p)
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Catatumbo TV (406p)
+https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Chivacoa TV Internacional (720p) [Not 24/7]
+https://vdo1.panelstreaming.live:3248/hybrid/play.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Colombeia (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cdn.odysee.live/content/ba3d31fdf59976d63976e5a2173df36b442104ba/master.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",ConCiencia TV [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cdn.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",eSports Max (480p) [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Explosión Creativa (720p) [Not 24/7]
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Fiesta Max (720p)
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Globovision (720p)
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Globovision (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Humor Max (720p)
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",interTV (1080p)
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Italianissimo (360p) [Not 24/7]
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",La Iguana TV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Latina TV (1080p)
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",MDA Televisión (720p)
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Oxigeno TV (360p) [Not 24/7]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Panavisión (1080p)
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",PromarTV (1080p) [Not 24/7]
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Radio Caracas Radio 750 (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Reforma TV (1080p)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",ShowVen TV (1080p)
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Sun Channel (720p)
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TAM TV (240p)
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Telecolor (480p)
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Telesol (720p) [Not 24/7]
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TeleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TeleSUR English (1080p) [Not 24/7]
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Televisora de Oriente (406p)
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",La Tele Tuya (720p)
+https://vcp4.myplaytv.com/tlt-ve/tlt-2023.stream/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",La Tele Tuya (720p)
+https://vcp4.myplaytv.com//tlt-oct22/xtream.stream/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Torococo TV (720p)
+https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TRT (410p)
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TV FANB (720p)
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TVS (720p)
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Vale TV (480p) [Not 24/7]
+https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Vale TV (480p)
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Venevisión (480p)
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Venezolana de Televisión (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cdn.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Vepaco TV (480p)
+https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Ve Plus (480p) [Not 24/7]
+http://190.122.96.187:8888/http/006
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Vive (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",BitRadio (608p)
+https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TNO Radio (720p)
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TVes (1080p) [Not 24/7]
+https://ls.tves.gob.ve/hls/tves.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TRV (480p)
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Canal Cultura Venezuela (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Glow TV (720p) [Not 24/7]
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Canal Diplomático (720p) [Not 24/7]
+https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",Somos TV (720p) [Not 24/7]
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.countryflags.com/thumbs/venezuela/flag-3d-round-500.png",TV Andes (720p) [Not 24/7]
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="http://ucsxiptv.com:8080/images/logos/A&E-Network-Logo.png",A&E FHD
 http://ucsxiptv.com:8080/i4stream/teleg7985789095432354gsdiekv/1
@@ -3614,6 +3721,144 @@ http://247iptv.org:5454/boss123/boss123/2323
 http://247iptv.org:5454/boss123/boss123/2324
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://247tvstream.net/chlogo/sky_sports/skysportsracing.png",UK: SKY SPORTS RACING
 http://247iptv.org:5454/boss123/boss123/2325
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",UK: Sky F1 HD
+https://tinyurl.com/58et2fyn/172846
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",UK: SKY SPORTS Main Event FHD
+https://tinyurl.com/58et2fyn/172847
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",UK: Sky Sports Premier League HD
+https://tinyurl.com/58et2fyn/172851
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",UK: SKY SPORTS FOOTBALL FHD
+https://tinyurl.com/58et2fyn/172853
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",UK: SKY SPORTS CRICKET HD
+https://tinyurl.com/58et2fyn/172856
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",UK: SKY SPORTS CRICKET FHD
+https://tinyurl.com/58et2fyn/172857
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png",UK: Sky Sports Golf FHD
+https://tinyurl.com/58et2fyn/172859
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-action-it.png",UK: Sky Sports Action
+https://tinyurl.com/58et2fyn/172866
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.png",UK: Sky Sports Arena FHD
+https://tinyurl.com/58et2fyn/172868
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png",UK: Sky News FHD
+https://tinyurl.com/58et2fyn/172884
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png",US: ACC Network HD
+https://tinyurl.com/58et2fyn/219514
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png",US: beIN Sports 1 ENGLISH HD
+https://tinyurl.com/58et2fyn/219515
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-english-3-qa.png",US: beIN Sports 3 ENGLISH HD
+https://tinyurl.com/58et2fyn/219517
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-qa.png",US: beIN Sports USA HD
+https://tinyurl.com/58et2fyn/219518
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_espanol.png",US: beIN Sports Español
+https://tinyurl.com/58et2fyn/219519
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png",US: ELEVEN SPORTS NETWORK
+https://tinyurl.com/58et2fyn/219525
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png",US: ESPN
+https://tinyurl.com/58et2fyn/219526
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png",US: ESPN 2
+https://tinyurl.com/58et2fyn/219527
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png",US: ESPN Deportes
+https://tinyurl.com/58et2fyn/219528
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png",US: ESPN NEWS
+https://tinyurl.com/58et2fyn/219529
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_u.png",US: ESPN U
+https://tinyurl.com/58et2fyn/219530
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png",US: Fight Box
+https://tinyurl.com/58et2fyn/219531
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png",US: Fox Soccer Plus
+https://tinyurl.com/58et2fyn/219534
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png",US: FOX SPORTS 1 - FS1
+https://tinyurl.com/58et2fyn/219535
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png",US: FOX SPORTS 2 - FS2
+https://tinyurl.com/58et2fyn/219536
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png",US: Golf Channel
+https://tinyurl.com/58et2fyn/219539
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb_network.png",US: MLB Network
+https://tinyurl.com/58et2fyn/219543
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/motor-trend-it.png",US: MOTOR TREND
+https://tinyurl.com/58et2fyn/219544
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msg_network_us.png",US: MSG
+https://tinyurl.com/58et2fyn/219545
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",US: NBA TV
+https://tinyurl.com/58et2fyn/219547
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nesn-us.png",US: NESN HD
+https://tinyurl.com/58et2fyn/219550
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhl-network-us.png",US: NHL NETWORK
+https://tinyurl.com/58et2fyn/219554
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_sec_network_us.png",US: SEC NETWORK
+https://tinyurl.com/58et2fyn/219564
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2021/11/STADIUM_PLUS-LOGO_HORZ-03_DOC-300x64.png",US: Stadium
+https://tinyurl.com/58et2fyn/219568
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/T3syhbWP/ufc-1.jpg",US: UFC Network
+https://tinyurl.com/58et2fyn/219574
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png",US: Willow Cricket HD
+https://tinyurl.com/58et2fyn/219577
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_fishing_network.png",US: World Fishing Network
+https://tinyurl.com/58et2fyn/219578
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png",US: WWE Network
+https://tinyurl.com/58et2fyn/219579
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-network-us.png",US: YES NETWORK
+https://tinyurl.com/58et2fyn/219580
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-us-1967.png",Bein xtra1
+https://tinyurl.com/58et2fyn/222000
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",UK: S-S Sports Cricket FHD
+https://tinyurl.com/58et2fyn/253665
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1_hindi.png",IN: STAR SPORTS 1 FHD
+https://tinyurl.com/58et2fyn/253668
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png",PK: PTV SPORTS HD
+https://tinyurl.com/58et2fyn/253669
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png",IND: WILLOW CRICKET HD
+https://tinyurl.com/58et2fyn/253670
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png",PK: Geo Super TV HD
+https://tinyurl.com/58et2fyn/253715
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",DSTV: SuperSport Cricket HD
+https://tinyurl.com/58et2fyn/253716
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png",US:  Willow Cricket HD
+https://tinyurl.com/58et2fyn/253717
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png",DSTV: SuperSport Action HD
+https://tinyurl.com/58et2fyn/160978
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",DSTV: SuperSport Football HD
+https://tinyurl.com/58et2fyn/160976
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/4fd6f45cbaeaca8b680911a530e97a58.png",FOX Sport USA
+https://tinyurl.com/58et2fyn/265698
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1  LAT SD
+https://tinyurl.com/58et2fyn/265699
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1 AR HD
+https://tinyurl.com/58et2fyn/265700
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1 HD*
+https://tinyurl.com/58et2fyn/265702
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1 LAT SD
+https://tinyurl.com/58et2fyn/265703
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1 MX HD
+https://tinyurl.com/58et2fyn/265704
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1 SD*
+https://tinyurl.com/58et2fyn/265705
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1 SUR HD
+https://tinyurl.com/58et2fyn/265706
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png",FOX SPORTS 1 TP MX
+https://tinyurl.com/58et2fyn/265707
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/a08404f4d9fb0e3d9b54e314ac30dd70.png",FOX SPORTS 2  LAT HD
+https://tinyurl.com/58et2fyn/265708
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/a08404f4d9fb0e3d9b54e314ac30dd70.png",FOX SPORTS 2 AR HD
+https://tinyurl.com/58et2fyn/265709
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/a08404f4d9fb0e3d9b54e314ac30dd70.png",FOX SPORTS 2 SD*
+https://tinyurl.com/58et2fyn/265710
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/a08404f4d9fb0e3d9b54e314ac30dd70.png",FOX SPORTS 2 SUR SD
+https://tinyurl.com/58et2fyn/265711
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/a08404f4d9fb0e3d9b54e314ac30dd70.png",FOX SPORTS 2 TP MX
+https://tinyurl.com/58et2fyn/265712
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/4fd6f45cbaeaca8b680911a530e97a58.png",FOX SPORTS 3 AR FHD
+https://tinyurl.com/58et2fyn/265713
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/4fd6f45cbaeaca8b680911a530e97a58.png",FOX SPORTS 3 FHD*
+https://tinyurl.com/58et2fyn/265714
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz:8000/images/4fd6f45cbaeaca8b680911a530e97a58.png",FOX SPORTS 3 TP MX
+https://tinyurl.com/58et2fyn/265715
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://latinoamericatv.vip:8080/images/aa9fe71d751c6a50b4f816a7c51f849f.png",PE | FOX SPORTS 2 HD
+https://tinyurl.com/58et2fyn/265716
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://latinoamericatv.vip:8080/images/aa9fe71d751c6a50b4f816a7c51f849f.png",PE*| FOX SPORTS HD
+https://tinyurl.com/58et2fyn/265717
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://svtv.xyz/nologo.png",FOX SPORTS 2 HD MX
+https://tinyurl.com/58et2fyn/265718
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/accn.png",ACC NETWORK
 http://edge.bz:8080/51195/51195/192
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/altitudesports.png",ALTITUDE SPORTS
