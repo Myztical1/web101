@@ -1,35 +1,35 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
+https://is.gd/QyLcBr
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
 https://is.gd/SwEN4F
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
 https://is.gd/EIVuJl
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
+https://is.gd/h5sGG8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",PARLIAMENT CHANNEL
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
+https://is.gd/92N3yT
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
 https://is.gd/OwAgOW
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
+https://is.gd/tuMvl0
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://is.gd/27jm3T
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-https://is.gd/dEP1KG
+https://is.gd/VtT08n
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://is.gd/dgQiqB
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://is.gd/iRCHii
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-https://is.gd/lrYFPn
+https://is.gd/YPR3ho
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://is.gd/DosYwQ
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 https://is.gd/RVYMSV
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
-https://is.gd/BjjAIG
+https://is.gd/WJGbUG
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
 https://is.gd/0htG0k
 
@@ -44,477 +44,477 @@ https://hls-cdn.tvstartup11.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",Caribbean Gospel TV (1080p)
 https://5790d294af2dc.streamlock.net/8048/8048/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TTT HD
-https://tinyurl.com/58khchxb/400200042
+https://tinyurl.com/53xdrm42/400200042
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CCN TV6 HD
-https://tinyurl.com/58khchxb/268269
+https://tinyurl.com/53xdrm42/268269
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TEN TV HD
-https://tinyurl.com/58khchxb/400200044
+https://tinyurl.com/53xdrm42/400200044
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNC3 TRINIDAD FHD
-https://tinyurl.com/58khchxb/195830
+https://tinyurl.com/53xdrm42/195830
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WIN TV HD
-https://tinyurl.com/58khchxb/376159
+https://tinyurl.com/53xdrm42/376159
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SYNERGY HD
-https://tinyurl.com/58khchxb/400208904
+https://tinyurl.com/53xdrm42/400208904
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV JAAGRITI SD
-https://tinyurl.com/58khchxb/76409
+https://tinyurl.com/53xdrm42/76409
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRINITY SD
-https://tinyurl.com/58khchxb/76410
+https://tinyurl.com/53xdrm42/76410
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SANKHYA TV HD
-https://tinyurl.com/58khchxb/710920
+https://tinyurl.com/53xdrm42/710920
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TEMPO HD
-https://tinyurl.com/58khchxb/76411
+https://tinyurl.com/53xdrm42/76411
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RUSH + HD
-https://tinyurl.com/58khchxb/76412
+https://tinyurl.com/53xdrm42/76412
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",IETV HFD
-https://tinyurl.com/58khchxb/76413
+https://tinyurl.com/53xdrm42/76413
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",IBN HD
-https://tinyurl.com/58khchxb/76414
+https://tinyurl.com/53xdrm42/76414
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GAYELLE THE CARIBBEAN HD
-https://tinyurl.com/58khchxb/76415
+https://tinyurl.com/53xdrm42/76415
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA ACTION HD
-https://tinyurl.com/58khchxb/400318027
+https://tinyurl.com/53xdrm42/400318027
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA WESTERN FHD
-https://tinyurl.com/58khchxb/76416
+https://tinyurl.com/53xdrm42/76416
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA WEATHER FHD
-https://tinyurl.com/58khchxb/76417
+https://tinyurl.com/53xdrm42/76417
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA CLASSIC FHD
-https://tinyurl.com/58khchxb/76418
+https://tinyurl.com/53xdrm42/76418
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CALA BASH FHD
-https://tinyurl.com/58khchxb/76419
+https://tinyurl.com/53xdrm42/76419
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) NTN HD
-https://tinyurl.com/58khchxb/400318053
+https://tinyurl.com/53xdrm42/400318053
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) Think Caribbean Television HD
-https://tinyurl.com/58khchxb/400318051
+https://tinyurl.com/53xdrm42/400318051
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) CBN HD
-https://tinyurl.com/58khchxb/400318049
+https://tinyurl.com/53xdrm42/400318049
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) Euronews HD
-https://tinyurl.com/58khchxb/400318047
+https://tinyurl.com/53xdrm42/400318047
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) GLITZ HD
-https://tinyurl.com/58khchxb/400318045
+https://tinyurl.com/53xdrm42/400318045
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) The Turism Channel TV HD
-https://tinyurl.com/58khchxb/400318043
+https://tinyurl.com/53xdrm42/400318043
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) LOVE TV HD
-https://tinyurl.com/58khchxb/400318040
+https://tinyurl.com/53xdrm42/400318040
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) eHSN HD
-https://tinyurl.com/58khchxb/400318038
+https://tinyurl.com/53xdrm42/400318038
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) OWN HD
-https://tinyurl.com/58khchxb/400318036
+https://tinyurl.com/53xdrm42/400318036
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CLEO HD
-https://tinyurl.com/58khchxb/400318034
+https://tinyurl.com/53xdrm42/400318034
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) LAW HD
-https://tinyurl.com/58khchxb/400318032
+https://tinyurl.com/53xdrm42/400318032
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) NBTV HD
-https://tinyurl.com/58khchxb/400318030
+https://tinyurl.com/53xdrm42/400318030
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) Hispanic TV HD
-https://tinyurl.com/58khchxb/400318026
+https://tinyurl.com/53xdrm42/400318026
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) GINX HD
-https://tinyurl.com/58khchxb/400318025
+https://tinyurl.com/53xdrm42/400318025
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) TRAV  HD
-https://tinyurl.com/58khchxb/400318024
+https://tinyurl.com/53xdrm42/400318024
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) DANCHALL EXTREME HD
-https://tinyurl.com/58khchxb/400318023
+https://tinyurl.com/53xdrm42/400318023
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) ZEE WORLD HD
-https://tinyurl.com/58khchxb/400318022
+https://tinyurl.com/53xdrm42/400318022
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) UWI TV HD
-https://tinyurl.com/58khchxb/400318021
+https://tinyurl.com/53xdrm42/400318021
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) FBN  HD
-https://tinyurl.com/58khchxb/400318020
+https://tinyurl.com/53xdrm42/400318020
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) HDLN HD
-https://tinyurl.com/58khchxb/400318019
+https://tinyurl.com/53xdrm42/400318019
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) Sur Peru  HD
-https://tinyurl.com/58khchxb/400318018
+https://tinyurl.com/53xdrm42/400318018
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) GIS Dominica HD
-https://tinyurl.com/58khchxb/400318017
+https://tinyurl.com/53xdrm42/400318017
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(FLOW) RAI HD
-https://tinyurl.com/58khchxb/400318014
+https://tinyurl.com/53xdrm42/400318014
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AFRO GLOBAL HD
-https://tinyurl.com/58khchxb/34940
+https://tinyurl.com/53xdrm42/34940
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AL JAZEERA HD
-https://tinyurl.com/58khchxb/34939
+https://tinyurl.com/53xdrm42/34939
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ANIMAL PLANET HD
-https://tinyurl.com/58khchxb/34938
+https://tinyurl.com/53xdrm42/34938
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AXN HD
-https://tinyurl.com/58khchxb/34937
+https://tinyurl.com/53xdrm42/34937
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BBO HD
-https://tinyurl.com/58khchxb/34936
+https://tinyurl.com/53xdrm42/34936
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET HD
-https://tinyurl.com/58khchxb/34935
+https://tinyurl.com/53xdrm42/34935
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BLOOMBERG HD
-https://tinyurl.com/58khchxb/34934
+https://tinyurl.com/53xdrm42/34934
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BOOMERANG SD
-https://tinyurl.com/58khchxb/34933
+https://tinyurl.com/53xdrm42/34933
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CCTV 4 HD
-https://tinyurl.com/58khchxb/34932
+https://tinyurl.com/53xdrm42/34932
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CINECANAL HD
-https://tinyurl.com/58khchxb/34931
+https://tinyurl.com/53xdrm42/34931
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZNSTV BAHAMAS
-https://tinyurl.com/58khchxb/34930
+https://tinyurl.com/53xdrm42/34930
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CUBA VISION SD
-https://tinyurl.com/58khchxb/34929
+https://tinyurl.com/53xdrm42/34929
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FLOW 1 HD
-https://tinyurl.com/58khchxb/34928
+https://tinyurl.com/53xdrm42/34928
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PREVU HD
-https://tinyurl.com/58khchxb/34927
+https://tinyurl.com/53xdrm42/34927
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BVN HD
-https://tinyurl.com/58khchxb/34926
+https://tinyurl.com/53xdrm42/34926
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY CHANNEL HD
-https://tinyurl.com/58khchxb/34925
+https://tinyurl.com/53xdrm42/34925
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY HOME AND HEALTH SD
-https://tinyurl.com/58khchxb/34924
+https://tinyurl.com/53xdrm42/34924
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY KIDS HD
-https://tinyurl.com/58khchxb/34923
+https://tinyurl.com/53xdrm42/34923
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ESPN 3 HD
-https://tinyurl.com/58khchxb/34922
+https://tinyurl.com/53xdrm42/34922
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",EWTN HD
-https://tinyurl.com/58khchxb/34921
+https://tinyurl.com/53xdrm42/34921
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FIGHT SPORTS SD
-https://tinyurl.com/58khchxb/34920
+https://tinyurl.com/53xdrm42/34920
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOOD NETWORK HD
-https://tinyurl.com/58khchxb/34919
+https://tinyurl.com/53xdrm42/34919
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HGTV HD
-https://tinyurl.com/58khchxb/34918
+https://tinyurl.com/53xdrm42/34918
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HISTORY2 HD
-https://tinyurl.com/58khchxb/34917
+https://tinyurl.com/53xdrm42/34917
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HLN SD
-https://tinyurl.com/58khchxb/34916
+https://tinyurl.com/53xdrm42/34916
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ISAT SD
-https://tinyurl.com/58khchxb/34915
+https://tinyurl.com/53xdrm42/34915
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTV HD
-https://tinyurl.com/58khchxb/34914
+https://tinyurl.com/53xdrm42/34914
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MY 33 (Miami) HD
-https://tinyurl.com/58khchxb/34913
+https://tinyurl.com/53xdrm42/34913
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NICK HD
-https://tinyurl.com/58khchxb/34912
+https://tinyurl.com/53xdrm42/34912
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",OAN AMERICA NEWS HD
-https://tinyurl.com/58khchxb/34911
+https://tinyurl.com/53xdrm42/34911
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PBC JAMAICA SD
-https://tinyurl.com/58khchxb/34910
+https://tinyurl.com/53xdrm42/34910
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PBS KIDS HD
-https://tinyurl.com/58khchxb/34909
+https://tinyurl.com/53xdrm42/34909
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RT DOCUMENTARY HD
-https://tinyurl.com/58khchxb/34908
+https://tinyurl.com/53xdrm42/34908
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SPACE SD
-https://tinyurl.com/58khchxb/34907
+https://tinyurl.com/53xdrm42/34907
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TLC SD
-https://tinyurl.com/58khchxb/34906
+https://tinyurl.com/53xdrm42/34906
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VH1 HD
-https://tinyurl.com/58khchxb/34905
+https://tinyurl.com/53xdrm42/34905
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",YUPPTV SD
-https://tinyurl.com/58khchxb/34904
+https://tinyurl.com/53xdrm42/34904
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELEMICRO INTERNACIONAL FHD
-https://tinyurl.com/58khchxb/34903
+https://tinyurl.com/53xdrm42/34903
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CUBAMAX HD
-https://tinyurl.com/58khchxb/34902
+https://tinyurl.com/53xdrm42/34902
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOX SOCCER PLUS HD
-https://tinyurl.com/58khchxb/376171
+https://tinyurl.com/53xdrm42/376171
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",STAR COMEDY FHD
-https://tinyurl.com/58khchxb/376172
+https://tinyurl.com/53xdrm42/376172
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOX BUSINESS HD
-https://tinyurl.com/58khchxb/376173
+https://tinyurl.com/53xdrm42/376173
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FOX NEWS HD
-https://tinyurl.com/58khchxb/376174
+https://tinyurl.com/53xdrm42/376174
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BONAIRE TV
-https://tinyurl.com/58khchxb/400617000
+https://tinyurl.com/53xdrm42/400617000
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",3ABN CARIBBEAN SD
-https://tinyurl.com/58khchxb/195816
+https://tinyurl.com/53xdrm42/195816
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ARTS HD
-https://tinyurl.com/58khchxb/195817
+https://tinyurl.com/53xdrm42/195817
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BAHAMAS PARLIAMENT HD
-https://tinyurl.com/58khchxb/195818
+https://tinyurl.com/53xdrm42/195818
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MEGA TV HD
-https://tinyurl.com/58khchxb/379694
+https://tinyurl.com/53xdrm42/379694
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WAPA 2 HD
-https://tinyurl.com/58khchxb/379693
+https://tinyurl.com/53xdrm42/379693
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WAPA HD
-https://tinyurl.com/58khchxb/379692
+https://tinyurl.com/53xdrm42/379692
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL 13 HD
-https://tinyurl.com/58khchxb/379246
+https://tinyurl.com/53xdrm42/379246
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL 6 HD
-https://tinyurl.com/58khchxb/379245
+https://tinyurl.com/53xdrm42/379245
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CARIBVISION HD
-https://tinyurl.com/58khchxb/195823
+https://tinyurl.com/53xdrm42/195823
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CARS TV FHD
-https://tinyurl.com/58khchxb/195824
+https://tinyurl.com/53xdrm42/195824
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CBC TV 8 HD
-https://tinyurl.com/58khchxb/195825
+https://tinyurl.com/53xdrm42/195825
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NOS PAIS HD
-https://tinyurl.com/58khchxb/195855
+https://tinyurl.com/53xdrm42/195855
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ISLAND LUCK TV FHD
-https://tinyurl.com/58khchxb/195848
+https://tinyurl.com/53xdrm42/195848
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CGTN DOCUMENTARY HD
-https://tinyurl.com/58khchxb/195827
+https://tinyurl.com/53xdrm42/195827
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNS 6 GUYANA HD
-https://tinyurl.com/58khchxb/195831
+https://tinyurl.com/53xdrm42/195831
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CVM JAMAICA FHD
-https://tinyurl.com/58khchxb/195833
+https://tinyurl.com/53xdrm42/195833
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ESPN 2 CARIBBEAN HD
-https://tinyurl.com/58khchxb/195836
+https://tinyurl.com/53xdrm42/195836
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ESPN CARIBBEAN FHD
-https://tinyurl.com/58khchxb/195837
+https://tinyurl.com/53xdrm42/195837
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FAME RADIO SD
-https://tinyurl.com/58khchxb/195838
+https://tinyurl.com/53xdrm42/195838
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CGTN FHD
-https://tinyurl.com/58khchxb/195842
+https://tinyurl.com/53xdrm42/195842
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO CARIBBEAN FHD
-https://tinyurl.com/58khchxb/195843
+https://tinyurl.com/53xdrm42/195843
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HOPE TV SD
-https://tinyurl.com/58khchxb/195844
+https://tinyurl.com/53xdrm42/195844
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HYPE TV FHD
-https://tinyurl.com/58khchxb/195845
+https://tinyurl.com/53xdrm42/195845
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JNN HD
-https://tinyurl.com/58khchxb/195850
+https://tinyurl.com/53xdrm42/195850
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MELLO TV FHD
-https://tinyurl.com/58khchxb/195853
+https://tinyurl.com/53xdrm42/195853
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NICK JR CARIBBEAN HD
-https://tinyurl.com/58khchxb/195854
+https://tinyurl.com/53xdrm42/195854
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ONE CARIBBEAN TV HD
-https://tinyurl.com/58khchxb/195857
+https://tinyurl.com/53xdrm42/195857
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PETS FHD
-https://tinyurl.com/58khchxb/195860
+https://tinyurl.com/53xdrm42/195860
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HITZ 92 FM
-https://tinyurl.com/58khchxb/376157
+https://tinyurl.com/53xdrm42/376157
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RETV SD
-https://tinyurl.com/58khchxb/195862
+https://tinyurl.com/53xdrm42/195862
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RNN HD
-https://tinyurl.com/58khchxb/195863
+https://tinyurl.com/53xdrm42/195863
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SMILE SD
-https://tinyurl.com/58khchxb/195866
+https://tinyurl.com/53xdrm42/195866
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SPORTS MAX FHD
-https://tinyurl.com/58khchxb/195868
+https://tinyurl.com/53xdrm42/195868
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SPORTS MAX 2 FHD
-https://tinyurl.com/58khchxb/195869
+https://tinyurl.com/53xdrm42/195869
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TBN TV FHD
-https://tinyurl.com/58khchxb/195874
+https://tinyurl.com/53xdrm42/195874
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELEUNION HD
-https://tinyurl.com/58khchxb/195889
+https://tinyurl.com/53xdrm42/195889
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TV DIRECT 13 HD
-https://tinyurl.com/58khchxb/195895
+https://tinyurl.com/53xdrm42/195895
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TVJ JAMAICA HD
-https://tinyurl.com/58khchxb/195896
+https://tinyurl.com/53xdrm42/195896
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TVJ SPORTS JAMAICA HD
-https://tinyurl.com/58khchxb/195897
+https://tinyurl.com/53xdrm42/195897
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VEPACO TV SD
-https://tinyurl.com/58khchxb/195898
+https://tinyurl.com/53xdrm42/195898
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZNS TV FHD
-https://tinyurl.com/58khchxb/195901
+https://tinyurl.com/53xdrm42/195901
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WGN9 HD
-https://tinyurl.com/58khchxb/268271
+https://tinyurl.com/53xdrm42/268271
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WARNER HD
-https://tinyurl.com/58khchxb/268272
+https://tinyurl.com/53xdrm42/268272
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HOT 7 TV HD
-https://tinyurl.com/58khchxb/13154
+https://tinyurl.com/53xdrm42/13154
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PBS FHD
-https://tinyurl.com/58khchxb/268276
+https://tinyurl.com/53xdrm42/268276
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",E! FHD
-https://tinyurl.com/58khchxb/268287
+https://tinyurl.com/53xdrm42/268287
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISNEY JUNIOR FHD
-https://tinyurl.com/58khchxb/268290
+https://tinyurl.com/53xdrm42/268290
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TTEN TRINIDAD SD
-https://tinyurl.com/58khchxb/195893
+https://tinyurl.com/53xdrm42/195893
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZEE CINEMA HD
-https://tinyurl.com/58khchxb/376245
+https://tinyurl.com/53xdrm42/376245
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HALLMARK CHANNEL FHD
-https://tinyurl.com/58khchxb/376243
+https://tinyurl.com/53xdrm42/376243
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DENCEHALL REGGAE SD
-https://tinyurl.com/58khchxb/7113
+https://tinyurl.com/53xdrm42/7113
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CITY TV HD
-https://tinyurl.com/58khchxb/376242
+https://tinyurl.com/53xdrm42/376242
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",EURONEWS HD
-https://tinyurl.com/58khchxb/376238
+https://tinyurl.com/53xdrm42/376238
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",STUDIO UNIVERSAL HD
-https://tinyurl.com/58khchxb/376237
+https://tinyurl.com/53xdrm42/376237
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MSNBC FHD
-https://tinyurl.com/58khchxb/376236
+https://tinyurl.com/53xdrm42/376236
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BRAVO FHD
-https://tinyurl.com/58khchxb/376235
+https://tinyurl.com/53xdrm42/376235
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL 4 SV SD
-https://tinyurl.com/58khchxb/159904
+https://tinyurl.com/53xdrm42/159904
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FYI FHD
-https://tinyurl.com/58khchxb/376234
+https://tinyurl.com/53xdrm42/376234
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TOONCAST HD
-https://tinyurl.com/58khchxb/376233
+https://tinyurl.com/53xdrm42/376233
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",SYFY FHD
-https://tinyurl.com/58khchxb/376232
+https://tinyurl.com/53xdrm42/376232
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TCM HD
-https://tinyurl.com/58khchxb/376231
+https://tinyurl.com/53xdrm42/376231
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY SCIENCE HD
-https://tinyurl.com/58khchxb/376229
+https://tinyurl.com/53xdrm42/376229
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",INVESTIGATION DISCOVERY HD
-https://tinyurl.com/58khchxb/376228
+https://tinyurl.com/53xdrm42/376228
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HISTORY HD
-https://tinyurl.com/58khchxb/376226
+https://tinyurl.com/53xdrm42/376226
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MAX PRIME HD
-https://tinyurl.com/58khchxb/376225
+https://tinyurl.com/53xdrm42/376225
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MAX HD
-https://tinyurl.com/58khchxb/376223
+https://tinyurl.com/53xdrm42/376223
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",EURO CHANNEL HD
-https://tinyurl.com/58khchxb/376222
+https://tinyurl.com/53xdrm42/376222
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TBS HD
-https://tinyurl.com/58khchxb/376221
+https://tinyurl.com/53xdrm42/376221
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FXM HD
-https://tinyurl.com/58khchxb/376220
+https://tinyurl.com/53xdrm42/376220
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FX HD
-https://tinyurl.com/58khchxb/376219
+https://tinyurl.com/53xdrm42/376219
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",A&amp;E FHD
-https://tinyurl.com/58khchxb/376218
+https://tinyurl.com/53xdrm42/376218
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NBCSN FHD
-https://tinyurl.com/58khchxb/376215
+https://tinyurl.com/53xdrm42/376215
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ESTV FHD
-https://tinyurl.com/58khchxb/376213
+https://tinyurl.com/53xdrm42/376213
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",INSP HD
-https://tinyurl.com/58khchxb/376210
+https://tinyurl.com/53xdrm42/376210
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HTS FHD
-https://tinyurl.com/58khchxb/42020
+https://tinyurl.com/53xdrm42/42020
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DBS SD
-https://tinyurl.com/58khchxb/42021
+https://tinyurl.com/53xdrm42/42021
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",OUTDOOR CHANNEL HD
-https://tinyurl.com/58khchxb/376208
+https://tinyurl.com/53xdrm42/376208
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET GOSPEL SD
-https://tinyurl.com/58khchxb/376207
+https://tinyurl.com/53xdrm42/376207
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRAVEL CHANNEL HD
-https://tinyurl.com/58khchxb/376206
+https://tinyurl.com/53xdrm42/376206
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DIY NETWORK HD
-https://tinyurl.com/58khchxb/376205
+https://tinyurl.com/53xdrm42/376205
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",THE WORLD NETWORK HD
-https://tinyurl.com/58khchxb/376204
+https://tinyurl.com/53xdrm42/376204
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VH1 CLASSIC HD
-https://tinyurl.com/58khchxb/376197
+https://tinyurl.com/53xdrm42/376197
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ZIZ HD
-https://tinyurl.com/58khchxb/28410
+https://tinyurl.com/53xdrm42/28410
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTV 2 HD
-https://tinyurl.com/58khchxb/376196
+https://tinyurl.com/53xdrm42/376196
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTV LIVE FHD
-https://tinyurl.com/58khchxb/376195
+https://tinyurl.com/53xdrm42/376195
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AFRICA CHANNEL FHD
-https://tinyurl.com/58khchxb/376194
+https://tinyurl.com/53xdrm42/376194
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MY DESTINATION TV FHD
-https://tinyurl.com/58khchxb/376193
+https://tinyurl.com/53xdrm42/376193
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RECIPE TV HD
-https://tinyurl.com/58khchxb/376192
+https://tinyurl.com/53xdrm42/376192
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",VICELAND HD
-https://tinyurl.com/58khchxb/376191
+https://tinyurl.com/53xdrm42/376191
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JUSTICE CENTRAL HD
-https://tinyurl.com/58khchxb/376190
+https://tinyurl.com/53xdrm42/376190
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO PLUS HD
-https://tinyurl.com/58khchxb/376189
+https://tinyurl.com/53xdrm42/376189
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO FAMILY FHD
-https://tinyurl.com/58khchxb/376188
+https://tinyurl.com/53xdrm42/376188
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO SIGNATURE HD
-https://tinyurl.com/58khchxb/376187
+https://tinyurl.com/53xdrm42/376187
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO EAST HD
-https://tinyurl.com/58khchxb/376186
+https://tinyurl.com/53xdrm42/376186
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO WEST HD
-https://tinyurl.com/58khchxb/376185
+https://tinyurl.com/53xdrm42/376185
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HBO 2 HD
-https://tinyurl.com/58khchxb/376184
+https://tinyurl.com/53xdrm42/376184
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNN INTERNATIONAL HD
-https://tinyurl.com/58khchxb/376182
+https://tinyurl.com/53xdrm42/376182
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CTV COMEDY HD
-https://tinyurl.com/58khchxb/376181
+https://tinyurl.com/53xdrm42/376181
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",PARAMOUNT NETWORK FHD
-https://tinyurl.com/58khchxb/376180
+https://tinyurl.com/53xdrm42/376180
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LIFETIME MOVIES HD
-https://tinyurl.com/58khchxb/376179
+https://tinyurl.com/53xdrm42/376179
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LIFETIME REAL WOMEN SD
-https://tinyurl.com/58khchxb/376178
+https://tinyurl.com/53xdrm42/376178
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",LIFETIME FHD
-https://tinyurl.com/58khchxb/376177
+https://tinyurl.com/53xdrm42/376177
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CANAL SONY HD
-https://tinyurl.com/58khchxb/376176
+https://tinyurl.com/53xdrm42/376176
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",WORLD FISHING NETWORK FHD
-https://tinyurl.com/58khchxb/376175
+https://tinyurl.com/53xdrm42/376175
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AXS TV HD
-https://tinyurl.com/58khchxb/376165
+https://tinyurl.com/53xdrm42/376165
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BABY TV HD
-https://tinyurl.com/58khchxb/376164
+https://tinyurl.com/53xdrm42/376164
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BOOMERANG HD
-https://tinyurl.com/58khchxb/376162
+https://tinyurl.com/53xdrm42/376162
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MTM TV HD
-https://tinyurl.com/58khchxb/376161
+https://tinyurl.com/53xdrm42/376161
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CEEN HD
-https://tinyurl.com/58khchxb/376160
+https://tinyurl.com/53xdrm42/376160
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FEVA TV HD
-https://tinyurl.com/58khchxb/376158
+https://tinyurl.com/53xdrm42/376158
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RJR 94 FM
-https://tinyurl.com/58khchxb/376156
+https://tinyurl.com/53xdrm42/376156
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",POWER 106 FM
-https://tinyurl.com/58khchxb/376155
+https://tinyurl.com/53xdrm42/376155
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",99 MUSIC FM
-https://tinyurl.com/58khchxb/376154
+https://tinyurl.com/53xdrm42/376154
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",RUSH SPORTS FHD
-https://tinyurl.com/58khchxb/376153
+https://tinyurl.com/53xdrm42/376153
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISNEY XD FHD
-https://tinyurl.com/58khchxb/376152
+https://tinyurl.com/53xdrm42/376152
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISNEY CHANNEL FHD
-https://tinyurl.com/58khchxb/376151
+https://tinyurl.com/53xdrm42/376151
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JAM VISION SD
-https://tinyurl.com/58khchxb/376150
+https://tinyurl.com/53xdrm42/376150
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NAT GEO HD
-https://tinyurl.com/58khchxb/376149
+https://tinyurl.com/53xdrm42/376149
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NAT GEO WILD HD
-https://tinyurl.com/58khchxb/376148
+https://tinyurl.com/53xdrm42/376148
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNBC FHD
-https://tinyurl.com/58khchxb/376147
+https://tinyurl.com/53xdrm42/376147
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",HARE KRSNA SD
-https://tinyurl.com/58khchxb/376146
+https://tinyurl.com/53xdrm42/376146
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FLOW SPORTS FHD
-https://tinyurl.com/58khchxb/376145
+https://tinyurl.com/53xdrm42/376145
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",FLOW SPORTS 2 FHD
-https://tinyurl.com/58khchxb/376144
+https://tinyurl.com/53xdrm42/376144
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELECURACAO FHD
-https://tinyurl.com/58khchxb/376143
+https://tinyurl.com/53xdrm42/376143
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",ARUBA TV HD
-https://tinyurl.com/58khchxb/376142
+https://tinyurl.com/53xdrm42/376142
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TCFM HD
-https://tinyurl.com/58khchxb/376141
+https://tinyurl.com/53xdrm42/376141
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",AWE FHD
-https://tinyurl.com/58khchxb/268302
+https://tinyurl.com/53xdrm42/268302
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",B4U MUSIC HD
-https://tinyurl.com/58khchxb/268301
+https://tinyurl.com/53xdrm42/268301
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",B4U MOVIES HD
-https://tinyurl.com/58khchxb/268300
+https://tinyurl.com/53xdrm42/268300
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BABY FIRST FHD
-https://tinyurl.com/58khchxb/268299
+https://tinyurl.com/53xdrm42/268299
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET SOUL HD
-https://tinyurl.com/58khchxb/268297
+https://tinyurl.com/53xdrm42/268297
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET JAMS HD
-https://tinyurl.com/58khchxb/268296
+https://tinyurl.com/53xdrm42/268296
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",BET HER FHD
-https://tinyurl.com/58khchxb/268295
+https://tinyurl.com/53xdrm42/268295
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CNN FHD
-https://tinyurl.com/58khchxb/268294
+https://tinyurl.com/53xdrm42/268294
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",COOKING CHANNEL FHD
-https://tinyurl.com/58khchxb/268293
+https://tinyurl.com/53xdrm42/268293
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",CUBAV SD
-https://tinyurl.com/58khchxb/268292
+https://tinyurl.com/53xdrm42/268292
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DAYSTAR SD
-https://tinyurl.com/58khchxb/268291
+https://tinyurl.com/53xdrm42/268291
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY TURBO HD
-https://tinyurl.com/58khchxb/268289
+https://tinyurl.com/53xdrm42/268289
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",DISCOVERY CIVILIZATION HD
-https://tinyurl.com/58khchxb/268288
+https://tinyurl.com/53xdrm42/268288
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",GSN FHD
-https://tinyurl.com/58khchxb/268285
+https://tinyurl.com/53xdrm42/268285
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",MAV TV FHD
-https://tinyurl.com/58khchxb/268283
+https://tinyurl.com/53xdrm42/268283
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NHK WORLD HD
-https://tinyurl.com/58khchxb/268282
+https://tinyurl.com/53xdrm42/268282
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",NBC GOLF FHD
-https://tinyurl.com/58khchxb/268281
+https://tinyurl.com/53xdrm42/268281
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TNT FHD
-https://tinyurl.com/58khchxb/268275
+https://tinyurl.com/53xdrm42/268275
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TRU TV SD
-https://tinyurl.com/58khchxb/268274
+https://tinyurl.com/53xdrm42/268274
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",USA NETWORK FHD
-https://tinyurl.com/58khchxb/268273
+https://tinyurl.com/53xdrm42/268273
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELEMUNDO FHD
-https://tinyurl.com/58khchxb/195883
+https://tinyurl.com/53xdrm42/195883
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",TELE ARUBA HD
-https://tinyurl.com/58khchxb/195876
+https://tinyurl.com/53xdrm42/195876
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",JET TV FHD
-https://tinyurl.com/58khchxb/195849
+https://tinyurl.com/53xdrm42/195849
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://iccaribbean.com/wp-content/uploads/2020/09/cropped-IC-Caribbean-logo-2020.png",(GRENADA) GBN TV
-https://tinyurl.com/58khchxb/195806
+https://tinyurl.com/53xdrm42/195806
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
@@ -3126,10 +3126,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
-https://is.gd/3u22zR
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.m3u8
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://localmilk.com.au/wp-content/uploads/2018/07/Western-Star.jpg",24/7 Superstar Western Movie 1
+http://ky-iptv.com:80/allen123/123allen/1862587.ts
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
-https://is.gd/BC172v
+http://fortv.cc:8080/M0CsAb/026647/119435
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
 http://hardcoremedia.xyz:80/asxxibud/7733204294/192
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
@@ -3299,193 +3300,193 @@ http://fortv.cc:8080/M0CsAb/026647/140069
 http://fortv.cc:8080/M0CsAb/026647/146291
 
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 01
-https://tinyurl.com/mvfz7a9v/430753
+https://tinyurl.com/bddah6k6/430753
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 02
-https://tinyurl.com/mvfz7a9v/430754
+https://tinyurl.com/bddah6k6/430754
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 03
-https://tinyurl.com/mvfz7a9v/430755
+https://tinyurl.com/bddah6k6/430755
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 04
-https://tinyurl.com/mvfz7a9v/430756
+https://tinyurl.com/bddah6k6/430756
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 05
-https://tinyurl.com/mvfz7a9v/430757
+https://tinyurl.com/bddah6k6/430757
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 06
-https://tinyurl.com/mvfz7a9v/430758
+https://tinyurl.com/bddah6k6/430758
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 07
-https://tinyurl.com/mvfz7a9v/430759
+https://tinyurl.com/bddah6k6/430759
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 08
-https://tinyurl.com/mvfz7a9v/430760
+https://tinyurl.com/bddah6k6/430760
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 09
-https://tinyurl.com/mvfz7a9v/430761
+https://tinyurl.com/bddah6k6/430761
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 11
-https://tinyurl.com/mvfz7a9v/430762
+https://tinyurl.com/bddah6k6/430762
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 12
-https://tinyurl.com/mvfz7a9v/430763
+https://tinyurl.com/bddah6k6/430763
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 13
-https://tinyurl.com/mvfz7a9v/430764
+https://tinyurl.com/bddah6k6/430764
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 14
-https://tinyurl.com/mvfz7a9v/430765
+https://tinyurl.com/bddah6k6/430765
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 15
-https://tinyurl.com/mvfz7a9v/430766
+https://tinyurl.com/bddah6k6/430766
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 16
-https://tinyurl.com/mvfz7a9v/430767
+https://tinyurl.com/bddah6k6/430767
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 17
-https://tinyurl.com/mvfz7a9v/430768
+https://tinyurl.com/bddah6k6/430768
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 18
-https://tinyurl.com/mvfz7a9v/430769
+https://tinyurl.com/bddah6k6/430769
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 19
-https://tinyurl.com/mvfz7a9v/430770
+https://tinyurl.com/bddah6k6/430770
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 20
-https://tinyurl.com/mvfz7a9v/430771
+https://tinyurl.com/bddah6k6/430771
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 21
-https://tinyurl.com/mvfz7a9v/430772
+https://tinyurl.com/bddah6k6/430772
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 22
-https://tinyurl.com/mvfz7a9v/430773
+https://tinyurl.com/bddah6k6/430773
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 23
-https://tinyurl.com/mvfz7a9v/430774
+https://tinyurl.com/bddah6k6/430774
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 24
-https://tinyurl.com/mvfz7a9v/430775
+https://tinyurl.com/bddah6k6/430775
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 25
-https://tinyurl.com/mvfz7a9v/430776
+https://tinyurl.com/bddah6k6/430776
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 26
-https://tinyurl.com/mvfz7a9v/430777
+https://tinyurl.com/bddah6k6/430777
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 27
-https://tinyurl.com/mvfz7a9v/430778
+https://tinyurl.com/bddah6k6/430778
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 28
-https://tinyurl.com/mvfz7a9v/430779
+https://tinyurl.com/bddah6k6/430779
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 29
-https://tinyurl.com/mvfz7a9v/430780
+https://tinyurl.com/bddah6k6/430780
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 30
-https://tinyurl.com/mvfz7a9v/430781
+https://tinyurl.com/bddah6k6/430781
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 31
-https://tinyurl.com/mvfz7a9v/430782
+https://tinyurl.com/bddah6k6/430782
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 32
-https://tinyurl.com/mvfz7a9v/430783
+https://tinyurl.com/bddah6k6/430783
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 33
-https://tinyurl.com/mvfz7a9v/430784
+https://tinyurl.com/bddah6k6/430784
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 34
-https://tinyurl.com/mvfz7a9v/430785
+https://tinyurl.com/bddah6k6/430785
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 35
-https://tinyurl.com/mvfz7a9v/430786
+https://tinyurl.com/bddah6k6/430786
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 36
-https://tinyurl.com/mvfz7a9v/430787
+https://tinyurl.com/bddah6k6/430787
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 38
-https://tinyurl.com/mvfz7a9v/430788
+https://tinyurl.com/bddah6k6/430788
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 39
-https://tinyurl.com/mvfz7a9v/430789
+https://tinyurl.com/bddah6k6/430789
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 40
-https://tinyurl.com/mvfz7a9v/430790
+https://tinyurl.com/bddah6k6/430790
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 41
-https://tinyurl.com/mvfz7a9v/430791
+https://tinyurl.com/bddah6k6/430791
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 1 HD
-https://tinyurl.com/mvfz7a9v/507554
+https://tinyurl.com/bddah6k6/507554
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 2 HD
-https://tinyurl.com/mvfz7a9v/507555
+https://tinyurl.com/bddah6k6/507555
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 3 HD
-https://tinyurl.com/mvfz7a9v/507556
+https://tinyurl.com/bddah6k6/507556
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 4 HD
-https://tinyurl.com/mvfz7a9v/507557
+https://tinyurl.com/bddah6k6/507557
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 5 HD
-https://tinyurl.com/mvfz7a9v/507558
+https://tinyurl.com/bddah6k6/507558
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 6 HD
-https://tinyurl.com/mvfz7a9v/507559
+https://tinyurl.com/bddah6k6/507559
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 7 HD
-https://tinyurl.com/mvfz7a9v/507560
+https://tinyurl.com/bddah6k6/507560
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 8 HD
-https://tinyurl.com/mvfz7a9v/507561
+https://tinyurl.com/bddah6k6/507561
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 9 HD
-https://tinyurl.com/mvfz7a9v/507562
+https://tinyurl.com/bddah6k6/507562
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 10 HD
-https://tinyurl.com/mvfz7a9v/507563
+https://tinyurl.com/bddah6k6/507563
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 11 HD
-https://tinyurl.com/mvfz7a9v/507564
+https://tinyurl.com/bddah6k6/507564
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 12 HD
-https://tinyurl.com/mvfz7a9v/507565
+https://tinyurl.com/bddah6k6/507565
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 13 HD
-https://tinyurl.com/mvfz7a9v/507566
+https://tinyurl.com/bddah6k6/507566
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 14 HD
-https://tinyurl.com/mvfz7a9v/507567
+https://tinyurl.com/bddah6k6/507567
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 15 HD
-https://tinyurl.com/mvfz7a9v/507568
+https://tinyurl.com/bddah6k6/507568
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 16 HD
-https://tinyurl.com/mvfz7a9v/516250
+https://tinyurl.com/bddah6k6/516250
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 17 HD
-https://tinyurl.com/mvfz7a9v/516251
+https://tinyurl.com/bddah6k6/516251
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 18 HD
-https://tinyurl.com/mvfz7a9v/516252
+https://tinyurl.com/bddah6k6/516252
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 19 HD
-https://tinyurl.com/mvfz7a9v/516253
+https://tinyurl.com/bddah6k6/516253
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 20 HD
-https://tinyurl.com/mvfz7a9v/516254
+https://tinyurl.com/bddah6k6/516254
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 21 HD
-https://tinyurl.com/mvfz7a9v/516255
+https://tinyurl.com/bddah6k6/516255
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 22 HD
-https://tinyurl.com/mvfz7a9v/541564
+https://tinyurl.com/bddah6k6/541564
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 23 HD
-https://tinyurl.com/mvfz7a9v/541565
+https://tinyurl.com/bddah6k6/541565
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 24 HD
-https://tinyurl.com/mvfz7a9v/541566
+https://tinyurl.com/bddah6k6/541566
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 25 HD
-https://tinyurl.com/mvfz7a9v/541567
+https://tinyurl.com/bddah6k6/541567
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 26 HD
-https://tinyurl.com/mvfz7a9v/541568
+https://tinyurl.com/bddah6k6/541568
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 27 HD
-https://tinyurl.com/mvfz7a9v/541569
+https://tinyurl.com/bddah6k6/541569
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 28 HD
-https://tinyurl.com/mvfz7a9v/541570
+https://tinyurl.com/bddah6k6/541570
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 29 HD
-https://tinyurl.com/mvfz7a9v/541571
+https://tinyurl.com/bddah6k6/541571
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 30 HD
-https://tinyurl.com/mvfz7a9v/541572
+https://tinyurl.com/bddah6k6/541572
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere info ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512590
+https://tinyurl.com/bddah6k6/512590
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 1 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512591
+https://tinyurl.com/bddah6k6/512591
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 2 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512592
+https://tinyurl.com/bddah6k6/512592
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 3 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512593
+https://tinyurl.com/bddah6k6/512593
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 4 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512594
+https://tinyurl.com/bddah6k6/512594
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 5 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512595
+https://tinyurl.com/bddah6k6/512595
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 6 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512596
+https://tinyurl.com/bddah6k6/512596
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 7 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512597
+https://tinyurl.com/bddah6k6/512597
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 8 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512598
+https://tinyurl.com/bddah6k6/512598
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 9 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512599
+https://tinyurl.com/bddah6k6/512599
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 10 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512600
+https://tinyurl.com/bddah6k6/512600
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 11 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512601
+https://tinyurl.com/bddah6k6/512601
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 12 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512602
+https://tinyurl.com/bddah6k6/512602
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 13 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512603
+https://tinyurl.com/bddah6k6/512603
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series info ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512579
+https://tinyurl.com/bddah6k6/512579
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 1 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512580
+https://tinyurl.com/bddah6k6/512580
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 2 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512581
+https://tinyurl.com/bddah6k6/512581
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 3 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512582
+https://tinyurl.com/bddah6k6/512582
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 4 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512583
+https://tinyurl.com/bddah6k6/512583
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 6 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512584
+https://tinyurl.com/bddah6k6/512584
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 5 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512585
+https://tinyurl.com/bddah6k6/512585
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 7 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512586
+https://tinyurl.com/bddah6k6/512586
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 8 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512587
+https://tinyurl.com/bddah6k6/512587
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 9 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512588
+https://tinyurl.com/bddah6k6/512588
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 10 ᴴᴰ
-https://tinyurl.com/mvfz7a9v/512589
+https://tinyurl.com/bddah6k6/512589
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png",CBS HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u8
