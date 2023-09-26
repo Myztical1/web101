@@ -530,6 +530,22 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist
 https://is.gd/absMUg
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/n3Jd1p3/image.png",ZEE BOLLYWOOD
 https://is.gd/3zoVk1
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/881fb25d7a2d1f010d0d73e759f2a0e8.png",Colors Cineplex
+https://tinyurl.com/bddah6k6/545132
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/f81acfd8d0caa958395ba368d0caa430.png",Colors Gujarati
+https://tinyurl.com/bddah6k6/545133
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png",Colors Marathi
+https://tinyurl.com/bddah6k6/545134
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/46bb2fcdae4f0df51a08b32176d2f1d8.png",Colors Rishtey
+https://tinyurl.com/bddah6k6/545136
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/46bb2fcdae4f0df51a08b32176d2f1d8.png",Colors Rishtey UK
+https://tinyurl.com/bddah6k6/545135
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png",Colors TV
+https://tinyurl.com/bddah6k6/545138
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png",Colors TV HD
+https://tinyurl.com/bddah6k6/545139
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png",Colors TV UK
+https://tinyurl.com/bddah6k6/545137
 
 #EXTINF:-1 group-title="AFRICA" tvg-logo="http://www.apbf.tv/img/abn.jpg",ABN
 https://is.gd/6lvswe
@@ -3176,6 +3192,8 @@ http://181.233.124.38:80/christian/christian123/1862575.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 5
 http://181.233.124.38:80/christian/christian123/1862535.ts
 
+#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ACTION
+http://fortv.cc:8080/M0CsAb/026647/119419
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ANIMATION
 http://fortv.cc:8080/M0CsAb/026647/119420
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: BLOCKBUSTERS
@@ -3276,8 +3294,6 @@ http://fortv.cc:8080/M0CsAb/026647/66311
 http://fortv.cc:8080/M0CsAb/026647/79567
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Knight Rider*
 http://fortv.cc:8080/M0CsAb/026647/83700
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ACTION
-http://fortv.cc:8080/M0CsAb/026647/119419
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 FAMILY MATTERS
 http://fortv.cc:8080/M0CsAb/026647/125634
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 TOM AND JERRY
@@ -3377,116 +3393,6 @@ https://tinyurl.com/bddah6k6/430789
 https://tinyurl.com/bddah6k6/430790
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 41
 https://tinyurl.com/bddah6k6/430791
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 1 HD
-https://tinyurl.com/bddah6k6/507554
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 2 HD
-https://tinyurl.com/bddah6k6/507555
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 3 HD
-https://tinyurl.com/bddah6k6/507556
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 4 HD
-https://tinyurl.com/bddah6k6/507557
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 5 HD
-https://tinyurl.com/bddah6k6/507558
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 6 HD
-https://tinyurl.com/bddah6k6/507559
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 7 HD
-https://tinyurl.com/bddah6k6/507560
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 8 HD
-https://tinyurl.com/bddah6k6/507561
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 9 HD
-https://tinyurl.com/bddah6k6/507562
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 10 HD
-https://tinyurl.com/bddah6k6/507563
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 11 HD
-https://tinyurl.com/bddah6k6/507564
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 12 HD
-https://tinyurl.com/bddah6k6/507565
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 13 HD
-https://tinyurl.com/bddah6k6/507566
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 14 HD
-https://tinyurl.com/bddah6k6/507567
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 15 HD
-https://tinyurl.com/bddah6k6/507568
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 16 HD
-https://tinyurl.com/bddah6k6/516250
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 17 HD
-https://tinyurl.com/bddah6k6/516251
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 18 HD
-https://tinyurl.com/bddah6k6/516252
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 19 HD
-https://tinyurl.com/bddah6k6/516253
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 20 HD
-https://tinyurl.com/bddah6k6/516254
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 21 HD
-https://tinyurl.com/bddah6k6/516255
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 22 HD
-https://tinyurl.com/bddah6k6/541564
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 23 HD
-https://tinyurl.com/bddah6k6/541565
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 24 HD
-https://tinyurl.com/bddah6k6/541566
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 25 HD
-https://tinyurl.com/bddah6k6/541567
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 26 HD
-https://tinyurl.com/bddah6k6/541568
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 27 HD
-https://tinyurl.com/bddah6k6/541569
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 28 HD
-https://tinyurl.com/bddah6k6/541570
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 29 HD
-https://tinyurl.com/bddah6k6/541571
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Sly Store Premiere 30 HD
-https://tinyurl.com/bddah6k6/541572
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere info ᴴᴰ
-https://tinyurl.com/bddah6k6/512590
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 1 ᴴᴰ
-https://tinyurl.com/bddah6k6/512591
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 2 ᴴᴰ
-https://tinyurl.com/bddah6k6/512592
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 3 ᴴᴰ
-https://tinyurl.com/bddah6k6/512593
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 4 ᴴᴰ
-https://tinyurl.com/bddah6k6/512594
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 5 ᴴᴰ
-https://tinyurl.com/bddah6k6/512595
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 6 ᴴᴰ
-https://tinyurl.com/bddah6k6/512596
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 7 ᴴᴰ
-https://tinyurl.com/bddah6k6/512597
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 8 ᴴᴰ
-https://tinyurl.com/bddah6k6/512598
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 9 ᴴᴰ
-https://tinyurl.com/bddah6k6/512599
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 10 ᴴᴰ
-https://tinyurl.com/bddah6k6/512600
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 11 ᴴᴰ
-https://tinyurl.com/bddah6k6/512601
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 12 ᴴᴰ
-https://tinyurl.com/bddah6k6/512602
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Premiere 13 ᴴᴰ
-https://tinyurl.com/bddah6k6/512603
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series info ᴴᴰ
-https://tinyurl.com/bddah6k6/512579
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 1 ᴴᴰ
-https://tinyurl.com/bddah6k6/512580
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 2 ᴴᴰ
-https://tinyurl.com/bddah6k6/512581
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 3 ᴴᴰ
-https://tinyurl.com/bddah6k6/512582
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 4 ᴴᴰ
-https://tinyurl.com/bddah6k6/512583
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 6 ᴴᴰ
-https://tinyurl.com/bddah6k6/512584
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 5 ᴴᴰ
-https://tinyurl.com/bddah6k6/512585
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 7 ᴴᴰ
-https://tinyurl.com/bddah6k6/512586
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 8 ᴴᴰ
-https://tinyurl.com/bddah6k6/512587
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 9 ᴴᴰ
-https://tinyurl.com/bddah6k6/512588
-#EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Netflix Series 10 ᴴᴰ
-https://tinyurl.com/bddah6k6/512589
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png",CBS HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u8
