@@ -532,6 +532,12 @@ https://is.gd/7WSbE6
 https://tinyurl.com/bddah6k6/508301
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png",Colors TV UK
 https://tinyurl.com/bddah6k6/508282
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://livetv.mw.lt/images/colorstvchannelindialogo.jpg",Colors
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://4.bp.blogspot.com/-bkEHrwQtXzc/TrE0LUNjILI/AAAAAAAAGR0/f5mPCN342YU/s1600/starplus-feature.jpg",StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/02/02/sony.jpg",SonyMax
+http://103.120.172.74:1150
 
 #EXTINF:-1 group-title="AFRICA" tvg-logo="http://www.apbf.tv/img/abn.jpg",ABN
 https://is.gd/nkl8Ss
@@ -560,7 +566,7 @@ https://is.gd/Xvp6Q6
 https://is.gd/klCeru
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://images.justgiving.com/image/a684b862-182d-413a-acbd-49e0f6c0f3d2.png",The Islamic Network
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",CGTV
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",CGTV
 https://is.gd/aHTeT3
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
 https://is.gd/PfN9Y5
@@ -1180,6 +1186,8 @@ https://is.gd/qUOrHN
 https://is.gd/nM2m81
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 https://is.gd/x61TEU
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png",CINECANAL
+https://is.gd/kbOY7J
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME EAST
 http://fortv.cc:8080/12345/56789/46214
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET
@@ -1216,7 +1224,7 @@ https://is.gd/eBzxYv
 https://is.gd/Y0cgP9
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",PARAMOUNT NETWORK
 https://is.gd/Ad5Lpb
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sony-logo.png",SONY
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
 https://is.gd/kOduJN
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png",SONY MOVIES
 https://is.gd/IgkOd1
@@ -3050,7 +3058,7 @@ https://is.gd/Hnnio0
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY HD EAST US
 https://is.gd/KfODdH
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",DISNEY JUNIOR
-https://is.gd/axS8P9
+https://is.gd/jaA8Vx
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",DISNEY XD US
 https://is.gd/sZVYJF
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR US
@@ -3058,9 +3066,9 @@ https://is.gd/nHPxa6
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON UK
 https://is.gd/RgY8Kd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png",SMILE
-https://is.gd/jOTu9W
+https://is.gd/L032kl
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",STARZ KIDS & FAMILY HD
-https://is.gd/4t0H7Y
+https://is.gd/3DRTf4
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/TeenNick.us.png",TEENNICK US
 https://is.gd/mstlL6
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/QNwbBzzC/Happy-Kids.png",HAPPY KIDS Jr
@@ -3124,15 +3132,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
-https://is.gd/xTtrL3
+https://is.gd/UDrVHo
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://localmilk.com.au/wp-content/uploads/2018/07/Western-Star.jpg",24/7 Superstar Western Movie 1
 http://ky-iptv.com:80/allen123/123allen/1862587.ts
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
 http://fortv.cc:8080/M0CsAb/026647/119435
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
-http://hardcoremedia.xyz:80/asxxibud/7733204294/192
+http://hardcoremedia.xyz:80/asxxibud/7733204294/130054
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
-http://hardcoremedia.xyz:80/asxxibud/7733204294/227
+http://hardcoremedia.xyz:80/asxxibud/7733204294/130047
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-western-logo.jpg",PinkWestern
 http://hardcoremedia.xyz:80/asxxibud/7733204294/14432
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6286de930ce6137ba30fc293",Old West TV
@@ -3542,11 +3550,11 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 1
-https://is.gd/Oz44dt
+https://is.gd/tyRN9K
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",ESPN 2
-https://is.gd/mr3HyO
+https://is.gd/qriYRy
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20Flow%20Sports.png",FLOW SPORTS
-https://is.gd/BLQCUY
+https://is.gd/KjpDpK
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
 https://is.gd/4UKRmA
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
@@ -3554,13 +3562,15 @@ https://is.gd/XNNxUM
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD
 https://is.gd/seMN1O
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",Willow Cricket
-https://is.gd/MioHUc
+http://hardcoremedia.xyz:80/asxxibud/7733204294/2239
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dlpure.com/wp-content/uploads/2020/11/1606297370.png",Pro Sports
+https://is.gd/OxiiEJ
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/jamaica/11-SportsMax[1].jpg",SPORTSMAX 1
-https://is.gd/Eke0cY
+https://is.gd/nctNLc
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ub4n3p1577888924.png",SPORTSMAX 2
-https://is.gd/t5wbI6
+https://is.gd/V639fd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.anguilla/files/Rush_0.png",RUSH
-https://is.gd/hGDBPF
+https://is.gd/hRc9wB
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",LFC TV
 http://89.187.167.92:80/live.ts?channelId=96&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png",MUTV
@@ -4341,134 +4351,134 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/1920px-Stingray_Digital.svg.png",Stingray Karaoke
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC 80'S
-http://edge.bz:8080/fredp/fredp/11006
+http://edge.bz:8080/young2/young2/11006
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC 90'S
-http://edge.bz:8080/fredp/fredp/1897
+http://edge.bz:8080/young2/young2/1897
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ADULT ALTERNATIVE
-http://edge.bz:8080/fredp/fredp/50954
+http://edge.bz:8080/young2/young2/50954
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ALTERNATIVE
-http://edge.bz:8080/fredp/fredp/177
+http://edge.bz:8080/young2/young2/177
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ARTISTS TO WATCH
-http://edge.bz:8080/fredp/fredp/11012
+http://edge.bz:8080/young2/young2/11012
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC BRITS + HITS
-http://edge.bz:8080/fredp/fredp/1898
+http://edge.bz:8080/young2/young2/1898
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC CHOICE MAX
-http://edge.bz:8080/fredp/fredp/1902
+http://edge.bz:8080/young2/young2/1902
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC COUNTRY HITS
-http://edge.bz:8080/fredp/fredp/11022
+http://edge.bz:8080/young2/young2/11022
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC DANCE EDM
-http://edge.bz:8080/fredp/fredp/178
+http://edge.bz:8080/young2/young2/178
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC DISNEY
-http://edge.bz:8080/fredp/fredp/50955
+http://edge.bz:8080/young2/young2/50955
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC HIP HOP/R&B (USA)
-http://edge.bz:8080/fredp/fredp/179
+http://edge.bz:8080/young2/young2/179
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC HIT LIST
-http://edge.bz:8080/fredp/fredp/180
+http://edge.bz:8080/young2/young2/180
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC INDIE
-http://edge.bz:8080/fredp/fredp/1899
+http://edge.bz:8080/young2/young2/1899
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC KIDZ BOP
-http://edge.bz:8080/fredp/fredp/1900
+http://edge.bz:8080/young2/young2/1900
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC KIDZ ONLY!
-http://edge.bz:8080/fredp/fredp/1901
+http://edge.bz:8080/young2/young2/1901
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC LADIES OF R&B
-http://edge.bz:8080/fredp/fredp/11025
+http://edge.bz:8080/young2/young2/11025
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC LEARN & PLAY
-http://edge.bz:8080/fredp/fredp/50956
+http://edge.bz:8080/young2/young2/50956
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC MEXICANA
-http://edge.bz:8080/fredp/fredp/182
+http://edge.bz:8080/young2/young2/182
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC POP & COUNTRY
-http://edge.bz:8080/fredp/fredp/183
+http://edge.bz:8080/young2/young2/183
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC POP HITS
-http://edge.bz:8080/fredp/fredp/184
+http://edge.bz:8080/young2/young2/184
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC POP LATINO
-http://edge.bz:8080/fredp/fredp/1905
+http://edge.bz:8080/young2/young2/1905
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC R&B
-http://edge.bz:8080/fredp/fredp/1906
+http://edge.bz:8080/young2/young2/1906
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC R&B SOUL
-http://edge.bz:8080/fredp/fredp/185
+http://edge.bz:8080/young2/young2/185
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC RAP
-http://edge.bz:8080/fredp/fredp/186
+http://edge.bz:8080/young2/young2/186
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC RAP 2K
-http://edge.bz:8080/fredp/fredp/187
+http://edge.bz:8080/young2/young2/187
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ROCK
-http://edge.bz:8080/fredp/fredp/188
+http://edge.bz:8080/young2/young2/188
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC SOFT ROCK
-http://edge.bz:8080/fredp/fredp/11029
+http://edge.bz:8080/young2/young2/11029
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TEEN BEATS
-http://edge.bz:8080/fredp/fredp/189
+http://edge.bz:8080/young2/young2/189
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC THROWBACK JAMZ
-http://edge.bz:8080/fredp/fredp/181
+http://edge.bz:8080/young2/young2/181
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TODAY'S COUNTRY
-http://edge.bz:8080/fredp/fredp/1908
+http://edge.bz:8080/young2/young2/1908
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TODDLER TUNES
-http://edge.bz:8080/fredp/fredp/1909
+http://edge.bz:8080/young2/young2/1909
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TROPICALES
-http://edge.bz:8080/fredp/fredp/191
+http://edge.bz:8080/young2/young2/191
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC URBANA
-http://edge.bz:8080/fredp/fredp/1910
+http://edge.bz:8080/young2/young2/1910
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC WONDERAMA
-http://edge.bz:8080/fredp/fredp/50960
+http://edge.bz:8080/young2/young2/50960
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC Y2K
-http://edge.bz:8080/fredp/fredp/1911
+http://edge.bz:8080/young2/young2/1911
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ADULT ALTERNATIVE
-http://edge.bz:8080/fredp/fredp/106396
+http://edge.bz:8080/young2/young2/106396
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ALTERNATIVE
-http://edge.bz:8080/fredp/fredp/58092
+http://edge.bz:8080/young2/young2/58092
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY BILLBOARD
-http://edge.bz:8080/fredp/fredp/106424
+http://edge.bz:8080/young2/young2/106424
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY CLASSIC MASTERS
-http://edge.bz:8080/fredp/fredp/106399
+http://edge.bz:8080/young2/young2/106399
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY CLASSIC ROCK
-http://edge.bz:8080/fredp/fredp/58093
+http://edge.bz:8080/young2/young2/58093
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY CLASSICA
-http://edge.bz:8080/fredp/fredp/45199
+http://edge.bz:8080/young2/young2/45199
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY COUNTRY CLASSICS
-http://edge.bz:8080/fredp/fredp/106401
+http://edge.bz:8080/young2/young2/106401
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY EASY LISTENING
-http://edge.bz:8080/fredp/fredp/106403
+http://edge.bz:8080/young2/young2/106403
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY EXITOS DEL MOMENTO
-http://edge.bz:8080/fredp/fredp/58094
+http://edge.bz:8080/young2/young2/58094
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY FLASHBACK 70'S
-http://edge.bz:8080/fredp/fredp/58095
+http://edge.bz:8080/young2/young2/58095
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HIP HOP/R&B
-http://edge.bz:8080/fredp/fredp/58091
+http://edge.bz:8080/young2/young2/58091
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HIT LIST
-http://edge.bz:8080/fredp/fredp/56090
+http://edge.bz:8080/young2/young2/56090
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HOT COUNTRY
-http://edge.bz:8080/fredp/fredp/106409
+http://edge.bz:8080/young2/young2/106409
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HOT COUNTRY (USA)
-http://edge.bz:8080/fredp/fredp/56091
+http://edge.bz:8080/young2/young2/56091
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY JUKEBOX OLDIES
-http://edge.bz:8080/fredp/fredp/106411
+http://edge.bz:8080/young2/young2/106411
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY LOUD
-http://edge.bz:8080/fredp/fredp/42332
+http://edge.bz:8080/young2/young2/42332
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY NATURE
-http://edge.bz:8080/fredp/fredp/106414
+http://edge.bz:8080/young2/young2/106414
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY NATURESCAPE
-http://edge.bz:8080/fredp/fredp/42339
+http://edge.bz:8080/young2/young2/42339
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY POP ADULT
-http://edge.bz:8080/fredp/fredp/56092
+http://edge.bz:8080/young2/young2/56092
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY QELLO
-http://edge.bz:8080/fredp/fredp/42337
+http://edge.bz:8080/young2/young2/42337
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY REMEMBER THE 80'S
-http://edge.bz:8080/fredp/fredp/58097
+http://edge.bz:8080/young2/young2/58097
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY RETRO
-http://edge.bz:8080/fredp/fredp/42333
+http://edge.bz:8080/young2/young2/42333
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ROCK
-http://edge.bz:8080/fredp/fredp/106420
+http://edge.bz:8080/young2/young2/106420
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY SMOOTH JAZZ
-http://edge.bz:8080/fredp/fredp/106423
+http://edge.bz:8080/young2/young2/106423
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY THE BLUES
-http://edge.bz:8080/fredp/fredp/106425
+http://edge.bz:8080/young2/young2/106425
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY THE CHILL LOUNGE
-http://edge.bz:8080/fredp/fredp/106426
+http://edge.bz:8080/young2/young2/106426
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY THE SPA
-http://edge.bz:8080/fredp/fredp/106427
+http://edge.bz:8080/young2/young2/106427
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/tracebrazuca.png",TRACE BRAZUCA
-http://edge.bz:8080/fredp/fredp/132117
+http://edge.bz:8080/young2/young2/132117
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/tracelatina.png",TRACE LATINA
-http://edge.bz:8080/fredp/fredp/132113
+http://edge.bz:8080/young2/young2/132113
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/tracetoca.png",TRACE TOCA
-http://edge.bz:8080/fredp/fredp/132116
+http://edge.bz:8080/young2/young2/132116
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/vevo.png",VEVO POP
-http://edge.bz:8080/fredp/fredp/125390
+http://edge.bz:8080/young2/young2/125390
