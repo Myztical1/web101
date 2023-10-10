@@ -1170,6 +1170,8 @@ http://ucsxiptv.com:8080/i4stream/teleg7985789095432354gsdiekv/49
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO
 https://is.gd/0KjTFY
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.iinfo.cz/images/155/hbo-2-3d-transparent-logo-1.png",HBO 2
+https://is.gd/hVggAm
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",HBO POP
 https://is.gd/pBjbhH
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO FAMILY HD
@@ -1186,8 +1188,6 @@ https://is.gd/qUOrHN
 https://is.gd/nM2m81
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 https://is.gd/x61TEU
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png",CINECANAL
-https://is.gd/kbOY7J
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME EAST
 http://fortv.cc:8080/12345/56789/46214
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET
@@ -1230,6 +1230,8 @@ https://is.gd/kOduJN
 https://is.gd/IgkOd1
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
 https://is.gd/XMVwl4
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png",CINECANAL
+https://is.gd/kbOY7J
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",TV LAND
 https://is.gd/buYJvg
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/TCM.uk.png",TCM
@@ -1508,16 +1510,104 @@ http://tv.nousiptv.com:8080/yira.usa/Y2023/22382
 http://tv.nousiptv.com:8080/yira.usa/Y2023/29353
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://descargas.podzone.net/logos/-CW-NETWORK.png",CW MIAMI
 http://tv.nousiptv.com:8080/yira.usa/Y2023/38325
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/cc5ae0f96fd5b150c62d53e601c56c80.png",EPIX 2 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/197423
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/c4c98a784460dbd6b7e30f71b466d178.png",EPIX FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17189
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/cdbe022f75045f6a1003781b92177817.png",Hallmark Channel HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17246
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/cdbe022f75045f6a1003781b92177817.png",Hallmark Movies & Mysteries HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17180
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://sdmx.us:25461/images/a5675392a677c28832cbc64e21b390eb.png",HBO
-http://magi-stv.net:8080/Joseluis/Joseluis123/17251
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzcinema.png",STARZ Cinema
+https://tinyurl.com/42dv87za/16572
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzcomedy.png",STARZ Comedy
+https://tinyurl.com/42dv87za/2006
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzedge.png",STARZ Edge
+https://tinyurl.com/42dv87za/5581
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzaction.png",STARZ Encore Action
+https://tinyurl.com/42dv87za/16532
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzblack.png",STARZ Encore Black
+https://tinyurl.com/42dv87za/16528
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzclassic.png",STARZ Encore Classic
+https://tinyurl.com/42dv87za/16530
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzfamily.png",STARZ Encore Family
+https://tinyurl.com/42dv87za/16529
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzsuspense.png",STARZ Encore Suspense
+https://tinyurl.com/42dv87za/16531
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzwestern.png",STARZ Encore Westerns
+https://tinyurl.com/42dv87za/5255
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzencore.png",STARZ Encore-E
+https://tinyurl.com/42dv87za/5140
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzencore.png",STARZ Encore-W
+https://tinyurl.com/42dv87za/111795
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starz_us_in_black_east.png",STARZ in Black
+https://tinyurl.com/42dv87za/9569
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starzfamily.png",STARZ Kids & Family
+https://tinyurl.com/42dv87za/9472
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starz.png",STARZ-E
+https://tinyurl.com/42dv87za/2070
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/starz.png",STARZ-W
+https://tinyurl.com/42dv87za/111796
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hbo2.png",HBO 2
+https://tinyurl.com/42dv87za/1363
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hbocomedy.png",HBO Comedy
+https://tinyurl.com/42dv87za/2000
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hbofamily.png",HBO Family
+https://tinyurl.com/42dv87za/2001
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hbosig.png",HBO Signature
+https://tinyurl.com/42dv87za/5135
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hbozone.png",HBO Zone
+https://tinyurl.com/42dv87za/138096
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hbo.png",HBO-E
+https://tinyurl.com/42dv87za/761
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hbo.png",HBO-W
+https://tinyurl.com/42dv87za/111793
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/5starmax.png",CINEMAX 5Star Max 
+https://tinyurl.com/42dv87za/16571
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/actionmax.png",CINEMAX ActionMax
+https://tinyurl.com/42dv87za/9968
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/cinemax.png",CINEMAX MoreMax
+https://tinyurl.com/42dv87za/5254
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/moviemax.png",CINEMAX MovieMax 
+https://tinyurl.com/42dv87za/16570
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/outermax.png",CINEMAX OuterMax
+https://tinyurl.com/42dv87za/5579
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/thrillermax.png",CINEMAX ThrillerMax
+https://tinyurl.com/42dv87za/5580
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/cinemax.png",CINEMAX
+https://tinyurl.com/42dv87za/802
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtime2.png",SHOWTIME 2
+https://tinyurl.com/42dv87za/13830
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtimeextreme.png",SHOWTIME Extreme
+https://tinyurl.com/42dv87za/5575
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtimefamily.png",SHOWTIME Family Zone
+https://tinyurl.com/42dv87za/13829
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtimenext.png",SHOWTIME Next
+https://tinyurl.com/42dv87za/5576
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtimeshowcase.png",SHOWTIME Showcase
+https://tinyurl.com/42dv87za/5137
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtimewomen.png",SHOWTIME Women
+https://tinyurl.com/42dv87za/5577
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtime.png",SHOWTIME-E
+https://tinyurl.com/42dv87za/748
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtime.png",SHOWTIME-W
+https://tinyurl.com/42dv87za/111794
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/epixdrivein.png",MGM+ Drive-In
+https://tinyurl.com/42dv87za/13828
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/epix2.png",MGM+ Hits
+https://tinyurl.com/42dv87za/13826
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/epixhits.png",MGM+ Marquee
+https://tinyurl.com/42dv87za/13827
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/epix.png",MGM+
+https://tinyurl.com/42dv87za/5583
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/showtimebeyond.png",SHOxBET
+https://tinyurl.com/42dv87za/5574
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/sony_movie_channel_us.png",SONY Movie CH
+https://tinyurl.com/42dv87za/2125
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/pixl.png",PIXL
+https://tinyurl.com/42dv87za/15603
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/retroplex.png",RETROPLEX
+https://tinyurl.com/42dv87za/5191
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/movieplex.png",MOVIEPLEX
+https://tinyurl.com/42dv87za/16569
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/indieplex.png",INDIEPLEX
+https://tinyurl.com/42dv87za/16568
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/fxm.png",FXM
+https://tinyurl.com/42dv87za/2003
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://68.235.63.116/files/predator/chlogos/hdnet.png",HDNET Movies
+https://tinyurl.com/42dv87za/20217
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/hbo2.png",HBO 2 East
 http://magi-stv.net:8080/Joseluis/Joseluis123/17248
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/hbo2.png",HBO 2 FHD
@@ -1544,28 +1634,6 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/17253
 http://magi-stv.net:8080/Joseluis/Joseluis123/17306
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/hbozone.png",HBO Zone HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/17250
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/79f3a982fd2496a50c5ec8f88e9b608f.png",lifetime movies HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17178
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.app.goo.gl/vzPEbgozMfRcuRg27.png",Movieplex
-http://magi-stv.net:8080/Joseluis/Joseluis123/197424
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/4d0ec9644ed328af0eb2fa9cac57090e.png",Paramount HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17231
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime 2 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/197228
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Extreme HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/196420
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Family Zone HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17226
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17225
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/800px-Showtime_Next.svg.png",Showtime Next HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/197232
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Showcase HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17224
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime West HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17223
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:8080/images/0a8181d0ea6f40b81fa79b5b9eeacf41.png",Spike TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/17218
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz Cinema
 http://magi-stv.net:8080/Joseluis/Joseluis123/196411
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz Comedy HD
@@ -1594,16 +1662,34 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/196415
 http://magi-stv.net:8080/Joseluis/Joseluis123/2107677
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",Starz West HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/17220
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/0e450d1e32291326bded0e1a8b9b4c20.png",Sundance TV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17219
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:8080/images/14831b3a087423067dd5af937a12204b.png",SyFy
-http://magi-stv.net:8080/Joseluis/Joseluis123/17214
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png",TBS HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17311
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png",TCM
-http://magi-stv.net:8080/Joseluis/Joseluis123/197215
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ceoapps.org/logos/tnt.png",TNT HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/17313
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime 2 HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197228
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Extreme HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/196420
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Family Zone HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17226
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17225
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/800px-Showtime_Next.svg.png",Showtime Next HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197232
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime Showcase HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17224
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/dbd113622870cb06833070d9cf25bebd.png",Showtime West HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17223
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/c4c98a784460dbd6b7e30f71b466d178.png",EPIX FHD
+http://magi-stv.net:8080/Joseluis/Joseluis123/17189
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/cc5ae0f96fd5b150c62d53e601c56c80.png",EPIX 2 HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/197423
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIX2.PNG",EPIX 2 ESTE HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/2113538
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPXDR.png",EPIX DRIVE HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/2113539
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1200px-Epix_Logo_2019.svg.png",EPIX EAST HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/2113540
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/48b5364b7f38a7aa33c484c18bfcd77b.png",EPIX HITS HD
+http://magi-stv.net:8080/Joseluis/Joseluis123/2113541
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://l3d.us:25461/images/5f1b4d511bf0dddd260d808f0f0936b1.png",EPIX WEST
+http://magi-stv.net:8080/Joseluis/Joseluis123/2113542
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://181.233.124.38:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",A&E UHD
 http://181.233.124.38:80/Roberta1/Roberta2/175784.ts
