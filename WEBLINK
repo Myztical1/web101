@@ -3219,8 +3219,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd0000
 
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 https://is.gd/UDrVHo
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://localmilk.com.au/wp-content/uploads/2018/07/Western-Star.jpg",24/7 Superstar Western Movie 1
-http://ky-iptv.com:80/allen123/123allen/1862587.ts
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
 http://fortv.cc:8080/M0CsAb/026647/119435
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
@@ -3229,6 +3227,8 @@ http://hardcoremedia.xyz:80/asxxibud/7733204294/130054
 http://hardcoremedia.xyz:80/asxxibud/7733204294/130047
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-western-logo.jpg",PinkWestern
 http://hardcoremedia.xyz:80/asxxibud/7733204294/14432
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://localmilk.com.au/wp-content/uploads/2018/07/Western-Star.jpg",24/7 Superstar Western Movie 1
+http://ky-iptv.com:80/allen123/123allen/1862587.ts
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6286de930ce6137ba30fc293",Old West TV
 https://d3e900fnvjyq99.cloudfront.net/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657304
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1d130edb295d102c439f",Cowboy Classics
@@ -3567,7 +3567,7 @@ https://is.gd/mtlmYt
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",ID East UHD
 https://is.gd/4FAxsb
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET
-https://is.gd/b2khug
+https://is.gd/OIrUhn
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL HD
 https://is.gd/iVXWMb
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_Turbo_UK_logo.svg/1920px-Discovery_Turbo_UK_logo.svg.png",DISCOVERY TURBO
@@ -3575,9 +3575,9 @@ https://is.gd/wtV9oo
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
 https://is.gd/kY2sST
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png",HISTORY CHANNEL
-https://is.gd/ZbUXp0
+https://is.gd/qEtyHz
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL
-https://is.gd/UidosZ
+https://is.gd/Av4GUO
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeo.uk.png",Nat geo
 http://89.187.167.92:80/live.ts?channelId=54&deviceUser=lionel&devicePass=lionel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeowild.uk.png",Nat geo Wild
