@@ -3680,17 +3680,17 @@ http://hardcoremedia.xyz:80/asxxibud/7733204294/32360
 http://hardcoremedia.xyz:80/asxxibud/7733204294/32361
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/solidLogoPNG.png",BEIN SPORTS XTRA
 http://hardcoremedia.xyz:80/asxxibud/7733204294/32362
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ibb.co/pKR7b4G",STARZPLAY CricLife 1 (FHD)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/474w/criclife/CRICLIVE1Y2021M/CRICLIVE1Y2021M-474x677-PST.jpg",STARZPLAY CricLife 1 (FHD)
 http://humiptv.live:8080/live/557166/557166/122979.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ibb.co/pKR7b4G",STARZPLAY CricLife 2 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/160w/criclife/CRICLIVE2Y2021M/CRICLIVE2Y2021M-474x677-PST.jpg",STARZPLAY CricLife 2 FHD
 http://humiptv.live:8080/live/557166/557166/122980.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ibb.co/pKR7b4G",STARZPLAY CricLife 3 FHD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dnd3y8e5nonx2.cloudfront.net/organisations/avatars/865/1475212677/display.jpeg",STARZPLAY CricLife 3 FHD
 http://humiptv.live:8080/live/557166/557166/158898.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ibb.co/pKR7b4G",STARZPLAY CricLife 3 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dnd3y8e5nonx2.cloudfront.net/organisations/avatars/865/1475212677/display.jpeg",STARZPLAY CricLife 3 HD
 http://humiptv.live:8080/live/557166/557166/158897.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ibb.co/pKR7b4G",STARZPLAY CricLife MAX HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dnd3y8e5nonx2.cloudfront.net/organisations/avatars/865/1475212677/display.jpeg",STARZPLAY CricLife MAX HD
 http://humiptv.live:8080/live/557166/557166/199929.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ibb.co/pKR7b4G",STARZPLAY CricLife MAX (FHD)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dnd3y8e5nonx2.cloudfront.net/organisations/avatars/865/1475212677/display.jpeg",STARZPLAY CricLife MAX (FHD)
 http://humiptv.live:8080/live/557166/557166/199486.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",SUPER SPORTS CRICKET (4K)
 http://humiptv.live:8080/live/557166/557166/158442.ts
@@ -3704,7 +3704,7 @@ http://humiptv.live:8080/live/557166/557166/114479.ts
 http://humiptv.live:8080/live/557166/557166/23566.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/b5/7c/9f/b57c9fccf05470db5a40dfb662635da6.jpg",SKY SPORTS CRICKET
 http://humiptv.live:8080/live/557166/557166/12.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png",ASTRO CRICKET HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-Cricket-Ch838.png",ASTRO CRICKET HD
 http://humiptv.live:8080/live/557166/557166/2494.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",WILLOW CRICKET
 http://humiptv.live:8080/live/557166/557166/215.ts
@@ -3778,7 +3778,7 @@ http://humiptv.live:8080/live/557166/557166/192.ts
 http://humiptv.live:8080/live/557166/557166/146.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/SonyTen4HD.png",SONY TEN 4 (FHD)
 http://humiptv.live:8080/live/557166/557166/29469.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-hd-large.jpg",SONY 5 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",SONY 5 HD
 http://humiptv.live:8080/live/557166/557166/176.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png",SONY ESPN HD
 http://humiptv.live:8080/live/557166/557166/155.ts
