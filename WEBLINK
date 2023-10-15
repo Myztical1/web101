@@ -1,6 +1,6 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT
 https://is.gd/EfCIeN
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
 https://is.gd/yUD6Wo
@@ -26,11 +26,11 @@ https://is.gd/iRCHii
 https://is.gd/YPR3ho
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://is.gd/DosYwQ
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/RVYMSV
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/WJGbUG
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/0htG0k
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",SYNERGY TV
@@ -1182,7 +1182,7 @@ https://is.gd/qk3SnQ
 https://is.gd/tJWff8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SkB7tj3L2nM91pWNEpNKMDXZyKlt5epyZg&usqp=CAU",HBO SIGNATURE
 https://is.gd/9SWaAM
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://televall.online/images/hbo-xtreme.png",HBO XTREME
 https://is.gd/qUOrHN
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX
 https://is.gd/nM2m81
@@ -3390,96 +3390,6 @@ http://fortv.cc:8080/M0CsAb/026647/135781
 http://fortv.cc:8080/M0CsAb/026647/140069
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 UFC
 http://fortv.cc:8080/M0CsAb/026647/146291
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Still Game
-http://51.159.211.250:80/live.ts?channelId=1511&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 SpongeBob SquarePants
-http://51.159.211.250:80/live.ts?channelId=453&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Comedy Movies
-http://51.159.210.91:80/live.ts?channelId=801&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Marvel Movies
-http://51.159.210.91:80/live.ts?channelId=800&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Peter Rabbit (2013)
-http://51.159.211.250:80/live.ts?channelId=454&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Father Ted
-http://51.159.210.91:80/live.ts?channelId=455&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Pokémon
-http://51.159.211.250:80/live.ts?channelId=456&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 The Goldbergs (2013)
-http://51.159.211.250:80/live.ts?channelId=457&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Mike Judges Beavis and Butt-Head
-http://51.159.210.91:80/live.ts?channelId=458&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 The Inbetweeners
-http://51.159.211.250:80/live.ts?channelId=459&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Grimm
-http://51.159.210.91:80/live.ts?channelId=460&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Supernatural
-http://51.159.211.250:80/live.ts?channelId=461&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Family Guy
-http://51.159.210.91:80/live.ts?channelId=462&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 American Dad!
-http://51.159.210.91:80/live.ts?channelId=463&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Bob\\\\'s Burgers
-http://51.159.210.91:80/live.ts?channelId=464&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 The Cleveland Show
-http://51.159.211.250:80/live.ts?channelId=465&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Fawlty Towers
-http://51.159.210.91:80/live.ts?channelId=466&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Friends
-http://51.159.210.91:80/live.ts?channelId=467&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Futurama
-http://51.159.210.91:80/live.ts?channelId=468&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Max & Paddys Road to Nowhere
-http://51.159.210.91:80/live.ts?channelId=469&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Red Dwarf
-http://51.159.211.250:80/live.ts?channelId=470&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 The Simpsons
-http://51.159.211.250:80/live.ts?channelId=471&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Two and a Half Men
-http://51.159.211.250:80/live.ts?channelId=472&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Two Pints of Lager and a Packet of Crisps
-http://51.159.211.250:80/live.ts?channelId=473&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Young Sheldon
-http://51.159.211.250:80/live.ts?channelId=474&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Zack & Cody
-http://51.159.211.250:80/live.ts?channelId=893&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 South Park
-http://51.159.211.250:80/live.ts?channelId=475&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 The Epic Tales of Captain Underpants
-http://51.159.211.250:80/live.ts?channelId=476&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Peppa Pig
-http://51.159.211.250:80/live.ts?channelId=477&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Trolls: The Beat Goes On!
-http://51.159.211.250:80/live.ts?channelId=478&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 The Big Bang Theory
-http://51.159.211.250:80/live.ts?channelId=479&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Only Fools and Horses
-http://51.159.210.91:80/live.ts?channelId=480&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Auf Wiedersehen, Pet
-http://51.159.210.91:80/live.ts?channelId=481&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Phoenix Nights
-http://51.159.211.250:80/live.ts?channelId=482&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Plebs
-http://51.159.211.250:80/live.ts?channelId=483&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Friday Night Dinner
-http://51.159.210.91:80/live.ts?channelId=484&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Everybody Loves Raymond
-http://51.159.210.91:80/live.ts?channelId=485&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Hardcore Pawn
-http://51.159.210.91:80/live.ts?channelId=486&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Ben and Hollys Little Kingdom
-http://51.159.210.91:80/live.ts?channelId=487&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Adventure Time
-http://51.159.210.91:80/live.ts?channelId=488&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Deadliest Catch
-http://51.159.210.91:80/live.ts?channelId=489&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Bar Rescue
-http://51.159.210.91:80/live.ts?channelId=490&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Impractical Jokers
-http://51.159.210.91:80/live.ts?channelId=491&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Salvage Hunters
-http://51.159.211.250:80/live.ts?channelId=492&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Storage Wars
-http://51.159.211.250:80/live.ts?channelId=493&deviceUser=alex1234&devicePass=alex1234&uid=21890
 
 #EXTINF:-1 group-title="CINEMA PPV" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png",Cinema 01
 https://tinyurl.com/bddah6k6/430753
