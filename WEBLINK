@@ -538,6 +538,32 @@ http://103.120.172.74:1070
 http://103.120.172.74:1120
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/02/02/sony.jpg",SonyMax
 http://103.120.172.74:1150
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png",Colors TV UK
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/143
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://4.bp.blogspot.com/-bkEHrwQtXzc/TrE0LUNjILI/AAAAAAAAGR0/f5mPCN342YU/s1600/starplus-feature.jpg",StarPlus
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/136
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/02/02/sony.jpg",SonyMax
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/167
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 1 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85549
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 2 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85550
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 3 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85551
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 4 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85552
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 5 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85553
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 6 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85554
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 7 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85555
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 8 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85556
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 9 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85557
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",VIP CINEMA 10 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/85558
 
 #EXTINF:-1 group-title="AFRICA" tvg-logo="http://www.apbf.tv/img/abn.jpg",ABN
 https://is.gd/nkl8Ss
@@ -559,6 +585,40 @@ https://is.gd/eL1LU4
 https://is.gd/4c4G22
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/sun-tv-logo-1.png",SUN TV
 https://is.gd/AKOJUI
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Africa Magic Family
+http://humiptv.live:8080/live/454753/454753/170647.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",AfricaMagic Epic
+http://humiptv.live:8080/live/454753/454753/170649.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Afro Music Pop
+http://humiptv.live:8080/live/454753/454753/170650.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",CBS Justice
+http://humiptv.live:8080/live/454753/454753/170655.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",CBS Reality
+http://humiptv.live:8080/live/454753/454753/170656.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",CNBC Africa
+http://humiptv.live:8080/live/454753/454753/170658.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Curiosity Channel
+http://humiptv.live:8080/live/454753/454753/170659.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Da Vinci
+http://humiptv.live:8080/live/454753/454753/170660.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Daystar
+http://humiptv.live:8080/live/454753/454753/170661.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Discovery Channel
+http://humiptv.live:8080/live/454753/454753/170662.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Discovery Family
+http://humiptv.live:8080/live/454753/454753/170663.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",DOVE TV
+http://humiptv.live:8080/live/454753/454753/170664.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Emmanuel TV
+http://humiptv.live:8080/live/454753/454753/170665.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",EWTN
+http://humiptv.live:8080/live/454753/454753/170668.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",FAITH
+http://humiptv.live:8080/live/454753/454753/170669.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",HISTORY
+http://humiptv.live:8080/live/454753/454753/170671.ts
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Honey
+http://humiptv.live:8080/live/454753/454753/170672.ts
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 https://is.gd/Xvp6Q6
@@ -591,40 +651,6 @@ https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/05/cropped-mtm-globe.png",MTM TV (720p)
 https://wowza.btbn.tv:5443/mtmtv/streams/live.m3u8
 
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/9ce2860a38674406cc86c1bdab0b9a5a.png",CONCIENCIA
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSKiqn4nW07UljFOxRGy7Qbw/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/08e46a5d4a40c9e32576c45ecab6d207.png",GLOBOVISION
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSL_p412LQLDoVSfwVMnt_wY/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/9d8c4adc9a28a5da97d2ab5e4a0c6b0a.jpg",MERIDIANO
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSBJHytrT-7yyEBpcX9MJYx4/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/0f84d3e0cd757d2b4df4797f8c32ed78.jpg",TELESUR
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSOy-trdlEZa4PXXvxoRp3E4/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/fae8bb1beb17d159b3fa0d680d8e892c.PNG",TELEVEN
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSCMdqqgFMao9YeBfDNnou0o/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/f317957d1cca41aa3a4ad06666df19fd.png",TV FAMILIA
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSDVdE0rrn3GGSAuBt3wQeaM/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/4f541bc50e9686928cffd5aae3d5a3d3.jpg",TVES
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSP5eKtWR3O96sX7tkGMNA0w/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/0facf014e6d76a1b6bb6103619e1b010.png",VALE TV
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSCy_AdiMAgdQsPmxiY4IqHE/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/d296ccb00ef706b53a3b36aa3a8aea1d.jpg",VENEVISION
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSAKkrFNIE0gPhQHy1jSGdLo/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/21720807284106425890398170cd01fa.jpg",VENEVISION *HD
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSO6pBXGNe7fdacNQezqsnco/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Venevision_Plus_logo.jpg/revision/latest/scale-to-width-down/340?cb=20131127135532",VENEVISION PLUS
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSL1Jo48bRYllFxKZ3C62OXM/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/93c622cf3c5f3cb9e28160dbc517d452.png",VENEZOLANA DE TELEVISION
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSFBYgRk7vvUgctQI0SEnOOY/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/0aae778fdac8e9a483a7600d4b863a52.png",VE PLUS *HQ
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSMXXWE34cd2zcPHEQhUSg_0/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/0aae778fdac8e9a483a7600d4b863a52.png",VE PLUS *HD
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSPVmvdkMdHlozDMfavJgJbI/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/527e2ffd5dea9edf97ebff69b364d19e.png",VIVE *HQ
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSESN3KiZvz_cUMR3dJI9phk/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/7e9fcfa81f7370500eda94c20647f7fd.png",TLT *HQ
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSMYGGdY9gQ4WZSNoj_R-n4s/ts
-#EXTINF:-1 group-title="Venezuela" tvg-logo="http://xdplayer.tv:8080/images/d56457c198e16361db6d9ec8d9bd4035.png",ANTV *HQ
-http://xdplayer.tv:8080/play/tditf5ivNEx-LMalFFjhSOkjPAXydPa6WTqn1-XEqAY/ts
 #EXTINF:-1 group-title="Venezuela" tvg-logo="http://ceoapps.org/logos/venevision.png",Venevision
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106073
 #EXTINF:-1 group-title="Venezuela" tvg-logo="http://ceoapps.org/logos/venevision.png",Venevision (Opcion 2)
