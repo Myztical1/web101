@@ -651,6 +651,110 @@ https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/05/cropped-mtm-globe.png",MTM TV (720p)
 https://wowza.btbn.tv:5443/mtmtv/streams/live.m3u8
 
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png",Nubeh TV ✪
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png",Oxigeno Network ✪
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/924_Panavision.png",Panavision ✪
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png",Canal Once Del Zulia
+http://200.6.154.43:1935/canal11/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png",Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/147_Reforma_TV.png",Reforma TV
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/148_Telearagua.png",Telearagua
+http://190.205.43.236:8080/hls/nginx.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/149_Televen.jpg",Televen
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/150_TLT.png",TLT
+https://vcp4.myplaytv.com/xtlt/xtlt.stream/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/500_Telesur_English.png",Telesur English
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/18_ShowVen_TV.png",ShowVen TV
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/518_TVS_Maracay.png",TVS Maracay
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/519_Canal_i.png",Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png",Venevision
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/433_Solo_Stand_Up.png",Solo Stand Up | CL
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",Retro Plus TV | CL
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",Retro Plus TV Señal 2 | CL
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",Retro Plus TV Señal 3 | CL
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/14_Urban_TV.png",Urban TV | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1_Rewind_Radio_y_TV.png",Rewind Radio y TV | CL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",Recuerdos Retro Radio TV | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/855_Natanael_TV.png",Natanael TV | PA
+https://stmv1.voxhdnet.com/natanael040322/natanael040322/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/929_Italianissimo.png",Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/928_MovieFE.png",MovieFE
+https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/927_Anzoategui_TV.png",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",Mundo de la Musica TV | CL
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1068_TVV.png",TVV
+https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1203_Chivacoa_TV.png",Chivacoa TV
+https://vdo1.panelstreaming.live:3875/hybrid/play.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1217_eSports_Max_TV.png",eSports Max TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1219_Fiesta_Max_TV.png",Fiesta Max TV
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1218_Humor_Max_Channel.png",Humor Max Channel
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png",Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1220_EXC_TV.png",EXC TV
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1223_Miranda_TV.png",Miranda TV
+https://vcp.myplaytv.com/mdatv/mdtav/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1222_PLTV.png",PLTV
+https://vcp.myplaytv.com/pltv/pltv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1224_TRV.png",TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1228_Telesol.png",Telesol
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1227_TV_FANB.png",TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/bg_logo_m3u.png",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1325_MDA_TV.png",MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1326_Globovision.png",Globovision
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1327_TRT.png",TRT
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1328_Oasis_TV.png",Oasis TV
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1329_BIT_Radio.png",BIT Radio
+https://vcp.myplaytv.com/sunacrip/sunacrip/index.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png",Torococo TV
+https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1439_Canal_Diplomatico.png",Canal Diplomatico
+https://vcp7.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/145_Corazon_Llanero.png",Corazon Llanero
+https://vcp.myplaytv.com/corazonllanero/corazonllanero/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1440_Glow_TV.png",Glow TV
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1442_Latina_TV.png",Latina TV
+https://vcp7.myplaytv.com/latinatv/latinatv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1438_Somos_TV.png",Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://cdn.m3u.cl/logo/1441_TV_Andes.png",TV Andes
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
 #EXTINF:-1 group-title="Venezuela" tvg-logo="http://ceoapps.org/logos/venevision.png",Venevision
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106073
 #EXTINF:-1 group-title="Venezuela" tvg-logo="http://ceoapps.org/logos/venevision.png",Venevision (Opcion 2)
@@ -3146,6 +3250,34 @@ https://tinyurl.com/yva6apsr/1862574.ts
 https://tinyurl.com/yva6apsr/1862575.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 5
 https://tinyurl.com/yva6apsr/1862535.ts
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Superstar Kungfu
+https://is.gd/7jUiOW
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Superstar Kungfu 1
+https://is.gd/APKcT7
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Superstar Kungfu 2
+https://is.gd/SVkxW2
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Bruce Lee
+https://is.gd/gfIH2S
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 1
+https://is.gd/09Rzzz
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 2
+https://is.gd/JGdzpV
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 3
+https://is.gd/2uDXk8
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 4
+https://is.gd/hcTiy6
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 5
+https://is.gd/A7TuWv
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 1
+https://is.gd/D9hbcD
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 2
+https://is.gd/INZQgg
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 3
+https://is.gd/LD7Gvz
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 4
+https://is.gd/Yg3JGw
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 5
+https://is.gd/Dc9zU5
 
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ACTION
 http://fortv.cc:8080/M0CsAb/026647/119419
