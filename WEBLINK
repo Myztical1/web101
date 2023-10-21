@@ -3142,6 +3142,42 @@ https://is.gd/L032kl
 https://is.gd/3DRTf4
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/TeenNick.us.png",TEENNICK US
 https://is.gd/mstlL6
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (West)
+http://45.141.156.56:8080/marie/marie/224700
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/PMgyyZK/DISNEY-CHANNEL.png",Disney Channel (West)
+http://45.141.156.56:8080/marie/marie/224701
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://fanc.tmsimg.com/assets/s60506_ll_h3_aa.png",Disney Junior (West)
+http://45.141.156.56:8080/marie/marie/224702
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png",Disney XD (West)
+http://45.141.156.56:8080/marie/marie/224703
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/MpxM690/NICK.png",Nickelodeon (West)
+http://45.141.156.56:8080/marie/marie/224704
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png",Nick Jr (West)
+http://45.141.156.56:8080/marie/marie/224705
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/DK68W0z/NICKTOONS.png",Nicktoons (West)
+http://45.141.156.56:8080/marie/marie/224706
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png",TeenNick (West)
+http://45.141.156.56:8080/marie/marie/224707
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/220px-Universal_Kids_2019_Logo.svg.png",Universal Kids (West)
+http://45.141.156.56:8080/marie/marie/224708
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://xtvizle.nl:8000/images/14d070eb011b574429cde7374feeba44.png",CARTOON Network
+http://45.141.156.56:8080/marie/marie/223391
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png",DISNEY JR
+http://45.141.156.56:8080/marie/marie/223392
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png",DISNEY XD
+http://45.141.156.56:8080/marie/marie/223393
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Family_Jr._logo.svg/200px-Family_Jr._logo.svg.png",FAMILY JR
+http://45.141.156.56:8080/marie/marie/223394
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/260px-Knowledge_Network_2012.svg.png",KNOWLEDGE Kids
+http://45.141.156.56:8080/marie/marie/223395
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png",Nickelodeon
+http://45.141.156.56:8080/marie/marie/223396
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/250px-Nicktoons_UK_Logo_2010.svg.png",NickToons
+http://45.141.156.56:8080/marie/marie/223397
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/T%C3%A9l%C3%A9toon_2016.png",TELETOON HD
+http://45.141.156.56:8080/marie/marie/223398
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Treehouse_TV_2013.png/200px-Treehouse_TV_2013.png",TREEHOUSE HD
+http://45.141.156.56:8080/marie/marie/223399
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/QNwbBzzC/Happy-Kids.png",HAPPY KIDS Jr
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png",Young Hollywood 
@@ -3240,6 +3276,8 @@ https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://www.thewutangcollection.com/themes/custom/gmg/wutang/logo.png",Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jan2020/bruce%20lee%204.jpg",Bruce Lee
+http://45.141.156.56:8080/marie/marie/232810
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 1
 https://tinyurl.com/yva6apsr/1357468.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 2
@@ -3251,33 +3289,31 @@ https://tinyurl.com/yva6apsr/1862575.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 5
 https://tinyurl.com/yva6apsr/1862535.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Superstar Kungfu
-https://is.gd/7jUiOW
+http://45.141.156.56:8080/marie/marie/232767
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Superstar Kungfu 1
-https://is.gd/APKcT7
+http://45.141.156.56:8080/marie/marie/232768
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Superstar Kungfu 2
-https://is.gd/SVkxW2
-#EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Bruce Lee
-https://is.gd/gfIH2S
+http://45.141.156.56:8080/marie/marie/232769
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 1
-https://is.gd/09Rzzz
+http://45.141.156.56:8080/marie/marie/232791
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 2
-https://is.gd/JGdzpV
+http://45.141.156.56:8080/marie/marie/232792
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 3
-https://is.gd/2uDXk8
+http://45.141.156.56:8080/marie/marie/232793
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 4
-https://is.gd/hcTiy6
+http://45.141.156.56:8080/marie/marie/232794
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Classic Kungfu 5
-https://is.gd/A7TuWv
+http://45.141.156.56:8080/marie/marie/232795
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 1
-https://is.gd/D9hbcD
+http://45.141.156.56:8080/marie/marie/232796
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 2
-https://is.gd/INZQgg
+http://45.141.156.56:8080/marie/marie/232797
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 3
-https://is.gd/LD7Gvz
+http://45.141.156.56:8080/marie/marie/232798
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 4
-https://is.gd/Yg3JGw
+http://45.141.156.56:8080/marie/marie/232799
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",Jackie Chan Action Movie 5
-https://is.gd/Dc9zU5
+http://45.141.156.56:8080/marie/marie/232800
 
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ACTION
 http://fortv.cc:8080/M0CsAb/026647/119419
@@ -4178,6 +4214,204 @@ https://tinyurl.com/58et2fyn/253717
 https://tinyurl.com/58et2fyn/160978
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",DSTV: SuperSport Football HD
 https://tinyurl.com/58et2fyn/160976
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CBS_Sports_Network_2016.png/250px-CBS_Sports_Network_2016.png",CBS SPORTS NETWORK
+http://45.141.156.56:8080/marie/marie/219076
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/51/USBA300039YG_20210525T051538.png",EDGE SPORT
+http://45.141.156.56:8080/marie/marie/219077
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png",ESPN
+http://45.141.156.56:8080/marie/marie/219078
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png",ESPN 2
+http://45.141.156.56:8080/marie/marie/219079
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/200px-ESPN3_Logo.png",ESPN 3
+http://45.141.156.56:8080/marie/marie/219080
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png",ESPN NEWS
+http://45.141.156.56:8080/marie/marie/219081
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png",ESPN U
+http://45.141.156.56:8080/marie/marie/219082
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png",FIGHT NETWORK
+http://45.141.156.56:8080/marie/marie/219083
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/USAJ3504716A_20210525T051628.png",FOR THE FANS FTF
+http://45.141.156.56:8080/marie/marie/219084
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png",Fox Soccer Plus
+http://45.141.156.56:8080/marie/marie/219085
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
+http://45.141.156.56:8080/marie/marie/219086
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/200px-FS2_logo_2015.svg.png",FOX SPORTS 2
+http://45.141.156.56:8080/marie/marie/219087
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png",FOX SPORTS DEPORTES
+http://45.141.156.56:8080/marie/marie/219088
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/USAJ2200023Z0_20210525T051529.png",FUBO SPORTS NETWORK
+http://45.141.156.56:8080/marie/marie/219089
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/13/USAK3508711A_20210525T051633.png",FUEL TV
+http://45.141.156.56:8080/marie/marie/219090
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/xXr4Cnq.png",HNC
+http://45.141.156.56:8080/marie/marie/219091
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/1280px-Marquee_Sports_Network_Logo.svg.png",MARQUEE SPORTS NETWORK
+http://45.141.156.56:8080/marie/marie/219093
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/MASN-Logo.png",MASN
+http://45.141.156.56:8080/marie/marie/219094
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/masn2.png",MASN 2
+http://45.141.156.56:8080/marie/marie/219095
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://getlogo.net/wp-content/uploads/2020/09/mavtv-logo-vector.png",MAV TV
+http://45.141.156.56:8080/marie/marie/219096
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/USAJ34000090D_20210525T051644.png",MAV TV SELECT
+http://45.141.156.56:8080/marie/marie/219097
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",MLB NETWORK
+http://45.141.156.56:8080/marie/marie/219098
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/60/USAJ4000004ZT_20210525T051725.png",MOTORVISION.TV
+http://45.141.156.56:8080/marie/marie/219099
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngkey.com/png/full/979-9792013_msg-networks-serving-up-exclusive-pre-and-postgame.png",MSG
+http://45.141.156.56:8080/marie/marie/219100
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngkey.com/png/full/979-9792013_msg-networks-serving-up-exclusive-pre-and-postgame.png",MSG 2
+http://45.141.156.56:8080/marie/marie/219101
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/msgplus.png",MSG Plus
+http://45.141.156.56:8080/marie/marie/219102
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
+http://45.141.156.56:8080/marie/marie/219103
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png",NBC Golf
+http://45.141.156.56:8080/marie/marie/219104
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/NBC_Sports_Bay_Area.png",NBC SPORTS (BAY AREA)
+http://45.141.156.56:8080/marie/marie/219105
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png",NBC SPORTS (BOSTON)
+http://45.141.156.56:8080/marie/marie/219106
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.vhv.rs/dpng/d/33-336484_nbc-sports-california-logo--png-download.png",NBC SPORTS (CALIFORNIA)
+http://45.141.156.56:8080/marie/marie/219107
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/NBC_Sports_Northwest.png",NBC SPORTS (NORTHWEST)
+http://45.141.156.56:8080/marie/marie/219108
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Nbc-sports-chicago.png",NBC SPORTS CHICAGO
+http://45.141.156.56:8080/marie/marie/219109
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Nbc-sports-chicago.png",NBC SPORTS CHICAGO PLUS
+http://45.141.156.56:8080/marie/marie/219110
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nbc-sports-logo-png-transparent.png",NBC SPORTS NETWORK
+http://45.141.156.56:8080/marie/marie/219111
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.vhv.rs/dpng/d/493-4936417_nbc-sports-philadelphia-nbc-sports-philadelphia-logo-png.png",NBC SPORTS PHILLY PLUS
+http://45.141.156.56:8080/marie/marie/219112
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2016/05/04/nbc-sports-philadelphia-640.png",NBCSN PHILADELPHIA
+http://45.141.156.56:8080/marie/marie/219113
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png",NBCSN WASHINGTON
+http://45.141.156.56:8080/marie/marie/219114
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dlf.pt/dfpng/middlepng/210-2107413_nbc-sports-chicago-logo--png-download.png",NBCSN WASHINGTON PLUS
+http://45.141.156.56:8080/marie/marie/219115
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/XLmCv5p/NESN-PLUS.png",NESN
+http://45.141.156.56:8080/marie/marie/219116
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Nesnplus.png",NESN PLUS
+http://45.141.156.56:8080/marie/marie/219117
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.clipartkey.com/mpngs/m/132-1328988_nhl-network-logo-png.png",NHL NETWORK
+http://45.141.156.56:8080/marie/marie/219118
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",OLYMPIC CHANNEL
+http://45.141.156.56:8080/marie/marie/219119
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAK3508729A_20210525T051635.png",OUTDOOR AMERICA
+http://45.141.156.56:8080/marie/marie/219120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",OUTSIDE TV+
+http://45.141.156.56:8080/marie/marie/219121
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/31L4TjP.png",Players TV
+http://45.141.156.56:8080/marie/marie/219122
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",REDBULL TV
+http://45.141.156.56:8080/marie/marie/219123
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.diablo.ltd/logos/IMPACTWrestlingChannelUS.png",Roanoke IMPACT Wrestling Channel US
+http://45.141.156.56:8080/marie/marie/219124
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/6e/0d/e9/6e0de92ee497c9c78f5e06bb51a0af41--roots-typography.jpg",Root Sports
+http://45.141.156.56:8080/marie/marie/219125
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/S/sec-network-espn-logo-DA05858423-seeklogo.com.png",SEC NETWORK
+http://45.141.156.56:8080/marie/marie/219126
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/snysny.png",SNY
+http://45.141.156.56:8080/marie/marie/219127
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png",SPECTRUM SPORTSNET LA
+http://45.141.156.56:8080/marie/marie/219128
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png",SPECTRUM SPORTSNET LA DODGERS
+http://45.141.156.56:8080/marie/marie/219129
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ca/SportsnetEast.ca.png",SPECTRUM SPORTSNET LAKERS
+http://45.141.156.56:8080/marie/marie/219130
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/46gdAeg.png",SportsGrid
+http://45.141.156.56:8080/marie/marie/219131
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vqBwJNg/SPORTSMAN-CHANNEL.png",SPORTSMAN CHANNEL
+http://45.141.156.56:8080/marie/marie/219132
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",STADIUM
+http://45.141.156.56:8080/marie/marie/219133
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stadium_College_Sports.png/220px-Stadium_College_Sports.png",STADIUM COLLEGE SPORTS CENTRAL
+http://45.141.156.56:8080/marie/marie/219134
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stadium_College_Sports.png/220px-Stadium_College_Sports.png",STADIUM COLLEGE SPORTS PACIFIC
+http://45.141.156.56:8080/marie/marie/219135
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png",TENNIS CHANNEL
+http://45.141.156.56:8080/marie/marie/219136
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvg2.png",TVG 2
+http://45.141.156.56:8080/marie/marie/219138
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/1200px-TVG_logo.svg.png",TVG Network
+http://45.141.156.56:8080/marie/marie/219139
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png",TYC SPORTS
+http://45.141.156.56:8080/marie/marie/219140
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sportsvideo.org/new/wp-content/uploads/2016/01/ufc-logo-new-red.png",UFC 24/7
+http://45.141.156.56:8080/marie/marie/219141
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1360060721992589312/KvRwWtEN_400x400.png",US: BallySPORTS XTRA1
+http://45.141.156.56:8080/marie/marie/219142
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png",WILLOW CRICKET
+http://45.141.156.56:8080/marie/marie/219143
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/otm/otm_large.png",WORLD FISHING NETWORK
+http://45.141.156.56:8080/marie/marie/219144
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/91/USAJ3504718A_20210525T051642.png",WORLD POKER TOUR
+http://45.141.156.56:8080/marie/marie/219145
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1024px-TUDN_Logo.svg.png" group-title="USA SPORTS HD",TUDN USA
+http://45.141.156.56:8080/marie/marie/219146
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/yespinss.png",YES NETWORK
+http://45.141.156.56:8080/marie/marie/219147
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",beIN SPORTS 1
+http://45.141.156.56:8080/marie/marie/301994
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",beIN SPORTS 2
+http://45.141.156.56:8080/marie/marie/301995
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png",beIN SPORTS 3
+http://45.141.156.56:8080/marie/marie/301996
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 1
+http://45.141.156.56:8080/marie/marie/301997
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 1 ᴴᴰ
+http://45.141.156.56:8080/marie/marie/301998
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 2
+http://45.141.156.56:8080/marie/marie/301999
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 3
+http://45.141.156.56:8080/marie/marie/302000
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 3 ᴴᴰ
+http://45.141.156.56:8080/marie/marie/302001
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 4
+http://45.141.156.56:8080/marie/marie/302002
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 4 ᴴᴰ
+http://45.141.156.56:8080/marie/marie/302003
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 5
+http://45.141.156.56:8080/marie/marie/302004
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 6
+http://45.141.156.56:8080/marie/marie/302005
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 7
+http://45.141.156.56:8080/marie/marie/302006
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 8
+http://45.141.156.56:8080/marie/marie/302007
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT 9
+http://45.141.156.56:8080/marie/marie/302008
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png",BT SPORT Box Office [Events Only]
+http://45.141.156.56:8080/marie/marie/302009
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png",BT SPORT Box Office ᴴᴰ [Events Only]
+http://45.141.156.56:8080/marie/marie/302010
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT Ultimate
+http://45.141.156.56:8080/marie/marie/302011
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://diymediahome.org/wp-content/uploads/bt-sport-logo.png",BT SPORT Ultimate ⁴ᴷ
+http://45.141.156.56:8080/marie/marie/302012
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png",Eurosport 1
+http://45.141.156.56:8080/marie/marie/302013
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png",Eurosport 1 ᴴᴰ
+http://45.141.156.56:8080/marie/marie/302014
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png",Eurosport 2
+http://45.141.156.56:8080/marie/marie/302015
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png",Eurosport 2 ᴴᴰ
+http://45.141.156.56:8080/marie/marie/302016
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nV55veq.png",Fight Sports
+http://45.141.156.56:8080/marie/marie/302017
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.freeshot.live/upload/source/FreeSports-logo.png",FreeSports
+http://45.141.156.56:8080/marie/marie/302018
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.freeshot.live/upload/source/FreeSports-logo.png",FreeSports ᴴᴰ
+http://45.141.156.56:8080/marie/marie/302019
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png",LFC TV
+http://45.141.156.56:8080/marie/marie/302020
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+http://45.141.156.56:8080/marie/marie/302021
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV ᴴᴰ
+http://45.141.156.56:8080/marie/marie/302022
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/accn.png",ACC NETWORK
 http://edge.bz:8080/51195/51195/192
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://edgecdn.io:8080/img/altitudesports.png",ALTITUDE SPORTS
