@@ -3535,9 +3535,13 @@ http://fortv.cc:8080/M0CsAb/026647/140069
 http://fortv.cc:8080/M0CsAb/026647/146291
 
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Channel
-http://108.54.104.36:8183/play/hallmark_channel.m3u8
+https://is.gd/a6Msj9
+#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Channel SD
+https://is.gd/ukSByZ
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Movies & Mysteries
-http://108.54.104.36:8183/play/hallmark_movies___mysteries.m3u8
+https://is.gd/9fzDWv
+#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Movies & Mysteries SD
+https://is.gd/nribPQ
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 1
 https://is.gd/DtHZ66
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 2
@@ -4643,110 +4647,3 @@ http://edge.bz:8080/young2/young2/132113
 http://edge.bz:8080/young2/young2/132116
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/vevo.png",VEVO POP
 http://edge.bz:8080/young2/young2/125390
-
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/jxidzf.png",A&E
-http://108.54.104.36:8183/play/a_e.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/pkuofk.png",MeTV
-http://108.54.104.36:8183/play/me_tv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/wsmluu.png",HISTORY
-http://108.54.104.36:8183/play/history.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/slaghy.png",ION
-http://108.54.104.36:8183/play/ion.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/rfbdrn.png",Hallmark Channel
-http://108.54.104.36:8183/play/hallmark_channel.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/hallmark-movies-mysteries.png",Hallmark Movies & Mysteries
-http://108.54.104.36:8183/play/hallmark_movies___mysteries.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/hallmark-drama.png",Hallmark Drama
-http://108.54.104.36:8183/play/hallmark_drama.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/xhzttu.png",UPtv
-http://108.54.104.36:8183/play/up_tv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/bkmyhz.png",MeTV+
-http://108.54.104.36:8183/play/me_tv_plus.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/lifetime.png",Lifetime
-http://108.54.104.36:8183/play/lifetime.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/wpomfy.png",LMN
-http://108.54.104.36:8183/play/lmn.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/the-weather-channel.png",Weather Channel
-http://108.54.104.36:8183/play/the_weather_channel.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/fhmdfj.png",AccuWeather
-http://108.54.104.36:8183/play/accuweather.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/game-show-network.png",Game Show Network
-http://108.54.104.36:8183/play/game_show_network.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/prpzfo.png",INSP
-http://108.54.104.36:8183/play/insp.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/zdzegq.png",Grit 
-http://108.54.104.36:8183/play/grit.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/lrflaq.png",Great American Family
-http://108.54.104.36:8183/play/great_american_family.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/skjrxz.png",Start TV
-http://108.54.104.36:8183/play/start_tv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/lovfel.png",Justice Central
-http://108.54.104.36:8183/play/justice_central.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/sqauxg.png",ION Mystery
-http://108.54.104.36:8183/play/ion_mystery.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/wujghi.png",BYUtv
-http://108.54.104.36:8183/play/byutv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/wwkont.png",Heroes & Icons
-http://108.54.104.36:8183/play/heroes___icons.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/lvfype.png",Catchy Comedy
-http://108.54.104.36:8183/play/catchy_comedy.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/ougvvc.png",FETV
-http://108.54.104.36:8183/play/fetv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/pixl.png",Pixl
-http://108.54.104.36:8183/play/pixl.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/hphrol.png",Get TV
-http://108.54.104.36:8183/play/get_tv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/itrtav.png",Military HISTORY
-http://108.54.104.36:8183/play/military_history.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/iwlipv.png",Circle 
-http://108.54.104.36:8183/play/circle.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/story-tv.png",Story Television
-http://108.54.104.36:8183/play/story_tv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/eicfzw.png",Great American Living
-http://108.54.104.36:8183/play/great_american_living.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/gstfyt.png",Family Movie Classics
-http://108.54.104.36:8183/play/family_movie_channel.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/dpvwtw.png",MOVIES!
-http://108.54.104.36:8183/play/movies_.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/fyi.png",FYI
-http://108.54.104.36:8183/play/fyi.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/outdoor-channel.png",Outdoor Channel
-http://108.54.104.36:8183/play/outdoor_channel.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/qjrmmm.png",Pursuit
-http://108.54.104.36:8183/play/pursuithd.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/tklgnb.png",WAYPOINT TV
-http://108.54.104.36:8183/play/waypoint.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/difgmt.png",Crime + Investigation
-http://108.54.104.36:8183/play/crime_investigation.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/etdcev.png",Curiosity Channel 
-http://108.54.104.36:8183/play/curiositystream.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/cryvsx.png",VICE
-http://108.54.104.36:8183/play/vice.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/pbongo.png",QVC
-http://108.54.104.36:8183/play/qvc.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/kdelfi.png",Recipe.TV
-http://108.54.104.36:8183/play/recipe_tv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/babyfirst-tv.png",BabyFirst
-http://108.54.104.36:8183/play/babyfirst_tv.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/kiuokt.png",Local Now
-http://108.54.104.36:8183/play/local_now.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/catchup-on-mafs.png",EE Catchup on MAFS
-http://108.54.104.36:8183/play/88.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/omzaxy.png",Cowboy Way
-http://108.54.104.36:8183/play/cowboy_way.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/justice-central-genreric.png",HAZ Justice Central
-http://108.54.104.36:8183/play/86.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/when-calls-the-heart.png",LN When Calls the Heart
-http://108.54.104.36:8183/play/72.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/kgiodq.png",Dove Channel
-http://108.54.104.36:8183/play/dove_channel.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/yizbmj.png",Heartland TV - Dove Channel
-http://108.54.104.36:8183/play/heartland.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/otepbr.png",Dove Family Movies
-http://108.54.104.36:8183/play/dove_movies.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/generic-banner.png",RZ Generic Banner
-http://108.54.104.36:8183/play/59.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/hiumqv.png",Dove Channel - Kids
-http://108.54.104.36:8183/play/dove_kids.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/frndlytv/400/400/content/common/logos/channel/logos/ysgwxs.png",ZHallmark movies now
-http://108.54.104.36:8183/play/58.m3u8
