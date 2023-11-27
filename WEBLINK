@@ -1484,7 +1484,151 @@ https://tinyurl.com/yush83y9/164904
 https://tinyurl.com/yush83y9/164905
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 4 HD (fixed)
 https://tinyurl.com/yush83y9/164906
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52157
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52158
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.diablo.ltd/logos/CinemaxLatinoUS.png",Cinemax Latino
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52159
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dBPShyM/cinemax-5-starmax.png",5StarMax
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52160
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/jrDBL5v/cinemax-actionmax.png",ActionMax
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52161
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/jrDBL5v/cinemax-actionmax.png",ActionMax West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52162
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/9vxKFL2/cinemax-moremax.png",MoreMax
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52163
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/9vxKFL2/cinemax-moremax.png",MoreMax West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52164
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/JdDwPdD/cinemax-moviemax.png",MovieMax
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52165
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/9tt9ysz/cinemax-outermax.png",OuterMax
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52166
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png",ThrillerMax
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52167
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yBMwt78/cinemax-thrillermax.png",ThrillerMax West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52168
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/G24Cfrr/epix.png",Epix
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52169
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/G24Cfrr/epix.png",Epix West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52170
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Qnd9gC2/epix2.png",Epix 2
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52171
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/7bGhYSM/epix-drive-in-us.png",Epix Drive-in
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52172
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/fMtS9mB/epix-hits-us.png",Epix Hits
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52173
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mHjbJW6/hbo-east.png",HBO
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52174
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/q02tRJ4/hbo.png",HBO West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52175
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/bLd6NsS/hbo-2-east.png",HBO2
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52176
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/0Qtr34t/hbo-2-west.png",HBO2 West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52177
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/85WGvRv/hbo-comedy-east.png",HBO Comedy
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52178
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mvrBQwG/hbo-comedy-west.png",HBO Comedy West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52179
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/8xDfMX6/hbo-family-east.png",HBO Family
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52180
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/37WDjzL/hbo-family-west.png",HBO Family West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52181
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dQ6nLgJ/hbo-latino-east.png",HBO Latino
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52182
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/9Y1Rmtx/hbo-latino-west.png",HBO Latino West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52183
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png",HBO Signature
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52184
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k6Yt9rV/hbo-signature-west.png",HBO Signature West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52185
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png",HBO Zone
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52186
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Ky5QgKD/hbo-zone-west.png",HBO Zone West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52187
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png",Showtime
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52188
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png",Showtime West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52189
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yNZ7vcf/showtime-2-us.png",Showtime 2
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52190
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yNZ7vcf/showtime-2-us.png",Showtime 2 West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52191
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/r78wDzC/sho-bet-us.png",SHOxBET
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52192
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/r78wDzC/sho-bet-us.png",SHOxBET West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52193
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/xjF3p0M/showtime-extreme-us.png",Showtime Extreme
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52194
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/xjF3p0M/showtime-extreme-us.png",Showtime Extreme West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52195
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/6wWRgWD/showtime-family-zone-us.png",Showtime Family Zone
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52196
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/6wWRgWD/showtime-family-zone-us.png",Showtime Family Zone West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52197
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yRGFYmp/showtime-next-us.png",Showtime Next
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52198
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yRGFYmp/showtime-next-us.png",Showtime NextWest
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52199
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TgHPyZC/showtime-showcase-us.png",Showtime Showcase
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52200
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TgHPyZC/showtime-showcase-us.png",Showtime Showcase West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52201
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/bb3gtCs/showtime-women-us.png",Showtime Women
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52202
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/bb3gtCs/showtime-women-us.png",Showtime Women West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52203
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/7XVYbGS/starz.png",STARZ
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52204
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/7XVYbGS/starz.png",STARZ West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52205
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/ZGkVxSL/starz-cinema.png",STARZ Cinema
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52206
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/ZGkVxSL/starz-cinema.png",Starz Cinema West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52207
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/W3Lvypc/starz-comedy.png",STARZ Comedy
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52208
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/W3Lvypc/starz-comedy.png",Starz Comedy West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52209
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N2hQh4Q/starz-edge.png",STARZ Edge
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52210
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N2hQh4Q/starz-edge.png",Starz Edge West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52211
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2sv2RQ1/starz-in-black.png",STARZ in Black
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52212
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2sv2RQ1/starz-in-black.png",Starz in Black West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52213
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/hHkg5WX/starz-kids-family.png",STARZ Kids & Family
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52214
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/hHkg5WX/starz-kids-family.png",Starz Kids & Family West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52215
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/0fKf4qC/starz-encore.png",STARZEncore
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52216
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/0fKf4qC/starz-encore.png",STARZEncore West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52217
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/9gFQXnX/starz-encore-action.png",STARZEncore Action
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52218
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/QQ8DTKB/starz-encore-black.png",STARZEncore Black
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52219
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/vxRw47q/starz-encore-classic.png",STARZEncore Classic
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52220
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.diablo.ltd/logos/STARZEncoreEspanolUS.png",STARZEncore Espanol
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52221
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/x8XHVGZ/starz-encore-family.png",STARZEncore Family
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52222
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/F46Tb73/starz-encore-suspense.png",STARZEncore Suspense
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52223
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZEncore Westerns
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/52224
 
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://imgx.fubo.tv/station_logos/wusa_n_c.png",CBS East
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/39726
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://imgx.fubo.tv/station_logos/wusa_n_c.png",CBS FHD
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/31393
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://imgx.fubo.tv/station_logos/kcbs_tv_c.png",CBS West
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/39727
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://imgx.fubo.tv/station_logos/wusa_n_c.png",(L) CBS
+http://51.81.244.172:25461/BrianMawhinney/Mawhinney/44010
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://181.233.124.55:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png",USA A&E UHD
 https://tinyurl.com/5fjtwv9v/175784.ts
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="http://181.233.124.55:80/images/71a6d51dfa6ed2b5d4231fdd8c21e1b0.png",USA AccuWeather
