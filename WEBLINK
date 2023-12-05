@@ -1255,6 +1255,8 @@ https://tinyurl.com/y2anh8rv/223691.ts
 https://is.gd/bQ2Mhg
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://ww1.prweb.com/prfiles/2010/04/07/147157/gI_Logoonwhiteweb.JPG.jpg",AFRICA CHANNEL
 https://is.gd/Z4erdl
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://i.imgur.com/s1kLdBG.png",BBLACK! AFRICA
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Africa Magic Family
 https://tinyurl.com/y2anh8rv/170647.ts
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",AfricaMagic Epic
@@ -1399,9 +1401,9 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2106062
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106080
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",Telesur
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123568
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpghttps://pbs.twimg.com/media/B3nOd8xIgAAY3_0.png",TeleVen
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",TeleVen
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106065
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpghttps://pbs.twimg.com/media/B3nOd8xIgAAY3_0.png",TeleVen (Opcion 2)
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",TeleVen (Opcion 2)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106066
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",TLT
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123567
@@ -1411,13 +1413,13 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2106068
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106070
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",Vale TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106071
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpghttp://ceoapps.org/logos/venevision.png",Venevision
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",Venevision
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106073
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpghttp://ceoapps.org/logos/venevision.png",Venevision (Opcion 2)
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",Venevision (Opcion 2)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106072
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpghttps://upload.wikimedia.org/wikipedia/commons/e/e7/Venevision_Plus_Logo_2016.png",Venevision Plus
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",Venevision Plus
 http://magi-stv.net:8080/Joseluis/Joseluis123/2130324
-#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpghttps://pbs.twimg.com/media/B3nOd8xIgAAY3_0.png",Venezolana de Television
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",Venezolana de Television
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106076
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-vector-para-venezuela-122415331.jpg",Vive HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106078
