@@ -1480,6 +1480,26 @@ http://195.26.87.217/live.ts?channelId=219&uid=7214&deviceMac=00:1A:79:0E:F8:72
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png",Zoom TV
 http://195.26.87.217/live.ts?channelId=121&uid=7214&deviceMac=00:1A:79:0E:F8:72
 
+#EXTINF:-1 group-title="AFRICA" tvg-logo="http://www.apbf.tv/img/abn.jpg",ABN
+https://is.gd/ia6OS0
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://standard.gm/wp-content/uploads/2020/08/QTV.jpg",QTV
+https://is.gd/tFZd5O
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://oatsconsultancy.com/assets/images/mozo-tv-logo-510x510.png",MOZO TV
+https://is.gd/feND3m
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://africafeeds.com/wp-content/uploads/2019/03/prime.jpg",PRIME TV
+https://is.gd/CP62Rf
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://i.pinimg.com/736x/51/d3/2a/51d32a52935d4897ba175907284f8334--folder-s.jpg",BORDER
+https://is.gd/Gy1uwz
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.jagobd.com/image/millenniumtvss.jpg",MILLENIUM
+https://is.gd/4igUWV
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://pbs.twimg.com/profile_images/483632495632470017/xLIVsGg1.png",ZNBC2
+https://is.gd/S6Mf2g
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://1.bp.blogspot.com/-Yq9ZtaASPC0/UthQqNFGAqI/AAAAAAAAAUI/BI8_SzaEM4g/s1600/Big%2Bbeat%2BAFRICA.jpg",BEATS TV
+https://is.gd/HQ1Ujd
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://3.bp.blogspot.com/-38jA2-uBiO4/UzDUNatN9cI/AAAAAAAAQeY/bxN3UejobkY/s1600/LOGO+KBN.png",KBN
+https://is.gd/4c4G22
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/sun-tv-logo-1.png",SUN TV
+https://is.gd/ho4Eq5
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3155-640x360-FFFFFF.jpg",Nolly Africa
 https://is.gd/bQ2Mhg
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://ww1.prweb.com/prfiles/2010/04/07/147157/gI_Logoonwhiteweb.JPG.jpg",AFRICA CHANNEL
@@ -2010,8 +2030,7 @@ https://is.gd/I8Iz32
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://hips.htvapps.com/htv-prod-media.s3.amazonaws.com/images/metv-1475264041.jpg",METV
 https://is.gd/ozwUMU
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
-https://tinyurl.com/43pbe8mz/31656
+https://is.gd/cNudio
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.countdownuntilchristmas.com/wp-content/uploads/2012/06/ION-TV-logo-300x226.jpg",ION
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://4.bp.blogspot.com/-ufPZiOoy9mY/VV7douMEdaI/AAAAAAAAAQY/dl5q3Uci7KQ/s1600/ion-tv-live.jpg",ION PLUS
