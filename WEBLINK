@@ -353,7 +353,7 @@ https://tinyurl.com/ym95t222/376221
 https://tinyurl.com/ym95t222/376220
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.captainmorgans.com/wp-content/uploads/2018/11/caribbean-icon-300x300.png",FX HD
 https://tinyurl.com/ym95t222/376219
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.captainmorgans.com/wp-content/uploads/2018/11/caribbean-icon-300x300.png",A&amp;E FHD
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.captainmorgans.com/wp-content/uploads/2018/11/caribbean-icon-300x300.png",A&E FHD
 https://tinyurl.com/ym95t222/376218
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.captainmorgans.com/wp-content/uploads/2018/11/caribbean-icon-300x300.png",NBCSN FHD
 https://tinyurl.com/ym95t222/376215
@@ -513,644 +513,568 @@ https://tinyurl.com/ym95t222/195876
 https://tinyurl.com/ym95t222/195849
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.captainmorgans.com/wp-content/uploads/2018/11/caribbean-icon-300x300.png",(GRENADA) GBN TV
 https://tinyurl.com/ym95t222/195806
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Flow Sports 1 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjpeYYnrrs4WOLR7Ip8Z5SY/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Flow Sports (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjXBSDjJIY9kU0jaOxN3Fly/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",3ABN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgHz4Q9CX2A-ifK4cCvRo9G/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",A&E (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjmyAQgDMFQmbR8WJ5099aJ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",A&E LA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgGo9vsL_3_7X8QCnZ_2GLp/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ABC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjfYQ_NChNOgG1CiUB7UOrg/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ALJAZEERA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhFS1gXZV2uAyEKtZSmEjlA/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",AMC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYifTwTVuZ-yVeCGu52TTmJV/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Animal Plannet (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg67T12kzj9unIYMF6DPV4y/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ARTS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYi3g8z6lhDckaak8XEbLjm1/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ATV (ANGUILLA TV) (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgF3HZjeE4Ln3jJUGMygMNw/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",AWE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiPoB8IhRMjopDco4zjWFWF/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",AXN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjRwkuNyv8iMYnB2v8nPLTZ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BBC WORLD NEWS  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiCL4iVdourKJ8sZmqDyPlZ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhrljlGKrS9r6ZjoO9cN_Sx/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET Gospel (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYheqP858uotsUPgnCIZ9dcl/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET SOUL (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjLzXlh91tffFIvpPP25Ypd/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BFTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg53MkacV34agMtXGkEGTMQ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET HER (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgHHG5Ru3LbesnNk7HSExzQ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Bloomberg (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg1-DX-nL-x7AfSJu_ylNoA/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Cartoonito (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYj12hITAlLkp0RWYsnOjN2x/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BRAVO (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYho-Rc6McJhDyakwbVYhSN4/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BTCTV Bahamas (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgeOhF7CvOuetjA5-CA8JZ7/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BVN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhGTAHjZhpZ2aZNx3jwX7j2/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA BASH (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiyqRdMKRWL91jA0Wq24O6i/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA CLASSIC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYi2EQeFGRdMWQf7V2gWDoSg/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA WEATHER (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg4LNmk-DaleU4NCbFFPrQR/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA WESTERN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYh8KlpbaNNPIPfVxsMRU-1h/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CARS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhAVucBJDDMQhfycSxukL9K/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CBC BARBADOS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgu2kuYn6K_U1ZhGvNoIa9r/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",IBN TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjKpUVcgrH5l4mnZcJ6vrWR/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CBS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYi3XP0QFoibYvT7fkYOR2_9/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CCN TV6 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhwIOqY4WUjxyi5uvAz1VwD/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CGTN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiOpgs1AlJxRCkaz2dK9_4j/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CINEMAX (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgoUz9GHgS_DCm_7Xvp7OaG/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CITY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjEyQp5KLiWn0VtTP-luvP3/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CLUBBING (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgVzwXAwfGPA3nUBFUw_hPs/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNBC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgTIfauVSHYyf9rxenuH3i_/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNC3 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYghGYqlbCXJPKShUzRzICGq/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgRkZzrfyW-9VKIaLPJJczD/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNN ESPAÑOL (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjwoORi7Ep6SRW_GnRsS0ah/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNN International (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgm-8lsMvwBAsfuGxyMaWiV/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNSJM (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhSd1RdvTgEkXOJ0u6TNXa_/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",COMEDY CENTRAL (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg-Q7FvnvuqfRCvJjwNwr6K/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",COMEDY TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgESo56evX15vgweMiFYOlp/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Cooking Channel (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYitTt9-rotOJ3W-ka2DNzlX/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Curiosity Stream (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiA123O_RdIpdsCiaXeC-kM/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CVM (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiQSUDCQmTdGUmpdUvzsieY/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DARUT TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjxGp69wZbZyW8Ec2JU2Rxe/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CW11 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiD47riSDCDTm_8rqOHiPkt/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DARUT TARBIYAH (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhAENgDlIqjpJMnarbkUHOe/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DAYSTAR (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgqOjbZRz6Sh_iu1UnD5Y18/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DBS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg9xaAtBvwdXlIexk9kDXGw/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery Civilization (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhUzDFm6jTAW6O2vIgWiWRW/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Depelicula (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYh4-YRqG-YqjDSY3S_XSdVP/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DESTINATION AMERICA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYh4YT27zctIO5EuMN16wBbr/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISCOVERY CHANNEL  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgVUJzLmvNgAj03qnGCQEc2/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TLC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg7Jl81nllHtfnaB9wPOFhJ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery World (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgfBPsx-fUw5c2xMkQvA180/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISNEY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNltdH3VrDR-W-V92s1FeEm/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISNEY JR (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNI5U-K_GbOeszenvNeiNN8/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISNEY XD (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPWpsnnsDF_MZuso09mQG79/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DIY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsN9C7EynvaIm-fFK0WqdV1A/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery Science (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNRRCJ7QQEGHFkUKu1Zdodk/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery Kids (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPKIrSxm-_y5h-QI_uxGsTg/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DUCK TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMMDPrmZA1ll33BwIS-Nrod/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DW (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNyVUP2iy6sBfdvlxoRgqpv/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",E! (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOoH30T05LdWGcc-LdCsF93/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EL Gourmet (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNE3zBPpqiG5zMra9FraigK/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EPLUSJM (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOa-AlQrHSbHE-uY7fzVZRZ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESPN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOPPnzZkSA3TapleFskw-nh/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESPN DOS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOaxBquoDdt4PUIQGUqRRCL/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESPN2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMhBIM7pJET45QyGwaAQmzs/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsN2kFl9f_4Jx2EvNuXe5lNC/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EUROCHN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsORlciMJlwBStRhejvRn_D9/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EUROSPORT 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOqNdBDp_6UyLc5P70f3ING/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EWTN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMa3duvGfZwIAdzckCZlMus/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EWTN LATIN  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsP5f1z4ybiBE__QD3uv0F6O/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EXTRA 8 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOrrbctVDLIm4RuJ4OOyX_H/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FEVA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPyrSOKXvjSF5WB7FIkICKk/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FLOW 1 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNuOtfNTL4JmMLP8MTbAFKj/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Flow Sports (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsM5w2LEbHj7UCct9V257Z8V/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FNC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNbySUYLtlkWbrkaxhMM6SA/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FOOD (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNpNah48v3bCm0wHz08z7Ey/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Food Network Latino (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOgE4tZMszVRi4a7iAjPWea/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FOX (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMLC3ATODK7Hy3s4s5gts1e/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MUCH (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPHSNrsm1krwaAR6WZ-gqdR/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FREEFORM (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsO7r-3q6Yz__ycaG9WoCRfT/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Fox Sports 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsM7KGm24eTU28Cm-1JnKGrO/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Fox Soccer Plus  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsO1yxMeUTDzXwTOuVmdL3jA/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",METV TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOPIchTYwozY4q2y8MuIE87/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FYI (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsN7tYrcpNZYIQ4ojL5iNl9r/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GAYEL (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPhHTPkibz1ewMBeg9jiEzx/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GIS ST VINCENT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMS6PTdGQJRu9wLMpSpjm1k/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GOLF (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMK6vSQst2pRjm54veS5Uh-/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Goal Rush  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNmO4yyzCWyY65KRL1J9Mvy/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GSN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNxm76lO_BWJDqs-l0SNgPC/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",H&H (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsM2_YL6nsjalhdhLl_3ulFw/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HALLMARK (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPZvIY6S4Mb0bImnVf-woFN/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPe4e9SZ4UT170O3M8Tiu_q/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNxkY3Wym3oYs-bL_IfVjuc/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO East (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPVU9zZ9RNb4GN_GID1-YEA/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO FAMILY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsO8hzLnmcpw54m3jNMBF_rC/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO MUNDI (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOE50B-m-TlAyMnmKP4Cy2V/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO MUNLA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPOw9KSTu6EGB6-xJw5PhZW/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO PLUS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOuYXDQw7BkqFAHYVCdn159/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO POP (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNzdZ7nEQtJ2BcxXdhmY2Ho/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO Signature (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNp2Kf6WY6LuMTY0u18nAse/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO XTREME (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMwCuzs6MPSLBksl-s7jhaS/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HGTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsN-XIk9FK6JStMe1rWiKQpZ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HISTORY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPv7H6OdM2rOf2kARKX1rWd/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",H2 Latin (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsM-GWRTzQSjHbYABo5JRzva/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HILLSONG (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOEIzozhbUp2DBMbR6kS-m0/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HOPE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPFK7EyqNLApTLUPtJbXzbP/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HTS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNQgzqKreRmFliEVQPpEF2C/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SONY MOVIES (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNcFfTDKBl4IM6WDZTPNMrk/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HYPE TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPihKAzuGrOpNUyPISfsbrY/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",I-SAT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNXVCXYJoqBS3IDCXzjqMPR/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ID (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsN5LLKJqGlUKfHS0-u8vSro/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",IETV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsO8mU1hgTxfcBn9hCuLG88Q/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",IKTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsP5l_HOG0eRRxMJK3qHZ__k/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",INTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNi5-ZgO51HpeOXfn13wUGj/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ISLAMIC BROADCASTING NETWORK (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOZInrZrzhvrHR6b0ZYIAya/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Island Luck TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsM1_HXfFb8VQGqc1w0H-Cpg/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ISLAND TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMqCcgFQqz3FCCeBxXL2B33/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JAMS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPTWuWzueMvaU58U3B9xeoq/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JAMV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMUqcct3dJZ76Vf5gDsHR_-/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JCN Bahamas (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsN0frKHH5PtMctr4dun343r/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JNN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMsQacsfQAKLgbxFUqvY-bz/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Juicy (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMwqNoAHTtLcJ790H-CZyHx/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",KTLA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNjJejvNHjYUuw6K_Ti2z75/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Lifetime (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOagzfkJkaNsxFbuwMzp_SS/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LifetimeLA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNid2Faf3DGEjTPm-E1-m38/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LMCC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPKpNb5IUitjiSPNfNupOit/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LMN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMRvIf4PmLriFU06IVrsYWi/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsP3monpWZEr6XVstLeK14Hq/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Lifetime Real Women (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMuWm0Ti9CbFJIExfQE7SYn/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Marpin (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMQmXHdId5O0PScs3ZdWw2k/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MelloTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNrH7hhoeBunKqwSPz1QhTH/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MSNBC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsP3U7EqL3rAeAw4CxU9YSEz/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTM (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMNn4zhwWdBwx7cHvsBGWjN/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOOj0_c7O3mPQa3Du81_P6A/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTV2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNBp6v28r6vN5Yzwd9Xy2we/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTV HITS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPQvWelENbBdZhKslbkQH0y/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MUCH MUSIC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPZLrPZ9S2shTs6Tzng6NHc/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MY33 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMOuo3Vt-9NbAmhfhIoJtEU/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MY9 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPE_t4mAMUUh-Jsmwhp_bEd/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NBC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOaxP8sFzyFhphPHr3cYWRK/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NBCSN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOknghycs_Zxq80VWOQNjLJ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NEVIS TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsNwF84iP9TgSJRyvTqhaIlt/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NFL Network (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOfDoM4dLbLx5KvNBwiTkY1/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NICK (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPT-wnoobW67lyWaQEqnRAo/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MCTV TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsP0haGCLsctK0qboj9igxgy/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NOSPAIS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMuBTSaG4FBP16YGgvYrUvP/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NPO 1 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnlTnBTOxCVHSaEws-aIWyx/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NPO 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElOXzaPlw1rx6Pk_f9VOIc7/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NPO 3 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEm_Qf4yb3kms0T973-Jjpso/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV4 TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElIpDIrgstn03kqENXA1rUV/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DANCEHALL  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk9zioc_1QiQiOZ4o6CvjFO/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Parliament Bahamas (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnB5BcvxHF121_n7yujrU6M/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PARLIAMENT TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmLqIRF1caTrSw4Erb7rje_/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PBC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElry4JyE0EQnFcNscdKnIry/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PBS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnxskNLqqKegACqUBxcMHjw/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PETS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk3pLGhLs59-poJ7zrE0P33/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WESN TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElbHVQmxvdq1Q9J5JqrBglD/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",POSTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnjOPsYWjZORini8HweXbZJ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PREVU (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnxUKA57tc4nMf4vo89aGTn/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PSTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmAs13ImWjubHgPi_-JoUS5/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RECIPE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmLMy68CmlfjhiTJII24BgM/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",REDHOT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmDMnuylc0tkX2EXrdOMaI4/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RETV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnKY8caU-j6xFktGllbKzsk/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Ritmoson (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmLJmxQgSdQHrnGAJ0H6BQE/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RUSH (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEl0Sm_pKbtBaIudLJAB5D40/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Russia Today (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmeOIcjP6bfN2MzH8JyLzif/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SABTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkQceRBEj8GiQaj3CdGCVKm/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SANKHYA TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmO3XiGMHKzv0n6Xu9InlSK/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",STAR GOLD (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkxuJKlZZk2Kg18zrnWfz_F/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SKINEMAX (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmqYvVHjVIww-Ox_pJBX_uV/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SKY NEWS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkpSn5MimYVKXupvnbRHRig/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SMILE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnrPfJ_mSycqc4X9wFLTO2w/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SONY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkYX6I3VdUrqhZz0V7Jjkck/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SONY MAX (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkqIczxhjvr5hELbK6upL1a/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPACE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkGak0PN8xaCvKHv1uyANoe/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",STAR PLUS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEliC2qSn3EMdz3Jv-NnMnfO/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPORT MAX 1 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnFmVzvb2WytXd8VUj0pPJn/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPORT MAX 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkV6yS1IziF-KUu-HtpfB5l/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPMIX (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmlAOSQncuzh9H66MW-VZLq/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Universal Kids (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEme91dzuztyn3ssZkU-KLkD/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SVG TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnofkw3TgmFTJlSApX6S_Jg/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SYNERGY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEl7bPAlnOo15WJK-XSzixQW/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TBN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnXmqHGPb5mFIEjR0yUvkR2/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TBN Enlace (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk0_Klkx-SSIB-dl7E5WE88/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TBS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkbuctVRxTg5TWyqZpJ1rwj/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TCM LATIN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkzWpEP7bPkOVcamb5XXrLL/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TELE ARUBA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkBhScNeA0IKMnLsS3WIcv_/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TELECURACAO (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEm2AOe3rpVD2Tix6uHEvET9/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TeleHit (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElCbhoVqwyESc55cp2B8lcW/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Telemundo International (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkVrdFLm5cgvtrjeGoELEVU/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Telesur (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkS_A2z2_xV7oBSUF3JTPwO/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TEMPO (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkT3G654CjgK1p4dJo-MJPu/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Tennis Channel (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElzTGh8uRsJFmVOvri52zy1/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TFC Philipino (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk9BXJ8P118qTRKCaUE763J/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery THEATER (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk15gbFUapBFwAXu31aU1Vi/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TLC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk12gP6el9Gr5XAEjuTBURn/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TNTI (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElAeX5o0I1J9iUw1XicRO00/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TNT Series (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkZhHTQ5gOGYW6TFiTXhPNM/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TOON (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkWLOqNH5Zae4BdnQCqaN58/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TOONCAST (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkxKvVJD8MuHYqCqO2RR8U7/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Trvl Channel (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElsPHh5Hoa8D1jixMEMuZdE/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TREE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnjeB2pOzVLjAv5yMlhEONW/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TRINITY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElbHOcWJND6HM9Dnie90sft/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TRUTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnTaIc9txlLXuy9kC2S26Jv/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TTEN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnF9Er4vHPzMo4Yg2JJEjqM/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNMG  TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkuSC2fkHvRHWs2Y6UWD7_H/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISCOVERY TURBO (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnH1YDbbFE5T29QrduyE46c/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV CHILE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnpHEuPmXo2HAUUCjEKM6Mo/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV JAAGRITI (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk863avATEVGOVGacvVLb7K/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV5 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElkoZ75vIpNRq-NPfZVAhdw/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVDIRECT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk_-myc5Pp-Ko-gntHypNNT/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MAGNOLIA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmOqgy_S6GsL1QHQ2feGlK5/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ACTS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElNz7d5b7Ju2usvMPFv9M9s/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVJ (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkYCoPjb9_C91qs6wrbHpMH/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVJ Sports (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEntw1MKgCvYQqoF3vi8yXkd/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVONE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElP7MwbO3rpoVaVGR0wyRnS/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ARC2 TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkbdy58EUj-nYq9-qePIgXo/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VC3 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkEYyZDJDFiUUinCQp0JgiW/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VENEPLUS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElmdp3IKzK7XLJS0NOIMHOT/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VH1 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkWuBVjLbm2SWY0FeRNgEef/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VH1 Classic (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkEHbTiy1EcgxiSje4ZPis-/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VICELAND (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkVmZ6iw36-xffasUuNh3w0/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VISITORS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnmFVI7vbwTHh2FpariM0Ru/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Warner (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElSdCK3cbPc569w49O5Nkfm/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WGN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmcO2o6zehm4r7HLfuSkTzT/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WINNERS TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElzBRyniiBHay-6qvseqpE9/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ARC1 TT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnrnkalWJvZwjMLz8CG9JM9/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WSEE (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnI0gW8FExLxp5UnW4IZ97m/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",XEW (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoElUw9dvLIaaRAjY7Jc6Z6vu/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",XTASY (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkR0blWrcqQNbZiIYuM1bjI/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZEE CINEMA (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEkz7cLBgk6AKG8bil_hxs9Z/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZEE TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEmDmNAR79ayMKabZj23f-mF/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZIZ (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEk5MgD12P96Fdg0JBSev3AH/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZNSTV Bahamas (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CcmDrY8UXfZ5XMN67A6BoEnJtj5X1ixO5PYOlpS24gT2/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Animal Planet Latin (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7lvY2170eD2MH4CX-ENJrSs/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewp-DUbzlFJvQBU4rvmQkbh/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EUROSPORT (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7klY4WYqRPRW_b3CmT_jnx2/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez9bkj2z8uayoopz26QON2M/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CIG TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7m3cOPwXqtoYNddJc3uu8KV/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyCO78xvPRgpKbHShSv643U/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BA TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7kqwq44OsS3I26y2i8RXCQG/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyeYp0aWgrVuAPXoOY1BVyZ/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NTN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7npJmpkhDsYgq-EawPz2GS6/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png Television (TCT) (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7n-C7DESnXJLJWTK9HgN3lG/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewLLi_edgmJlWQ66o0NYHBP/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Think Caribbean Television (TCT) (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexpku1NGXyv1H3TludQy1Yo/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CBN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7kahxO4z5KhOKL-KYWrFPlY/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex3mz_z3Uc52VeT-fM4b2e4/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Euronews (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7nPpXzgzIS_LBgj7WRFbNmB/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyqnSbiqEUDIXpR3bDayYyq/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GLITZ (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7lgV8hxw-OrhGZ_kNzYnVVl/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewn2BrAT3_tjEAY7793C8cj/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",The Turism Channel TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7mZsLvFiK2yzwhcIREGzYGm/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexEqgTOvb7GaAfZVGOSYvYd/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LOVE TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7nKWNAXXuHaRfp2ArrSaS0O/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexBOH2LMzwQoTBXmYn_V0y6/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",eHSN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7lyU_ysMDz_7yV2nogquPn0/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewxdK1qAHGSB1lRn-CAmmc2/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",OWN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7mdYS13tGfw22ALHpGYpHH8/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewbhhe_08B_dksRcYSPUlI7/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CLEO (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7mDAy1ZV5EIZv-PzOA26vwf/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey4JNs5qkeCI3kvpjCN5RCK/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LAW (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7lXrs5Ryf2t_pLzgUFtpuMP/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezyn2MehfEuKi9mLVAvd-RK/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NBTV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7nPSauaMKrx7z9ytp2Njyrl/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexWcg3Ij9AVNK7sbacU6QJP/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA ACTION (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7m5NOFdOqogiWOeUuRTBIrA/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexKC9zsZiKfx6LSkSHaeXil/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Hispanic TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7n_IrWDyRqh6iYBHXNJPR7w/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey_k0d_MAHgmQ7YUTPnzD-1/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GINX (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7mUxA9B_KfiqkPkMIZAM-aJ/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeytIufTG24I1FYq4gkgBix9/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TRAV  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7kwoQDtg46-gfU2b-atalzB/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexJglqa8kRGQ_jDxPANtQ0V/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DANCEHALL EXTREME (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7mnI6-0ExrasVaLOAioJ0jq/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey0huprjB9HRd3QsrjDgtPh/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZEE WORLD (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7kyxHPX43PURKkZh43ug3AI/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewrUI5pd9cNOmV22dugindR/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",UWI TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7lGEzjpyLxwz3l5ohqqhKeX/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexLv1UWdnUBWzz4q1A0K1GL/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FBN  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7mKDwoXltOb9sei5dHdSrWe/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex9hlNPJA9vStCOcRffPZ4Q/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HDLN (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7kNjBU-azUNX1Ynb21Egj5w/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewQK-XheSB2WsCdX0E1xXZj/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VEPLUS (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7mHyiVDRlhB4URYU5Km7tSv/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezRTWyzoxrpPzWzlNrN-Uix/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GIS Dominica (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7nY63P8Abck6JsTy1ymIqcs/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewC1t9lPrQxCq0VdSUltUwF/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",B4U MOVIES (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7n_Qasb5musroE2xokVT2xG/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewSY_g5-89kkY2pupg3pL3B/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",B4U MUSIC (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7l8bpIkQ_86upvaW8me0K44/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyW0n8kUNjLknwBQEzM1Ea1/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RAI (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7n-pFwjwZtaAvm8iV61cxpr/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Feeds 6 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8Cf3dF3EN5R1TbgnW_zq4L7nOpQE6u_ypKkiDUlDY9sE7/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Feeds 5 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjC9MkVygRFYEC3eWM4yCS6/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Feeds 4  (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiqnHO9Kr1Ouctcn7TkRQ-t/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Feeds 3 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiVTwTX-q8ixzPLn8CxqG47/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Feeds 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYi-2uU3nTvES9_OBDyeSutB/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib 6 ?? (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiF2mMGVEk4_6rhH3A_ArUK/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib 5 ?? (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYj5zaha_ezoSE0AEQV_qAox/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 8 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjS5fYa28Nu5g171ZuFFydv/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 7 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgvs2SCCHvm1du9QcIkV7hJ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Champions Leauge 4 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjxt2mqzFqoMGY7P-TtH5xM/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Champions Leauge 3 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiNX4YLXw3grt7GhylkxzPt/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Champions Leauge 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYizV1NeBlrLrfWyhO-suCuS/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Champions Leauge 1 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgBM3XYWkmug5OzJ5xOYRC4/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 6 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjYKXvj1OBsuuLI7A2AF9Ry/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 5 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjrJWAWP9lrHG2Vtn8BtHxk/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 4 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYje5JXeEWb5P0nemxYHAdHw/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 3 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjLpkND-Jeth2PmOmamNbXX/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhnnBf5OgQOelrpCc7Psf3F/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA League Pass 1 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgE7-YcxPWmkyyiPvgv-NwB/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexYDeUVeVilAEUcBHt8xjxV/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",3ABN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewgZvMiw4ZgM2rLmPfJfb6T/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",A&E (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey2r8e9G1GuPaDU6WCK8czo/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",A&E LA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyTyxkYGxwZCIUXndBSBWJ9/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ABC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexHT9l2XLuhEv8Y-r4IPA9t/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ALJAZEERA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezds2R9EG_wyInTcNfisS4U/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",AMC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyX_gYlHji_kwiBUEp5N_sL/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Animal Plannet (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex8SwSTbCBxIixt-G4clK6s/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ARTS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexCqNrOmZBmxcoi7trll2jS/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ATV (ANGUILLA TV) (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyH30wfHUpgVLzUr-Ca41fK/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",AWE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezMiPaYny9OepGIBQ1XIxaX/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",AXN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeye9mzq3GcxbVZ8KQEH_xRs/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BBC WORLD NEWS  (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexFTpcu7jlAPigfOMc2S6To/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezT7lJWT0C0u4OXqZSDPziK/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET Gospel (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezwaHQpPX2iwvn3_Hj3do18/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET SOUL (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezfz-om9qkK8nxVeBLa5ozm/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BFTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyr2Anfx386lJ4YBpohIUcm/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BET HER (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezBlxp8E3CjEOX4V-eOxJXx/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Bloomberg (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyJY5YTFXN5wpcdSMW_VVLh/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Cartoonito (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey_wEQ9vznVkAz0fFumg0h7/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BRAVO (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezobioFw1w_mcIoizGMi9Vm/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BTCTV Bahamas (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezLSgyVgWnyY8xfpJc-DLbm/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",BVN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeydblsQ5kJxBDXRgQrd60jb/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA BASH (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewnO88X4-ezz5sFs0eKedrA/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA CLASSIC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyKzstBkRVHb81V7LH1AWcO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA WEATHER (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezuNmWjVzHOAvPUvk30I8MC/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CALA WESTERN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezqRNwsB-EiXoScR2XrxA64/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CARS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewttBOc3uUL5Nfctshtj5Hc/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CBC BARBADOS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewiwPZkmYPLowPAAVezxRsi/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",IBN TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewSrUc67Qq0olJdtjlNZjZQ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CBS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez66I7BQkw7awrAMpAx-gcE/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CCN TV6 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey4yfNJtiP6LEit5dgMEclu/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CGTN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexHev3ByTk-kpGaBcZtVsik/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CINEMAX (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewsrTB2cBHFyUqPCBt2WSGZ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CITY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey9zjt6_bLfPxmMhjdvZ3Zx/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CLUBBING (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewXpfGj_1MSVfs-Bn_jb-Rv/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNBC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyir786H1ka5v5kl80tmjzm/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNC3 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexAmr_BWU25mXxYNld1G3rc/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezOWfZ3nODyA9ua_1iCo26M/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNN ESPAÑOL (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewOHa6co_nylQfleHeev_nb/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNN International (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex4RMnMWcDwIS1hCuGu2WEW/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNSJM (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey8XO_InliyeNhRdujvGRpD/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",COMEDY CENTRAL (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexWcS7N5HKlFjAzw72hs77z/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",COMEDY TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewojMVRive_TFC1GdS2YDaX/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Cooking Channel (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexOAmNiSOMlEwtcYNy-MWuV/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Curiosity Stream (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyiZCjaWNLsawOLYb2Xux-l/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CVM (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex6MFDnnhBzUlsfOFPrN863/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DARUT TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezDh0tBNQEL9V6Iq2qhtjAR/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CW11 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey79ZJttJrNpKj3wpHceUrH/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DARUT TARBIYAH (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewIFyZASRSRvC-o5P5bi-9_/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DAYSTAR (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyepAAkZM7-8YdKP7gcplPk/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DBS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyew1EKnTV0txB_WbjS6f-Zbb/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery Civilization (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezYdMBLDGt2MEARxMe3j4Cr/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Depelicula (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezBTcZUJHHGpg57_ZQUHeBo/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DESTINATION AMERICA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezjx6c8gdarbD7NUjz0a7f3/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISCOVERY CHANNEL  (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey8O_dBUviTjGkxZ5BR4l0X/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TLC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewRBF_eENcYeG_cNlCNze5h/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery World (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyb4R3z4P76guWu6H23zQac/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISNEY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezZnkAqxmQse7dT85cI1DyZ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISNEY JR (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezeYF47ZKj9mJduOx2fJ_x9/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISNEY XD (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezgt3v6WKb_2k9Y81Z1pPsg/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DIY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewPrWNA53RGd1FWc9WcwCuc/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery Science (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewpDjQdgHYsa1qfPFtexUJH/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery Kids (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezcYhQI3tDLhmk_HinDqtOz/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DUCK TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyew-pyIkN14_Au_H_Y00sYdn/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DW (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyBRL5I3qDUYUqO2FL-Tw1V/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",E! (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewfYijvImZLfOMCoHZvwgLY/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EL Gourmet (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey-1Q4AEcxOEj_g2iUZgsmN/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EPLUSJM (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewfnJcaqEQIz7Zgs-wPMjp6/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESPN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewmzj_wlgYRJmKrq_4DKDu8/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESPN DOS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezAF0UG-5Nv4Boy8m3mf3O9/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESPN2 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexSCS6rgEj5E4A7EMokl6t_/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ESTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewh3aZSytPJ540B-xkQNnxx/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EUROCHN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezQmXH_OnVeILCZdfwtDPmR/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EUROSPORT 2 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewHmDyEjp3L_WmdgJ8rvZXK/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EWTN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezY9Ti0aQBrtehNDyOpoq8x/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EWTN LATIN  (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewTNe8QO4G5FPIvew93IbcF/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",EXTRA 8 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexirym6zF7yN_yKxtSAAG_u/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FEVA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyleoGfrmm16n1idc7yg0Tq/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FLOW 1 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezPB30pxeu7-CkqEJqmw_ZQ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Flow Sports (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyew6oDeWS38FpY5uM-2Cp_rm/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FNC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyPpNmZRGSu3cSWTxlt1gZV/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FOOD (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexu0GhL-d4_409RUzarWLl3/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Food Network Latino (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexzpXa1QNUA_k26JIIuHQk8/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FOX (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexqDPN7ukF_biDCtGggehID/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MUCH (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezZz4YwgwI75u6FTGCSGLiO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FREEFORM (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezo2yM9sUfEM5c5TCBTB9yL/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Fox Sports 2 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexIpOpyx6LOmcCrWz25MJDO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Fox Soccer Plus  (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyCGa5UA33inyEJf_xT6sRF/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",METV TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexSd_ke_1F-GClyHAsqzPn4/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",FYI (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyfrh65WpsfnMgU74tARzI7/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GAYEL (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez0_fm2iQb8K8Ncm6T0x5G0/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GIS ST VINCENT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewKEcsZypAWLYcNzf3K9pLe/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GOLF (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexaAK3mKd609MjRSX4I3NXi/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Goal Rush  (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezyV3FtWcdluOuKJ0Ixn4aA/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",GSN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewigg7u22gqvblzMI1VYjvF/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",H&H (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexZtto0Per1162ZZv6FJ-mQ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HALLMARK (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey9UxOtiOIn5HFCkApHE2Cr/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO2 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex5QTofJJxG5lseU-aGA5gM/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO CARIB (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyfoEcnpXF8gc4bEO-tO1De/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO East (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexdpPKvVwjXs9kjdWRTYEIG/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO FAMILY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexWRwnHtuD5fOIXQWtTqdXC/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO MUNDI (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeziMHDuu6XZOCq0t3oT8mQ0/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO MUNLA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezluJRYCMj7syDtiE8o_THO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO PLUS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexHBwqu73sHQj2JMH3H-nxM/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO POP (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyew0A1_NLbYXvWIk26ClphBp/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO Signature (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyQFwYOQ-NPa_SgWBQmgYDe/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HBO XTREME (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyYRIaUHFsMqUY55H8oHy91/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HGTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyhWQ9jSz7KjQe8kh3zlVjl/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HISTORY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewj13n75djjOCoqCzeSTGWD/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",H2 Latin (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex026GDEv6lHPyBBHgnu3U4/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HILLSONG (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez_xn7tKX-cCSmNkrIuiK2d/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HOPE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyew8pQ8TkotYuBUzOtt48c_p/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HTS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez8kKHsnUmJh_1PV2_jLaR-/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SONY MOVIES (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewnzJVmfu2PpBg7sOIoVzq-/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",HYPE TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex7mfRQuzDCc-dk-4JGSkBK/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",I-SAT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexA8aex0k8zow_x2bkf42N2/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ID (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexYo-ZdcuT4DyhthwOzW-di/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",IETV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezW2TLCemrYdH6vHnHldBnf/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",IKTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyMbdSmljmj2q8WvzRG0zpp/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",INTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezOHYzcw2gGi4naF30FmWv5/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ISLAMIC BROADCASTING NETWORK (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexpE0RzDCdgxGFxdndPCzrL/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Island Luck TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex3DYuw6cxcTa6b_WFEuokO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ISLAND TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezTZ5lU0_b4nffHYYBE6knM/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JAMS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyNtwfPKakSwIwg8zFFkjDa/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JAMV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewyW7dZ4nyoi5ulVzjTTvbA/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JCN Bahamas (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexcs5VVZWVwHl0ET5sLA0iS/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",JNN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezAFaPyD3tva7bmYU9Pojog/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Juicy (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezxtnkBDDUIjVHdHRa5behH/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",KTLA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyextewFjVxFEaOvD1iQXTa4b/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Lifetime (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexmgiAniKFMDwCa7MLBCXNu/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LifetimeLA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezhjvobdT3N2d7nEadsGB39/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LMCC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexQf8HFAnUHTHcU48Ts9-iM/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LMN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexvCVwM3aG__5acHli2W_tN/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",LN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey5wx48hQUoV7d_xU2Ww6nn/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Lifetime Real Women (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexfPVOCM7rLzBIzWSVd_vNe/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Marpin (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey8tozpl2jPVWPXAe6LjJ2p/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MelloTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewG6imI6s0-dtB-Bi8La8Ub/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MSNBC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewTg3MXvG63TEFhmHaPxG4w/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTM (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexQ_ojSRpe2TY8KdqwAUGFR/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezqOLk3KoBoSLZVcE0-Lh2i/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTV2 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyP4P2mXJJ_JzomT60jAFh-/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MTV HITS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyTfkysxPgJqROcUV1zazT-/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MUCH MUSIC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex4SU2IqB4jI4dWuEWHLw8i/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MY33 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewRRUNYLJbnmx1g7aJ6qmp1/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MY9 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyQ_6FdoiTvuz5kCzu53sKl/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NBC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex3yUBV1dewecMWjoX7rwlM/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NBCSN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexCiizNX6hv41iJ10vafIRK/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NEVIS TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezglnw_IjPR9UhAPsfaGTWi/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NFL Network (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexWcjyc9pdZdaNiUoy0CblO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NICK (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewKdf69DwZBQCOmpVWwezcA/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MCTV TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexgykjVy3BTH7h2x2r6NWSu/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NOSPAIS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezlOEChqX1VIZQf1l8Szl4a/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NPO 1 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewsLFepgm7ztd9cBM57KVkP/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NPO 2 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexCoXBpIpq6QPihPDBaLtz2/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",NPO 3 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyQ9rKB0ZxlSuUHUo40e6cz/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV4 TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexZIgRp3rgiq-ZmZ4ffynVW/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DANCEHALL  (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyBoM1KHPABSV2MtQyiwlEx/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Parliament Bahamas (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeymZioQcpmeWpVPpQYZf4Wf/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PARLIAMENT TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex-G93_w5YOHTtXkhi9-LVb/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PBC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyZ70jHfgo3u4QOQnd1Xmas/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PBS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexhSF87p8vmUzTgwLy2PD3Q/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PETS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewqO9yQo7tHlsUfJsqRltvZ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WESN TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez-RrOhYSBnEtlWxdekYRyw/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",POSTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez6oOnH8ZZ1-fTNcfMEwPfE/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PREVU (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyBlKK45d_l2l2DCJMYvDZz/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",PSTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezrUsm9dvli2TUytITKTHgU/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RECIPE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyXcGmGF9Zj41Bly1exCJ9d/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",REDHOT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexj2hMu4-ndCFfK0ql5v-AN/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RETV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyFO6oI_2w36ZZEKWMmXdEr/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Ritmoson (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey1RRvhVtEpJxoVPxOPK14n/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RUSH (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexSc93dsHK-2kJWGy2gWe_z/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Russia Today (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewhR1RiCz2JYOlGOaLDzsg0/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SABTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexD9s0QLjF2M3QIKdsoM8W_/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SANKHYA TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez4VGYIjfWASJds7hSCjmIC/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",STAR GOLD (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexsvgVd1jR48ub9yIrbTLge/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SKINEMAX (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyQkYwPzPBy6XJfqb1PsSMS/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SKY NEWS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewPiNUJ-Y1umlBGl0CnDLlG/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SMILE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexDzti4sIjX4gsIFtJ3gKT6/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SONY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyn6U0FdoNNNqkUBprR6_7Y/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SONY MAX (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez9xpLHLOofTi839vsWCbFX/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPACE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexa3FaA265jgpD20HGKL0pY/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",STAR PLUS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey--99WA-MaMLZ-_xJv6JuW/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPORT MAX 1 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewWaCGlKa94U-vkXyyWc5Ad/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPORT MAX 2 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewinqvl4HnAN_w5Bm5z4d12/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SPMIX (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyfUbEmOAdxFXCQ3npZnyaZ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Universal Kids (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexTgjmTGtCabkuXzfCUf-ks/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SVG TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewYQgxfVm-RetNTENygZQaH/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",SYNERGY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewNnAerirOslt_-8ueVJ7Nr/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TBN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewCPNUC1d16sAKQNUEhsQFP/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TBN Enlace (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyPeqq8UOK7e9cdxCNVuCaK/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TBS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexIMRXK7wGgQ_b7VCZLdtpN/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TCM LATIN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez1eZY-M99vv-FfUNupL046/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TELE ARUBA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexUxv-S4OCOzU5kNrSUlghX/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TELECURACAO (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez37RQ7PmzPGftiPZSwp-_u/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TeleHit (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexkdC-suV-p4hR5giqIdeIt/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Telemundo International (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeytVnIHmMfdLYG1jPzK69tv/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Telesur (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezfmd8Y8bRX4dmwEjqVyB62/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TEMPO (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezYlU3p05XehW8zrQgxfhy6/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Tennis Channel (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexZ24bdGPsyA1GQMJy-bQDf/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TFC Philipino (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewUL6tX3MjXzKyF7PTDIsEf/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Discovery THEATER (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewI9cwjHCdCjG7Oon7IP0Qo/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib TLC (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexp1K7kUChDMGXwEL7fnXAQ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TNTI (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeydBSpSJ98-XI-8UFJwnMLQ/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TNT Series (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexSSCi3a9tb550J9r1af40S/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TOON (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyDfaj0RzKeB0sTwiwp09oj/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TOONCAST (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewphxuOTWgrD8ek5uGGjZuO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Trvl Channel (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey_ByWNQDxf52HioFwOtI_C/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TREE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexSkMfDhOFFsUyRiNvFLeMI/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TRINITY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewaDfCeeC_4KeOAmRzQwZvr/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TRUTV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezFC0xnEK4JBGp1V2A7j8RS/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TTEN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexmDDxitdF-Co9nem1sHw0J/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",CNMG  TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewvMv2QKncTNAYscz9eQEM5/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",DISCOVERY TURBO (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewzIRjxNJqgrYOiIuqX1aOE/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV CHILE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey2bDpV1n5v2PG3-dkL9Bqc/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV JAAGRITI (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexwTSZvma7-NbKCcVQqPtN8/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TV5 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezyE73cFGqcIKURewSaUdYt/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVDIRECT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyXvJO1931ypxwimtJzgWpO/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",MAGNOLIA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey5CiIyHh3qAtcNUfT8Iobj/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ACTS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyP_wAAcKvTjU0eBl2JwHXT/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVJ (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyxmNq4uNav2Eg6Z-SszWSW/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVJ Sports (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewGdpfjRZcerTAkLq7r8_rh/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",TVONE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez4TQblDlpb6bJcz0v-yQT9/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ARC2 TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexXxU0zmtz-OD20WBIzGYYw/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VC3 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexHMpoBQBBAkao0K_FJax-G/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VENEPLUS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezDIk7Np9YIL0tAWVkJzmJ_/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VH1 (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezjYmqefdVVH-XD4rti6V93/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VH1 Classic (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewiLgNC4wB852tkv7JnzKLo/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VICELAND (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezHVuhRQ0uf-hvwIdGbghnG/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",VISITORS (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyTK9Q-vk8IETAfDCEzwV8L/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Warner (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex_QMpFA5Au-bbL0KtZCIqY/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WGN (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexN7aKMxnVQ20i2kBJCEba9/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WINNERS TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyOc1GN2sVIAJQfN2Cg2W1j/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ARC1 TT (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyex9rInnbHLLwVDLNHLFYGij/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",WSEE (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewAt5Ld_kYl4tA_3oFCyFtp/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",XEW (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewvheg6qJ9rDGPXQ0iy3QdC/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",XTASY (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezeNEqA0b1S0JmNWPEOzEj0/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZEE CINEMA (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezHTYUNVMIYoRu6HUppltZT/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZEE TV (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexjZivphkWd0QLLU0YjnIMh/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZIZ (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewvfd__8GrHKgxj5HA7meg1/ts
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",ZNSTV Bahamas (D)
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyqP6amshUcLwJUa4yY4vXy/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Fight Sports (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhHIvenSNjYFs70eQzw_zRT/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeywtHCBz9DRtnWhrk9EUOHW/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib NBA TV (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYj_6yiYW4mZzIJE-mQgg4ss/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezQ-L1jCxrmKyOoc_brgGhW/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush + (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYg6T9ha3ETgrcUHdDtXBpmL/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyGyyAGLLj9beHgkK-XLa-4/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjU3jnZ_FhAijEgzlzXMYTY/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexSf0t5JpC6D01erMdm2sIq/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib SportsMax Cricket (S2) (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjpEpSX1pxMQPHd3Fs3HYR6/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewMTzBATiD21H9TiXvzaOpp/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib SportsMax+ (S2) (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgh18hRqaPoFfCcL87x0IHk/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyBnBnEvbqobFu9mCIpqM2n/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib SportsMax (S2) (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhlOJuaFgJJdBUgC7R27X5N/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeycCRP33Z2a53HhxL7Kj9Qp/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib SportsMax Cricket (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhg2JnI8cP3TVzn7S7rqFsC/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeymxNZUwg2MypCabhBD1JD6/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib SportsMax 2 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgK9jeBdAP0Fc9Y0pekRmLS/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezLSx4kehQ_JeHPIdNDmiIR/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib SportsMax+ (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjxwJN1Wvgi10TK-u3u2FFA/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewKbTCqLT1ii6TbRmmlTYxv/ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib SportsMax (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhHyCzANIHaibrYZw1tvAud/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Sports 6 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhA7_GtnydM0_mNfvmO4Ohk/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Sports 5 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhnbKWk3bk03POzO0q_8kGH/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Sports 4 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYin6212_hV36m9mSBqFfc2z/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Sports 3 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiu6G9rHhorWUTNhuFyz5zc/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Sports 2 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYiiz1ZTt3WuIoZzF7jezUyW/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Rush Sports (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYi2eFdiNHyBPF8PVt_VLzwO/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Goal RUSH (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgfS6qgGqghvAb2R9fLPDVS/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RUSH EXTRA 7 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPggHgw3puBY36TLOLXAz0n/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RUSH EXTRA 3 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsMJZhJ9GHZ5ojETxx5UO_N-/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RUSH EXTRA 4 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOZ3Z8Ur6F52S7-czms6hGf/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RUSH EXTRA 5 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsOzfbQDSyCgHe_YRXoHKGhe/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",RUSH EXTRA 6 (D)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CVV7jODRKx5vEeqOw3_9IsPEFikuQcQ4UfTKcfcle6pe/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Flow Sports extra 8 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYgV4YJhevrtXOWp8a8_hZBJ/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Flow Sports extra 7 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYh4btR4V4VyE5Wgo3206btO/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Flow Sports extra 6 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYjHnn79n4SX6wilwsAsQKKn/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Flow Sports extra 5 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhem-EmrKZgiSMafpVvJS18/ts
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.tbaytel.net/portals/0/Images/Personal/TV/Programming/One-Caribbean-TV.png",Carib Flow Sports extra 4 (APP)
-http://142.202.48.32:8080/play/68LvUIbqOCBOrDd83DF8CQR5Ij3Ky0g9qev81edzjYhX6UGxcHW1AVKaUQ0yCG28/ts
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexLELl8a19ytcNRPXRxVvRz/ts
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 https://is.gd/SMI2eN
@@ -1604,7 +1528,7 @@ https://is.gd/klCeru
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://images.justgiving.com/image/a684b862-182d-413a-acbd-49e0f6c0f3d2.png",The Islamic Network
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",CGTV
-https://is.gd/aHTeT3
+https://is.gd/WeUYNY
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
 https://is.gd/bZt6vq
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN PRAISE
@@ -3858,7 +3782,7 @@ http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7r1FV4dbJHe1X5i5BGVkdI/ts
 https://is.gd/LUUCbf
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON NETWORK HD US
 https://is.gd/AYlkpn
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.cartoonnetwork.com/cartoonito/static/cnito-logo.png",CARTOONITO HD
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonito.jpg",CARTOONITO HD
 https://is.gd/9wB81l
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/2f/fc/c5/2ffcc5f2decfce38dae51fdb6c057f7b.jpg",Discovery Family
 https://is.gd/4KuJaX
@@ -3882,7 +3806,7 @@ https://is.gd/Mzy91X
 http://45.141.156.56:8080/marie/marie/224700
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/PMgyyZK/DISNEY-CHANNEL.png",Disney Channel (West)
 http://45.141.156.56:8080/marie/marie/224701
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://fanc.tmsimg.com/assets/s60506_ll_h3_aa.png",Disney Junior (West)
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior (West)
 http://45.141.156.56:8080/marie/marie/224702
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png",Disney XD (West)
 http://45.141.156.56:8080/marie/marie/224703
@@ -4785,9 +4709,9 @@ https://is.gd/PivCxf
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20Flow%20Sports.png",FLOW SPORTS
 https://is.gd/KjpDpK
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
-https://is.gd/4UKRmA
+https://is.gd/f7GwkF
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
-https://is.gd/XNNxUM
+https://is.gd/Kok1yi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD
 https://is.gd/LLxehg
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://t20slam.com/wp-content/uploads/2021/07/willow-tv-live-stream-world-2021-800x450.jpg",Willow Cricket HD
@@ -5711,6 +5635,60 @@ https://tinyurl.com/XITE90ss
 https://tinyurl.com/XiteRock
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://okteve.com/wp-content/uploads/media/504cf03b2b6bc718d416442dda4414cb.jpeg", XITE Just Chill
 https://tinyurl.com/XiteJTCL
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",90S
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeza3k5IOU9-rFXb6usO8mwo/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",ALTERNATIVE
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexhPOWboNbQbMF5VyUplYjO/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",BRITS HITS
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyjV9n9SUFyWC8eo4e9eAzN/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",DANCE EDM
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyey2m022RGlyBOXB2XhOo9bL/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",HIP HOP & R&B
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexrp0YqD_urN3TGhB6VCDZy/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",HIT LIST
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyez1rOfS-NCrDEBu8dxpc-8U/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",KIDZ BOP
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezwUv02DoBal4bpvB4f0Mlt/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",METAL
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezPJpFFqJ3NcaNnhqsapT1F/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",MEXICANA
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeynetL9JQ0PFfWc4WUXm5Nw/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",MUSIC CHOICE MAX
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexE3Pt0uEepMyJMIxIYwNjv/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",MUSIC CHOICE PLAY
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezy1eV6KIlj9NDI_HSqAlsc/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",MUSIC URBAN
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezke3QPojUEhU6wc2wSWrHR/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",POP & COUNTRY
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexbFIloZrDHqiFYb4DCwtMV/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",POP HITS
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewt1gXW_h8mPZdWpv-bxYwA/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",POP LATINO
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexkIdweBJ2lpNcSz_7Klvag/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",R&B
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewjhEwM4mIm0CTN5-4EqeVJ/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",R&B SOUL
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexnEylUq8_h8r_pzUPldxfV/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",RAP
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeywSRWj3-LkyonUBt3EKeKi/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",RAP 2K
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyew3RHHcQJn7nJKVZbiL9m7H/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",ROCK
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyezgHq87kg_db9xFdvDnTVME/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",TEEN BEATS
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexh--laUKEyagF2LarKKnZJ/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",THROWBACK JAMZ
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexARF2tB52PA0OtyVAyUQV7/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",TODAYS COUNTRY
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyj71vCA8VPx88gg7eTDMYe/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",TODDLER TUNES
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyEGvzM_XD0YyRKc7XPyXmR/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.dropbox.com/s/fp0m8c4pzk2ot2j/trace%20africa.png?dl=1",TRACE AFRICA
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyewSb_isnsGWZe0k1cdwCI4o/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",TROPICALES
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyeyh7ODaTvH8TOFJ7x_KbdtK/ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Y2K
+http://142.202.48.32:8080/play/2favqU5LCvpnjwfqU8xPtGPiYlPdeFPmoFrqdWnmyexPh_k9d_D5-FcZNvmNbrUx/ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ADULT ALTERNATIVE
 http://edge.bz:8080/young2/young2/106396
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ALTERNATIVE
