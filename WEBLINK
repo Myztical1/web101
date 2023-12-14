@@ -1430,8 +1430,6 @@ https://is.gd/bQ2Mhg
 https://is.gd/Z4erdl
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Afrotainment.png",AFRO
 https://tinyurl.com/yush83y9/165251
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/bblack-africa.png",BBLACK! AFRICA
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",Africa Magic Family
 https://tinyurl.com/y2anh8rv/170647.ts
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://easitimes.com/wp-content/uploads/2018/11/DSTV-Logo-640x445.jpg",AfricaMagic Epic
@@ -3838,32 +3836,6 @@ http://45.141.156.56:8080/marie/marie/223397
 http://45.141.156.56:8080/marie/marie/223398
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Treehouse_TV_2013.png/200px-Treehouse_TV_2013.png",TREEHOUSE HD
 http://45.141.156.56:8080/marie/marie/223399
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/cbeebies.uk.png",CBEEBIES
-http://89.187.167.93:80/live.ts?channelId=63&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/cbbc.uk.png",CBBC
-http://89.187.167.93:80/live.ts?channelId=64&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/citv.uk.png",CITV
-http://89.187.167.93:80/live.ts?channelId=65&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/pop.uk.png",POP
-http://89.187.167.92:80/live.ts?channelId=66&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/popmax.uk.png",POP MAX
-http://89.187.167.94:80/live.ts?channelId=67&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/tinypop.uk.png",TINY POP
-http://89.187.167.92:80/live.ts?channelId=68&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/nickelodeon.uk.png",NICKELODEON
-http://89.187.167.92:80/live.ts?channelId=69&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/nicktoons.uk.png",NICKTOONS
-http://89.187.167.93:80/live.ts?channelId=70&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/nickelodeon.uk.png",NICK
-http://89.187.167.92:80/live.ts?channelId=71&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/nickjunior.uk.png",NICK JR
-http://89.187.167.92:80/live.ts?channelId=72&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/nickjrtoo.uk.png",NICK JR TOO
-http://89.187.167.93:80/live.ts?channelId=73&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/babytv.uk.png",BABY TV
-http://89.187.167.92:80/live.ts?channelId=75&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/cartoonnetwork.uk.png",CARTOON NETWORK
-http://89.187.167.93:80/live.ts?channelId=76&deviceUser=Taylor&devicePass=Taylor&uid=6560
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/aa7be678.jpg",Baby TV
 http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:0E:F8:2D
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg",Boomerang
@@ -3886,7 +3858,7 @@ http://195.26.87.217/live.ts?channelId=250&uid=2568&deviceMac=00:1A:79:0E:F8:2D
 http://195.26.87.217/live.ts?channelId=251&uid=2568&deviceMac=00:1A:79:0E:F8:2D
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://logopond.com/logos/b683ab7538c677bf1bc93848a9545644.png",KIDS TV
 http://195.26.87.217/live.ts?channelId=123913&uid=2568&deviceMac=00:1A:79:0E:F8:2D
-#EXTINF:-1 group-title="KIDS" tvg-logo="",KIDS TV NURSERY RHYMES AND BABY SONGS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/1277436f-e4cc-4485-bbe9-d65039f78028/1005123036/kids-tv-gd3-logo",KIDS TV NURSERY RHYMES AND BABY SONGS
 http://195.26.87.217/live.ts?channelId=123914&uid=2568&deviceMac=00:1A:79:0E:F8:2D
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a807ee7a",Nickelodeon FHD
 http://195.26.87.217/live.ts?channelId=254&uid=2568&deviceMac=00:1A:79:0E:F8:2D
@@ -4619,11 +4591,11 @@ https://is.gd/O4KR96
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 7
 https://is.gd/2WuBH5
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Xmas movies 8
-https://is.gd/2oejhr
+https://is.gd/5LgTsE
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7  Xmas movies 9
-https://is.gd/ssox0u
+https://is.gd/Si0oah
 #EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7  Xmas movies 10
-https://is.gd/tYyXaE
+https://is.gd/xu9i6t
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN US
 https://is.gd/frBs3d
@@ -4709,9 +4681,9 @@ https://is.gd/PivCxf
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tesprologs.xyz/Logos/Carribeans/Carib%20Flow%20Sports.png",FLOW SPORTS
 https://is.gd/KjpDpK
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
-https://is.gd/f7GwkF
+https://is.gd/4UKRmA
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
-https://is.gd/Kok1yi
+https://is.gd/XNNxUM
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD
 https://is.gd/LLxehg
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://t20slam.com/wp-content/uploads/2021/07/willow-tv-live-stream-world-2021-800x450.jpg",Willow Cricket HD
