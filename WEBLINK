@@ -1523,8 +1523,8 @@ http://tinyurl.com/z9bzdzkm/171933.ts
 https://is.gd/Xvp6Q6
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",Islamic Broadcasting Network
 https://is.gd/klCeru
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://images.justgiving.com/image/a684b862-182d-413a-acbd-49e0f6c0f3d2.png",The Islamic Network
-http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://assets-global.website-files.com/603f858b79d25a14328c00e7/607318a1dff99a55a5dada4a_Website%20Images%20(35)-p-800.jpeg",Islam Channel
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",CGTV
 https://is.gd/WeUYNY
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
@@ -1874,7 +1874,7 @@ https://is.gd/Ka3DoP
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES & MYSTERIES
 https://is.gd/tCs9GW
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png",HALLMARK DRAMA
-http://fortv.cc:8080/12345/56789/9307
+http://tinyurl.com/yc5psyub
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",TNT
 https://is.gd/YRE3xZ
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png",TNT SERIES
@@ -3476,305 +3476,407 @@ https://tinyurl.com/5b5k7znt/2766897.ts
 https://tinyurl.com/5b5k7znt/2207518.ts
 
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/2iWI1DX.png",A&E
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7RoijmjFENFVDmUNgC49-Q/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/8KMwW0A.png",ABC
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHw4arI6tnOoSpPS1_B6y4oQ/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy533goJHLUbTL5HW4pX4Hyg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/BlteyWa.png",ABC SPARK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_q9DDBvG_LjgmPbq5TDV2E/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4v54cB51a_BOB2WiwZpsTw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/6QS5xJz.png",AMC
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH1ERS4VvLMuxsTJ_MSWl8Yw/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3MHX-Poo-rCJFLnZbZIeDA/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="http://culturemixonline.com/wp-content/uploads/2017/07/adult-swim-logo.png",ADULT SWIM
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHwi6puya47pJ5InX67p3-vk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8adm5-HwUXSLyBAXFTbKUw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/fPaHTid.png",ANIMAL PLANET
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHxKGenXqMuGAADpfDqiiIvI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzhKBK_je12vIEKx_kVt_rw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/APTN_Colour-300x300.jpg",APTN
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8n_AuylxHMq-Q_CvwnNS5c/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/EpNXL0N.png",BBC Canada
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3bDtZoHjRuKiDVrBUz3wuQ/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyyvsJ87QKS3VnaApTdocJ_g/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/BzXxuOD.png",BNN Bloomberg
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH9IgAwo9-WRUJeQ8YI0wObk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyyg9DtcVwi0Dm08BFRL0ksU/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/BBC%20EARTH.png",BBC EARTH
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH38ejFBh3DTSchr2Xc-9O8U/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/one%20canada.png",Canada One
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3CDIIy2XAKLgc_UVb8EBR0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7dw-VDwjYjW1sIz19c8-aM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cartoon%20net.png",CARTOON NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4WgmP10tM4QJsjDSI8n09w/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7xO93W2R_EH46PVHfeJ6l0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC NEWS
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH1Zp3NYiQb-w_BtVXf39O0Y/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5okCxyiYymBxm5MUwdBIH0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC REGINA
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHw0wy07VnVOVqL2TI3g983g/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4q0aTzb10hDAvciFswS9lE/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC CALGARY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7cUtVnxENjE0h0H4MLgWGU/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyw11iepIPftXuaVC6dq9o54/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC Charlottetown
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH0gE2Sj_PtbenqhGIJu582c/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyy-LNvq0XO1TE6Ki11A5xT0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC Fredericton
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2AxnA_dpVTi3XAbOmkeeJY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy24QGz8c2JRj7iefpGn263U/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC Halifax
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8K_RsdU8bMEIpkIsTQUP48/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4u5edU6XUciNjXzTRQxQzs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC MONTREAL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_YT7E5nj0B19cLDxsH1RKY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyx3R7tK6TlhvAhV95HF0CxM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC OTTAWA
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7CGqY2IygT6QZOfpWbDTSY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzcVLi60O_IutG7NPRnvpv0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC TORONTO
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH72idrQfvdk2pXnhz35fJdI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_-QcMI9VuCY8Imv_UbHUJI/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC ST. JOHNS
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4bcaCHhLjfMpY-I93CXQ1s/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_MBThwvlyADKs3P7ao3UC0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC VANCOUVER
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8EHDk1_SIz-dVfTgZAAmf8/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4ZSzn1ySC9C_-iYP-TwS6w/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC WINDSOR
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4lwYQDzQ-8fMXAbOvnPit0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_GQtL4nAsgetceY8qPLBLk/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Kfg7y7i.png",CBC WINNIPEG
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_rj2s5DjjMLeb-IrQhL_P8/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2lBOcCsMdabh8tE8C5a0Gg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/chch.png",CHCH
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4bu8931tmdiXMg-lKOc-5M/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy68OK4wa_tVfiDafpuIYFhE/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/7P0A93a.png",CITY CALGARY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH00C2NSVICFmDW8UOWsNXQE/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3FVDMB7tNrVEyaKhdJSs2A/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/7P0A93a.png",CITY MONTREAL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHwBRghUXSzrHBqdexYvF0ss/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8YtAtu94WZL1nAjcTEdgKs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/7P0A93a.png",CITY TORONTO
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7EsrYuTmPa0qWQKTiCwpEE/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8jQeTjCoDC6Gt0-_9fQTJE/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/7P0A93a.png",CITY VANCOUVER
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8-hyUgMJQWHpx2booxU7Ko/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4QKxkPAIRfJcNGz6W4Ado4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cmt.png",CMT
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_9gNhoqrtAj6Ukhw7HpAGI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9Jpiw5uftTcp05XHvvGhYs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cnn.png",CNN
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH9mEZdqrvZZI2lkmyaa3STI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2bR2AJROucjFl8_8RuEWrw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cnn%20internation.png",CNN INTERNATIONAL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH1pXQ077zvl2NYzJ6TPYi-8/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8PmnIY_imiov4cYN1aWrkw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cooking%20channel.png",COOKING CHANNEL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8mdJpiwT_DFU8NS9h8uXuI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7JXA6we-3ft4JlwxnILjKY/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cottage%20life.png",COTTAGE LIFE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH06aEBlYODcaQKDdQax9ZyY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0k8VHoK292VtIyXxtfB4zU/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cp24.png",CP 24
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH9oP3luujD3K10FRG5NA7WU/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6lRRUyrUx7bFPOYY5FcPyc/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cpac.png",CPAC
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3gouRCu0NCFfv5ozwm6qIo/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1HfkzMonl_YWR0yCad1ltI/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 1
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3b2qklHwqDzaQ3CbjxuWyk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0HbFzQY3t0IHVLoc6aEY_M/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 2
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH9jZ_vavSMgCIBgjwSjaPIY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy87Wpzdhu9PCLdv2KnIFNWo/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 3
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7XTseX22IJn8RXM0wGwj0s/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzHwiRVZo97dMYuO16ERmxU/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 4
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4jM5vII2au7EucXt8O1zlM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0_2rjMmuR2nvZv9yppU8Mc/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crime%20and%20invest.png",CRIME & INVESTIGATION
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH--rcPnGcK0Gu666SBkDs3g/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8KhGY5AY_v6i9gxUL1Wr6I/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/ctv%20comedy.png",CTV COMEDY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH6RCftG5jftlNKvX-YxhAIw/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxaOPODBjnS4iIgHkO6GMXE/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV DRAMA
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH109mSOi2CZ_6OyNR5wIX48/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_oDqiXKBjoY6PWHxUxj9os/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV2 Atlantic
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4fuKKyWKjoV2cWEl1t-udQ/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0Vto6PSfe7kM7bu6PWmlH4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV2 Alberta
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8c1EFeQgdkv7cNMdUHp6xI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2oESFUfjtM--cenpsBWcrg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="ttps://technetnetwork.com/logos/canada/ctv%202.png",CTV 2 BARRIE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2yJdBOG9Du85K3_d4n_3SU/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_e6C3BtQeSUxzCu5EtyzYk/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV CALGARY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-DcnHUxMGLDZfT5fPIG-9I/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4gD3nr3bEPxtUnVU-GXY_8/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV Edmonton
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH0ta2tGZ6gZJu83UahTiA9o/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1i4mrFe8xeqC-AOFDELqbs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV",CTV Halifax
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2G6x7KrXtOY8-7XRviOESg/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5CnxCzxcY3MfSPeYxEOJ4U/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV KITCHENER
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH0fTrod3boiJqWbGWs09-Jc/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_MjHCzA1pmkFYtknx0AeAM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV LIFE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7FnNmF8W9keqpm-wRtqTeM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzW3uqWkJv15bQTkqsMrXiQ/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV 2 LONDON
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2NbENGJYA8LBhLjqA4nFBo/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyyDafqb1nma0K7FR6rWhs9M/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV2 OTTAWA
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_b6lqpO5xotMj-VcWpEt5Y/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy94Gj63BPO5O3Z3TAIiolSs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV Moncton
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH6b51EBHXO7ovOqtYHIZjmY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5XVOvedLTz3KdMtZTyY--0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV MONTREAL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4M-erVauQCkcU_LSSibR5U/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4IRPPEsXSOS0Q4pIQgTSA4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV OTTAWA
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8QR9pVP5On6gTpLek_3M4k/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CA CTV Sydney
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2cbdGLqIS1W1kuqBZjhzfc/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy52bVxGqDmM599XF_EDkWig/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV TORONTO
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH5yNUByC5jo0kEBaU5vLs40/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxm60UzLi8VMkc-4l5I6Lkk/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV Timmins
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7LpUJXr1qJFdZeigJ4NKmM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_40lEKvDvmFg6VD4kxy8JI/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV WINNIPEG
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH5I6xeI71q98WW5arFuFV80/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1aLVag_G4DKo_i8Tne1fcw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV2 Windsor
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-8_Defviv9j0WOjX1_rOwk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzRjaBgoZsINcT5n_yC2eRA/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV VANCOUVER
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH60fEqyyzEouySyr95O8l3I/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0Ms52wmkzFTkxTofSqSiDM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV 2 VANCOUVER
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7oJrZhZFT2LDA-NEAtxzjk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8bgdXci_kCTS4gS8X0w8U8/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV NEWS CHANNEL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_BUHlZQ4Oe_fUCF13jzGBk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_Bgt1oSwykzAMFaLVJLOVs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/C5aqUsW.png",CTV SCI FI
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH22FMpFUH-tA6vdMkZwmoy0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4pNZzMBNdllqxzk14fgcvM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/day%20star.png",DAYSTAR TV
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2TcqKTbb7juelq0pDhwWNM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyw1Peq2C4pFFQWZRL0jboBo/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/dejaview.png",DEJAVIEW
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH340zh7uAREeMOcNvTAIQc8/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy-TZPRz9RQIKcrgGAttAKL8/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/discovery%20hd.png",DISCOVERY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2foxyRKFx50TOJ1rfb8-IM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy-C6pXaPC3dwLr2oJVfRvr0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/discovery%20sci.png",DISCOVERY SCIENCE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHxvz88bNor0kmKrmyI3FvHk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1vk-vbBoBCp3-IP63EeSXg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/disney%20jr.png",DISNEY JR
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHz6nT59BwUf2tb_3hjvN5rU/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5Q-2qEhWAGXBjjFqEhhoiw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/disney%20dx.png",DISNEY XD
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyB7-2R0OEM3WVWV7CBNOF4/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2x4mjgLyeUyNKH-ImIBELk/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Qym2zVK.png",MAGNOLIA NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH555sqyUvP-gThanNQTEIhk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4cwsoTs788wMU7_QyA1dgg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/dtour.png",DTOUR
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3BX_o6p0mtkFYB16h9FN0I/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4YzYrSqY4k2NX9j2RxkGWw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/E%21.png",E!
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7N6_BlcrwWu64e2yL7-1Cg/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy11WqjRIVuLX7jb2EBIJN2Y/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/familt%20chrgd.png",FAMILY CHRGD
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_ONwfskhNw44JNs93_Wq7c/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7oSPaoieRw-aDkN5LEA7N4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/FAMILY.png",FAMILY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH14meB9AdUekrz_yMTidWd0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzs29o-z-2VLiwsy2t4SKkQ/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/FAMILY%20JR.png",FAMILY JUNIOR
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4zI55iEkOrN1UP6VGSaK-k/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4Tdoe0fAHhiC4Hd-Al0WJw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/joEwyfu.png",FOOD NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-jtiLg8vY2rQCsg9m1ygY0/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/fox%20hd.png",Fox HD
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHwK4kNOvTMr9I0SHC2yIUKE/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6pHXHt5J4TOmKZCMyfj5Ok/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/fox%20news.png",FOX NEWS
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7_2NBDmqG8-ZbD74xGO7wA/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_tlcs_5qoh9xm51jZ3kZYI/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/5qweqZO.png",FX
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH0Woj7dH8jLSHtjyrQ7iQaQ/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3a5wk1Da-kLhWCc3hppUB4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/BJvME2T.png",FXX
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3otVx1wYV1q-urHNKInxQ0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9daZiRJAO2kB_2tLF6jhNI/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/game%20tv.png",Game TV
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-ePtRDihR-OQ1pjf8iw12M/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9okrnY70GBjHd3IEqJMfmc/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/game%20show%20net.png",GAME SHOW NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH6VWXOpWk1Eyz4XA_3-aRpw/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5MV5n2kP6WmH8eWeR32juo/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",GLOBAL CALGARY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH5BMubPq5hxYCDmb5qGR-7w/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1iq8-pQbeADpVzDEduxNxM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",GLOBAL HALIFAX
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH1aCtPoN4KzTaekI2fWdEtg/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyw4JUwN3sjHkFtojqlrLPFs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",GLOBAL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyPFS0aM262igiL-SKjbdcM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5v_f7g_Wz8PzElmmiy2pKg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",GLOBAL EDMONTON
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4xVHGHJEpUrNRKxF3SuV4I/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2JMCbA1S-m-L7I2JmoDs_g/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",Global Maritimes - Saint John
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-mbmzy5Pxu3atuKihPbVfU/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5TCd9uMx-GQ-9U7DPnZLZU/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",GLOBAL Winnipeg
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHz81RwLUJ0Uhd_7ijjMmvzY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3K7DLh0cF_HyZykISLu4jc/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",GLOBAL TORONTO
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-vvnBn1EE8M9MjeGfpg3xI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_OY2MujqtKyhbQbpqoc4dw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/zztwznS.png",GLOBAL VANCOUVER
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHxhPF-xBHp_9FH69_AEcpe4/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyy9734VdiTGJ2blWUBquAUE/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/GOLF%20CHANNEL.png",GOLF CHANNEL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3ajSrytb5N6PWRJL57j3Ng/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/gsn.png",GSN
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyr90hWLsvFk_docEH4_Gt0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2fMp-encXRKfJYFumLyh2c/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/qHqU6p6.png",TX CBS 11 (Dallas-Fort Worth) KTXA
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyyltCZ1Lwr0egtx_KRMQacs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/h2.png",H2
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8q0gK274OjAZlHQhfDnupE/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7xI2aGkLpkLZCmvOQIDDYA/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/hbo%202%20hd.png",HBO 2
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7i47bYBmRYK5-npBGAkJ1c/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7oulh-8NcmTdxuRcbaXDL8/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="ttps://technetnetwork.com/logos/canada/hbo%20hd.png",HBO
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyBhozP7tx4zpONynRiQYlE/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7CnIzYyPaek6lox-z8wEUM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/hgtv.png",HGTV
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH39ZvZKkkzOdUj74Y43-m9Q/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6TiBMK9IDCCQvwvtBAnZR8/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/the%20history%20channel.png",HISTORY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-VyAjWtQLyg5vZt3kqStEk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzAXVJbYDWkEjfWYazdnDi8/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="ttps://technetnetwork.com/logos/canada/HLN.png",HLN
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2ZuLiXm6d4JpbfJ4efyDf0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7Yo3JCuLkVU7Uu76b1_3pk/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 00'S MOVIES
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyMqOVafth-cxvfW3_kG9jk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy45BwVKmHACF_FXwT22BQAA/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 70'S MOVIES
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7zFsrEN8W7HbKjzdaBt3vM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy34E5JiWtHYLWNA613XYeIQ/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: AL BIRMINGHAM WIAT
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyytNmbHwavolw3bjlDshpPo/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 80'S MOVIES
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8aYoRmJ5u7abQji14W6aYk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_Qo70xUrUBpaBKl9k2lFfo/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 90'S MOVIES
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHy1U321-5z8WaAWUNVtYKnk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0Fn4uHhNuexOcagrMnJ9Og/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",AL CBS 8 (WAKA) Montgomery
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1t0rt07njqFNwNOzaMBwOg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2I0En5_o_vPTo4tOtZls6Q/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8MHDmXuULWxHck3TMF3r-I/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild 2
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHwfOXsqF6b3jMFc0aIJePPw/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4vyKMD3AvA57o-xdMCxGnI/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: AL MOBILE WKRG
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzl2hrHpQs3lElwVFXNFTRo/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television W
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH3-_EG9iMMb9PdUPziub000/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8GX0j0nlVfUKmdSdrHFvc0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television Mandarin
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2Zgg-2c_rBbY4W_whux5mM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0gBIEH-FI6eBr4SEJliZcY/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/d0FcsAX.png",GA CBS 46 (Atlanta)
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy-H8myTJIjEwcdg1Ekv234o/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/ifc.png",IFC
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHxLY_XqxE_ynCJLZV_o-Fmk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9jP1mgS91ktDx8dRzqsbfQ/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: GA AUGUSTA WRDW
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy77pQqoCGRCZdGrrNYG2Ugg/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: GA SAVANNAH WTOC
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyztComgpeWegY1w0nJjNkuQ/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/investigation%20dis.png",INVESTIGATION DISCOVERY
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH9q9fk8g2Qu_bSaw_vVRDKg/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5DIMOu0p2NrYOaiPJsvr88/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: GA THOMASVILLE WCTV
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3xyCpZ_xaUE_8JX3YJClRw/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",TX CBS (Austin)
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyy4ckV-0fUEhUwyWvFC1SnY/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/lifetime%20hd.png",LIFETIME
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH12zfqtqBdMXMrIxcKWTOZ0/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/lifetime%20hd.png",LIFETIME MOVIE NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH58J1-qYmbWTDZE0JWDTKdc/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://uspto.report/TM/90363957/mark.png",Love Nature
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH6w6aUraA8-gP7fRK9h21bI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8FGRwTOEDtU398qFXK7xbo/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/62QpuIf.png",CBS: MD BALTIMORE WJZ
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2eKBdnIsixmKwCKf5zPbys/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/MH8MrhR.png",CBS: MA BOSTON WBZ
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1SwrZtod-nCm_toi-nt2wE/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="",Love Nature
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1PRXacryql1-InVot7gowk/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: SC CHARLESTON WCSC
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyw1t0kgnV11LQ9T_njyXCuM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/makeful.png",MakeFul
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2G9_fD8nWJN61rwguWPZ2c/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9vfqbhTv9HqtTu7rvvo184/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: SC COLUMBIA WLTX
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5d9jY7zvaWBej3ZwYQaCNc/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: SC FLORENCE WBTW
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9_T80cK2Dvx3wv7atY8rrE/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/max%20tv.png",MAX
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH0YgZXdsHUZP0HAeh5Eba9w/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="ttps://technetnetwork.com/logos/canada/miracle.png",MIRACLE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_I4RWoPRPIdDdec5C1vfyI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1hA6PUJ1e0lzhiX4kk9KXM/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: IL CHICAGO WBBM
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1lvyc_P5EOuzjN-4wk8ck4/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",OH CBS 12 (WKRC) Cincinnati
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2IJkKkCRsW_HQCOyBrT31U/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/4EAtK5A.png",CBS CLEVELAND WOIO
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4XHx8t_1BTIbNFZD0BltGg/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: OH COLUMBUS WBNS
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3FQqr6nboKB-o1Od9UWx_w/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/movie%20time.png",MOVIETIME
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH9Cgdk44DEZrX6IRxIgJ-0A/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9vF7pNedp_42lPgFP7ZcBw/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: CT HARTFORD WFSB
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxcrtu3ut0IW5LF-8smveWs/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: CO DENVER KCNC
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0HNnlRLcSydjM5pDX-m2k8/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/mtv%202.png",MTV 2
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH88IVwL1A5b-F2HkV--400Q/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7k6jLsxVrR64nJ7ZQtbRA0/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: MI DETROIT WWJ
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy03Pz8agq5_9De8nfDt3jp0/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: CA FRESNO KGPE
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy-zwlrUeXeTjdZBMhWDvbZQ/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/NsCDHCe.png",CBS: TX HOUSTON KHOU
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxOvcWbPd9p8kp5K_mS7CAE/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/MUCH.png",MUCH
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4Yzz5n5Yq9FsQRBeOynMl8/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/NBA%20TV.png - Sports",NBA TV Canada
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH2pKhsULp5zyfx2sFzcvOwo/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://pluspng.com/img-png/nat-geo-logo-vector-png-national-geographic-channel-logo-vector-200.png",NAT GEO
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHxI6JoFD2x0S18YBqyMXJpE/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxdXNba346B9FJfD8KkmRyo/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/NBA%20TV.png",NBA TV Canada
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8iSaUfmYY0rPOtRVPxWunc/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: LOS ANGELES CA KCBS
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyz-coWPs_ExySMxX-AVSEvE/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: CA LOS ANGELES KCAL 9
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0ikloJ8sFhRpFbninZoV1M/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="",NAT GEO
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_ogStgUE-o73Jwqf17ZnZw/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: LA SHREVEPORT KSLA
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_iHDdEZ7KLze_Tbpu-QLDw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/NAT%20GEO%20WILD.png",NAT GEO WILD
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH1G5ueHibWQKys4cxm4J85k/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3YY3MHywyfuqZ720j4mi3A/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",LA CBS (New Orleans)
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy82eghhFm2EOq6xZ438oDGI/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/NICK%20TOONS.png",NICKTOONS
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH--kAMQQWS2E3BvT6i_2rLc/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy57EMncVXwhdvQAqjRqioD4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/ntv.png",NTV
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_0zZ0q2M-nc7kEc3uoI0j4/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy9IHIYky6wSl1QBJ52COvqs/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/OLN.png",OLN
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH6UDuL9FZnuULexj2vzevkY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0QclrwzrN7WHSZ4cfajWXA/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI 1
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH6dT7vdiZxLvo9SfPoAyfok/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npywZDZoE4XmamLo3QY6O1EDQ/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI 2
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-z1D6gMQOzLCCKFgqz0mBo/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4wh19RnBcF3dYyR6D6i0xY/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="ttps://technetnetwork.com/logos/canada/omni%20bc.png",OMNI BC
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH13ySuxYf0uxfWdMRIMm5ac/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6YS99wFQtq5C8v3aLqYXO4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/one%20canada.png",ONE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHwq2HgCwLY7OFpN4cwCqEMU/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7L7B_54D-L3C7yJTGAh4P0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/PARAMOUNT.png",PARAMOUNT NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyV6zJJL82dKKPxfh4lRzgw/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzfAZzPsDhth3z0k4fjqJZw/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/Cuallrw.png",CBS: FL MIAMI WFOR
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6lqZPU5qHmuAPtDhb_OoFI/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/peach%20tree.png",PEACH TREE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH5PQ-Kyi_3FvT8ltr-6u3kg/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2IX3hBtRGK5BdqSgISqNZY/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: MS JACKSON WJTV
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy-dxyKzkKa0-KGfCjm2GCW4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/prise%202.png",PRISE 2
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH4agCkECCUMHR5bLjhv1L-o/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/rewind.png",REWIND
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHzAAx8euBZXWXM42E3HWorU/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzZt9S5TGGyEAG0kz8Y08j0/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: NEW YORK NY WCBS
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2FZDeZjuLRX9eWgEvfvQsE/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: NY BUFFALO WIVB
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxhkbG3_M33vJHtQ2m8dHuo/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: NY ROCHESTER WROC
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2UYe5sSUJTa3G2fb6ZoKU4/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/silver%20screen.png",SILVER SCREEN CLASSICS
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH1caHMNsj_vP4Wbv5X-RAJg/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzmXE-e9aB40bj60QHlkSfA/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: NY SCHENECTADY WRGB
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6ArhIddoqEL0DQnP6-cwFw/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SLICE.png",SLICE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7zdYLFVEH4l0je1hxei4Lw/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5OmYxJKg-EV4FpvwFvZTkA/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: NC GREENSBORO WFMY
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy_7NMbBvEpYCLhgAxOAIup0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SMITHONION.png",SMITHSONIAN CHANNEL
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7UA_Wsql231d77KK21Raes/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0wBi4MfJAbdoa6DwDjVse8/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: NC CHARLOTTE WBTV
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6e6e0oObhpjwZhXwTydyHQ/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SUPER%20CHANNEL%20FUSE.png",SUPER CHANNEL FUSE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH8P3p4vIzeqD-UqUYd2-ecE/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5W9cGtiImgOplotC_SO-vg/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/KOTV_6_logo.png",OK CBS KOTV (Tulsa)
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8NLAT8Qcu9p_AjuzAQFAMk/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SUPER%20CCHANNEL%20HART%20AND%20HOME.png",SUPER CHANNEL HEART & HOME
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH6n6mAvxQZzAbgvq3E7geRk/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyz9soO_BzK8ShldI1a2lETI/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: OK OKLAHOMA CITY KWTV
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npywGq-qPTxcMHvSbFOEC01zk/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/super%20channel%20vault.png",Super Channel Vault
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyolKLdvMhobh14VjzmVNP0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy6OeGxW2mHrB7Bzu68bK-nw/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/supercran.png",SUPER ECRAN 1
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8BX4KbEgbH8R9Re50dEOp4/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://cdn11.bigcommerce.com/s-zg392ntjsl/product_images/uploaded_images/wkmg-orlando.png",CBS: FL ORLANDO WKMG
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0QcBYzI8pKUSeonGv-bW8Y/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://igniteteentreatment.com/wp-content/uploads/2019/12/logo-cbs-8-news-now.png",CBS: LAS VEGAS NV KLAS
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyw7EEXd7qIQj6ZMa-m_oblw/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs-47-wjax.png",CBS: FL JACKSONVILLE WJAX
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzX214dKlJGSEesq0skh6jQ/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/supercran.png",SUPER ECRAN 3
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyyftD8HqXXqoMZ1iuS5OD68/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png",CBS: PA PHILADELPHIA KYW
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5N9vGLZQqURrN3HfsumHAs/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/supercran.png",SUPER ECRAN 4
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5xyK-BwJjT82RT9oqCQ4M0/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: AZ PHOENIX KPHO
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy81rJuIQkiTn68DyC2zwDPE/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: PA PITTSBURGH KDKA
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0eJ1ylXODOjmNf3ZcpH9Ds/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: TX SAN ANTONIO KENS
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy3nidWkY5ysuAr8B8DSXnAo/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/series%20plus.png",SERIES Plus
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8iV-SdLVvauZC50fduoCAw/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: CA SAN DIEGO KFMB
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5dzPcUpJQp_DVYkNrh1CXo/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/4N3OBws.png",CBS: CA SAN FRANCISCO KPIX
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyzZ4_yswIIpccHJ87o_AsQc/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/TELETOON.png",TELETOON HD
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxj45gZqctDsxljEOdAuivQ/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: WA SEATTLE KIRO
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4gW1-OrzV8FamKl5h93afg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/tlc.png",TLC
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH33ogMHeclyAYIDrzA1uLD0/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8B_N69he7vSINxKfU_J66M/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: MO ST. LOUIS KMOV
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7nOqBEU-xVut-vtytMuXhY/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/tln.png",TLN
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHyh94zbhzbY0KmHpVWJxHaw/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/travel%20escape.png",TRAVEL ESCAPE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHz3wnNRx5rnMt33A6LNNvNM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxb29g626Xhb2dKm3q56E4Y/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://image.roku.com/developer_channels/prod/b669dd09045530ae29c7cf411786954c4f32be319c1e5703f632e76039d4af43.png",CBS: TN NASHVILLE WTVF
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy2RDnAhWI6kNpiRyy8PPAVE/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: DC WASHINGTON WUSA
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy1PVO3Bgy7Jlzyf1Lx5Wh0M/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: WI MILWAUKEE WDJT
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyxZ9_hjSl3viauiL3-t6db0/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/TREE%20HOUSE.png",TREEHOUSE
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH9rbs21350OOwQU2H0TxY7Q/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npyyW0f-__lpqOt-Tp17-f058/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/93kD8JF.png",CBS: WI GREEN BAY WFRV
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0yajlDFfaHsPuDNSE3n2YY/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/VISION%20TV.png",VISION TV
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH-awZ-jv6fUM_WT73VqBI4k/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy94K-BWVUm8tbk5nJhyrhlg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/W%20CHANNEL.png",W NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH5DPZZUSFrBIrbJ5MxZqvsM/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy8Jz_x9qrkGWLKCEfuam2Zg/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/THE%20WEATHER%20NETWORK.png",WEATHER NETWORK
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH_I0auG2qwgALkMntZYeUDs/ts
-#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/wgn.png",WGN
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH44mVU_FalFFILoeCw1aDmY/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy64up4NoLW4qZlFiA1DxVls/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/wild%20tv.png",Wild TV
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqHwHR_b8JlrwGX3394CD-18I/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy-GcMw440mxlYy_rLt0tLFM/ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/YES%20TV.png",YES TV
-http://51.81.93.31:80/play/zwRdaIXZEoOFENjRtMtqH7r1FV4dbJHe1X5i5BGVkdI/ts
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy50S3PUElmZgmnHVfJHfDhI/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/addik.png",ADDIK (FR)
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy4wT1Au0iu91VuVVQA0-Vm4/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/yoopa.png",YOOPA
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy5Pt03iweDXssNkyFM98zcU/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://i.imgur.com/W3ea8OR.png",FOX: AL BIRMINGHAM WBRC
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy41lbZpnNAzM6Kn37Xz6AK8/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/canal%20savo.png",CANAL SAVOIR (FR)
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy7sU7lEKH7dpXgYsmQkMS3I/ts
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/casa.png",CASA (FR)
+http://51.81.93.31:80/play/acZRNhbGbgznRmAif9npy0zjqWrlqZDo8j-EWfv3GPU/ts
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png",PBS_KIDS
 https://is.gd/LUUCbf
@@ -3949,7 +4051,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd0000
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 https://is.gd/UDrVHo
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
-http://fortv.cc:8080/M0CsAb/026647/119435
+http://tinyurl.com/hmjc32hy
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
 https://is.gd/eQBQub
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
@@ -4028,125 +4130,125 @@ http://45.141.156.56:8080/marie/marie/232799
 http://45.141.156.56:8080/marie/marie/232800
 
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ANIMATION
-http://fortv.cc:8080/M0CsAb/026647/119420
+http://fortv.cc:8080/Roxanne/Roxanne/119420
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: BLOCKBUSTERS
-http://fortv.cc:8080/M0CsAb/026647/119421
+http://fortv.cc:8080/Roxanne/Roxanne/119421
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: CLASSIC
-http://fortv.cc:8080/M0CsAb/026647/119422
+http://fortv.cc:8080/Roxanne/Roxanne/119422
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: COMEDY
-http://fortv.cc:8080/M0CsAb/026647/119423
+http://fortv.cc:8080/Roxanne/Roxanne/119423
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: CULT
-http://fortv.cc:8080/M0CsAb/026647/119424
+http://fortv.cc:8080/Roxanne/Roxanne/119424
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: FAMILY
-http://fortv.cc:8080/M0CsAb/026647/119425
+http://fortv.cc:8080/Roxanne/Roxanne/119425
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: GREATS
-http://fortv.cc:8080/M0CsAb/026647/119426
+http://fortv.cc:8080/Roxanne/Roxanne/119426
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: GREATS TWO
-http://fortv.cc:8080/M0CsAb/026647/119427
+http://fortv.cc:8080/Roxanne/Roxanne/119427
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: HISTORICAL
-http://fortv.cc:8080/M0CsAb/026647/119428
+http://fortv.cc:8080/Roxanne/Roxanne/119428
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 Horror Movies
-http://fortv.cc:8080/M0CsAb/026647/119429
+http://fortv.cc:8080/Roxanne/Roxanne/119429
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: MUSICAL
-http://fortv.cc:8080/M0CsAb/026647/119430
+http://fortv.cc:8080/Roxanne/Roxanne/119430
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: MYSTERY
-http://fortv.cc:8080/M0CsAb/026647/119431
+http://fortv.cc:8080/Roxanne/Roxanne/119431
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: PREMIERE
-http://fortv.cc:8080/M0CsAb/026647/119432
+http://fortv.cc:8080/Roxanne/Roxanne/119432
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ROMANCE
-http://fortv.cc:8080/M0CsAb/026647/119433
+http://fortv.cc:8080/Roxanne/Roxanne/119433
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: SCI-FI
-http://fortv.cc:8080/M0CsAb/026647/119434
+http://fortv.cc:8080/Roxanne/Roxanne/119434
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: WESTERN
-http://fortv.cc:8080/M0CsAb/026647/119435
+http://fortv.cc:8080/Roxanne/Roxanne/119435
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: HITS
-http://fortv.cc:8080/M0CsAb/026647/119436
+http://fortv.cc:8080/Roxanne/Roxanne/119436
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: THRILLER
-http://fortv.cc:8080/M0CsAb/026647/119437
+http://fortv.cc:8080/Roxanne/Roxanne/119437
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: 7NEWS SPOTLIGHT
-http://fortv.cc:8080/M0CsAb/026647/119438
+http://fortv.cc:8080/Roxanne/Roxanne/119438
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: ALL DOCUMENTERY
-http://fortv.cc:8080/M0CsAb/026647/119439
+http://fortv.cc:8080/Roxanne/Roxanne/119439
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: DISCOVERY
-http://fortv.cc:8080/M0CsAb/026647/119440
+http://fortv.cc:8080/Roxanne/Roxanne/119440
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: DW DOCUMENTERY
-http://fortv.cc:8080/M0CsAb/026647/119441
+http://fortv.cc:8080/Roxanne/Roxanne/119441
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: FREE DOCUMENTERY
-http://fortv.cc:8080/M0CsAb/026647/119442
+http://fortv.cc:8080/Roxanne/Roxanne/119442
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: FREE DOCUMENTERY ANILAMS
-http://fortv.cc:8080/M0CsAb/026647/119443
+http://fortv.cc:8080/Roxanne/Roxanne/119443
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: FRONTLINE PBS
-http://fortv.cc:8080/M0CsAb/026647/119444
+http://fortv.cc:8080/Roxanne/Roxanne/119444
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: NAT GEO WILD
-http://fortv.cc:8080/M0CsAb/026647/119447
+http://fortv.cc:8080/Roxanne/Roxanne/119447
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: NETFLIX
-http://fortv.cc:8080/M0CsAb/026647/119448
+http://fortv.cc:8080/Roxanne/Roxanne/119448
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: REAL CRIME
-http://fortv.cc:8080/M0CsAb/026647/119449
+http://fortv.cc:8080/Roxanne/Roxanne/119449
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",DOCUBOX: REAL WILD
-http://fortv.cc:8080/M0CsAb/026647/119451
+http://fortv.cc:8080/Roxanne/Roxanne/119451
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 THE GOLDEN GIRLS
-http://fortv.cc:8080/M0CsAb/026647/120948
+http://fortv.cc:8080/Roxanne/Roxanne/120948
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 THE FLINTSTONES
-http://fortv.cc:8080/M0CsAb/026647/120949
+http://fortv.cc:8080/Roxanne/Roxanne/120949
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 COMEDY MOVIES
-http://fortv.cc:8080/M0CsAb/026647/121096
+http://fortv.cc:8080/Roxanne/Roxanne/121096
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 STAR TREK
-http://fortv.cc:8080/M0CsAb/026647/121115
+http://fortv.cc:8080/Roxanne/Roxanne/121115
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Pluto (US) Western TV (D)
-http://fortv.cc:8080/M0CsAb/026647/121128
+http://fortv.cc:8080/Roxanne/Roxanne/121128
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 FRIENDS
-http://fortv.cc:8080/M0CsAb/026647/66407
+http://fortv.cc:8080/Roxanne/Roxanne/66407
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 RICK AND MORTY
-http://fortv.cc:8080/M0CsAb/026647/66302
+http://fortv.cc:8080/Roxanne/Roxanne/66302
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 DRAGON BALL Z
-http://fortv.cc:8080/M0CsAb/026647/79572
+http://fortv.cc:8080/Roxanne/Roxanne/79572
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 FULL HOUSE
-http://fortv.cc:8080/M0CsAb/026647/66269
+http://fortv.cc:8080/Roxanne/Roxanne/66269
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 FAMILY GUY
-http://fortv.cc:8080/M0CsAb/026647/66317
+http://fortv.cc:8080/Roxanne/Roxanne/66317
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Game Of Thrones
-http://fortv.cc:8080/M0CsAb/026647/66318
+http://fortv.cc:8080/Roxanne/Roxanne/66318
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 KEEPING UP WITH THE KARDASHIANS
-http://fortv.cc:8080/M0CsAb/026647/66403
+http://fortv.cc:8080/Roxanne/Roxanne/66403
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 FRESH PRINCE OF BEL-AIR
-http://fortv.cc:8080/M0CsAb/026647/79559
+http://fortv.cc:8080/Roxanne/Roxanne/79559
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 THE FIRST 48HRS
-http://fortv.cc:8080/M0CsAb/026647/66393
+http://fortv.cc:8080/Roxanne/Roxanne/66393
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 RIDICULOUSNESS
-http://fortv.cc:8080/M0CsAb/026647/66397
+http://fortv.cc:8080/Roxanne/Roxanne/66397
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 SAVED BY THE BELL
-http://fortv.cc:8080/M0CsAb/026647/66344
+http://fortv.cc:8080/Roxanne/Roxanne/66344
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 SEINFELD
-http://fortv.cc:8080/M0CsAb/026647/66303
+http://fortv.cc:8080/Roxanne/Roxanne/66303
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",South Park*
-http://fortv.cc:8080/M0CsAb/026647/66401
+http://fortv.cc:8080/Roxanne/Roxanne/66401
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 PAW PATROL
-http://fortv.cc:8080/M0CsAb/026647/66311
+http://fortv.cc:8080/Roxanne/Roxanne/66311
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The KING OF QUEENS
-http://fortv.cc:8080/M0CsAb/026647/79567
+http://fortv.cc:8080/Roxanne/Roxanne/79567
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Knight Rider*
-http://fortv.cc:8080/M0CsAb/026647/83700
+http://fortv.cc:8080/Roxanne/Roxanne/83700
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 FAMILY MATTERS
-http://fortv.cc:8080/M0CsAb/026647/125634
+http://fortv.cc:8080/Roxanne/Roxanne/125634
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 TOM AND JERRY
-http://fortv.cc:8080/M0CsAb/026647/125635
+http://fortv.cc:8080/Roxanne/Roxanne/125635
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 DUCK TALES
-http://fortv.cc:8080/M0CsAb/026647/125636
+http://fortv.cc:8080/Roxanne/Roxanne/125636
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 TEEN TITANS GO!
-http://fortv.cc:8080/M0CsAb/026647/125637
+http://fortv.cc:8080/Roxanne/Roxanne/125637
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 LOONEY TUNES
-http://fortv.cc:8080/M0CsAb/026647/125638
+http://fortv.cc:8080/Roxanne/Roxanne/125638
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 THE SOPRANOS
-http://fortv.cc:8080/M0CsAb/026647/125971
+http://fortv.cc:8080/Roxanne/Roxanne/125971
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 SEX IN THE CITY
-http://fortv.cc:8080/M0CsAb/026647/125972
+http://fortv.cc:8080/Roxanne/Roxanne/125972
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 COPS (D)
-http://fortv.cc:8080/M0CsAb/026647/135781
+http://fortv.cc:8080/Roxanne/Roxanne/135781
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 GUNSMOKE
-http://fortv.cc:8080/M0CsAb/026647/140069
+http://fortv.cc:8080/Roxanne/Roxanne/140069
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24/7 UFC
-http://fortv.cc:8080/M0CsAb/026647/146291
+http://fortv.cc:8080/Roxanne/Roxanne/146291
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",1883
 https://trezix.tv:443/CharlieS/CharlieS/365685.ts
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",24
@@ -4567,35 +4669,6 @@ https://trezix.tv:443/CharlieS/CharlieS/365892.ts
 https://trezix.tv:443/CharlieS/CharlieS/365893.ts
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Yellowstone
 https://trezix.tv:443/CharlieS/CharlieS/365767.ts
-
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Channel
-https://is.gd/a6Msj9
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Channel SD
-https://is.gd/ukSByZ
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Movies & Mysteries
-https://is.gd/9fzDWv
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",Hallmark Movies & Mysteries SD
-https://is.gd/nribPQ
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 1
-https://is.gd/DtHZ66
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 2
-https://is.gd/xyHzSc
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 3
-https://is.gd/hT7vQ2
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 4
-https://is.gd/KXlFiw
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 5
-https://is.gd/yuHSgN
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 6
-https://is.gd/O4KR96
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Christmas 7
-https://is.gd/2WuBH5
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7 Xmas movies 8
-https://is.gd/5LgTsE
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7  Xmas movies 9
-https://is.gd/Si0oah
-#EXTINF:-1 group-title="XMAS" tvg-logo="https://simonwood.net/wp-content/uploads/2015/12/Merry-Christmas-Images-Png3.png",24/7  Xmas movies 10
-https://is.gd/xu9i6t
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN US
 https://is.gd/frBs3d
@@ -6002,6 +6075,288 @@ http://tinyurl.com/4bjyu9cj/715
 http://tinyurl.com/4bjyu9cj/716
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Warner Channel HD
 http://tinyurl.com/4bjyu9cj/717
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",A&E HD
+http://190.119.178.44:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AMC HD
+http://190.119.178.44:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ANTENA 3 HD
+http://190.119.178.44:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ATRES SERIES HD
+http://190.119.178.44:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ATV
+http://190.119.178.44:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ATV + HD
+http://190.119.178.44:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AXN HD
+http://190.119.178.44:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AZ Cinema HD
+http://190.119.178.44:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AZ click HD
+http://190.119.178.44:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",America TV HD
+http://190.119.178.44:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Animal Planet HD
+http://190.119.178.44:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Azcorazon
+http://190.119.178.44:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Azmundo
+http://190.119.178.44:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",BBC NEWS
+http://190.119.178.44:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CHV HD
+http://190.119.178.44:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNN Chile HD
+http://190.119.178.44:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CREOTV HD
+http://190.119.178.44:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 13 HD
+http://190.119.178.44:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal N
+http://190.119.178.44:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Caracol HD
+http://190.119.178.44:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cartoon Network HD
+http://190.119.178.44:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cartoonito
+http://190.119.178.44:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cine Latino
+http://190.119.178.44:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CineCanal
+http://190.119.178.44:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CineMax
+http://190.119.178.44:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinecanal HD
+http://190.119.178.44:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinemax HD
+http://190.119.178.44:8000/play/a09o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Clover HD
+http://190.119.178.44:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Comedy Central HD
+http://190.119.178.44:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DHE HD
+http://190.119.178.44:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DIRECTV Liga 1 Max
+http://190.119.178.44:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DISCOVERY ID
+http://190.119.178.44:8000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DISCOVERY TURBO
+http://190.119.178.44:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Channel HD
+http://190.119.178.44:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery H&H HD
+http://190.119.178.44:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery HD
+http://190.119.178.44:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Kids HD
+http://190.119.178.44:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Theater HD
+http://190.119.178.44:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery World HD
+http://190.119.178.44:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney HD
+http://190.119.178.44:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney JR
+http://190.119.178.44:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",E! Entertairment HD
+http://190.119.178.44:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",E! HD
+http://190.119.178.44:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN +
+http://190.119.178.44:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 2 HD
+http://190.119.178.44:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 3 HD
+http://190.119.178.44:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 4 HD
+http://190.119.178.44:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN EXTRA HD
+http://190.119.178.44:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN HD
+http://190.119.178.44:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",EXITOSA TV
+http://190.119.178.44:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",El Gourmet HD
+http://190.119.178.44:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ElCanaldelFutbol HD
+http://190.119.178.44:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Sports 2 HD
+http://190.119.178.44:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FUTV HD CR
+http://190.119.178.44:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FX HD
+http://190.119.178.44:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Film & arts HD
+http://190.119.178.44:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Food Network HD
+http://190.119.178.44:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Sports 1 HD
+http://190.119.178.44:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Sports 3 HD
+http://190.119.178.44:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GOLPERU HD
+http://190.119.178.44:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GolTV HD
+http://190.119.178.44:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden Premiere 2 HD
+http://190.119.178.44:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden TRANSCODING
+http://190.119.178.44:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO 2 HD
+http://190.119.178.44:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO Family HD
+http://190.119.178.44:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO HD
+http://190.119.178.44:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO POP HD
+http://190.119.178.44:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO XTREME HD
+http://190.119.178.44:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HOLA TV HD
+http://190.119.178.44:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HOME GARDEN LATINO
+http://190.119.178.44:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History 2 HD
+http://190.119.178.44:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History Channel HD
+http://190.119.178.44:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ID HD
+http://190.119.178.44:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Kanal D Drama HD
+http://190.119.178.44:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",La Red HD
+http://190.119.178.44:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",La Tele Colombia HD
+http://190.119.178.44:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Las Estrellas HD
+http://190.119.178.44:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Latina HD
+http://190.119.178.44:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Lolly Kids HD
+http://190.119.178.44:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Love Nature HD
+http://190.119.178.44:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MEGA HD
+http://190.119.178.44:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MONITOR TV 
+http://190.119.178.44:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV 80s
+http://190.119.178.44:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV HD
+http://190.119.178.44:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV HITS
+http://190.119.178.44:8000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV LIVE HD
+http://190.119.178.44:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Multipremier
+http://190.119.178.44:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",NTV
+http://190.119.178.44:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nat Geo HD
+http://190.119.178.44:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick Jr
+http://190.119.178.44:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick SIM HD
+http://190.119.178.44:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nickelodeon HD
+http://190.119.178.44:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Panamericana
+http://190.119.178.44:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Paramount HD
+http://190.119.178.44:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Pasiones HD
+http://190.119.178.44:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Playboy HD
+http://190.119.178.44:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN HD
+http://190.119.178.44:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RED GLOBAL
+http://190.119.178.44:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RPP
+http://190.119.178.44:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SEMILLITAS
+http://190.119.178.44:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SOL TV HD
+http://190.119.178.44:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",STAR CHANNEL HD
+http://190.119.178.44:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",STAR TVE HD
+http://190.119.178.44:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Setxreme
+http://190.119.178.44:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sony HD
+http://190.119.178.44:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Space HD
+http://190.119.178.44:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Stingray Concerts HD
+http://190.119.178.44:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Studio Universal HD
+http://190.119.178.44:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sun Channel HD
+http://190.119.178.44:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SyFy
+http://190.119.178.44:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TAURUS TV
+http://190.119.178.44:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TCM
+http://190.119.178.44:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TLC
+http://190.119.178.44:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT HD
+http://190.119.178.44:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT SPORTS HD
+http://190.119.178.44:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT Series HD
+http://190.119.178.44:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TRUTV HD
+http://190.119.178.44:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TURBOMIX CAJAMARCA
+http://190.119.178.44:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TV PERU
+http://190.119.178.44:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TV+ HD
+http://190.119.178.44:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TVN HD
+http://190.119.178.44:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Teen Nick HD
+http://190.119.178.44:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telehit HD
+http://190.119.178.44:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telemundo HD
+http://190.119.178.44:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telenovelas
+http://190.119.178.44:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Tigo Sports HD
+http://190.119.178.44:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Travelxp HD
+http://190.119.178.44:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TyC Sports HD
+http://190.119.178.44:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL CHANNEL HD
+http://190.119.178.44:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL COMEDY HD
+http://190.119.178.44:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL CRIME HD
+http://190.119.178.44:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL PREMIERE HD
+http://190.119.178.44:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL REALITY HD
+http://190.119.178.44:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Univision HD
+http://190.119.178.44:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",VISION TV 
+http://190.119.178.44:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Venus
+http://190.119.178.44:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",WARNER HD
+http://190.119.178.44:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",WILLAX
+http://190.119.178.44:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Warner Channel HD
+http://190.119.178.44:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Win Sports+ HD
+http://190.119.178.44:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ZOO MOO
+http://190.119.178.44:8000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AE Mundo
 http://45.65.137.206:8000/play/a0gd/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Animal Planet
@@ -6066,6 +6421,354 @@ http://45.65.137.206:8000/play/a0gf/index.m3u8
 http://45.65.137.206:8000/play/a0g7/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Zona Latina
 http://45.65.137.206:8000/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",A&E HD
+http://177.53.153.20:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AMC HD
+http://177.53.153.20:8001/play/a039/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ANTENA3 DIGITA Y ANALOGICO 
+http://177.53.153.20:8001/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ATRES SERIES HD
+http://177.53.153.20:8001/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ATV
+http://177.53.153.20:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ATV SUR 
+http://177.53.153.20:8001/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AXN HD
+http://177.53.153.20:8001/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AZ Cinema HD
+http://177.53.153.20:8001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AZ click HD
+http://177.53.153.20:8001/play/a091/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Adult Swim
+http://177.53.153.20:8001/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",America TV HD
+http://177.53.153.20:8001/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Animal Planet HD
+http://177.53.153.20:8001/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Antena 3 Chile
+http://177.53.153.20:8001/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Az Corazon
+http://177.53.153.20:8001/play/a05n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Azmundo
+http://177.53.153.20:8001/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",BBC News
+http://177.53.153.20:8001/play/a060/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Baby First
+http://177.53.153.20:8001/play/a078/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Baby TV
+http://177.53.153.20:8001/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Bethel TV
+http://177.53.153.20:8001/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CDO Premium
+http://177.53.153.20:8001/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CHV HD
+http://177.53.153.20:8001/play/a027/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CINECANAL HD
+http://177.53.153.20:8001/play/a08n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNN Chile HD
+http://177.53.153.20:8001/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNN Internacional
+http://177.53.153.20:8001/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNNE
+http://177.53.153.20:8001/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CREOTV HD
+http://177.53.153.20:8001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CUBAVISION
+http://177.53.153.20:8001/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 13 HD
+http://177.53.153.20:8001/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal N
+http://177.53.153.20:8001/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Caracol HD
+http://177.53.153.20:8001/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cartoon Network HD
+http://177.53.153.20:8001/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cartoonito
+http://177.53.153.20:8001/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cine Latino
+http://177.53.153.20:8001/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinemax HD
+http://177.53.153.20:8001/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Clover HD
+http://177.53.153.20:8001/play/a020/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Comedy Central HD
+http://177.53.153.20:8001/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DHE HD
+http://177.53.153.20:8001/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DIRECTV Liga 1 Max
+http://177.53.153.20:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DISC THEATHER HD
+http://177.53.153.20:8001/play/a097/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Channel HD
+http://177.53.153.20:8001/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery H&H HD
+http://177.53.153.20:8001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery HD
+http://177.53.153.20:8001/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery ID HD
+http://177.53.153.20:8001/play/a0av/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Kids HD
+http://177.53.153.20:8001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Science
+http://177.53.153.20:8001/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Theater HD
+http://177.53.153.20:8001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Turbo
+http://177.53.153.20:8001/play/a09y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery World HD
+http://177.53.153.20:8001/play/a037/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney
+http://177.53.153.20:8001/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney JR
+http://177.53.153.20:8001/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",E! Entertairment HD
+http://177.53.153.20:8001/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",E! HD
+http://177.53.153.20:8001/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN  +
+http://177.53.153.20:8001/play/a065/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 2 HD
+http://177.53.153.20:8001/play/a021/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 3 HD
+http://177.53.153.20:8001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 4 HD
+http://177.53.153.20:8001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN EXTRA HD
+http://177.53.153.20:8001/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN HD
+http://177.53.153.20:8001/play/a025/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",EWTN USA
+http://177.53.153.20:8001/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",EXITOSA TV
+http://177.53.153.20:8001/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",El Gourmet HD
+http://177.53.153.20:8001/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ElCanaldelFutbol HD
+http://177.53.153.20:8001/play/a040/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Europa HD
+http://177.53.153.20:8001/play/a08y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Exa TV
+http://177.53.153.20:8001/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Sports 2 HD
+http://177.53.153.20:8001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FUTV CR
+http://177.53.153.20:8001/play/a09j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FX HD
+http://177.53.153.20:8001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Film & arts HD
+http://177.53.153.20:8001/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Food Network HD
+http://177.53.153.20:8001/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Sports 1 HD
+http://177.53.153.20:8001/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Sports 3 HD
+http://177.53.153.20:8001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GOLDEN TRANSCODIN 
+http://177.53.153.20:8001/play/a0br/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GOLPERU HD
+http://177.53.153.20:8001/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GolTV HD
+http://177.53.153.20:8001/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden HD
+http://177.53.153.20:8001/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden Premiere 2 HD
+http://177.53.153.20:8001/play/a054/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden Premiere HD
+http://177.53.153.20:8001/play/a053/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golf Channel HD
+http://177.53.153.20:8001/play/a06m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO 2 HD
+http://177.53.153.20:8001/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO Family HD
+http://177.53.153.20:8001/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO HD
+http://177.53.153.20:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO POP HD
+http://177.53.153.20:8001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO XTREME HD
+http://177.53.153.20:8001/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HOLA TV HD
+http://177.53.153.20:8001/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History 2 HD
+http://177.53.153.20:8001/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History Channel HD
+http://177.53.153.20:8001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History HD
+http://177.53.153.20:8001/play/a064/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Home & Health HD
+http://177.53.153.20:8001/play/a098/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Home Garden Latino
+http://177.53.153.20:8001/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ID HD
+http://177.53.153.20:8001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Kanal D Drama HD
+http://177.53.153.20:8001/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",La Red HD
+http://177.53.153.20:8001/play/a024/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",La Tele Colombia HD
+http://177.53.153.20:8001/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Las Estrellas HD
+http://177.53.153.20:8001/play/a0by/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Latin America Sport
+http://177.53.153.20:8001/play/a07i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Latina HD
+http://177.53.153.20:8001/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Lolly Kids HD
+http://177.53.153.20:8001/play/a042/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Love Nature HD
+http://177.53.153.20:8001/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Love Nature HD TRANSCODING 
+http://177.53.153.20:8001/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MEGA HD
+http://177.53.153.20:8001/play/a035/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MONITOR TV 
+http://177.53.153.20:8001/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV 00s HD
+http://177.53.153.20:8001/play/a09c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV 80s
+http://177.53.153.20:8001/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV HD
+http://177.53.153.20:8001/play/a049/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV Hits
+http://177.53.153.20:8001/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV LIVE HD
+http://177.53.153.20:8001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV SIM HD
+http://177.53.153.20:8001/play/a09b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Mas Chic
+http://177.53.153.20:8001/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Movistar Deportes HD
+http://177.53.153.20:8001/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Multicinema
+http://177.53.153.20:8001/play/a07o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Multipremier
+http://177.53.153.20:8001/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",NTV
+http://177.53.153.20:8001/play/a033/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nat Geo HD
+http://177.53.153.20:8001/play/a036/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",National Geographic
+http://177.53.153.20:8001/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick HD
+http://177.53.153.20:8001/play/a023/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick Jr
+http://177.53.153.20:8001/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick SIM HD
+http://177.53.153.20:8001/play/a095/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nickelodeon
+http://177.53.153.20:8001/play/a09v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Panamericana
+http://177.53.153.20:8001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Paramount HD
+http://177.53.153.20:8001/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Pasiones HD
+http://177.53.153.20:8001/play/a0at/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Playboy HD
+http://177.53.153.20:8001/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN HD
+http://177.53.153.20:8001/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN Novelas
+http://177.53.153.20:8001/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN Novelas
+http://177.53.153.20:8001/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RED GLOBAL
+http://177.53.153.20:8001/play/a010/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RPP
+http://177.53.153.20:8001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SEMILLITAS
+http://177.53.153.20:8001/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SOL TV HD
+http://177.53.153.20:8001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",STAR CHANNEL HD
+http://177.53.153.20:8001/play/a022/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",STAR TVE HD
+http://177.53.153.20:8001/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sextreme
+http://177.53.153.20:8001/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sony HD
+http://177.53.153.20:8001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sony Movies HD
+http://177.53.153.20:8001/play/a06i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Space HD
+http://177.53.153.20:8001/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Stingray Concerts HD
+http://177.53.153.20:8001/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Studio Universal HD
+http://177.53.153.20:8001/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sun Channel HD
+http://177.53.153.20:8001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SyFy
+http://177.53.153.20:8001/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TAURUS TV
+http://177.53.153.20:8001/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TCM
+http://177.53.153.20:8001/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TD+2 HD CR
+http://177.53.153.20:8001/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TELESUR
+http://177.53.153.20:8001/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TLC
+http://177.53.153.20:8001/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT HD
+http://177.53.153.20:8001/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT SPORTS HD
+http://177.53.153.20:8001/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT Series HD
+http://177.53.153.20:8001/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TRUTV HD
+http://177.53.153.20:8001/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TURBOMIX CAJAMARCA
+http://177.53.153.20:8001/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TV PERU
+http://177.53.153.20:8001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TV+ HD
+http://177.53.153.20:8001/play/a034/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TVChile
+http://177.53.153.20:8001/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TVN HD
+http://177.53.153.20:8001/play/a026/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Teen Nick HD
+http://177.53.153.20:8001/play/a068/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telehit HD
+http://177.53.153.20:8001/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telemundo HD
+http://177.53.153.20:8001/play/a06f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telenovelas
+http://177.53.153.20:8001/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Tigo Sports HD
+http://177.53.153.20:8001/play/a094/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Tooncast
+http://177.53.153.20:8001/play/a085/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Travelxp HD
+http://177.53.153.20:8001/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TyC Sports HD
+http://177.53.153.20:8001/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL CHANNEL HD
+http://177.53.153.20:8001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL CINEMA ESTE HD
+http://177.53.153.20:8001/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL COMEDY HD
+http://177.53.153.20:8001/play/a09h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL CRIME HD
+http://177.53.153.20:8001/play/a09g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL REALITY HD
+http://177.53.153.20:8001/play/a09f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Univision HD
+http://177.53.153.20:8001/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",VISION TV 
+http://177.53.153.20:8001/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Venus
+http://177.53.153.20:8001/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",WARNER HD
+http://177.53.153.20:8001/play/a08l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",WILLAX
+http://177.53.153.20:8001/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Warner Channel HD
+http://177.53.153.20:8001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Win Sports+ HD
+http://177.53.153.20:8001/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ZooMoo
+http://177.53.153.20:8001/play/a04l/index.m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1000x1000w.jpg",USA
 http://38.96.178.201:80/live/USA/index.m3u8
