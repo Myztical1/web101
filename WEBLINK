@@ -4053,9 +4053,9 @@ https://is.gd/UDrVHo
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
 http://tinyurl.com/hmjc32hy
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
-https://is.gd/eQBQub
+http://primestreams.tv:826/live/eutvlt565/459526320547/114259.ts
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
-https://is.gd/gPGtQc
+http://206.212.244.26:8080/live/KmMfYWq8Z8/4909319107/25068.ts
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-western-logo.jpg",PinkWestern
 https://is.gd/r7kcfS
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png",CALA WESTERN
@@ -4758,7 +4758,7 @@ https://is.gd/4UKRmA
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
 https://is.gd/XNNxUM
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD
-https://is.gd/LLxehg
+http://206.212.244.26:8080/live/KmMfYWq8Z8/4909319107/22501.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://t20slam.com/wp-content/uploads/2021/07/willow-tv-live-stream-world-2021-800x450.jpg",Willow Cricket HD
 https://is.gd/OxiiEJ
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://our.today/wp-content/uploads/2021/06/SportsMax.jpg",SPORTSMAX 1
@@ -5069,48 +5069,6 @@ http://89.187.167.93:80/hls/157.m3u8?channelId=157&deviceUser=jeff1&devicePass=j
 http://89.187.167.93:80/live.ts?channelId=158&deviceUser=jeff1&devicePass=jeff1&uid=11123
 #EXTINF:-1" tvg-logo="https://png.pngitem.com/pimgs/s/537-5372644_bt-sport-logo-vector-hd-png-download.png",TNT SPORTS 4
 http://89.187.167.93:80/hls/159.m3u8?channelId=159&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",Supersport Rugby
-http://89.187.167.93:80/live.ts?channelId=506&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",Supersport Motorsport HD
-http://89.187.167.93:80/live.ts?channelId=507&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Grandstand
-http://89.187.167.93:80/live.ts?channelId=508&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT PSL
-http://89.187.167.93:80/live.ts?channelId=509&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Premier league
-http://89.187.167.93:80/live.ts?channelId=510&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT LaLiga
-http://89.187.167.93:80/live.ts?channelId=511&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Football
-http://89.187.167.93:80/live.ts?channelId=512&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Variety 1
-http://89.187.167.93:80/live.ts?channelId=513&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Variety 2
-http://89.187.167.93:80/live.ts?channelId=514&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Blitz
-http://89.187.167.93:80/live.ts?channelId=515&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Variety 4
-http://89.187.167.93:80/live.ts?channelId=516&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Variety 3
-http://89.187.167.93:80/live.ts?channelId=517&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Action
-http://89.187.167.93:80/live.ts?channelId=518&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Cricket
-http://89.187.167.93:80/live.ts?channelId=519&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SUPERSPORT Tennis
-http://89.187.167.93:80/live.ts?channelId=878&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",Astro SuperSport 1 HD
-http://89.187.167.93:80/live.ts?channelId=520&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",Astro SuperSport 2 HD
-http://89.187.167.93:80/live.ts?channelId=521&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",Astro SuperSport 3 HD
-http://89.187.167.93:80/live.ts?channelId=522&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",Astro SuperSport 4 HD
-http://89.187.167.93:80/live.ts?channelId=523&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SuperSport golf
-http://89.187.167.93:80/live.ts?channelId=880&deviceUser=jeff1&devicePass=jeff1&uid=11123
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-ZKeHbVRucfA/UwSY4QDO4VI/AAAAAAAAA0o/ne-R6EjaBN8/s1600/Astro1.jpg",SuperSport Maximo
-http://89.187.167.93:80/live.ts?channelId=879&deviceUser=jeff1&devicePass=jeff1&uid=11123
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CBS_Sports_Network_2016.png/250px-CBS_Sports_Network_2016.png",CBS SPORTS NETWORK
 http://45.141.156.56:8080/marie/marie/219076
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/51/USBA300039YG_20210525T051538.png",EDGE SPORT
