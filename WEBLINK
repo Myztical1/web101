@@ -1,5 +1,4 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT
 http://tinyurl.com/2s49x5jt
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
@@ -19,19 +18,19 @@ http://tinyurl.com/7nt85p83
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 http://tinyurl.com/mr446kwm
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-http://sinotvpro.com:8080/aT1zED1ucy/6bzRGC3mX7/21037
+http://tinyurl.com/2n8span3
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 http://tinyurl.com/yem5zrzj
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 http://tinyurl.com/3zfvjumm
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-http://tinyurl.com/yssvpyfn
+http://tinyurl.com/2varnuxx
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 http://tinyurl.com/2e72m3kn
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 http://tinyurl.com/2s4zpcdv
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-http://sinotvpro.com:8080/aT1zED1ucy/6bzRGC3mX7/21006
+http://tinyurl.com/5du3urdt
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",SYNERGY TV
 http://tinyurl.com/3jw4u97u
@@ -1092,7 +1091,7 @@ http://tinyurl.com/27fynz6t
 http://tinyurl.com/3hk4addn
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.ibb.co/n3Jd1p3/image.png",ZEE BOLLYWOOD
 http://tinyurl.com/mrc2d795
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/09/16/star.jpg",STAR PLUS
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/09/16/star.jpg",STAR PLUS
 http://tinyurl.com/bdyt2wdc
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",BOLLYWOOD MOVIE # 1
 http://tinyurl.com/z9bzdzkm/223668.ts
@@ -1531,6 +1530,10 @@ http://tinyurl.com/5cy5jjrs
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",CGTV
 http://tinyurl.com/542shcxy
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81e3+kOXG5L.png",DAYSTAR
+http://tinyurl.com/yaawz9yp
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.pinimg.com/originals/3c/e3/c8/3ce3c824928923014ef9aa83caefaaad.jpg",HILLSONG
+http://tinyurl.com/yk8tcawt
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
 http://tinyurl.com/3syxua6f
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN PRAISE
@@ -4696,6 +4699,8 @@ http://89.187.167.92:80/live.ts?channelId=54&deviceUser=lionel&devicePass=lionel
 http://89.187.167.94:80/live.ts?channelId=55&deviceUser=lionel&devicePass=lionel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoverychannel.uk.png",Discovery
 http://89.187.167.92:80/live.ts?channelId=56&deviceUser=lionel&devicePass=lionel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-INUZbyhghTA/T-YI3CY_KQI/AAAAAAAAUNk/WDNXnnq3-XU/w1200-h630-p-k-no-nu/h&h-hd.png",Discovery H&H
+http://tinyurl.com/4khyewh7
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryturbo.uk.png",Discovery Turbo
 http://89.187.167.94:80/live.ts?channelId=57&deviceUser=lionel&devicePass=lionel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryhistory.uk.png",Discovery History
