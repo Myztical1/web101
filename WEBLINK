@@ -1093,13 +1093,13 @@ http://tinyurl.com/3hk4addn
 http://tinyurl.com/mrc2d795
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/09/16/star.jpg",STAR PLUS
 http://tinyurl.com/bdyt2wdc
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
 http://195.26.87.217/live.ts?channelId=86150&uid=7214&deviceMac=00:1A:79:15:D7:0C
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png",BBO HD
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png",BBO HD
 http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:15:D7:0C
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood Classic
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood Classic
 http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:15:D7:0C
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
 http://195.26.87.217/live.ts?channelId=123915&uid=7214&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://pbs.twimg.com/profile_images/916908145/LOGO02_png_400x400.PNG",BOLLYWOOD MOVIE # 1
 http://tinyurl.com/z9bzdzkm/223668.ts
