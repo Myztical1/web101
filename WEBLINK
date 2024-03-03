@@ -1908,6 +1908,14 @@ http://tinyurl.com/54wwm5wd
 http://tinyurl.com/3sev74pb
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://tinyurl.com/2dw87c35
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME
+https://is.gd/9xTLqr
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",SHOWTIME 2
+https://is.gd/5DJFZ7
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_family.png",Starz Encore Family
+https://is.gd/X9Q4Cj
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",REEL TV
+https://is.gd/6IBjjV
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET
 http://tinyurl.com/2zt3bd5b
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",BET HER
@@ -3520,259 +3528,260 @@ https://tinyurl.com/5b5k7znt/2766897.ts
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="",UK: Now 70s
 https://tinyurl.com/5b5k7znt/2207518.ts
 
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png",A&E
+
+#EXTINF:-1 group-title="Canada" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png",A&E
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy533goJHLUbTL5HW4pX4Hyg
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png",ABC SPARK
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png",ABC SPARK
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4v54cB51a_BOB2WiwZpsTw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2016.png",AMC
+#EXTINF:-1 group-title="Canada" tvg-logo="https://logos-world.net/wp-content/uploads/2021/12/AMC-Logo-2016.png",AMC
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy3MHX-Poo-rCJFLnZbZIeDA
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://cdn.mos.cms.futurecdn.net/6DGa3q8wsZgWAi8sRz5ute.jpg",ADULT SWIM
+#EXTINF:-1 group-title="Canada" tvg-logo="https://cdn.mos.cms.futurecdn.net/6DGa3q8wsZgWAi8sRz5ute.jpg",ADULT SWIM
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8adm5-HwUXSLyBAXFTbKUw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
+#EXTINF:-1 group-title="Canada" tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzhKBK_je12vIEKx_kVt_rw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/f/fb/APTN_Colour-300x300.jpg",APTN
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/APTN_Colour-300x300.jpg",APTN
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyyvsJ87QKS3VnaApTdocJ_g
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://play-lh.googleusercontent.com/j9XWpsfHjhcgNGf-US_wBYeSz2xmKcfRIJOuig0MhcP4i5rqL_waCgLyL4dWHw_MUA",BNN Bloomberg
+#EXTINF:-1 group-title="Canada" tvg-logo="https://play-lh.googleusercontent.com/j9XWpsfHjhcgNGf-US_wBYeSz2xmKcfRIJOuig0MhcP4i5rqL_waCgLyL4dWHw_MUA",BNN Bloomberg
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyyg9DtcVwi0Dm08BFRL0ksU
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/BBC%20EARTH.png",BBC EARTH
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/BBC%20EARTH.png",BBC EARTH
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7dw-VDwjYjW1sIz19c8-aM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cartoon%20net.png",CARTOON NETWORK
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cartoon%20net.png",CARTOON NETWORK
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7xO93W2R_EH46PVHfeJ6l0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC NEWS
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC NEWS
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5okCxyiYymBxm5MUwdBIH0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC REGINA
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC REGINA
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4q0aTzb10hDAvciFswS9lE
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC CALGARY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC CALGARY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyw11iepIPftXuaVC6dq9o54
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC Charlottetown
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC Charlottetown
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyy-LNvq0XO1TE6Ki11A5xT0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC Fredericton
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC Fredericton
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy24QGz8c2JRj7iefpGn263U
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC Halifax
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC Halifax
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4u5edU6XUciNjXzTRQxQzs
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC MONTREAL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC MONTREAL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyx3R7tK6TlhvAhV95HF0CxM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC OTTAWA
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC OTTAWA
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzcVLi60O_IutG7NPRnvpv0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC TORONTO
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC TORONTO
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_-QcMI9VuCY8Imv_UbHUJI
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC ST. JOHNS
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC ST. JOHNS
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_MBThwvlyADKs3P7ao3UC0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC VANCOUVER
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC VANCOUVER
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4ZSzn1ySC9C_-iYP-TwS6w
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC WINDSOR
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC WINDSOR
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_GQtL4nAsgetceY8qPLBLk
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cbc.png",CBC WINNIPEG
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cbc.png",CBC WINNIPEG
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy2lBOcCsMdabh8tE8C5a0Gg
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/chch.png",CHCH
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/chch.png",CHCH
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy68OK4wa_tVfiDafpuIYFhE
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cmt.png",CMT
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cmt.png",CMT
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy9Jpiw5uftTcp05XHvvGhYs
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cnn.png",CNN
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cnn.png",CNN
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy2bR2AJROucjFl8_8RuEWrw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cnn%20internation.png",CNN INTERNATIONAL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cnn%20internation.png",CNN INTERNATIONAL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8PmnIY_imiov4cYN1aWrkw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cooking%20channel.png",COOKING CHANNEL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cooking%20channel.png",COOKING CHANNEL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7JXA6we-3ft4JlwxnILjKY
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cottage%20life.png",COTTAGE LIFE
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cottage%20life.png",COTTAGE LIFE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0k8VHoK292VtIyXxtfB4zU
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cp24.png",CP 24
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cp24.png",CP 24
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy6lRRUyrUx7bFPOYY5FcPyc
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/cpac.png",CPAC
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/cpac.png",CPAC
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy1HfkzMonl_YWR0yCad1ltI
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 1
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 1
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0HbFzQY3t0IHVLoc6aEY_M
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 2
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 2
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy87Wpzdhu9PCLdv2KnIFNWo
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 3
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 3
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzHwiRVZo97dMYuO16ERmxU
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 4
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crave%20tv.png",CRAVE 4
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0_2rjMmuR2nvZv9yppU8Mc
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/crime%20and%20invest.png",CRIME & INVESTIGATION
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/crime%20and%20invest.png",CRIME & INVESTIGATION
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8KhGY5AY_v6i9gxUL1Wr6I
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/ctv%20comedy.png",CTV COMEDY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/ctv%20comedy.png",CTV COMEDY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyxaOPODBjnS4iIgHkO6GMXE
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV DRAMA
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV DRAMA
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_oDqiXKBjoY6PWHxUxj9os
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV2 Atlantic
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV2 Atlantic
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0Vto6PSfe7kM7bu6PWmlH4
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV2 Alberta
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV2 Alberta
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy2oESFUfjtM--cenpsBWcrg
-#EXTINF:-1 group-title="Canada" tvg-logo=""ttps://technetnetwork.com/logos/canada/ctv%202.png",CTV 2 BARRIE
+#EXTINF:-1 group-title="Canada" tvg-logo="ttps://technetnetwork.com/logos/canada/ctv%202.png",CTV 2 BARRIE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_e6C3BtQeSUxzCu5EtyzYk
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV CALGARY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV CALGARY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4gD3nr3bEPxtUnVU-GXY_8
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV Edmonton
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV Edmonton
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy1i4mrFe8xeqC-AOFDELqbs
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV Halifax
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV Halifax
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5CnxCzxcY3MfSPeYxEOJ4U
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV KITCHENER
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV KITCHENER
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_MjHCzA1pmkFYtknx0AeAM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/CTV.png",CTV LIFE
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/CTV.png",CTV LIFE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzW3uqWkJv15bQTkqsMrXiQ
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV 2 LONDON
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV 2 LONDON
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyyDafqb1nma0K7FR6rWhs9M
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV2 OTTAWA
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV2 OTTAWA
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy94Gj63BPO5O3Z3TAIiolSs
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV Moncton
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV Moncton
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5XVOvedLTz3KdMtZTyY--0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV MONTREAL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV MONTREAL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4IRPPEsXSOS0Q4pIQgTSA4
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV OTTAWA
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV OTTAWA
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy52bVxGqDmM599XF_EDkWig
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV TORONTO
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV TORONTO
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyxm60UzLi8VMkc-4l5I6Lkk
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV Timmins
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV Timmins
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_40lEKvDvmFg6VD4kxy8JI
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV WINNIPEG
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV WINNIPEG
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy1aLVag_G4DKo_i8Tne1fcw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV2 Windsor
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV2 Windsor
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzRjaBgoZsINcT5n_yC2eRA
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV VANCOUVER
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV VANCOUVER
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0Ms52wmkzFTkxTofSqSiDM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV 2 VANCOUVER
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/2560px-CTV_2_2018.svg.png",CTV 2 VANCOUVER
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8bgdXci_kCTS4gS8X0w8U8
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV NEWS CHANNEL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV NEWS CHANNEL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_Bgt1oSwykzAMFaLVJLOVs
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV SCI FI
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png",CTV SCI FI
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4pNZzMBNdllqxzk14fgcvM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/day%20star.png",DAYSTAR TV
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/day%20star.png",DAYSTAR TV
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyw1Peq2C4pFFQWZRL0jboBo
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/dejaview.png",DEJAVIEW
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/dejaview.png",DEJAVIEW
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy-TZPRz9RQIKcrgGAttAKL8
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/discovery%20hd.png",DISCOVERY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/discovery%20hd.png",DISCOVERY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy-C6pXaPC3dwLr2oJVfRvr0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/discovery%20sci.png",DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/discovery%20sci.png",DISCOVERY SCIENCE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy1vk-vbBoBCp3-IP63EeSXg
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/disney%20jr.png",DISNEY JR
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/disney%20jr.png",DISNEY JR
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5Q-2qEhWAGXBjjFqEhhoiw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/disney%20dx.png",DISNEY XD
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/disney%20dx.png",DISNEY XD
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy2x4mjgLyeUyNKH-ImIBELk
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://1000logos.net/wp-content/uploads/2022/01/magnolia-network-logo.jpg",MAGNOLIA NETWORK
+#EXTINF:-1 group-title="Canada" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/magnolia-network-logo.jpg",MAGNOLIA NETWORK
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4cwsoTs788wMU7_QyA1dgg
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/dtour.png",DTOUR
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/dtour.png",DTOUR
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4YzYrSqY4k2NX9j2RxkGWw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/E%21.png",E!
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/E%21.png",E!
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy11WqjRIVuLX7jb2EBIJN2Y
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/familt%20chrgd.png",FAMILY CHRGD
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/familt%20chrgd.png",FAMILY CHRGD
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7oSPaoieRw-aDkN5LEA7N4
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/FAMILY.png",FAMILY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/FAMILY.png",FAMILY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzs29o-z-2VLiwsy2t4SKkQ
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/FAMILY%20JR.png",FAMILY JUNIOR
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/FAMILY%20JR.png",FAMILY JUNIOR
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4Tdoe0fAHhiC4Hd-Al0WJw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/8/82/Food_Network_Canada_%282013%29_Logo.png",FOOD NETWORK
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Food_Network_Canada_%282013%29_Logo.png",FOOD NETWORK
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy6pHXHt5J4TOmKZCMyfj5Ok
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/fox%20news.png",FOX NEWS
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/fox%20news.png",FOX NEWS
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_tlcs_5qoh9xm51jZ3kZYI
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://payload.cargocollective.com/1/7/228035/3982779/BMally_FXCanada03_o.jpg",FX
+#EXTINF:-1 group-title="Canada" tvg-logo="https://payload.cargocollective.com/1/7/228035/3982779/BMally_FXCanada03_o.jpg",FX
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy3a5wk1Da-kLhWCc3hppUB4
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://pbs.twimg.com/profile_images/378800000564943584/6ccfcea7e2e6a383275e2cc72610ab6c_400x400.png",FXX
+#EXTINF:-1 group-title="Canada" tvg-logo="https://pbs.twimg.com/profile_images/378800000564943584/6ccfcea7e2e6a383275e2cc72610ab6c_400x400.png",FXX
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy9daZiRJAO2kB_2tLF6jhNI
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/game%20tv.png",Game TV
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/game%20tv.png",Game TV
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy9okrnY70GBjHd3IEqJMfmc
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/game%20show%20net.png",GAME SHOW NETWORK
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/game%20show%20net.png",GAME SHOW NETWORK
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5MV5n2kP6WmH8eWeR32juo
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL CALGARY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL CALGARY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy1iq8-pQbeADpVzDEduxNxM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL HALIFAX
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL HALIFAX
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyw4JUwN3sjHkFtojqlrLPFs
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5v_f7g_Wz8PzElmmiy2pKg
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL EDMONTON
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL EDMONTON
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy2JMCbA1S-m-L7I2JmoDs_g
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",Global Maritimes - Saint John
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",Global Maritimes - Saint John
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5TCd9uMx-GQ-9U7DPnZLZU
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL Winnipeg
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL Winnipeg
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy3K7DLh0cF_HyZykISLu4jc
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL TORONTO
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL TORONTO
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_OY2MujqtKyhbQbpqoc4dw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL VANCOUVER
+#EXTINF:-1 group-title="Canada" tvg-logo="https://assets.globaltv.com/wp-content/uploads/2021/04/RGB_GLOBAL_LOGO_WHITE_RED_MORTY.jpg",GLOBAL VANCOUVER
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyy9734VdiTGJ2blWUBquAUE
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/GOLF%20CHANNEL.png",GOLF CHANNEL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/GOLF%20CHANNEL.png",GOLF CHANNEL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy2fMp-encXRKfJYFumLyh2c
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/h2.png",H2
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/h2.png",H2
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7xI2aGkLpkLZCmvOQIDDYA
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/hbo%202%20hd.png",HBO 2
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/hbo%202%20hd.png",HBO 2
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7oulh-8NcmTdxuRcbaXDL8
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://logowik.com/content/uploads/images/t_hbo.jpg",HBO
+#EXTINF:-1 group-title="Canada" tvg-logo="https://logowik.com/content/uploads/images/t_hbo.jpg",HBO
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7CnIzYyPaek6lox-z8wEUM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/hgtv.png",HGTV
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/hgtv.png",HGTV
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy6TiBMK9IDCCQvwvtBAnZR8
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/the%20history%20channel.png",HISTORY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/the%20history%20channel.png",HISTORY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzAXVJbYDWkEjfWYazdnDi8
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/HLN_logo.svg/1188px-HLN_logo.svg.png",HLN
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/HLN_logo.svg/1188px-HLN_logo.svg.png",HLN
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7Yo3JCuLkVU7Uu76b1_3pk
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 00'S MOVIES
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 00'S MOVIES
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy45BwVKmHACF_FXwT22BQAA
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 70'S MOVIES
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 70'S MOVIES
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy34E5JiWtHYLWNA613XYeIQ
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 80'S MOVIES
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 80'S MOVIES
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_Qo70xUrUBpaBKl9k2lFfo
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 90'S MOVIES
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/HOLLYWOOD%20SUITS.png",HOLLYWOOD SUITE 90'S MOVIES
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0Fn4uHhNuexOcagrMnJ9Og
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8MHDmXuULWxHck3TMF3r-I
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://static.epg.best/ca/Fairchild.ca.png",Fairchild 2
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild 2
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4vyKMD3AvA57o-xdMCxGnI
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television W
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television W
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8GX0j0nlVfUKmdSdrHFvc0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television Mandarin
+#EXTINF:-1 group-title="Canada" tvg-logo="https://static.epg.best/ca/Fairchild.ca.png",Fairchild Television Mandarin
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0gBIEH-FI6eBr4SEJliZcY
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/ifc.png",IFC
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/ifc.png",IFC
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy9jP1mgS91ktDx8dRzqsbfQ
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/investigation%20dis.png",INVESTIGATION DISCOVERY
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/investigation%20dis.png",INVESTIGATION DISCOVERY
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5DIMOu0p2NrYOaiPJsvr88
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/lifetime%20hd.png",LIFETIME
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/lifetime%20hd.png",LIFETIME
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8FGRwTOEDtU398qFXK7xbo
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://tv.lovenature.com/wp-content/uploads/2023/03/Love-Nature-Logo.png",Love Nature
+#EXTINF:-1 group-title="Canada" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2023/03/Love-Nature-Logo.png",Love Nature
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy1PRXacryql1-InVot7gowk
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/makeful.png",MakeFul
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/makeful.png",MakeFul
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy9vfqbhTv9HqtTu7rvvo184
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/max%20tv.png",MAX
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/max%20tv.png",MAX
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy1hA6PUJ1e0lzhiX4kk9KXM
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/movie%20time.png",MOVIETIME
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/movie%20time.png",MOVIETIME
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy9vF7pNedp_42lPgFP7ZcBw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/mtv%202.png",MTV 2
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/mtv%202.png",MTV 2
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7k6jLsxVrR64nJ7ZQtbRA0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/MUCH.png",MUCH
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/MUCH.png",MUCH
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyxdXNba346B9FJfD8KkmRyo
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://download.logo.wine/logo/NBA_TV_Canada/NBA_TV_Canada-Logo.wine.png",NBA TV Canada
+#EXTINF:-1 group-title="Canada" tvg-logo="https://download.logo.wine/logo/NBA_TV_Canada/NBA_TV_Canada-Logo.wine.png",NBA TV Canada
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy8iSaUfmYY0rPOtRVPxWunc
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://cdn.shopify.com/s/files/1/0558/6413/1764/files/National_Geographic_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694106997",NAT GEO
+#EXTINF:-1 group-title="Canada" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/National_Geographic_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694106997",NAT GEO
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy_ogStgUE-o73Jwqf17ZnZw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/NAT%20GEO%20WILD.png",NAT GEO WILD
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/NAT%20GEO%20WILD.png",NAT GEO WILD
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy3YY3MHywyfuqZ720j4mi3A
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/NICK%20TOONS.png",NICKTOONS
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/NICK%20TOONS.png",NICKTOONS
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy57EMncVXwhdvQAqjRqioD4
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/ntv.png",NTV
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/ntv.png",NTV
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy9IHIYky6wSl1QBJ52COvqs
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/OLN.png",OLN
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/OLN.png",OLN
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0QclrwzrN7WHSZ4cfajWXA
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI 1
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI 1
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npywZDZoE4XmamLo3QY6O1EDQ
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI 2
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI 2
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy4wh19RnBcF3dYyR6D6i0xY
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI BC
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/OMNI%20TV.png",OMNI BC
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy6YS99wFQtq5C8v3aLqYXO4
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/one%20canada.png",ONE
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/one%20canada.png",ONE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy7L7B_54D-L3C7yJTGAh4P0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/PARAMOUNT.png",PARAMOUNT NETWORK
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/PARAMOUNT.png",PARAMOUNT NETWORK
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzfAZzPsDhth3z0k4fjqJZw
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/peach%20tree.png",PEACH TREE
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/peach%20tree.png",PEACH TREE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy2IX3hBtRGK5BdqSgISqNZY
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/prise%202.png",PRISE 2
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/prise%202.png",PRISE 2
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzZt9S5TGGyEAG0kz8Y08j0
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/silver%20screen.png",SILVER SCREEN CLASSICS
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/silver%20screen.png",SILVER SCREEN CLASSICS
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyzmXE-e9aB40bj60QHlkSfA
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/SLICE.png",SLICE
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SLICE.png",SLICE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5OmYxJKg-EV4FpvwFvZTkA
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/SMITHONION.png",SMITHSONIAN CHANNEL
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SMITHONION.png",SMITHSONIAN CHANNEL
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy0wBi4MfJAbdoa6DwDjVse8
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/SUPER%20CHANNEL%20FUSE.png",SUPER CHANNEL FUSE
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SUPER%20CHANNEL%20FUSE.png",SUPER CHANNEL FUSE
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy5W9cGtiImgOplotC_SO-vg
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/SUPER%20CCHANNEL%20HART%20AND%20HOME.png",SUPER CHANNEL HEART & HOME
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/SUPER%20CCHANNEL%20HART%20AND%20HOME.png",SUPER CHANNEL HEART & HOME
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npyz9soO_BzK8ShldI1a2lETI
-#EXTINF:-1 group-title="Canada" tvg-logo=""https://technetnetwork.com/logos/canada/super%20channel%20vault.png",Super Channel Vault
+#EXTINF:-1 group-title="Canada" tvg-logo="https://technetnetwork.com/logos/canada/super%20channel%20vault.png",Super Channel Vault
 https://livehivetv.net:443/play/acZRNhbGbgznRmAif9npy6OeGxW2mHrB7Bzu68bK-nw
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png",PBS_KIDS
@@ -4594,16 +4603,22 @@ http://tinyurl.com/2jwsk9uj
 http://tinyurl.com/yk24knjd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
 http://tinyurl.com/37wsefe3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD
-http://206.212.244.26:8080/live/KmMfYWq8Z8/4909319107/22501.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
+https://is.gd/Q6JsxU
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://our.today/wp-content/uploads/2021/06/SportsMax.jpg",SPORTSMAX 1
+https://is.gd/aFZXN6
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ub4n3p1577888924.png",SPORTSMAX 2
+https://is.gd/KUIAC4
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://t20slam.com/wp-content/uploads/2021/07/willow-tv-live-stream-world-2021-800x450.jpg",Willow Cricket HD
 http://tinyurl.com/3zh5kept
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://our.today/wp-content/uploads/2021/06/SportsMax.jpg",SPORTSMAX 1
-http://tinyurl.com/yuzby43e
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ub4n3p1577888924.png",SPORTSMAX 2
-http://tinyurl.com/28hz56d2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.anguilla/files/Rush_0.png",RUSH
 http://tinyurl.com/4ss8nhfy
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD Backup
+http://206.212.244.26:8080/live/KmMfYWq8Z8/4909319107/22501.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://our.today/wp-content/uploads/2021/06/SportsMax.jpg",SPORTSMAX 1 Backup
+http://tinyurl.com/yuzby43e
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ub4n3p1577888924.png",SPORTSMAX 2 Backup
+http://tinyurl.com/28hz56d2
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/474w/criclife/CRICLIVE1Y2021M/CRICLIVE1Y2021M-474x677-PST.jpg",STARZPLAY CricLife 1 (FHD)
 https://tinyurl.com/4vatkpct/122979.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/160w/criclife/CRICLIVE2Y2021M/CRICLIVE2Y2021M-474x677-PST.jpg",STARZPLAY CricLife 2 FHD
@@ -5547,138 +5562,94 @@ http://142.202.48.32:8080/play/iS6JZrVCtxM0zgFinFsl4oA4iYdwQHElWTOQgyBCMwcnNCoBM
 http://142.202.48.32:8080/play/iS6JZrVCtxM0zgFinFsl4oA4iYdwQHElWTOQgyBCMwdsIo1EiMZ4WBCPPcIkXt7_/ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png",Y2K
 http://142.202.48.32:8080/play/iS6JZrVCtxM0zgFinFsl4oA4iYdwQHElWTOQgyBCMwdvgMw1FV9eHsbgS7JLT2iD/ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ADULT ALTERNATIVE
-http://edge.bz:8080/jackson2/jackson2/106396
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ALTERNATIVE
-http://edge.bz:8080/jackson2/jackson2/58092
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY BILLBOARD
-http://edge.bz:8080/jackson2/jackson2/106424
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY CLASSIC MASTERS
-http://edge.bz:8080/jackson2/jackson2/106399
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY CLASSIC ROCK
-http://edge.bz:8080/jackson2/jackson2/58093
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY CLASSICA
-http://edge.bz:8080/jackson2/jackson2/45199
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY COUNTRY CLASSICS
-http://edge.bz:8080/jackson2/jackson2/106401
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY EASY LISTENING
-http://edge.bz:8080/jackson2/jackson2/106403
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY EXITOS DEL MOMENTO
-http://edge.bz:8080/jackson2/jackson2/58094
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY FLASHBACK 70'S
-http://edge.bz:8080/jackson2/jackson2/58095
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HIP HOP/R&B
-http://edge.bz:8080/jackson2/jackson2/58091
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HIT LIST
-http://edge.bz:8080/jackson2/jackson2/56090
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HOT COUNTRY
-http://edge.bz:8080/jackson2/jackson2/106409
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY HOT COUNTRY (USA)
-http://edge.bz:8080/jackson2/jackson2/56091
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY JUKEBOX OLDIES
-http://edge.bz:8080/jackson2/jackson2/106411
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY LOUD
-http://edge.bz:8080/jackson2/jackson2/42332
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY NATURE
-http://edge.bz:8080/jackson2/jackson2/106414
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY NATURESCAPE
-http://edge.bz:8080/jackson2/jackson2/42339
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY POP ADULT
-http://edge.bz:8080/jackson2/jackson2/56092
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY QELLO
-http://edge.bz:8080/jackson2/jackson2/42337
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY REMEMBER THE 80'S
-http://edge.bz:8080/jackson2/jackson2/58097
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY RETRO
-http://edge.bz:8080/jackson2/jackson2/42333
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY ROCK
-http://edge.bz:8080/jackson2/jackson2/106420
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY SMOOTH JAZZ
-http://edge.bz:8080/jackson2/jackson2/106423
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY THE BLUES
-http://edge.bz:8080/jackson2/jackson2/106425
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY THE CHILL LOUNGE
-http://edge.bz:8080/jackson2/jackson2/106426
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",STINGRAY THE SPA
-http://edge.bz:8080/jackson2/jackson2/106427
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC 80'S
-http://edge.bz:8080/jackson2/jackson2/11006
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC 90'S
-http://edge.bz:8080/jackson2/jackson2/1897
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ADULT ALTERNATIVE
-http://edge.bz:8080/jackson2/jackson2/50954
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ALTERNATIVE
-http://edge.bz:8080/jackson2/jackson2/177
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ARTISTS TO WATCH
-http://edge.bz:8080/jackson2/jackson2/11012
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC BRITS + HITS
-http://edge.bz:8080/jackson2/jackson2/1898
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC CHOICE MAX
-http://edge.bz:8080/jackson2/jackson2/1902
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC COUNTRY HITS
-http://edge.bz:8080/jackson2/jackson2/11022
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC DANCE EDM
-http://edge.bz:8080/jackson2/jackson2/178
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC DISNEY
-http://edge.bz:8080/jackson2/jackson2/50955
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC HIP HOP/R&B (USA)
-http://edge.bz:8080/jackson2/jackson2/179
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC HIT LIST
-http://edge.bz:8080/jackson2/jackson2/180
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC INDIE
-http://edge.bz:8080/jackson2/jackson2/1899
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC KIDZ BOP
-http://edge.bz:8080/jackson2/jackson2/1900
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC KIDZ ONLY!
-http://edge.bz:8080/jackson2/jackson2/1901
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC LADIES OF R&B
-http://edge.bz:8080/jackson2/jackson2/11025
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC LEARN & PLAY
-http://edge.bz:8080/jackson2/jackson2/50956
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC MEXICANA
-http://edge.bz:8080/jackson2/jackson2/182
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC POP & COUNTRY
-http://edge.bz:8080/jackson2/jackson2/183
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC POP HITS
-http://edge.bz:8080/jackson2/jackson2/184
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC POP LATINO
-http://edge.bz:8080/jackson2/jackson2/1905
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC R&B
-http://edge.bz:8080/jackson2/jackson2/1906
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC R&B SOUL
-http://edge.bz:8080/jackson2/jackson2/185
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC RAP
-http://edge.bz:8080/jackson2/jackson2/186
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC RAP 2K
-http://edge.bz:8080/jackson2/jackson2/187
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC ROCK
-http://edge.bz:8080/jackson2/jackson2/188
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC SOFT ROCK
-http://edge.bz:8080/jackson2/jackson2/11029
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TEEN BEATS
-http://edge.bz:8080/jackson2/jackson2/189
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC THROWBACK JAMZ
-http://edge.bz:8080/jackson2/jackson2/181
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TODAY'S COUNTRY
-http://edge.bz:8080/jackson2/jackson2/1908
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TODDLER TUNES
-http://edge.bz:8080/jackson2/jackson2/1909
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC TROPICALES
-http://edge.bz:8080/jackson2/jackson2/191
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC URBANA
-http://edge.bz:8080/jackson2/jackson2/1910
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC WONDERAMA
-http://edge.bz:8080/jackson2/jackson2/50960
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/musichoice.png",MUSIC Y2K
-http://edge.bz:8080/jackson2/jackson2/1911
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/tracebrazuca.png",TRACE BRAZUCA
-http://edge.bz:8080/jackson2/jackson2/132117
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/tracelatina.png",TRACE LATINA
-http://edge.bz:8080/jackson2/jackson2/132113
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/tracetoca.png",TRACE TOCA
-http://edge.bz:8080/jackson2/jackson2/132116
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/vevo.png",VEVO POP
-http://edge.bz:8080/jackson2/jackson2/125390
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Holidayscapes (1080p)
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray CMusic (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Holiday Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Soul Storm (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Today's KPOP (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Today's Latin Pop (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Urban Beat (1080p)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Today's K-Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray DJAZZ
+https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Qello Concerts by Stingray
+https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Smooth Jazz
+https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Classica
+https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Today's Latin Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Romance Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Easy Listening
+https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Flashback 70s
+https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Remember the 80s
+https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Nothin' But 90s
+https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Classic Rock
+https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Hot Country
+https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Greatest Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Spa
+https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray CMusic
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Naturescape
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Holidayscapes
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Soul Storm
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
 
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TELECINE ACTION
 http://64.31.40.14:14056/
@@ -5888,3 +5859,208 @@ http://tinyurl.com/4bjyu9cj/715
 http://tinyurl.com/4bjyu9cj/716
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Warner Channel HD
 http://tinyurl.com/4bjyu9cj/717
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ALF
+https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AsianCrush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bloody Disgusting TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Docurama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",El Rey Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elrey-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Farscape
+https://a8d3367c658948afb1901efdd9babe5b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_Farscape/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",GustoTV
+https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Johnny Carson TV
+https://amg00163-shoutfactory-johnnycarson-dmr-xydqu.amagi.tv/playlist/amg00163-shoutfactory-johnnycarson-dmr/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Lone Star
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Midnight Pulp
+https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Mystery Science Theater 3000 (MST3K)
+https://amg00163-shoutfactory-mst3k-dmr-gdk46.amagi.tv/playlist/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",QwestTV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",RealMadrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Retro Crush
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Scream Factory TV
+https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Shout Factory TV
+https://amg00163-shoutfactory-shoutfactory-dmr-maeqc.amagi.tv/playlist/amg00163-shoutfactory-shoutfactory-dmr/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Shout! Cult
+https://837dd61e3fed471fbbe33391a57920d4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ShoutCult/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",So...Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Bob Ross Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Bob Ross Channel Spanish
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Carol Burnett Show
+https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Country Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Elvis Presley Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elvis-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Tokushoutsu
+https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Univision East
+http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",USA Network
+http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Oxygen True Crime
+http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Tennis Channel
+http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Paramount Network
+http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Outdoor Channel
+http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NFL Network
+http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBA TV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",National Geographic
+http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MLB Network
+http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MeTV
+http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Lifetime
+http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ION Television
+http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",History Channel
+http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Hallmark Channel
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Grit
+http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBC Golf
+http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FXX
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX Sports 2
+http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX Sports 1
+http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX 26 Houston
+http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX Deportes
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BIG 10 Network
+http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",E!
+http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",CBS Sports Network
+http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bravo
+http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ACC Network
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ABC 12 San Antonio
+http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bloody Disgusting (1080p)
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Comedy Dynamics (1080p)
+https://comedydynamics-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Docurama (1080p)
+https://docurama-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Dove Channel (1080p)
+https://dovenow-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",So... Real (1080p)
+https://soreal-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Young Hollywood (720p)
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4aceTV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/N55LT0GGXOUT6SC3GJN7/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4AceTV Classic Hits
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VFEHH3ML20PMYQM0QEPB/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Boxing Spotlight
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/MFPMKUC1334WQWFRMWJS/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BritBash
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/B0N2RKNLPI90VOMKRWP5/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BViral
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BSPP9VVZ6Q13FY9VIMAJ/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",CarbonTV
+https://amg01570-carbontv-carbontvono-ono-hnsm8.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Comedy Classics
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7D8WMUS89AUJL8LS2FEM/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cookin' With Cutty
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/HK6BNXZNIQV2OE952NXO/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cowboy Classics
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JKOMXYIN5MJLO8CCY8PY/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Daily Flash
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/YPH2P0WNTGPF9F59UGKQ/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FightTVPlus
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ZXY8N7D0P26W4DNY1WHH/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FiredUp Network
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/YNTSHCEMZVA2YY9BW2Z8/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fitness Rewind by Collage Video
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/E5ZKRFOTGGMZMYXLCD92/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Food TV by Binge
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VXRZC2P7GTRKJSEK9TA0/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",GTR24H
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/W7408AQYRK1M2N1QCID1/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",History Film Channel
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Y9C44IJB757LLGCV72YA/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",IP FAMBA
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WEZC6GVF17GPC4D2T4Y9/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Iron Dragon TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/SBD0KWL6X3K3LHM0UJHQ/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Jour
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2N7S9ZRV4EQAJVLMISIH/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Kick Sports News
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2ERRPZTG6RYWL98BUO8Z/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Land of Floof
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/KU5WJ5PWG4IO7XT9UH0N/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Lifestyle by Binge
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TGHMDGWK71ARM14CUY4P/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MMA Futures
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VX0VZ8RN1Z6LOX4QG1OZ/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NewsNet
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/PI1QOXKLKW1ORTHXUZ5I/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Old West TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Y680WOKGZK0LH808PJB1/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Only Good TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/F8YTOTWFVMWGLTQBP7FG/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Paranormal HQ
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RX1RTG1LAUCGQTEDU05N/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Passion River TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/SN0XFHJ9GK44DXNRW549/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Skull Bound TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/83JW9CE1L3J234Z5J8BB/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SportsTVPlus
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/XSJFWT5YF4UTW38VBLGF/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TRACE Sport Stars
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Q6ZILPXDVMWLTQLVUCFZ/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Travel & Food TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/T420R0VX84F3KVTP12B2/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Turnpike Sports
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/G3A7XRHG3C3W17NX6RBT/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",United Fight Alliance
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8L421BQ0E926VLTDD4YE/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Urban Action Channel
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/0YRJL9FV095EDJ1JBBI6/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Wrestling Spotlight
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/FZYO537M5ZKAF4MJYX4J/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Xcorps
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TH9UEZK83FAAN5WF4O7A/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Yoga Fit
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/GDRQZYJ35R11FPW6F3FT/hls3/now_-1m_15s/m.m3u8
