@@ -1415,26 +1415,8 @@ http://195.26.87.217/live.ts?channelId=219&uid=7214&deviceMac=00:1A:79:00:20:D1
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png",Zoom TV
 http://195.26.87.217/live.ts?channelId=121&uid=7214&deviceMac=00:1A:79:00:20:D1
 
-#EXTINF:-1 group-title="AFRICA" tvg-logo="http://www.apbf.tv/img/abn.jpg",ABN
-http://tinyurl.com/3v2z37et
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://standard.gm/wp-content/uploads/2020/08/QTV.jpg",QTV
-http://tinyurl.com/4fehynej
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://oatsconsultancy.com/assets/images/mozo-tv-logo-510x510.png",MOZO TV
-http://tinyurl.com/3saptjza
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://africafeeds.com/wp-content/uploads/2019/03/prime.jpg",PRIME TV
-http://tinyurl.com/mcr58xua
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://i.pinimg.com/736x/51/d3/2a/51d32a52935d4897ba175907284f8334--folder-s.jpg",BORDER
-http://tinyurl.com/mb8zh4rp
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.jagobd.com/image/millenniumtvss.jpg",MILLENIUM
-http://tinyurl.com/bp96pw8y
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://pbs.twimg.com/profile_images/483632495632470017/xLIVsGg1.png",ZNBC2
-http://tinyurl.com/yk8jsbz4
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://1.bp.blogspot.com/-Yq9ZtaASPC0/UthQqNFGAqI/AAAAAAAAAUI/BI8_SzaEM4g/s1600/Big%2Bbeat%2BAFRICA.jpg",BEATS TV
-http://tinyurl.com/yemc8kh9
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://3.bp.blogspot.com/-38jA2-uBiO4/UzDUNatN9cI/AAAAAAAAQeY/bxN3UejobkY/s1600/LOGO+KBN.png",KBN
-http://tinyurl.com/35uhr32x
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/sun-tv-logo-1.png",SUN TV
-http://tinyurl.com/5fxa3kzx
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://image.roku.com/developer_channels/prod/ee791e088375d78608bf4e6a90cc046ebc639f3082e3971a997233c969068cb4.png",AfroLandTV
+https://stream.ads.ottera.tv/cl/240318cns0hftetd0un292h79g/1280x720_3071200_1_f.m3u8?i=475_844
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3155-640x360-FFFFFF.jpg",Nolly Africa
 https://edge-i.evrideo.tv/8808fff1-2262-4c92-8cf4-359adbb692ca_1000026794_HLS/manifest.m3u8
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://ww1.prweb.com/prfiles/2010/04/07/147157/gI_Logoonwhiteweb.JPG.jpg",AFRICA CHANNEL
@@ -4482,7 +4464,7 @@ https://tinyurl.com/4vatkpct/85829.ts
 https://tinyurl.com/4vatkpct/1856.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/eurosports.png",EUROSPORTS
 https://tinyurl.com/4vatkpct/216.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/Sports18Khel.png"Sports 18 Khel
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/Sports18Khel.png",Sports 18 Khel
 https://tinyurl.com/4vatkpct/151091.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/fastsports.png",Fast Sports HD
 https://tinyurl.com/4vatkpct/87460.ts
@@ -5580,6 +5562,252 @@ http://38.56.109.19/play/a00l/index.m3u8
 http://38.56.109.19/play/WEST/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",EL GOURMET HD
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4 Adventure (1080p)
+https://lnc-4adventure.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4 Emergency (1080p)
+https://lnc-4emergency.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Alien Nation (1080p)
+https://lnc-alien-nation.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Alter Horror (1080p)
+https://lnc-alter.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Always Funny Videos (720p)
+https://lnc-afv.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",America's Dumbest Criminals (720p)
+https://lnc-americas-dumbest-criminals.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Americas Test Kitchen (720p)
+https://lnc-americas-test-kitchen.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Anger Management Channel (720p)
+https://lnc-anger-management.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Anger Management en Espanol (1080p)
+https://lnc-anger-management-espanol.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Antiques Road Trip (720p)
+https://lnc-antiques-road-trip.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Are We There Yet? (720p)
+https://lnc-are-we-there-yet.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Baywatch (720p)
+https://lnc-baywatch.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BBC Doctor Who Classic (720p)
+https://lnc-dr-who.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BBC Earth (720p)
+https://lnc-bbc-earth.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BBC Silent Witness New Tricks (720p)
+https://lnc-bbc-silent-witness-new-tricks.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BBC Top Gear (720p)
+https://lnc-bbc-top-gear.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BeIN SPORTS XTRA (720p)
+https://lnc-bein.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BeIN SPORTS XTRA En Espanol (720p)
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bounce XL (720p)
+https://lnc-bounce-xl.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BritBox Mysteries (1080p)
+https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BUZZR (720p)
+https://lnc-buzzr.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Caught in Providence (720p)
+https://lnc-caught-in-providence.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cheddar News (720p)
+https://lnc-cheddar.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cine Estrella (1080p)
+https://lnc-cine-estrella.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cinevault 80s (720p)
+https://lnc-cinevault-80s.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cinevault Classics (720p)
+https://lnc-cinevault-classics.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cinevault Westerns (720p)
+https://lnc-cinevault-westerns.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Circle (720p)
+https://lnc-circle.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Comedy Dynamics (720p)
+https://lnc-comedy-dynamics.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cosmos (720p)
+https://lnc-cosmos.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Court TV (720p)
+https://lnc-court-tv.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Dateline 24/7 (1080p)
+https://lnc-dateline.tubi.video/master.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Deal or No Deal (720p)
+https://lnc-deal-or-no-deal.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Dr. G Medical Examiner (720p)
+https://lnc-dr-g-filmrise.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Drag Race Universe (1080p)
+https://lnc-dragrace.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Dust Sci-Fi (720p)
+https://lnc-dust.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Ebony TV (1080p) [Geo-blocked]
+https://lnc-ebony-tv.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Estrella Games (1080p)
+https://lnc-estrella-games.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Estrella News (720p)
+https://lnc-estrella.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Euronews English (7200p)
+https://lnc-euronews.tubi.video/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fear Factor (720p)
+https://lnc-fear-factor.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Filmrise Black TV (720p)
+https://lnc-filmrise-blacktv.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Filmrise Forensic Files (720p)
+https://lnc-forensic-files.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Filmrise Horror (720p)
+https://lnc-filmrise-horror.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Filmrise Hunter (720p)
+https://lnc-hunter-filmrise.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Filmrise The Rifleman (720p)
+https://lnc-rifleman-filmrise.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Filmrise True Crime (720p)
+https://lnc-filmrise-true-crime.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Filmrise Western (720p)
+https://lnc-filmrise-western.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Four in a Bed (1080p)
+https://lnc-four-in-a-bed.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fox Soul (720p)
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fox Sports (720p)
+https://lnc-fox-sports2.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fox Sports en Espanol (720p)
+https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fox Weather (720p)
+https://lnc-fox-weather.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fubo Sports Network (1080p) [Geo-blocked]
+https://lnc-fubo.tubi.video/master.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Game Show Central (720p)
+https://lnc-game-show-central.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Gardening With Monty Don (720p)
+https://lnc-gardening-monty-don.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Gordon Ramsay (720p)
+https://lnc-gordon-ramsey.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Great British Menu (720p)
+https://lnc-great-british-menu.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Grit Xtra (1080p)
+https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Haunt TV (720p)
+https://lnc-haunttv.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Heartland (720p)
+https://lnc-heartland.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",HI-Yah! (720p)
+https://lnc-hi-yah.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",History Time (1080p)
+https://lnc-historytime.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Homeful (1080p)
+https://lnc-homeful.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ION (720p)
+https://lnc-ion.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ION Mystery (1080p)
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ION Plus (720p)
+https://lnc-ion-plus.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Kartoon Channel (720p)
+https://lnc-kartoon.tubi.video/kc_co.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",LiveNOW from FOX (720p)
+https://lnc-fox-live-now.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Localish (720p)
+https://lnc-localish.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",LOL Standup (1080p)
+https://lnc-lol-stand-up.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Love Nature (1080p)
+https://lnc-love-nature.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Love Quest (1080p)
+https://lnc-all-real.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Maverick Black Cinema (720p)
+https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Maximum Effort (1080p)
+https://lnc-maximum-effort.tubi.video/master.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Midsomer Murders (720p)
+https://lnc-midsomer-murders.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MLB (720p)
+https://lnc-mlb2.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MovieSphere (720p)
+https://lnc-moviesphere.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Mr. Beast (1080p)
+https://lnc-mr-beast.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Mystery Science Theater 3000 (720p)
+https://lnc-mst3k.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MyTime Movie Network (720p)
+https://lnc-my-time.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Nashville Channel (1080p)
+https://lnc-nashville.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBA G-League (1080p) [Geo-blocked]
+https://lnc-nba-g.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",News 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NHRA TV (720p)
+https://lnc-nhra.tubi.video/nh.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Nosey (720p)
+https://lnc-nosey.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Outersphere (1080p) [Geo-blocked]
+https://lnc-outersphere.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Outside TV (1080p)
+https://lnc-outsidetv.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PAC-12 Insider (720p)
+https://lnc-pac12.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",PGA Tour (720p)
+https://lnc-pga.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Poker Go (1080p)
+https://lnc-pokergo.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Racing America (720p)
+https://lnc-racing-america.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Real Madrid TV US Version (720p) [Not 24/7] [Geo-blocked]
+https://lnc-real-madrid.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Reelz
+https://lnc-reelz.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Revolt (1080p)
+https://lnc-revolt.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Samuel Goldwyn Classics (720p)
+https://lnc-samuel-goldwyn-classics.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Scripps News (1080p)
+https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",So... Real (720p)
+https://lnc-so-real.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Stadium (720p)
+https://lnc-stadium.tubi.video/master.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Supermarket Sweep (1080p)
+https://lnc-supermarket.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Biggest Loser (1080p)
+https://lnc-biggest-loser.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Bob Ross Channel (720p)
+https://lnc-bob-ross.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Carol Burnett Show (720p)
+https://lnc-carol-burnett.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Jack Hanna Channel (1080p)
+https://lnc-jack-hannah.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Jamie Oliver Channel (720p)
+https://lnc-jamie-oliver.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Johnny Carson Show (720p)
+https://lnc-johnny-carson.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Masked Singer (720p)
+https://lnc-masked-singer.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TMZ (720p)
+https://lnc-tmz.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Today All Day (1080p)
+https://lnc-today.tubi.video/master.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Top Rank Classics (1080p)
+https://lnc-top-rank.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Total Crime (1080p)
+https://lnc-total-crime.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Tubi Originals (720p)
+https://lnc-tubi-originals.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TV One (1080p)
+https://lnc-tv-one.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Unsolved Mysteries (720p)
+https://lnc-unsolved-mysteries.tubi.video/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",USA Today (720p)
+https://lnc-usa-today.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",USA Today SportsWire
+https://lnc-sportswire.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",VICE (720p)
+https://lnc-vice.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Wanted: Dead or Alive (720p)
+https://lnc-wanted-dead-or-alive.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Waypoint TV (720p)
+https://lnc-waypoint.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Wipeout Xtra (720p)
+https://lnc-wipeout-xtra.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",WMOR-TV News Lakeland FL (720p)
+https://lnc-wmor.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Women's Sports Network (720p)
+https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Xplore (720p)
+https://lnc-xplore.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ALF
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",AsianCrush
