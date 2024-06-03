@@ -3774,11 +3774,11 @@ http://tinyurl.com/2p9kusb9
 http://tinyurl.com/2dfhnwan
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://localmilk.com.au/wp-content/uploads/2018/07/Western-Star.jpg",24/7 Superstar Western Movie 1
 https://is.gd/9wEdhf
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6286de930ce6137ba30fc293",Old West TV
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://image.roku.com/developer_channels/prod/723e3da2af338ea74fb1b52b2957540f66c214f73b7de28515f4481f9b6ac05d.jpg",Old West TV
 https://d3e900fnvjyq99.cloudfront.net/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657304
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1d130edb295d102c439f",Cowboy Classics
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://image.roku.com/developer_channels/prod/33e925aa6d39aa7e847cedd0e0cdee6f14d9aff6d60839c4baa3530cc7f804ed.png",Cowboy Classics
 https://d3e900fnvjyq99.cloudfront.net/d/HSKV2TFJKIB08IVJ32W0/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657295
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60876f1760b7022bc86e4512",Lone Star
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://cdn.newswire.com/files/x/73/47/3c9559136f2ddcee9a896fbf0417.png",Lone Star
 https://thelonestarchannel-localnow-cinedigm-com.akamaized.net/index.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",Cinevault Westerns (CA)
 https://gsn-cinevault-westerns-1-ca.lg.wurl.tv/playlist.m3u8
@@ -4196,35 +4196,44 @@ http://tinyurl.com/uwzmb9db
 http://tinyurl.com/4zj8s5xd
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-INUZbyhghTA/T-YI3CY_KQI/AAAAAAAAUNk/WDNXnnq3-XU/w1200-h630-p-k-no-nu/h&h-hd.png",Discovery H&H
 http://tinyurl.com/4khyewh7
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeo.uk.png",Nat geo
-http://51.159.220.137:80/live.ts?channelId=54&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeowild.uk.png",Nat geo Wild
-http://89.187.167.94:80/live.ts?channelId=55&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoverychannel.uk.png",Discovery
-http://51.159.220.137:80/live.ts?channelId=56&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryturbo.uk.png",Discovery Turbo
-http://89.187.167.94:80/live.ts?channelId=57&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryhistory.uk.png",Discovery History
-http://89.187.167.94:80/live.ts?channelId=58&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryscience.uk.png",Discovery Science
-http://51.159.220.137:80/live.ts?channelId=59&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/crimeandinvestigationnetwork.uk.png",Crime Investigation
-http://89.187.167.94:80/live.ts?channelId=60&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/investigationdiscovery.uk.png",ID
-http://89.187.167.94:80/live.ts?channelId=61&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/animalplanet.uk.png",Animal Planet
-http://51.159.220.137:80/live.ts?channelId=62&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky History
-http://89.187.167.94:80/live.ts?channelId=50&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",History 2
-http://51.159.220.137:80/live.ts?channelId=733&deviceUser=georgel&devicePass=georgel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky Nature
-http://51.159.220.137:80/live.ts?channelId=51&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.pinimg.com/originals/dd/17/5d/dd175d03663ad2920900bbc26435d83f.jpg",ID Ivestigation Descovery
+http://51.159.194.110:80/live.ts?channelId=67&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/crimeandinvestigationnetwork.uk.png",Crime Inv
+http://51.158.36.57:80/live.ts?channelId=80&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/animalplanet.uk.png",ANIMAL PLANET
+http://51.159.220.138:80/live.ts?channelId=81&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoverychannel.uk.png",DISCOVERY
+http://51.159.214.185:80/live.ts?channelId=73&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryscience.uk.png",DISCOVERY SCIENCE
+http://51.159.194.110:80/live.ts?channelId=74&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryhistory.uk.png",DISCOVERY HISTORY
+http://51.158.36.57:80/live.ts?channelId=75&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryturbo.uk.png",TURBO
+http://51.159.220.138:80/live.ts?channelId=76&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeo.uk.png",Nat Geo
+http://51.159.220.137:80/live.ts?channelId=77&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeowild.uk.png",Nat Geo Wild
+http://51.159.212.25:80/live.ts?channelId=78&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky Documentaries
-http://89.187.167.94:80/live.ts?channelId=52&deviceUser=georgel&devicePass=georgel&uid=21890
+http://51.159.194.110:80/live.ts?channelId=68&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky History
+http://51.158.36.57:80/live.ts?channelId=69&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky History 2
+http://51.159.220.138:80/live.ts?channelId=70&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky Crime
-http://51.159.220.137:80/live.ts?channelId=53&deviceUser=georgel&devicePass=georgel&uid=21890
-
+http://51.159.220.137:80/live.ts?channelId=71&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky Nature
+http://51.159.212.25:80/live.ts?channelId=72&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cptv.org/wp-content/uploads/2017/03/PBS-logo_red.jpg",PBS America
+http://51.159.194.110:80/live.ts?channelId=85&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://pbs.twimg.com/profile_images/2458836812/NewTwitterlogo.png",YESTERDAY
+http://51.159.194.110:80/live.ts?channelId=79&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/6a/6b/c46a6bd6-3c96-1cac-a32f-a4b72d04df36/source/512x512bb.jpg",Blaze
+http://51.159.220.137:80/live.ts?channelId=82&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://yt3.ggpht.com/-bUWmNUhYOLw/AAAAAAAAAAI/AAAAAAAAAAA/4nAKGs7XXng/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",EDEN
+http://51.159.212.25:80/live.ts?channelId=83&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://livingabroad.tv/images/poster/Together-TV-for-good-small-1x.jpg",Together TV
+http://51.159.214.185:80/live.ts?channelId=84&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://demotix.com/wp-content/uploads/2019/07/Forensic-Files.jpg",Forensic Files
