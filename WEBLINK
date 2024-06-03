@@ -4194,36 +4194,37 @@ http://tinyurl.com/3ae7yz26
 http://tinyurl.com/uwzmb9db
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL
 http://tinyurl.com/4zj8s5xd
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeo.uk.png",Nat geo
-http://89.187.167.92:80/live.ts?channelId=54&deviceUser=lionel&devicePass=lionel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeowild.uk.png",Nat geo Wild
-http://89.187.167.94:80/live.ts?channelId=55&deviceUser=lionel&devicePass=lionel&uid=21890
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoverychannel.uk.png",Discovery
-http://89.187.167.92:80/live.ts?channelId=56&deviceUser=lionel&devicePass=lionel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-INUZbyhghTA/T-YI3CY_KQI/AAAAAAAAUNk/WDNXnnq3-XU/w1200-h630-p-k-no-nu/h&h-hd.png",Discovery H&H
 http://tinyurl.com/4khyewh7
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeo.uk.png",Nat geo
+http://51.159.220.137:80/live.ts?channelId=54&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/natgeowild.uk.png",Nat geo Wild
+http://89.187.167.94:80/live.ts?channelId=55&deviceUser=georgel&devicePass=georgel&uid=21890
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoverychannel.uk.png",Discovery
+http://51.159.220.137:80/live.ts?channelId=56&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryturbo.uk.png",Discovery Turbo
-http://89.187.167.94:80/live.ts?channelId=57&deviceUser=lionel&devicePass=lionel&uid=21890
+http://89.187.167.94:80/live.ts?channelId=57&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryhistory.uk.png",Discovery History
-http://89.187.167.94:80/live.ts?channelId=58&deviceUser=lionel&devicePass=lionel&uid=21890
+http://89.187.167.94:80/live.ts?channelId=58&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/discoveryscience.uk.png",Discovery Science
-http://89.187.167.92:80/live.ts?channelId=59&deviceUser=lionel&devicePass=lionel&uid=21890
+http://51.159.220.137:80/live.ts?channelId=59&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/crimeandinvestigationnetwork.uk.png",Crime Investigation
-http://89.187.167.94:80/live.ts?channelId=60&deviceUser=lionel&devicePass=lionel&uid=21890
+http://89.187.167.94:80/live.ts?channelId=60&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/investigationdiscovery.uk.png",ID
-http://89.187.167.94:80/live.ts?channelId=61&deviceUser=lionel&devicePass=lionel&uid=21890
+http://89.187.167.94:80/live.ts?channelId=61&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epgguide.net/icon/animalplanet.uk.png",Animal Planet
-http://89.187.167.92:80/live.ts?channelId=62&deviceUser=lionel&devicePass=lionel&uid=21890
+http://51.159.220.137:80/live.ts?channelId=62&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky History
-http://89.187.167.94:80/live.ts?channelId=50&deviceUser=lionel&devicePass=lionel&uid=21890
+http://89.187.167.94:80/live.ts?channelId=50&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",History 2
-http://89.187.167.92:80/live.ts?channelId=733&deviceUser=lionel&devicePass=lionel&uid=21890
+http://51.159.220.137:80/live.ts?channelId=733&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky Nature
-http://89.187.167.92:80/live.ts?channelId=51&deviceUser=lionel&devicePass=lionel&uid=21890
+http://51.159.220.137:80/live.ts?channelId=51&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky Documentaries
-http://89.187.167.94:80/live.ts?channelId=52&deviceUser=lionel&devicePass=lionel&uid=21890
+http://89.187.167.94:80/live.ts?channelId=52&deviceUser=georgel&devicePass=georgel&uid=21890
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqtQY0LaKnV_vcLetBO-hvMsGem0gL91Q8rY5127VWAmojoFh0Tkh2UpL6w8Ha9_nBFs&usqp=CAU",Sky Crime
-http://89.187.167.92:80/live.ts?channelId=53&deviceUser=lionel&devicePass=lionel&uid=21890
+http://51.159.220.137:80/live.ts?channelId=53&deviceUser=georgel&devicePass=georgel&uid=21890
+
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://demotix.com/wp-content/uploads/2019/07/Forensic-Files.jpg",Forensic Files
@@ -4645,92 +4646,6 @@ https://tinyurl.com/3dj6wn8j/86881
 https://tinyurl.com/3dj6wn8j/86882
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Gn5aKKu.png",Premier League backup 04
 https://tinyurl.com/3dj6wn8j/86883
-#EXTINF:-1" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",LFC TV
-http://89.187.167.92:80/live.ts?channelId=96&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png",MUTV
-http://89.187.167.92:80/live.ts?channelId=97&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/racinguk.uk.png",RACING TV
-http://89.187.167.94:80/live.ts?channelId=98&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2019/09/14112502/Premier-Sports.png",PREMIER SPORTS 1
-http://89.187.167.92:80/live.ts?channelId=99&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2019/09/14112502/Premier-Sports.png",PREMIER SPORTS 2
-http://89.187.167.92:80/live.ts?channelId=100&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/eurosport1.uk.png",EUROSPORT 1
-http://89.187.167.93:80/live.ts?channelId=101&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/eurosport2.uk.png",EUROSPORT 2
-http://89.187.167.92:80/live.ts?channelId=102&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/8/7/4/1315874_laligatvlogo_144485.jpg",LaLiga TV
-http://89.187.167.93:80/live.ts?channelId=103&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://advanced-television.com/wp-content/uploads/2022/12/Viaplay-big-e1672230539102.jpeg",ViaPlay 1 UK
-http://89.187.167.92:80/live.ts?channelId=104&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://advanced-television.com/wp-content/uploads/2022/12/Viaplay-big-e1672230539102.jpeg",ViaPlay 2 UK
-http://89.187.167.94:80/live.ts?channelId=105&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://advanced-television.com/wp-content/uploads/2022/12/Viaplay-big-e1672230539102.jpeg",ViaPlay XTRA
-http://89.187.167.92:80/live.ts?channelId=106&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/ginxesportstv.uk.png",GINX ESPORTS TV
-http://89.187.167.93:80/live.ts?channelId=107&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://image.roku.com/developer_channels/prod/8f0606430ffe91198cb53ac2435e7df8f7123840a4ebc2b867c1488d0015a844.png",SPORTY STUFF
-http://89.187.167.94:80/live.ts?channelId=108&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsf1.uk.png",Sky Sports F1.
-http://89.187.167.92:80/live.ts?channelId=130&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsf1.uk.png",SKY SPORTS F1
-http://89.187.167.92:80/live.ts?channelId=131&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsarena.uk.png",Sky Sports Arena.
-http://89.187.167.94:80/live.ts?channelId=132&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsarena.uk.png",SKY SPORTS ARENA
-http://89.187.167.92:80/live.ts?channelId=133&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsmainevent.uk.png",Sky Sports Main Event.
-http://89.187.167.92:80/live.ts?channelId=134&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsmainevent.uk.png",SKY SPORTS MAIN EVENT
-http://89.187.167.94:80/live.ts?channelId=135&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportspremiereleague.uk.png",Sky Sports Premier League.
-http://89.187.167.92:80/live.ts?channelId=136&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportspremiereleague.uk.png",SKY SPORTS PREMIER LEAGUE
-http://89.187.167.92:80/live.ts?channelId=137&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsaction.uk.png",Sky Sports Action./NFL
-http://89.187.167.94:80/live.ts?channelId=138&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsaction.uk.png",SKY SPORTS ACTION / NFL
-http://89.187.167.92:80/live.ts?channelId=139&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsmix.uk.png",Sky Sports Mix.
-http://89.187.167.92:80/live.ts?channelId=140&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsmix.uk.png",SKY SPORTS MIX
-http://89.187.167.94:80/live.ts?channelId=141&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportscricket.uk.png",Sky Sports Cricket.
-http://89.187.167.92:80/live.ts?channelId=142&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportscricket.uk.png",SKY SPORTS CRICKET
-http://89.187.167.92:80/live.ts?channelId=143&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsfootball.uk.png",Sky Sports Football.
-http://89.187.167.94:80/live.ts?channelId=144&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsfootball.uk.png",SKY SPORTS FOOTBALL
-http://89.187.167.92:80/live.ts?channelId=145&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsgolf.uk.png",Sky Sports Golf.
-http://89.187.167.94:80/live.ts?channelId=146&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsgolf.uk.png",SKY SPORTS GOLF
-http://89.187.167.92:80/live.ts?channelId=147&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsracing.uk.png",Sky Sports Racing.
-http://89.187.167.92:80/live.ts?channelId=148&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsracing.uk.png",SKY SPORTS RACING
-http://89.187.167.92:80/live.ts?channelId=149&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsnews.uk.png",Sky Sports News.
-http://89.187.167.94:80/live.ts?channelId=150&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/skysportsnews.uk.png",SKY SPORTS NEWS
-http://89.187.167.92:80/live.ts?channelId=151&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/btsport1.uk.png",TNT Sport 1
-http://overwatermilkcheeseontoast.unusualperson.com:80/live.ts?channelId=152&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/btsport1.uk.png",TNT SPORTS 1
-http://89.187.167.93:80/live.ts?channelId=153&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/btsport2.uk.png",TNT Sport 2
-http://89.187.167.93:80/live.ts?channelId=154&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/btsport2.uk.png",TNT SPORTS 2
-http://89.187.167.93:80/hls/155.m3u8?channelId=155&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/btsport3.uk.png",TNT Sport 3
-http://89.187.167.93:80/live.ts?channelId=156&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://static.epgguide.net/icon/btsport3.uk.png",TNT SPORTS 3
-http://89.187.167.93:80/hls/157.m3u8?channelId=157&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://png.pngitem.com/pimgs/s/537-5372644_bt-sport-logo-vector-hd-png-download.png",TNT Sport 4
-http://89.187.167.93:80/live.ts?channelId=158&deviceUser=Taylor&devicePass=Taylor&uid=6560
-#EXTINF:-1" tvg-logo="https://png.pngitem.com/pimgs/s/537-5372644_bt-sport-logo-vector-hd-png-download.png",TNT SPORTS 4
-http://89.187.167.93:80/hls/159.m3u8?channelId=159&deviceUser=Taylor&devicePass=Taylor&uid=6560
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tv.cloudcdn.me/images/590b531.png",1Sports
 http://195.26.87.217/live.ts?channelId=88853&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tv.cloudcdn.me/images/de06576.png",A SPORTS FHD
@@ -4939,6 +4854,288 @@ http://195.26.87.217/live.ts?channelId=125450&uid=3453&deviceMac=00:1A:79:01:04:
 http://195.26.87.217/live.ts?channelId=125451&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d2cx26qpfwuhvu.cloudfront.net/sixnations/wp-content/uploads/2018/12/18114021/src_patterns_source_images_SuperSport-2-300x300.png",SuperSport Variety 4
 http://195.26.87.217/live.ts?channelId=125452&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Cricket
+http://51.158.36.57:80/live.ts?channelId=123&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Cricket 2
+http://51.159.220.138:80/live.ts?channelId=124&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS F1
+http://51.159.220.137:80/live.ts?channelId=126&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS F1 2
+http://51.159.212.25:80/live.ts?channelId=127&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Football
+http://51.159.214.185:80/live.ts?channelId=129&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Football 2
+http://51.159.194.110:80/live.ts?channelId=130&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Golf
+http://51.158.36.57:80/live.ts?channelId=132&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Golf 2
+http://51.159.220.138:80/live.ts?channelId=133&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Main Event
+http://51.159.220.137:80/live.ts?channelId=135&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Main Event 2
+http://51.159.212.25:80/live.ts?channelId=136&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Mix
+http://51.159.214.185:80/live.ts?channelId=138&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Mix 2
+http://51.159.194.110:80/live.ts?channelId=139&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Prem L
+http://51.158.36.57:80/live.ts?channelId=141&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Prem L 2
+http://51.159.220.138:80/live.ts?channelId=142&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Racing
+http://51.159.220.137:80/live.ts?channelId=144&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Racing 2
+http://51.159.212.25:80/live.ts?channelId=145&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS News
+http://51.159.214.185:80/live.ts?channelId=147&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS News 2
+http://51.159.194.110:80/live.ts?channelId=148&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Box Office 1
+http://51.158.36.57:80/live.ts?channelId=150&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Box Office 2
+http://51.159.220.138:80/live.ts?channelId=151&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Box Office 3
+http://51.159.220.137:80/live.ts?channelId=152&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SKY Box Office 4
+http://51.159.212.25:80/live.ts?channelId=153&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Action UHD
+http://51.159.214.185:80/live.ts?channelId=154&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Arena UHD
+http://51.159.194.110:80/live.ts?channelId=155&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Cricket UHD
+http://51.158.36.57:80/live.ts?channelId=156&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS F1 UHD
+http://51.159.220.138:80/live.ts?channelId=157&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Football UHD
+http://51.159.220.137:80/live.ts?channelId=158&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Golf  UHD
+http://51.159.212.25:80/live.ts?channelId=159&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Main Event UHD
+http://51.159.214.185:80/live.ts?channelId=160&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Mix  UHD
+http://51.159.194.110:80/live.ts?channelId=161&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Premier League UHD
+http://51.158.36.57:80/live.ts?channelId=163&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Racing UHD
+http://51.159.220.138:80/live.ts?channelId=164&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 1
+http://51.159.220.137:80/live.ts?channelId=165&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 1.2
+http://51.159.212.25:80/live.ts?channelId=166&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 2
+http://51.159.214.185:80/live.ts?channelId=168&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 2.2
+http://51.159.194.110:80/live.ts?channelId=169&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 3
+http://51.158.36.57:80/live.ts?channelId=171&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 3.2
+http://51.159.220.138:80/live.ts?channelId=172&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 4
+http://51.159.220.137:80/live.ts?channelId=174&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 4.2
+http://51.159.212.25:80/live.ts?channelId=175&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Box Office FHD
+http://51.159.214.185:80/live.ts?channelId=177&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Box Office SD
+http://51.159.194.110:80/live.ts?channelId=178&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Box Office HD
+http://51.158.36.57:80/live.ts?channelId=179&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 1
+http://51.159.220.138:80/live.ts?channelId=180&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 2
+http://51.159.220.137:80/live.ts?channelId=181&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 3
+http://51.159.212.25:80/live.ts?channelId=182&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 4
+http://51.159.214.185:80/live.ts?channelId=183&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 1 UHD
+http://51.159.194.110:80/live.ts?channelId=184&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 2 UHD
+http://51.158.36.57:80/live.ts?channelId=185&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 3 UHD
+http://51.159.220.138:80/live.ts?channelId=186&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 4 UHD
+http://51.159.220.137:80/live.ts?channelId=187&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",MUTV
+http://51.159.220.138:80/live.ts?channelId=188&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",LFC TV
+http://51.159.212.25:80/live.ts?channelId=189&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Premier Sports 1
+http://51.159.214.185:80/live.ts?channelId=190&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Premier Sports 2
+http://51.159.194.110:80/live.ts?channelId=191&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Racing TV
+http://51.158.36.57:80/live.ts?channelId=192&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Eurosports 1
+http://51.159.220.138:80/live.ts?channelId=193&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Eurosports 2
+http://51.159.220.137:80/live.ts?channelId=194&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",UFC 24/7
+http://51.159.220.137:80/live.ts?channelId=203&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WWE usa
+http://51.159.212.25:80/live.ts?channelId=204&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WWE NETWORK
+http://51.159.214.185:80/live.ts?channelId=205&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WWE
+http://51.159.194.110:80/live.ts?channelId=206&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Viaplay 1
+http://51.158.36.57:80/live.ts?channelId=207&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Viaplay 2
+http://51.159.220.138:80/live.ts?channelId=208&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sporty stuff TV
+http://51.159.220.137:80/live.ts?channelId=209&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WORLD FISHING NETWORK
+http://51.159.212.25:80/live.ts?channelId=210&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Willow Cricket
+http://51.159.214.185:80/live.ts?channelId=211&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Sport Moto GP IT
+http://51.159.194.110:80/live.ts?channelId=212&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBC GOLF
+http://51.158.36.57:80/live.ts?channelId=213&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Golf Channel
+http://51.159.220.138:80/live.ts?channelId=214&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Movistar Golf ESP
+http://51.159.220.137:80/live.ts?channelId=215&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",MOTO GP canal+
+http://51.159.212.25:80/live.ts?channelId=216&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock NBC Sports
+http://51.159.194.110:80/live.ts?channelId=436&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock remier League
+http://51.159.194.110:80/live.ts?channelId=437&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock WWE Network
+http://51.159.194.110:80/live.ts?channelId=438&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock Golf Pass
+http://51.159.194.110:80/live.ts?channelId=439&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock NFL Network Channel
+http://51.159.194.110:80/live.ts?channelId=440&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Action
+http://51.159.220.137:80/live.ts?channelId=995&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Blitz
+http://51.159.220.137:80/live.ts?channelId=996&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Cricket
+http://51.159.220.137:80/live.ts?channelId=998&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Football
+http://51.159.220.137:80/live.ts?channelId=999&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Golf
+http://51.159.220.137:80/live.ts?channelId=1000&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Grandstand
+http://51.159.220.137:80/live.ts?channelId=1001&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport LaLiga
+http://51.159.220.137:80/live.ts?channelId=1002&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Maximo
+http://51.159.220.137:80/live.ts?channelId=1003&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Motorsport
+http://51.159.220.137:80/live.ts?channelId=1004&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Premier League
+http://51.159.220.137:80/live.ts?channelId=1005&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport PSL
+http://51.159.220.137:80/live.ts?channelId=1006&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Rugby
+http://51.159.220.137:80/live.ts?channelId=1007&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Tennis
+http://51.159.220.137:80/live.ts?channelId=1008&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 1
+http://51.159.220.137:80/live.ts?channelId=1009&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 2
+http://51.159.220.137:80/live.ts?channelId=1010&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 3
+http://51.159.220.137:80/live.ts?channelId=1011&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 4
+http://51.159.220.137:80/live.ts?channelId=1012&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 1 EN HD
+http://51.159.212.25:80/live.ts?channelId=1081&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 2 EN HD
+http://51.158.36.57:80/live.ts?channelId=1082&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 3 EN HD
+http://51.158.36.57:80/live.ts?channelId=1083&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS PREMIUM 1 HD
+http://51.158.36.57:80/live.ts?channelId=1084&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS PREMIUM 2 HD
+http://51.158.36.57:80/live.ts?channelId=1085&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS PREMIUM 3 HD
+http://51.158.36.57:80/live.ts?channelId=1086&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS CANADA
+http://51.158.36.57:80/live.ts?channelId=1087&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS USA
+http://51.158.36.57:80/live.ts?channelId=1088&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",bein sports 1
+http://51.159.194.110:80/live.ts?channelId=1089&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 2
+http://51.159.212.25:80/live.ts?channelId=1090&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Bein Sports 3
+http://51.158.36.57:80/live.ts?channelId=1091&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 4
+http://51.158.36.57:80/live.ts?channelId=1092&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 5
+http://51.158.36.57:80/live.ts?channelId=1093&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 6
+http://51.158.36.57:80/live.ts?channelId=1094&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 7
+http://51.158.36.57:80/live.ts?channelId=1095&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 8
+http://51.158.36.57:80/live.ts?channelId=1096&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 9
+http://51.158.36.57:80/live.ts?channelId=1097&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Washington Wizards
+http://51.159.220.138:80/live.ts?channelId=1121&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Utah Jazz
+http://51.159.220.138:80/live.ts?channelId=1122&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Toronto Raptors
+http://51.159.220.138:80/live.ts?channelId=1123&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA San Antonio Spurs
+http://51.159.220.138:80/live.ts?channelId=1124&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Sacramento Kings
+http://51.159.220.138:80/live.ts?channelId=1125&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Portland Trail Blazers
+http://51.159.220.138:80/live.ts?channelId=1126&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Phoenix Suns
+http://51.159.220.138:80/live.ts?channelId=1127&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Philadelphia 76ers
+http://51.159.220.138:80/live.ts?channelId=1128&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Orlando Magic
+http://51.159.220.138:80/live.ts?channelId=1129&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Oklahoma City Thunder
+http://51.159.220.138:80/live.ts?channelId=1130&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA New York Knicks
+http://51.159.220.138:80/live.ts?channelId=1131&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA New Orleans Pelicans
+http://51.159.220.138:80/live.ts?channelId=1132&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Minnesota Timberwolves
+http://51.159.220.138:80/live.ts?channelId=1133&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Milwaukee Bucks
+http://51.159.220.138:80/live.ts?channelId=1134&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Miami Heat
+http://51.159.220.138:80/live.ts?channelId=1135&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Memphis Grizzlies
+http://51.159.214.185:80/live.ts?channelId=1136&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Los Angeles Lakers
+http://51.159.214.185:80/live.ts?channelId=1137&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Los Angeles Clippers
+http://51.159.214.185:80/live.ts?channelId=1138&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Indiana Pacers
+http://51.159.214.185:80/live.ts?channelId=1139&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Houston Rockets
+http://51.159.214.185:80/live.ts?channelId=1140&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Golden State Warriors
+http://51.159.214.185:80/live.ts?channelId=1141&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Detroit Pistons
+http://51.159.214.185:80/live.ts?channelId=1142&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Denver Nuggets
+http://51.159.214.185:80/live.ts?channelId=1143&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Dallas Mavericks
+http://51.159.214.185:80/live.ts?channelId=1144&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Cleveland Cavaliers
+http://51.159.214.185:80/live.ts?channelId=1145&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Chicago Bulls
+http://51.159.214.185:80/live.ts?channelId=1146&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Charlotte Hornets
+http://51.159.214.185:80/live.ts?channelId=1147&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Brooklyn Nets
+http://51.159.214.185:80/live.ts?channelId=1148&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Boston Celtics
+http://51.159.214.185:80/live.ts?channelId=1149&deviceUser=grahame&devicePass=grahame&uid=16767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Atlanta Hawks
+http://51.159.214.185:80/live.ts?channelId=1150&deviceUser=grahame&devicePass=grahame&uid=16767
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC BLACK
 http://168.205.87.198:8555/live/1858/123456/232.ts
@@ -5141,385 +5338,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Stingray Soul Storm
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
 
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",A&E HD
-http://168.232.168.242:4000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AMC HD
-http://168.232.168.242:4000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AMERICA TV
-http://168.232.168.242:4000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AXN HD
-http://168.232.168.242:4000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AZ click HD
-http://168.232.168.242:4000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AZTECA 7 
-http://168.232.168.242:4000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Adult Swim
-http://168.232.168.242:4000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Animal Planet HD
-http://168.232.168.242:4000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Antena 3
-http://168.232.168.242:4000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Antena 7- RD
-http://168.232.168.242:4000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Atres Series
-http://168.232.168.242:4000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Atres Series
-http://168.232.168.242:4000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Azcorazon
-http://168.232.168.242:4000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Azmundo
-http://168.232.168.242:4000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",BANDAMAX HD
-http://168.232.168.242:4000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",BBC World
-http://168.232.168.242:4000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",BUNDESLIGA
-http://168.232.168.242:4000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Baby First
-http://168.232.168.242:4000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Baby TV
-http://168.232.168.242:4000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Boomerang
-http://168.232.168.242:4000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CABLEMAR TV HD
-http://168.232.168.242:4000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CANAL 11 CDN
-http://168.232.168.242:4000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CANAL 5 HN CDN
-http://168.232.168.242:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CANAL 5 MEXICO
-http://168.232.168.242:4000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CARTOON NT HD
-http://168.232.168.242:4000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CCN
-http://168.232.168.242:4000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CERTV
-http://168.232.168.242:4000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CINECANAL HD
-http://168.232.168.242:4000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNN Internacional
-http://168.232.168.242:4000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNNE
-http://168.232.168.242:4000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 11 - GUA
-http://168.232.168.242:4000/play/a049/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 11 - HON
-http://168.232.168.242:4000/play/a041/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 13-GUA
-http://168.232.168.242:4000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 3 - GUA
-http://168.232.168.242:4000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 3 Telesistemas HND
-http://168.232.168.242:4000/play/a045/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 4 - PAN
-http://168.232.168.242:4000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 5 - HON
-http://168.232.168.242:4000/play/a044/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal 8 TNH HN
-http://168.232.168.242:4000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal Antigua - GUA
-http://168.232.168.242:4000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal VTV HND
-http://168.232.168.242:4000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cine Latino
-http://168.232.168.242:4000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CineMax
-http://168.232.168.242:4000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Claro Cinema
-http://168.232.168.242:4000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Claro Sports 2 HD
-http://168.232.168.242:4000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Comedy Central HD
-http://168.232.168.242:4000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Concert Channel
-http://168.232.168.242:4000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DEPORTES TVC CDN
-http://168.232.168.242:4000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DHE
-http://168.232.168.242:4000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DHE HD
-http://168.232.168.242:4000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DISCOVERY THEATHER HD
-http://168.232.168.242:4000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Deportes TVC - HON
-http://168.232.168.242:4000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Digital 15 - RD
-http://168.232.168.242:4000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Channel HD
-http://168.232.168.242:4000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Civilization
-http://168.232.168.242:4000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Home & Health
-http://168.232.168.242:4000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery ID HD
-http://168.232.168.242:4000/play/a013/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Kids HD
-http://168.232.168.242:4000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Science
-http://168.232.168.242:4000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Turbo
-http://168.232.168.242:4000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery World HD
-http://168.232.168.242:4000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney
-http://168.232.168.242:4000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney JR
-http://168.232.168.242:4000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney XD
-http://168.232.168.242:4000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",E! Entertairment HD
-http://168.232.168.242:4000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN
-http://168.232.168.242:4000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN  4 HD
-http://168.232.168.242:4000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 2
-http://168.232.168.242:4000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 2 HD
-http://168.232.168.242:4000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 3
-http://168.232.168.242:4000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 3 HD
-http://168.232.168.242:4000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 5
-http://168.232.168.242:4000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 5  HD
-http://168.232.168.242:4000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 6
-http://168.232.168.242:4000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 6 HD
-http://168.232.168.242:4000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN HD
-http://168.232.168.242:4000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESTRELLAS
-http://168.232.168.242:4000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",EURO Channel
-http://168.232.168.242:4000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",EWTN
-http://168.232.168.242:4000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",El Gourmet
-http://168.232.168.242:4000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Europa HD
-http://168.232.168.242:4000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Exa TV
-http://168.232.168.242:4000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX
-http://168.232.168.242:4000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Action HD
-http://168.232.168.242:4000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Comedy HD
-http://168.232.168.242:4000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Family HD
-http://168.232.168.242:4000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX HD
-http://168.232.168.242:4000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX LIFE
-http://168.232.168.242:4000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Movies HD
-http://168.232.168.242:4000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX SPORTS 3 HD
-http://168.232.168.242:4000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Series HD
-http://168.232.168.242:4000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FUTV CR
-http://168.232.168.242:4000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FX
-http://168.232.168.242:4000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FX HD
-http://168.232.168.242:4000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FX Movies HD
-http://168.232.168.242:4000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Film & Arts
-http://168.232.168.242:4000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Film & arts HD
-http://168.232.168.242:4000/play/a057/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Classic HD
-http://168.232.168.242:4000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden
-http://168.232.168.242:4000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden Premiere 2 HD
-http://168.232.168.242:4000/play/a056/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden Premiere HD
-http://168.232.168.242:4000/play/a051/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golf Channel
-http://168.232.168.242:4000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golf Channel HD
-http://168.232.168.242:4000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Guatevision - GUA
-http://168.232.168.242:4000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",H2
-http://168.232.168.242:4000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO Family HD
-http://168.232.168.242:4000/play/a021/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO HD
-http://168.232.168.242:4000/play/a022/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO Plus HD
-http://168.232.168.242:4000/play/a023/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO XTREME
-http://168.232.168.242:4000/play/a024/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HBO2 HD
-http://168.232.168.242:4000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HCH CDN
-http://168.232.168.242:4000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HCH- HON
-http://168.232.168.242:4000/play/a047/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HOLA! TV HD
-http://168.232.168.242:4000/play/a027/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HTV
-http://168.232.168.242:4000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History HD
-http://168.232.168.242:4000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Hola!TV
-http://168.232.168.242:4000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Home & Health HD
-http://168.232.168.242:4000/play/a028/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Home Garden Latino
-http://168.232.168.242:4000/play/a055/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",LA LIGA
-http://168.232.168.242:4000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",LIFE TIME
-http://168.232.168.242:4000/play/a029/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Latin America Sport
-http://168.232.168.242:4000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MASTV - PAN
-http://168.232.168.242:4000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV 00s
-http://168.232.168.242:4000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV HD
-http://168.232.168.242:4000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV Hits
-http://168.232.168.242:4000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV SIM HD
-http://168.232.168.242:4000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Mas Chic
-http://168.232.168.242:4000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Multicinema
-http://168.232.168.242:4000/play/a040/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Multimedios
-http://168.232.168.242:4000/play/a058/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Multipremier
-http://168.232.168.242:4000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nat Geo HD
-http://168.232.168.242:4000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nat Geo Kids
-http://168.232.168.242:4000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",National Geographic
-http://168.232.168.242:4000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick Jr
-http://168.232.168.242:4000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick SIM HD
-http://168.232.168.242:4000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nickelodeon
-http://168.232.168.242:4000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",PICOSA
-http://168.232.168.242:4000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",PXTV
-http://168.232.168.242:4000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Paramount
-http://168.232.168.242:4000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Paramount HD
-http://168.232.168.242:4000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Pasiones HD
-http://168.232.168.242:4000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Playboy
-http://168.232.168.242:4000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",QHUBO TV
-http://168.232.168.242:4000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN Novelas
-http://168.232.168.242:4000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RHEMA TV
-http://168.232.168.242:4000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RT NOTICIAS
-http://168.232.168.242:4000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Repretel
-http://168.232.168.242:4000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SEMILLITAS
-http://168.232.168.242:4000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SERTV - PAN
-http://168.232.168.242:4000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SKY SPORT
-http://168.232.168.242:4000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SONY HD
-http://168.232.168.242:4000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SPACE HD
-http://168.232.168.242:4000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SUNDANCE HD
-http://168.232.168.242:4000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SUYAPA TV
-http://168.232.168.242:4000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sembrador
-http://168.232.168.242:4000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sin Limites
-http://168.232.168.242:4000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Star TVE HD
-http://168.232.168.242:4000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Studio Universal HD
-http://168.232.168.242:4000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sun Channel
-http://168.232.168.242:4000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TBN Enlace
-http://168.232.168.242:4000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TCM
-http://168.232.168.242:4000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TD+2 HD CR
-http://168.232.168.242:4000/play/a059/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TD+HD CR
-http://168.232.168.242:4000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TELECADENA CDN
-http://168.232.168.242:4000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TELEMUNDO MIAMI
-http://168.232.168.242:4000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TEN CDN
-http://168.232.168.242:4000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TIGO HN
-http://168.232.168.242:4000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TL NOVELAS
-http://168.232.168.242:4000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TLC
-http://168.232.168.242:4000/play/a032/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT HD
-http://168.232.168.242:4000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT Novelas
-http://168.232.168.242:4000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT Series HD
-http://168.232.168.242:4000/play/a034/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TV  Max - PAN
-http://168.232.168.242:4000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TV ESTRELLA
-http://168.232.168.242:4000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TVCOPAN
-http://168.232.168.242:4000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TVChile
-http://168.232.168.242:4000/play/a036/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telemundo HD
-http://168.232.168.242:4000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telesistema RD
-http://168.232.168.242:4000/play/a030/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Teleuniverso - RD
-http://168.232.168.242:4000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Televida RD
-http://168.232.168.242:4000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Tigo Sports HD
-http://168.232.168.242:4000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",USA
-http://168.232.168.242:4000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Universal
-http://168.232.168.242:4000/play/a037/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Univision HD
-http://168.232.168.242:4000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",VENUS
-http://168.232.168.242:4000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",VH1 Classic
-http://168.232.168.242:4000/play/a048/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",VH1 HD
-http://168.232.168.242:4000/play/a043/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",WARNER HD
-http://168.232.168.242:4000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ZOL TV HD
-http://168.232.168.242:4000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ZooMoo
-http://168.232.168.242:4000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",A&E HD
 http://181.78.105.146:8800/play/a04r
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AMC
@@ -5882,6 +5700,116 @@ http://181.78.105.146:8800/play/a01v
 http://181.78.105.146:8800/play/a009
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",tv agro
 http://181.78.105.146:8800/play/a07t
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AQUITANIA SERVIDOR
+http://177.93.44.174:8900/play/11234
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CINE H
+http://177.93.44.174:8900/play/a01y
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MMH
+http://177.93.44.174:8900/play/a020
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MMKPOP
+http://177.93.44.174:8900/play/a01z
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg", CINE FAMILIAR
+http://177.93.44.174:8900/play/a019
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",A&E HD
+http://177.93.44.174:8900/play/a002
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AMC HD
+http://177.93.44.174:8900/play/a00l
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AXN HD
+http://177.93.44.174:8900/play/a005
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Animal Planet HD
+http://177.93.44.174:8900/play/a00p
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",C IN
+http://177.93.44.174:8900/play/a021
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Caracol HD
+http://177.93.44.174:8900/play/a01s
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinecanal HD
+http://177.93.44.174:8900/play/a025
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",De PelŦcula
+http://177.93.44.174:8900/play/a01m
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Channel HD
+http://177.93.44.174:8900/play/a00u
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery H&H HD
+http://177.93.44.174:8900/play/a00d
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Kids HD
+http://177.93.44.174:8900/play/a00c
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Science
+http://177.93.44.174:8900/play/a01l
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Turbo
+http://177.93.44.174:8900/play/a01j
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney Channel
+http://177.93.44.174:8900/play/a00x
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",E! HD
+http://177.93.44.174:8900/play/a00r
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 2 HD
+http://177.93.44.174:8900/play/a01k
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 3 HD
+http://177.93.44.174:8900/play/a009
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 4 HD
+http://177.93.44.174:8900/play/a00g
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN EXTRA HD
+http://177.93.44.174:8900/play/a00m
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN HD
+http://177.93.44.174:8900/play/a00q
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",El Gourmet
+http://177.93.44.174:8900/play/a00z
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Sports 2 HD
+http://177.93.44.174:8900/play/a00h
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FX HD
+http://177.93.44.174:8900/play/a00i
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Food Network HD
+http://177.93.44.174:8900/play/a00s
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Sports 3 HD
+http://177.93.44.174:8900/play/a00a
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden
+http://177.93.44.174:8900/play/a027
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HGTV
+http://177.93.44.174:8900/play/a00y
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History 2 HD
+http://177.93.44.174:8900/play/a00v
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History Channel HD
+http://177.93.44.174:8900/play/a001
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ID HD
+http://177.93.44.174:8900/play/a00b
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",LA D
+http://177.93.44.174:8900/play/a018
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Las Estrellas
+http://177.93.44.174:8900/play/a022
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Latina HD
+http://177.93.44.174:8900/play/a00t
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Love Nature HD
+http://177.93.44.174:8900/play/a01r
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MMR
+http://177.93.44.174:8900/play/a01b
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MP
+http://177.93.44.174:8900/play/a01a
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nat Geo HD
+http://177.93.44.174:8900/play/a00j
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick HD
+http://177.93.44.174:8900/play/a008
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",PICOSA TV
+http://177.93.44.174:8900/play/a028
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",PICOSA TV (clone)
+http://177.93.44.174:8900/play/a029
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Paramount HD
+http://177.93.44.174:8900/play/a00n
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN SD
+http://177.93.44.174:8900/play/a01u
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SPORTSVISION
+http://177.93.44.174:8900/play/a024
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",STAR CHANNEL HD
+http://177.93.44.174:8900/play/a00e
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SURAM TV
+http://177.93.44.174:8900/play/a01q
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sony HD
+http://177.93.44.174:8900/play/a003
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Studio Universal HD
+http://177.93.44.174:8900/play/a00o
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL CHANNEL HD
+http://177.93.44.174:8900/play/a00f
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Warner Channel HD
+http://177.93.44.174:8900/play/a004
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Win Sports HD
+http://177.93.44.174:8900/play/a007
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4 Adventure (1080p)
 https://lnc-4adventure.tubi.video/playlist.m3u8
