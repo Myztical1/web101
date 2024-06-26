@@ -1081,7 +1081,7 @@ http://142.202.48.32:8080/play/iS6JZrVCtxM0zgFinFsl4he7nCqDdWJc_1qZpR8wUy4YWmg3d
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://tinyurl.com/5r8k8eph
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest/scale-to-width-down/250?cb=20190708072015",B4U MUSIC
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/B4U-Music.png",B4U MUSIC
 http://tinyurl.com/bp5xv7wa
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/10/Watch-ieTV-Channel-1-Live-TV-from-Trinidad-and-Tobago.jpg",IETV 
 https://tinyurl.com/548zkdx6
@@ -1669,9 +1669,9 @@ https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://is.gd/TNL5l3",Telesol (720p) [Not 24/7]
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://is.gd/TNL5l3",TeleSUR (1080p)
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://is.gd/TNL5l3",TeleSUR English (1080p) [Not 24/7]
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://is.gd/TNL5l3",Televen (1080p)
 https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 #EXTINF:-1 group-title="Venezuela" tvg-logo="https://is.gd/TNL5l3",Televisora de Oriente (406p)
@@ -3784,8 +3784,6 @@ https://thelonestarchannel-localnow-cinedigm-com.akamaized.net/index.m3u8
 https://gsn-cinevault-westerns-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://westernschannel.com/wp-content/uploads/2019/10/Westerns-Channel-youtube-logo.png",The Western Channel
 https://hls.showfer.com/stream/6346d9b5554328cd4b6c036a/airy.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://ae01.alicdn.com/kf/HTB15PBtSVXXXXXOXXXXq6xXFXXXX/Cloud-Sunset-Wild-West-Dallas-Cowboys-Scene-Theme-Party-backdrop-Vinyl-cloth-High-quality-Computer-printed.jpg_640x640.jpg",Now WILD WEST
-https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg",Westerns TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/65/USBA300005MK_20220621T075928.png",Pluto TV Westerns
@@ -4864,287 +4862,287 @@ http://195.26.87.217/live.ts?channelId=125451&uid=3453&deviceMac=00:1A:79:01:04:
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d2cx26qpfwuhvu.cloudfront.net/sixnations/wp-content/uploads/2018/12/18114021/src_patterns_source_images_SuperSport-2-300x300.png",SuperSport Variety 4
 http://195.26.87.217/live.ts?channelId=125452&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Cricket
-http://51.158.36.57:80/live.ts?channelId=123&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=123&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Cricket 2
-http://51.159.220.138:80/live.ts?channelId=124&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=124&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS F1
-http://51.159.220.137:80/live.ts?channelId=126&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=126&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS F1 2
-http://51.159.212.25:80/live.ts?channelId=127&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=127&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Football
-http://51.159.214.185:80/live.ts?channelId=129&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=129&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Football 2
-http://51.159.194.110:80/live.ts?channelId=130&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=130&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Golf
-http://51.158.36.57:80/live.ts?channelId=132&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=132&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Golf 2
-http://51.159.220.138:80/live.ts?channelId=133&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=133&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Main Event
-http://51.159.220.137:80/live.ts?channelId=135&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=135&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Main Event 2
-http://51.159.212.25:80/live.ts?channelId=136&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=136&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Mix
-http://51.159.214.185:80/live.ts?channelId=138&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=138&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Mix 2
-http://51.159.194.110:80/live.ts?channelId=139&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=139&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Prem L
-http://51.158.36.57:80/live.ts?channelId=141&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=141&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Prem L 2
-http://51.159.220.138:80/live.ts?channelId=142&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=142&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Racing
-http://51.159.220.137:80/live.ts?channelId=144&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=144&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Racing 2
-http://51.159.212.25:80/live.ts?channelId=145&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=145&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS News
-http://51.159.214.185:80/live.ts?channelId=147&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=147&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS News 2
-http://51.159.194.110:80/live.ts?channelId=148&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=148&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Box Office 1
-http://51.158.36.57:80/live.ts?channelId=150&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=150&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Box Office 2
-http://51.159.220.138:80/live.ts?channelId=151&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=151&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Box Office 3
-http://51.159.220.137:80/live.ts?channelId=152&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=152&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SKY Box Office 4
-http://51.159.212.25:80/live.ts?channelId=153&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=153&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Action UHD
-http://51.159.214.185:80/live.ts?channelId=154&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=154&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Arena UHD
-http://51.159.194.110:80/live.ts?channelId=155&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=155&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Cricket UHD
-http://51.158.36.57:80/live.ts?channelId=156&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=156&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS F1 UHD
-http://51.159.220.138:80/live.ts?channelId=157&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=157&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Football UHD
-http://51.159.220.137:80/live.ts?channelId=158&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=158&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Golf  UHD
-http://51.159.212.25:80/live.ts?channelId=159&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=159&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Main Event UHD
-http://51.159.214.185:80/live.ts?channelId=160&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=160&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Mix  UHD
-http://51.159.194.110:80/live.ts?channelId=161&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=161&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Premier League UHD
-http://51.158.36.57:80/live.ts?channelId=163&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=163&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SS Racing UHD
-http://51.159.220.138:80/live.ts?channelId=164&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=164&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 1
-http://51.159.220.137:80/live.ts?channelId=165&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=165&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 1.2
-http://51.159.212.25:80/live.ts?channelId=166&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=166&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 2
-http://51.159.214.185:80/live.ts?channelId=168&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=168&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 2.2
-http://51.159.194.110:80/live.ts?channelId=169&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=169&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 3
-http://51.158.36.57:80/live.ts?channelId=171&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=171&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 3.2
-http://51.159.220.138:80/live.ts?channelId=172&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=172&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 4
-http://51.159.220.137:80/live.ts?channelId=174&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=174&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT 4.2
-http://51.159.212.25:80/live.ts?channelId=175&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=175&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Box Office FHD
-http://51.159.214.185:80/live.ts?channelId=177&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=177&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Box Office SD
-http://51.159.194.110:80/live.ts?channelId=178&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=178&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Box Office HD
-http://51.158.36.57:80/live.ts?channelId=179&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=179&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 1
-http://51.159.220.138:80/live.ts?channelId=180&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=180&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 2
-http://51.159.220.137:80/live.ts?channelId=181&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=181&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 3
-http://51.159.212.25:80/live.ts?channelId=182&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=182&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT SPORTS BOX OFFICE 4
-http://51.159.214.185:80/live.ts?channelId=183&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=183&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 1 UHD
-http://51.159.194.110:80/live.ts?channelId=184&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=184&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 2 UHD
-http://51.158.36.57:80/live.ts?channelId=185&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=185&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 3 UHD
-http://51.159.220.138:80/live.ts?channelId=186&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=186&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",TNT Sport 4 UHD
-http://51.159.220.137:80/live.ts?channelId=187&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=187&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",MUTV
-http://51.159.220.138:80/live.ts?channelId=188&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=188&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",LFC TV
-http://51.159.212.25:80/live.ts?channelId=189&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=189&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Premier Sports 1
-http://51.159.214.185:80/live.ts?channelId=190&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=190&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Premier Sports 2
-http://51.159.194.110:80/live.ts?channelId=191&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=191&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Racing TV
-http://51.158.36.57:80/live.ts?channelId=192&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=192&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Eurosports 1
-http://51.159.220.138:80/live.ts?channelId=193&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=193&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Eurosports 2
-http://51.159.220.137:80/live.ts?channelId=194&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=194&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",UFC 24/7
-http://51.159.220.137:80/live.ts?channelId=203&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=203&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WWE usa
-http://51.159.212.25:80/live.ts?channelId=204&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=204&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WWE NETWORK
-http://51.159.214.185:80/live.ts?channelId=205&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=205&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WWE
-http://51.159.194.110:80/live.ts?channelId=206&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=206&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Viaplay 1
-http://51.158.36.57:80/live.ts?channelId=207&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=207&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Viaplay 2
-http://51.159.220.138:80/live.ts?channelId=208&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=208&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sporty stuff TV
-http://51.159.220.137:80/live.ts?channelId=209&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=209&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",WORLD FISHING NETWORK
-http://51.159.212.25:80/live.ts?channelId=210&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=210&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Willow Cricket
-http://51.159.214.185:80/live.ts?channelId=211&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=211&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Sky Sport Moto GP IT
-http://51.159.194.110:80/live.ts?channelId=212&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=212&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBC GOLF
-http://51.158.36.57:80/live.ts?channelId=213&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=213&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Golf Channel
-http://51.159.220.138:80/live.ts?channelId=214&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=214&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Movistar Golf ESP
-http://51.159.220.137:80/live.ts?channelId=215&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=215&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",MOTO GP canal+
-http://51.159.212.25:80/live.ts?channelId=216&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=216&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock NBC Sports
-http://51.159.194.110:80/live.ts?channelId=436&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=436&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock remier League
-http://51.159.194.110:80/live.ts?channelId=437&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=437&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock WWE Network
-http://51.159.194.110:80/live.ts?channelId=438&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=438&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock Golf Pass
-http://51.159.194.110:80/live.ts?channelId=439&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=439&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Peacock NFL Network Channel
-http://51.159.194.110:80/live.ts?channelId=440&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=440&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Action
-http://51.159.220.137:80/live.ts?channelId=995&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=995&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Blitz
-http://51.159.220.137:80/live.ts?channelId=996&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=996&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Cricket
-http://51.159.220.137:80/live.ts?channelId=998&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=998&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Football
-http://51.159.220.137:80/live.ts?channelId=999&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=999&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Golf
-http://51.159.220.137:80/live.ts?channelId=1000&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1000&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Grandstand
-http://51.159.220.137:80/live.ts?channelId=1001&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1001&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport LaLiga
-http://51.159.220.137:80/live.ts?channelId=1002&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1002&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Maximo
-http://51.159.220.137:80/live.ts?channelId=1003&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1003&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Motorsport
-http://51.159.220.137:80/live.ts?channelId=1004&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1004&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Premier League
-http://51.159.220.137:80/live.ts?channelId=1005&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1005&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport PSL
-http://51.159.220.137:80/live.ts?channelId=1006&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1006&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Rugby
-http://51.159.220.137:80/live.ts?channelId=1007&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1007&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Tennis
-http://51.159.220.137:80/live.ts?channelId=1008&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1008&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 1
-http://51.159.220.137:80/live.ts?channelId=1009&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1009&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 2
-http://51.159.220.137:80/live.ts?channelId=1010&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1010&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 3
-http://51.159.220.137:80/live.ts?channelId=1011&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1011&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",SuperSport Variety 4
-http://51.159.220.137:80/live.ts?channelId=1012&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.137:80/live.ts?channelId=1012&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 1 EN HD
-http://51.159.212.25:80/live.ts?channelId=1081&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=1081&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 2 EN HD
-http://51.158.36.57:80/live.ts?channelId=1082&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1082&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 3 EN HD
-http://51.158.36.57:80/live.ts?channelId=1083&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1083&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS PREMIUM 1 HD
-http://51.158.36.57:80/live.ts?channelId=1084&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1084&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS PREMIUM 2 HD
-http://51.158.36.57:80/live.ts?channelId=1085&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1085&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS PREMIUM 3 HD
-http://51.158.36.57:80/live.ts?channelId=1086&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1086&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS CANADA
-http://51.158.36.57:80/live.ts?channelId=1087&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1087&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS USA
-http://51.158.36.57:80/live.ts?channelId=1088&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1088&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",bein sports 1
-http://51.159.194.110:80/live.ts?channelId=1089&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.194.110:80/live.ts?channelId=1089&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 2
-http://51.159.212.25:80/live.ts?channelId=1090&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.212.25:80/live.ts?channelId=1090&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",Bein Sports 3
-http://51.158.36.57:80/live.ts?channelId=1091&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1091&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 4
-http://51.158.36.57:80/live.ts?channelId=1092&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1092&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 5
-http://51.158.36.57:80/live.ts?channelId=1093&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1093&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 6
-http://51.158.36.57:80/live.ts?channelId=1094&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1094&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 7
-http://51.158.36.57:80/live.ts?channelId=1095&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1095&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 8
-http://51.158.36.57:80/live.ts?channelId=1096&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1096&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",BEIN SPORTS 9
-http://51.158.36.57:80/live.ts?channelId=1097&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.158.36.57:80/live.ts?channelId=1097&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Washington Wizards
-http://51.159.220.138:80/live.ts?channelId=1121&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1121&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Utah Jazz
-http://51.159.220.138:80/live.ts?channelId=1122&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1122&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Toronto Raptors
-http://51.159.220.138:80/live.ts?channelId=1123&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1123&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA San Antonio Spurs
-http://51.159.220.138:80/live.ts?channelId=1124&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1124&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Sacramento Kings
-http://51.159.220.138:80/live.ts?channelId=1125&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1125&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Portland Trail Blazers
-http://51.159.220.138:80/live.ts?channelId=1126&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1126&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Phoenix Suns
-http://51.159.220.138:80/live.ts?channelId=1127&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1127&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Philadelphia 76ers
-http://51.159.220.138:80/live.ts?channelId=1128&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1128&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Orlando Magic
-http://51.159.220.138:80/live.ts?channelId=1129&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1129&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Oklahoma City Thunder
-http://51.159.220.138:80/live.ts?channelId=1130&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1130&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA New York Knicks
-http://51.159.220.138:80/live.ts?channelId=1131&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1131&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA New Orleans Pelicans
-http://51.159.220.138:80/live.ts?channelId=1132&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1132&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Minnesota Timberwolves
-http://51.159.220.138:80/live.ts?channelId=1133&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1133&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Milwaukee Bucks
-http://51.159.220.138:80/live.ts?channelId=1134&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1134&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Miami Heat
-http://51.159.220.138:80/live.ts?channelId=1135&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.220.138:80/live.ts?channelId=1135&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Memphis Grizzlies
-http://51.159.214.185:80/live.ts?channelId=1136&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1136&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Los Angeles Lakers
-http://51.159.214.185:80/live.ts?channelId=1137&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1137&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Los Angeles Clippers
-http://51.159.214.185:80/live.ts?channelId=1138&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1138&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Indiana Pacers
-http://51.159.214.185:80/live.ts?channelId=1139&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1139&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Houston Rockets
-http://51.159.214.185:80/live.ts?channelId=1140&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1140&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Golden State Warriors
-http://51.159.214.185:80/live.ts?channelId=1141&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1141&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Detroit Pistons
-http://51.159.214.185:80/live.ts?channelId=1142&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1142&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Denver Nuggets
-http://51.159.214.185:80/live.ts?channelId=1143&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1143&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Dallas Mavericks
-http://51.159.214.185:80/live.ts?channelId=1144&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1144&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Cleveland Cavaliers
-http://51.159.214.185:80/live.ts?channelId=1145&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1145&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Chicago Bulls
-http://51.159.214.185:80/live.ts?channelId=1146&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1146&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Charlotte Hornets
-http://51.159.214.185:80/live.ts?channelId=1147&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1147&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Brooklyn Nets
-http://51.159.214.185:80/live.ts?channelId=1148&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1148&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Boston Celtics
-http://51.159.214.185:80/live.ts?channelId=1149&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1149&deviceUser=Kieran&devicePass=Kieran&uid=16767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pinclipart.com/picdir/big/498-4984752_sports-balls-clip-art-png-download.png",NBA Atlanta Hawks
-http://51.159.214.185:80/live.ts?channelId=1150&deviceUser=grahame&devicePass=grahame&uid=16767
+http://51.159.214.185:80/live.ts?channelId=1150&deviceUser=Kieran&devicePass=Kieran&uid=16767
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC BLACK
 http://168.205.87.198:8555/live/1858/123456/232.ts
@@ -6102,12 +6100,8 @@ https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qw
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Retro Crush
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Scream Factory TV
-https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Shout Factory TV
 https://amg00163-shoutfactory-shoutfactory-dmr-maeqc.amagi.tv/playlist/amg00163-shoutfactory-shoutfactory-dmr/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Shout! Cult
-https://837dd61e3fed471fbbe33391a57920d4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ShoutCult/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",So...Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",The Bob Ross Channel
@@ -6124,62 +6118,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elvis-cinever
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Tokushoutsu
 https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Univision East
-http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",USA Network
-http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Oxygen True Crime
-http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Tennis Channel
-http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Paramount Network
-http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Outdoor Channel
-http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NFL Network
-http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBA TV
-http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",National Geographic
-http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MLB Network
-http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MeTV
-http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Lifetime
-http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ION Television
-http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",History Channel
-http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Hallmark Channel
-http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Grit
-http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NBC Golf
-http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FXX
-http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX Sports 2
-http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX Sports 1
-http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX 26 Houston
-http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FOX Deportes
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BIG 10 Network
-http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",E!
-http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",CBS Sports Network
-http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bravo
-http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ACC Network
-http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",ABC 12 San Antonio
-http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Bloody Disgusting (1080p)
 https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Comedy Dynamics (1080p)
@@ -6194,79 +6132,4 @@ https://soreal-tcl.amagi.tv/playlist.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Young Hollywood (720p)
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4aceTV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/N55LT0GGXOUT6SC3GJN7/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4AceTV Classic Hits
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VFEHH3ML20PMYQM0QEPB/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Boxing Spotlight
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/MFPMKUC1334WQWFRMWJS/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BritBash
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/B0N2RKNLPI90VOMKRWP5/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",BViral
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BSPP9VVZ6Q13FY9VIMAJ/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",CarbonTV
-https://amg01570-carbontv-carbontvono-ono-hnsm8.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Comedy Classics
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7D8WMUS89AUJL8LS2FEM/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cookin' With Cutty
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/HK6BNXZNIQV2OE952NXO/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Cowboy Classics
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JKOMXYIN5MJLO8CCY8PY/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Daily Flash
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/YPH2P0WNTGPF9F59UGKQ/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FightTVPlus
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ZXY8N7D0P26W4DNY1WHH/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",FiredUp Network
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/YNTSHCEMZVA2YY9BW2Z8/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Fitness Rewind by Collage Video
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/E5ZKRFOTGGMZMYXLCD92/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Food TV by Binge
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VXRZC2P7GTRKJSEK9TA0/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",GTR24H
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/W7408AQYRK1M2N1QCID1/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",History Film Channel
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Y9C44IJB757LLGCV72YA/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",IP FAMBA
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WEZC6GVF17GPC4D2T4Y9/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Iron Dragon TV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/SBD0KWL6X3K3LHM0UJHQ/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Jour
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2N7S9ZRV4EQAJVLMISIH/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Kick Sports News
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2ERRPZTG6RYWL98BUO8Z/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Land of Floof
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/KU5WJ5PWG4IO7XT9UH0N/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Lifestyle by Binge
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TGHMDGWK71ARM14CUY4P/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",MMA Futures
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VX0VZ8RN1Z6LOX4QG1OZ/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",NewsNet
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/PI1QOXKLKW1ORTHXUZ5I/playlist.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Old West TV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Y680WOKGZK0LH808PJB1/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Only Good TV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/F8YTOTWFVMWGLTQBP7FG/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Paranormal HQ
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RX1RTG1LAUCGQTEDU05N/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Passion River TV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/SN0XFHJ9GK44DXNRW549/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Skull Bound TV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/83JW9CE1L3J234Z5J8BB/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",SportsTVPlus
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/XSJFWT5YF4UTW38VBLGF/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",TRACE Sport Stars
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Q6ZILPXDVMWLTQLVUCFZ/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Travel & Food TV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/T420R0VX84F3KVTP12B2/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Turnpike Sports
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/G3A7XRHG3C3W17NX6RBT/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",United Fight Alliance
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/8L421BQ0E926VLTDD4YE/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Urban Action Channel
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/0YRJL9FV095EDJ1JBBI6/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Wrestling Spotlight
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/FZYO537M5ZKAF4MJYX4J/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Xcorps
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TH9UEZK83FAAN5WF4O7A/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",Yoga Fit
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/GDRQZYJ35R11FPW6F3FT/hls3/now_-1m_15s/m.m3u8
+
