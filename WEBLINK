@@ -41,7 +41,7 @@ https://is.gd/98qrJK
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://caribbeanworldchannel.com/wp-content/uploads/2022/09/CWCTV-New-logo.png",WESN
 https://tinyurl.com/bdfjsb5p
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://jamaicaonlinetv.com/wp-content/uploads/2021/05/Untitled-1.png",Jamaica Online TV (1080p)
-https://hls-cdn.tvstartup11.net/tvstartup11-channel/live/mp4:jotvedge/playlist.m3u8
+https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",Caribbean Gospel TV (1080p)
 https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.captainmorgans.com/wp-content/uploads/2018/11/caribbean-icon-300x300.png",TTT HD
@@ -1561,7 +1561,7 @@ https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://freeetv.com/images/01_logo/christian_youth_channel_usa.jpg",Christian Youth Channel (CYC)
 https://5b622f07944df.streamlock.net/cycnow.com/cyc.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg",3ABN Kids Network
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8 
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/05/cropped-mtm-globe.png",MTM TV (720p)
 https://wowza.btbn.tv:5443/mtmtv/streams/live.m3u8
 
@@ -3651,57 +3651,57 @@ http://tinyurl.com/2nbx3fuh
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Anime_Network_2014_logo.png",ANIME
 http://tinyurl.com/2awvjyma
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/aa7be678.jpg",Baby TV
-http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg",Boomerang
-http://195.26.87.217/live.ts?channelId=243&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=243&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonito.jpg",Cartoonito
-http://195.26.87.217/live.ts?channelId=247&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=247&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network Hindi
-http://195.26.87.217/live.ts?channelId=244&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=244&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network UK FHD
-http://195.26.87.217/live.ts?channelId=245&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=245&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network USA FHD
-http://195.26.87.217/live.ts?channelId=246&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=246&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/CBeebies.png",CBeeBies FHD
-http://195.26.87.217/live.ts?channelId=248&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=248&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/9ce4f63e",Disney Channel FHD
-http://195.26.87.217/live.ts?channelId=249&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=249&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/c1280ca4",Disney Junior FHD
-http://195.26.87.217/live.ts?channelId=250&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=250&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/4fc2a98b",Disney XD FHD
-http://195.26.87.217/live.ts?channelId=251&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=251&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://logopond.com/logos/b683ab7538c677bf1bc93848a9545644.png",KIDS TV
-http://195.26.87.217/live.ts?channelId=123913&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=123913&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/1277436f-e4cc-4485-bbe9-d65039f78028/1005123036/kids-tv-gd3-logo",KIDS TV NURSERY RHYMES AND BABY SONGS
-http://195.26.87.217/live.ts?channelId=123914&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=123914&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a807ee7a",Nickelodeon FHD
-http://195.26.87.217/live.ts?channelId=254&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=254&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/dc96b2fb",Nick Jr. FHD
-http://195.26.87.217/live.ts?channelId=252&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=252&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/8c0b7abf",Nick Jr. too
-http://195.26.87.217/live.ts?channelId=253&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=253&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/bbb73c52.jpg",NickToons
-http://195.26.87.217/live.ts?channelId=255&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=255&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/POGOHINDI.png",Pogo
-http://195.26.87.217/live.ts?channelId=256&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=256&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/d722a848",Pop
-http://195.26.87.217/live.ts?channelId=257&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=257&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/popmax.uk.png",POP MAX+1
-http://195.26.87.217/live.ts?channelId=38625&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=38625&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/11/nick-and-sonic-logos-1-2.jpg",Sonic Nickelodeon
-http://195.26.87.217/live.ts?channelId=40476&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=40476&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png",Sony YAY!
-http://195.26.87.217/live.ts?channelId=78849&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=78849&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/88d83eb.png",TeleToon
-http://195.26.87.217/live.ts?channelId=72428&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=72428&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/5d74c008",Tiny Pop
-http://195.26.87.217/live.ts?channelId=259&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=259&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/016dcb7.png",Treehouse TV
-http://195.26.87.217/live.ts?channelId=102888&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=102888&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://tv.cloudcdn.me/images/af1466fbx.png",WOW KID
-http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://storage.googleapis.com/techsauce-prod/uploads/2019/08/netflix-disney.png" group-title="KIDS" ,Netflix Disney
-http://195.26.87.217/live.ts?channelId=46036&uid=2568&deviceMac=00:1A:79:0E:F8:2D
+http://195.26.87.217/live.ts?channelId=46036&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/QNwbBzzC/Happy-Kids.png",HAPPY KIDS Jr
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png",Young Hollywood 
@@ -5707,116 +5707,186 @@ http://181.78.105.146:8800/play/a01v
 http://181.78.105.146:8800/play/a009
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",tv agro
 http://181.78.105.146:8800/play/a07t
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AQUITANIA SERVIDOR
-http://177.93.44.174:8900/play/11234
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CINE H
-http://177.93.44.174:8900/play/a01y
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MMH
-http://177.93.44.174:8900/play/a020
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MMKPOP
-http://177.93.44.174:8900/play/a01z
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg", CINE FAMILIAR
-http://177.93.44.174:8900/play/a019
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",A&E HD
-http://177.93.44.174:8900/play/a002
+http://190.61.55.186:1010/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AMC HD
-http://177.93.44.174:8900/play/a00l
+http://190.61.55.186:1010/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",AXN HD
-http://177.93.44.174:8900/play/a005
+http://190.61.55.186:1010/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",America TV HD
+http://190.61.55.186:1010/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Animal Planet HD
-http://177.93.44.174:8900/play/a00p
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",C IN
-http://177.93.44.174:8900/play/a021
+http://190.61.55.186:1010/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Baby TV
+http://190.61.55.186:1010/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CANAL 1 IP TDT
+http://190.61.55.186:1010/play/478/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CARTOONITO IP 
+http://190.61.55.186:1010/play/714/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNN Chile HD
+http://190.61.55.186:1010/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNN Espaæol
+http://190.61.55.186:1010/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",CNN International
+http://190.61.55.186:1010/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal  Capital
+http://190.61.55.186:1010/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal Institucional
+http://190.61.55.186:1010/play/a026/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal Institucional HD
+http://190.61.55.186:1010/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Canal TRO
+http://190.61.55.186:1010/play/a028/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Caracol HD
-http://177.93.44.174:8900/play/a01s
+http://190.61.55.186:1010/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cartoon Network HD
+http://190.61.55.186:1010/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinecanal HD
-http://177.93.44.174:8900/play/a025
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",De PelŦcula
-http://177.93.44.174:8900/play/a01m
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Channel HD
-http://177.93.44.174:8900/play/a00u
+http://190.61.55.186:1010/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinecanal IP
+http://190.61.55.186:1010/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinemax HD
+http://190.61.55.186:1010/play/a022/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cinemax IP
+http://190.61.55.186:1010/play/412/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",City TV
+http://190.61.55.186:1010/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Comedy Central
+http://190.61.55.186:1010/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Comedy Central HD
+http://190.61.55.186:1010/play/a023/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Cristovisiðn
+http://190.61.55.186:1010/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DISNEY JUNIOR IP
+http://190.61.55.186:1010/play/458/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",DW (Deutsch +)
+http://190.61.55.186:1010/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery H&H HD
-http://177.93.44.174:8900/play/a00d
+http://190.61.55.186:1010/play/a002/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery HD
+http://190.61.55.186:1010/play/a018/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Kids HD
-http://177.93.44.174:8900/play/a00c
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Science
-http://177.93.44.174:8900/play/a01l
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Turbo
-http://177.93.44.174:8900/play/a01j
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney Channel
-http://177.93.44.174:8900/play/a00x
+http://190.61.55.186:1010/play/a001/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery Theater HD
+http://190.61.55.186:1010/play/a003/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Discovery World HD
+http://190.61.55.186:1010/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Disney HD
+http://190.61.55.186:1010/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",E! HD
-http://177.93.44.174:8900/play/a00r
+http://190.61.55.186:1010/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 2 HD
-http://177.93.44.174:8900/play/a01k
+http://190.61.55.186:1010/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 2 HD
+http://190.61.55.186:1010/play/a02s/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 3 HD
-http://177.93.44.174:8900/play/a009
+http://190.61.55.186:1010/play/a01x/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN 4 HD
-http://177.93.44.174:8900/play/a00g
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN EXTRA HD
-http://177.93.44.174:8900/play/a00m
+http://190.61.55.186:1010/play/a006/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ESPN HD
-http://177.93.44.174:8900/play/a00q
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",El Gourmet
-http://177.93.44.174:8900/play/a00z
+http://190.61.55.186:1010/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",EWTN IP 
+http://190.61.55.186:1010/play/88/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",El Gourmet HD
+http://190.61.55.186:1010/play/a025/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Enlace
+http://190.61.55.186:1010/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FOX Sports 2 HD
-http://177.93.44.174:8900/play/a00h
+http://190.61.55.186:1010/play/a007/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",FX HD
-http://177.93.44.174:8900/play/a00i
+http://190.61.55.186:1010/play/a009/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Food Network HD
-http://177.93.44.174:8900/play/a00s
+http://190.61.55.186:1010/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Sports 1 HD
+http://190.61.55.186:1010/play/a019/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Fox Sports 3 HD
-http://177.93.44.174:8900/play/a00a
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden
-http://177.93.44.174:8900/play/a027
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HGTV
-http://177.93.44.174:8900/play/a00y
+http://190.61.55.186:1010/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GOLPERU
+http://190.61.55.186:1010/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GOLPERU HD
+http://190.61.55.186:1010/play/a010/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",GolTV HD
+http://190.61.55.186:1010/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Golden HD
+http://190.61.55.186:1010/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",HOLA TV HD
+http://190.61.55.186:1010/play/a01v/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History 2 HD
-http://177.93.44.174:8900/play/a00v
+http://190.61.55.186:1010/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",History Channel HD
-http://177.93.44.174:8900/play/a001
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",ID HD
-http://177.93.44.174:8900/play/a00b
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",LA D
-http://177.93.44.174:8900/play/a018
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Las Estrellas
-http://177.93.44.174:8900/play/a022
+http://190.61.55.186:1010/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Las Estrellas HD
+http://190.61.55.186:1010/play/a017/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Latina HD
-http://177.93.44.174:8900/play/a00t
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Love Nature HD
-http://177.93.44.174:8900/play/a01r
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MMR
-http://177.93.44.174:8900/play/a01b
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MP
-http://177.93.44.174:8900/play/a01a
+http://190.61.55.186:1010/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Lolly Kids HD
+http://190.61.55.186:1010/play/a011/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MEGA HD
+http://190.61.55.186:1010/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",MTV 00s
+http://190.61.55.186:1010/play/a021/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Movistar Deportes HD
+http://190.61.55.186:1010/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nat Geo HD
-http://177.93.44.174:8900/play/a00j
+http://190.61.55.186:1010/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Nick HD
-http://177.93.44.174:8900/play/a008
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",PICOSA TV
-http://177.93.44.174:8900/play/a028
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",PICOSA TV (clone)
-http://177.93.44.174:8900/play/a029
+http://190.61.55.186:1010/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Paramount HD
-http://177.93.44.174:8900/play/a00n
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN SD
-http://177.93.44.174:8900/play/a01u
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SPORTSVISION
-http://177.93.44.174:8900/play/a024
+http://190.61.55.186:1010/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Pasiones
+http://190.61.55.186:1010/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Pasiones HD
+http://190.61.55.186:1010/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN HD
+http://190.61.55.186:1010/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",RCN HD IP TDT
+http://190.61.55.186:1010/play/954/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",STAR CHANNEL HD
-http://177.93.44.174:8900/play/a00e
-#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",SURAM TV
-http://177.93.44.174:8900/play/a01q
+http://190.61.55.186:1010/play/a004/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Señal Colombia HD
+http://190.61.55.186:1010/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Sony HD
-http://177.93.44.174:8900/play/a003
+http://190.61.55.186:1010/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Space HD
+http://190.61.55.186:1010/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Studio Universal HD
-http://177.93.44.174:8900/play/a00o
+http://190.61.55.186:1010/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TELEMUNDO IP
+http://190.61.55.186:1010/play/654/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT
+http://190.61.55.186:1010/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT HD
+http://190.61.55.186:1010/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT SPORTS HD
+http://190.61.55.186:1010/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TNT Series HD
+http://190.61.55.186:1010/play/a008/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TRUTV HD
+http://190.61.55.186:1010/play/a024/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",TVN HD
+http://190.61.55.186:1010/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Teleantioquia
+http://190.61.55.186:1010/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telecafe
+http://190.61.55.186:1010/play/a029/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telecaribe
+http://190.61.55.186:1010/play/a027/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Telepacifico
+http://190.61.55.186:1010/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Tooncast
+http://190.61.55.186:1010/play/a02k/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",UNIVERSAL CHANNEL HD
-http://177.93.44.174:8900/play/a00f
+http://190.61.55.186:1010/play/a005/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",VENEVISION  IP
+http://190.61.55.186:1010/play/745/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Warner Channel HD
-http://177.93.44.174:8900/play/a004
+http://190.61.55.186:1010/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Win Sports
+http://190.61.55.186:1010/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Win Sports HD
-http://177.93.44.174:8900/play/a007
+http://190.61.55.186:1010/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Latino" tvg-logo="https://topmedialive.com/wp-content/uploads/IPTV-Latino-1.jpg",Win Sports+ HD
+http://190.61.55.186:1010/play/a00n/index.m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://www.iptvtest.nl/image/cache/catalog/iptv-server/iptv-test-1100x1100w.jpg",4 Adventure (1080p)
 https://lnc-4adventure.tubi.video/playlist.m3u8
