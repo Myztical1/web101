@@ -1,45 +1,45 @@
 #EXTINF:-1,#EXTM3U
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT
-http://tinyurl.com/55nrvxhz
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
-http://tinyurl.com/5kf8a62
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
-https://tinyurl.com/3ekr5m8s
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
-http://tinyurl.com/5e97sdrp
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",PARLIAMENT CHANNEL
-http://tinyurl.com/h8yusmc7
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
-http://tinyurl.com/3dw8zsf9
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
-https://tinyurl.com/5fdkywa8
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-http://tinyurl.com/7nt85p83
+http://ip365.cx/t12mgxyb335/9832948789/195830
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-http://tinyurl.com/mr446kwm
+https://tvnow.best/api/stream/yale/yale/livetv.epg/cnc3.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-https://tinyurl.com/4v5tf8rj/195830
+http://starshare.live:8080/live/564987/564987/154137.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-http://tinyurl.com/yem5zrzj
+http://ip365.cx/t12mgxyb335/9832948789/268269
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-http://tinyurl.com/3zfvjumm
+https://tvnow.best/api/stream/yale/yale/livetv.epg/ccn.tv6.tt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-https://tinyurl.com/4v5tf8rj/268269
+http://starshare.live:8080/live/564987/564987/154303.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-http://tinyurl.com/2e72m3kn
+http://ip365.cx:80/t12mgxyb335/9832948789/400200042
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-http://tinyurl.com/2s4zpcdv
+https://tvnow.best/api/stream/yale/yale/livetv.epg/ttt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-https://tinyurl.com/4v5tf8rj/400200042
+http://starshare.live:8080/live/564987/564987/154489.ts
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",SYNERGY TV
-http://tinyurl.com/yc4jh3sm
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
-https://tinyurl.com/5fx7yt3m
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://pbs.twimg.com/profile_images/1446863458276978688/0NK836lT.jpg",Tobago Updates
 https://is.gd/98qrJK
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209566_wesn.png",WESN
-https://tinyurl.com/bdfjsb5p
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",Caribbean Gospel TV (1080p)
 https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ttt.png",TTT HD
