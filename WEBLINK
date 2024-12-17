@@ -852,7 +852,7 @@ http://httpstreamer01.dc1.airlinktt.co/ttorigin07/live/smil:BORDER.smil/playlist
 http://httpstreamer01.dc1.airlinktt.co/ttorigin01/live/smil:MILLENIUM.smil/playlist.m3u8
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://1.bp.blogspot.com/-Yq9ZtaASPC0/UthQqNFGAqI/AAAAAAAAAUI/BI8_SzaEM4g/s1600/Big%2Bbeat%2BAFRICA.jpg",BEATS TV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BEATS.smil/playlist.m3u8
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/sun-tv-logo-1.png",SUN TV
+#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg",SUN TV
 http://httpstreamer01.dc1.airlinktt.co/ttorigin07/live/smil:REMBO.smil/playlist.m3u8
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://image.roku.com/developer_channels/prod/ee791e088375d78608bf4e6a90cc046ebc639f3082e3971a997233c969068cb4.png",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al.m3u8
@@ -860,94 +860,6 @@ https://alt-al.otteravision.com/alt/al/al.m3u8
 https://is.gd/ILfsW6
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Afrotainment.png",AFRO
 http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165251
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Africa Magic Family
-http://starshare.live:8080/live/486287/486287/170647.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",AfricaMagic Epic
-http://starshare.live:8080/live/486287/486287/170649.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Afro Music Pop
-http://starshare.live:8080/live/486287/486287/170650.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",CNBC Africa
-http://starshare.live:8080/live/486287/486287/170658.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",CBS Justice
-http://starshare.live:8080/live/486287/486287/170655.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",CBS Reality
-http://starshare.live:8080/live/486287/486287/170656.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Curiosity Channel
-http://starshare.live:8080/live/486287/486287/170659.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Da Vinci
-http://starshare.live:8080/live/486287/486287/170660.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Daystar
-http://starshare.live:8080/live/486287/486287/170661.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Discovery Channel
-http://starshare.live:8080/live/486287/486287/170662.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Discovery Family
-http://starshare.live:8080/live/486287/486287/170663.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",DOVE TV
-http://starshare.live:8080/live/486287/486287/170664.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Emmanuel TV
-http://starshare.live:8080/live/486287/486287/170665.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",EWTN
-http://starshare.live:8080/live/486287/486287/170668.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",FAITH
-http://starshare.live:8080/live/486287/486287/170669.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",HISTORY
-http://starshare.live:8080/live/486287/486287/170671.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Honey
-http://starshare.live:8080/live/486287/486287/170672.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Investigation Discovery
-http://starshare.live:8080/live/486287/486287/170673.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",KIX
-http://starshare.live:8080/live/486287/486287/171889.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Maisha Magic BONGO
-http://starshare.live:8080/live/486287/486287/171896.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Maisha Magic East
-http://starshare.live:8080/live/486287/486287/171897.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Me
-http://starshare.live:8080/live/486287/486287/171898.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Mindset
-http://starshare.live:8080/live/486287/486287/171899.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",MTV
-http://starshare.live:8080/live/486287/486287/171900.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",NHK
-http://starshare.live:8080/live/486287/486287/171903.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Pearl Magic
-http://starshare.live:8080/live/486287/486287/171907.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",PLUS TV Africa
-http://starshare.live:8080/live/486287/486287/171908.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",RAI Italia
-http://starshare.live:8080/live/486287/486287/171909.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Real Time
-http://starshare.live:8080/live/486287/486287/171910.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",RTP Internacional
-http://starshare.live:8080/live/486287/486287/171911.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Star Life
-http://starshare.live:8080/live/486287/486287/171919.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TBN Africa
-http://starshare.live:8080/live/486287/486287/171921.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Teen Africa TV
-http://starshare.live:8080/live/486287/486287/171922.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Telemundo
-http://starshare.live:8080/live/486287/486287/171923.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TLC Entertainment
-http://starshare.live:8080/live/486287/486287/171924.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TLNovelas
-http://starshare.live:8080/live/486287/486287/171925.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TNT Africa
-http://starshare.live:8080/live/486287/486287/171926.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TRACE Gospel
-http://starshare.live:8080/live/486287/486287/171927.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TRACE Jama
-http://starshare.live:8080/live/486287/486287/171928.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TRACE Muzika
-http://starshare.live:8080/live/486287/486287/171929.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TRACE Mziki
-http://starshare.live:8080/live/486287/486287/171930.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TRACE Naija
-http://starshare.live:8080/live/486287/486287/171931.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",Trybe TV
-http://starshare.live:8080/live/486287/486287/171932.ts
-#EXTINF:-1 group-title="AFRICA" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d4/DStv.png",TV Mundial
-http://starshare.live:8080/live/486287/486287/171933.ts
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
@@ -3300,11 +3212,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd0000
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
-http://fortv.cc:8080/paul01/paul01/119435
+http://fortv.cc:8080/FJ7b1k/037357/119435
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
 https://is.gd/eQBQub
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/3802
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-western-logo.jpg",PinkWestern
 https://tvnow.best/api/stream/yale/yale/livetv.epg/pink.western.rs.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png",CALA WESTERN
@@ -3778,6 +3690,152 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
 https://is.gd/fIC80r
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD Backup
 https://is.gd/3pj8sV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://studionetworksolutions.com/wp-content/uploads/2013/03/sportsmax-logo.png",SPORTSMAX 1 Backup
+http://fortv.cc:8080/xGSh0a/969113/99569
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2 Backup
+http://fortv.cc:8080/xGSh0a/969113/119471
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.top4top.io/p_2473omzjs1.png",STARZPLAY CricLife 1 (FHD)
+https://starshare.live:443/live/091234/091234/122979.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.top4top.io/p_2473omzjs1.png",STARZPLAY CricLife 2 FHD
+https://starshare.live:443/live/091234/091234/122980.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/KhcPH6m/download-46.png",FOX CRICKET 501
+https://starshare.live:443/live/091234/091234/1856.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",SUPER SPORTS CRICKET (4K)
+https://starshare.live:443/live/091234/091234/158442.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS (CRICKET)
+https://starshare.live:443/live/091234/091234/2496.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K)
+https://starshare.live:443/live/091234/091234/124269.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K).
+https://starshare.live:443/live/091234/091234/114479.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K)
+https://starshare.live:443/live/091234/091234/23566.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET
+https://starshare.live:443/live/091234/091234/12.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="CRICKET",CRI:ASTRO CRICKET HD
+https://starshare.live:443/live/091234/091234/2494.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",WILLOW CRICKET
+https://starshare.live:443/live/091234/091234/215.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",WILLOW CRICKET.
+https://starshare.live:443/live/091234/091234/23943.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/willowxtra.png",WILLOW CRICKET XTRA
+https://starshare.live:443/live/091234/091234/5040.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/btsport1hd.png",CRI: TNT SPORT 1
+https://starshare.live:443/live/091234/091234/23564.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/btsport2hd.png",CRI: TNT SPORT 2.
+https://starshare.live:443/live/091234/091234/23565.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/btsport3hd.png",TNT Sports 3 FHD
+https://starshare.live:443/live/091234/091234/148090.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS
+https://starshare.live:443/live/091234/091234/89.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS (4K)
+https://starshare.live:443/live/091234/091234/61674.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/asportshd.png",A Sports ARY
+https://starshare.live:443/live/091234/091234/43444.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",A SPORTS ARY (4K)
+https://starshare.live:443/live/091234/091234/43447.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.5gtv.online/logo/geosuper.png",GEO SUPER
+https://starshare.live:443/live/091234/091234/101.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png",TEN SPORTS
+https://starshare.live:443/live/091234/091234/98.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/TenCricket.png",TEN CRICKET (FHD)
+https://starshare.live:443/live/091234/091234/196594.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/TenCricket.png",TEN CRICKET
+https://starshare.live:443/live/091234/091234/9886.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORT 1 HD
+https://starshare.live:443/live/091234/091234/148.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",Star Sport-1  (FHD)
+https://starshare.live:443/live/091234/091234/9397.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 (4K)
+https://starshare.live:443/live/091234/091234/124281.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/LnKFDym/download-4.png",STAR SPORTS 2 HD
+https://starshare.live:443/live/091234/091234/239.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/LnKFDym/download-4.png",Star Sport-2  (FHD)
+https://starshare.live:443/live/091234/091234/9398.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 2 (4K)
+https://starshare.live:443/live/091234/091234/124284.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png",STAR SPORTS HINDI HD
+https://starshare.live:443/live/091234/091234/211.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png",Star Sport 1 HINDI (FHD)
+https://starshare.live:443/live/091234/091234/9399.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 HINDI (4K)
+https://starshare.live:443/live/091234/091234/124287.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/4WyFqRF/download-4.png",STAR SPORTS SELECT 1 HD
+https://starshare.live:443/live/091234/091234/238.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/s1pcKpw/Star-Sports-Select-2-logo-2.png",STAR SPORTS SELECT 2 HD
+https://starshare.live:443/live/091234/091234/148801.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSports1.in.png",STAR SPORTS TAMIL 1 HD
+https://starshare.live:443/live/091234/091234/9722.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS TELUGU 1 (4K)
+https://starshare.live:443/live/091234/091234/177843.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/9yh9Yjd/download-4.png",STAR SPORTS 3
+https://starshare.live:443/live/091234/091234/1080.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS FHD
+https://starshare.live:443/live/091234/091234/18452.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS.
+https://starshare.live:443/live/091234/091234/130714.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/rtasports.png",RTA Sports
+https://starshare.live:443/live/091234/091234/1039.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png",SONY TEN 1 HD
+https://starshare.live:443/live/091234/091234/154.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",SONY Ten 2 HD.
+https://starshare.live:443/live/091234/091234/31314.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",CRI: SONY Ten 2 HD
+https://starshare.live:443/live/091234/091234/192.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png",SONY TEN 3 HD
+https://starshare.live:443/live/091234/091234/146.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",SONY TEN 4 (4K)
+https://starshare.live:443/live/091234/091234/29469.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png",SONY 5 HD
+https://starshare.live:443/live/091234/091234/176.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png",SONY ESPN HD
+https://starshare.live:443/live/091234/091234/155.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://l.top4top.io/p_3149r4vn11.png",Jio Cricket HD
+https://starshare.live:443/live/091234/091234/158899.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",Sky Sport 1 HD
+https://starshare.live:443/live/091234/091234/150854.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/skysports3.png",Sky Sport 3 CRICKET FHD.
+https://starshare.live:443/live/091234/091234/24018.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/SportsMax.png",Carib SportsMax Cricket 
+https://starshare.live:443/live/091234/091234/142048.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/683/355/png-transparent-premier-league-flow-sports-2018-fifa-world-cup-caribbean-premier-league-television-blue-text-thumbnail.png",FLOW SPORTS
+https://starshare.live:443/live/091234/091234/34489.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d.top4top.io/p_3149ins7o1.png",ATN Plus Cricket
+https://starshare.live:443/live/091234/091234/85829.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/eurosports.png",EUROSPORTS
+https://starshare.live:443/live/091234/091234/216.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://b.top4top.io/p_247364akp1.png",UK: Sky Sports F1 (4K)
+https://starshare.live:443/live/091234/091234/122181.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://f.top4top.io/p_2473anxmd1.png",Sky Sports News (4K)
+https://starshare.live:443/live/091234/091234/122408.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://b.top4top.io/p_2473t4qmh1.png",Sky Sports Main Event (4k)
+https://starshare.live:443/live/091234/091234/122409.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://g.top4top.io/p_25631cq331.png",Sky Sports Premier League (4K)
+https://starshare.live:443/live/091234/091234/122410.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://j.top4top.io/p_2563b7cdj1.png",Sky Sports Football (4K)
+https://starshare.live:443/live/091234/091234/122411.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_247357nqz1.png",Sky Sports Cricket (4K)
+https://starshare.live:443/live/091234/091234/122412.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.top4top.io/p_2473ezaox1.png",Sky Sports Action/NFL (4K)
+https://starshare.live:443/live/091234/091234/122413.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://l.top4top.io/p_2473e4g9y1.png",Sky Sports Arena (4K)
+https://starshare.live:443/live/091234/091234/122414.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://c.top4top.io/p_24736p3vs1.png",Sky Sports Racing (4K)
+https://starshare.live:443/live/091234/091234/122415.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://h.top4top.io/p_2473pjofr1.png",Sky Sports Mix (4K)
+https://starshare.live:443/live/091234/091234/122416.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://f.top4top.io/p_2473u7j351.png",Sky Sports Golf (4K)
+https://starshare.live:443/live/091234/091234/122417.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m1tnc4h4/supersport-ott-1.png",SuperSport OTT 1
+https://starshare.live:443/live/091234/091234/137517.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/ofwjhfg4/supersport-ott-2.png",SuperSport OTT 2
+https://starshare.live:443/live/091234/091234/137518.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/j4zgc2cs/supersport-ott-3.png",: SuperSport OTT 3
+https://starshare.live:443/live/091234/091234/137519.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/scofujew/supersport-ott-4.png",SuperSport OTT 4
+https://starshare.live:443/live/091234/091234/137520.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/qwlihdeu/supersport-ott-5.png",SuperSport OTT 5
+https://starshare.live:443/live/091234/091234/137521.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.roku.com/developer_channels/prod/a2bb7765c49b787365c03a616dd0d35615280cc23fcc6e6756f788d4a885bd5d.png",USA Tennis Channel UHD
 http://supersonictv.live:8080/452721/helfacker/40433
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://3.bp.blogspot.com/-YQvwuCKxV7s/Uq_-L3ABhSI/AAAAAAAAdJ0/ylPsBPbCP20/s1600/Golf+Channel+logo+2014.png",USA The Golf Channel
