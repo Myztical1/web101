@@ -38,95 +38,6 @@ https://tvnow.best/api/stream/yale/yale/livetv.epg/ttt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 http://starshare.live:8080/live/546745/546745/154489.ts
 
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas info Channel
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883892
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Premiere 1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883893
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Premiere 2
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883894
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Premiere 3
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883895
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Premiere 4
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883896
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Premiere 5
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883897
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Home Alone
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883872
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel info
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883859
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883860
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 2
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883861
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 3
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883862
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 4
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883863
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 5
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883864
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 6
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883865
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 7
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883866
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 8
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883867
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 9
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883868
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 10
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883869
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 11
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883870
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Hallmark Channel 12
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883871
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Movie 6
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883898
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Movie 7
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883899
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Movie 8
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883900
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Movie 9
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883901
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Movie 10
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883902
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Atmosphere 1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883888
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Atmosphere 2
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883889
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Atmosphere 3
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883890
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Atmosphere 4
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883891
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Ambient 1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883883
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Ambient 2
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883884
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Ambient 3
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883885
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Ambient 4
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883886
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas Ambient 5
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883887
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Music 1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883881
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Music 2
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883882
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Channel
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883880
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Show
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883879
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Junior
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883878
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Kids 1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883876
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas-Kids 2
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883877
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas 1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883873
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas 2
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883874
-#EXTINF:-1 group-title="CHRISTMAS" tvg-logo="https://windybot.com/img/lu9Zus9T6Ar-Y5eKjjCi.jpg",Xmas 3
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/883875
-
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",SYNERGY TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
@@ -1058,11 +969,11 @@ https://rpn3.bozztv.com/ssh101/ssh101/yatvo/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.iinfo.cz/images/155/hbo-2-3d-transparent-logo-1.png",HBO 2
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HBO2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",HBO POP
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/ac/9c/35/ac9c3508cabb8c4b7b826385925563d2.jpg",HBO POP
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HBO_POP.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO FAMILY HD
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HBO_FAMILY.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",HBO MUNDI
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png",HBO MUNDI
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HBO_MUNDI.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO PLUS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
@@ -1621,6 +1532,108 @@ http://51.81.244.172:25461/ryanscott/ryanscott/52222
 http://51.81.244.172:25461/ryanscott/ryanscott/52223
 #EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZEncore Westerns
 http://51.81.244.172:25461/ryanscott/ryanscott/52224
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/action_max_east.png",ActionMax
+http://tv70.icu:8080/nGPk1j/057265/21013
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5_star_max_us.png",Cinema 5 Star Max
+http://tv70.icu:8080/nGPk1j/057265/13381
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_east.png",Cinemax
+http://tv70.icu:8080/nGPk1j/057265/13380
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/outer_max_us.png",OuterMax
+http://tv70.icu:8080/nGPk1j/057265/21012
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrillermax-us.png",ThrillerMax
+http://tv70.icu:8080/nGPk1j/057265/17774
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/more_max_east.png",MoreMax
+http://tv70.icu:8080/nGPk1j/057265/17776
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_max_us.png",MovieMax
+http://tv70.icu:8080/nGPk1j/057265/13480
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15295_dark_360w_270h.png",MoviePlex
+http://tv70.icu:8080/nGPk1j/057265/1829
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/more_max_east.png",MoreMax
+http://tv70.icu:8080/nGPk1j/057265/17776
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67190_dark_360w_270h.png",MovieTime Ca
+http://tv70.icu:8080/nGPk1j/057265/47331
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70253_dark_360w_270h.png",FX Movies
+http://tv70.icu:8080/nGPk1j/057265/10260
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://i.ibb.co/F621kdw/hallmark-channel-us.png",Hallmark Channel
+http://tv70.icu:8080/nGPk1j/057265/46719
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://i.ibb.co/F621kdw/hallmark-channel-us.png",Hallmark Channel  (St)
+http://streamsy.online:2999/oirmar/2PppXlI5F8/162
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png",Hallmark Family
+http://tv70.icu:8080/nGPk1j/057265/9307
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46710_dark_360w_270h.png",Hallmark Mystery
+http://tv70.icu:8080/nGPk1j/057265/10289
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_east.png",HBO
+http://tv70.icu:8080/nGPk1j/057265/9264
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_east.png",HBO 1 Canada HD
+http://tv70.icu:8080/nGPk1j/057265/57437
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png",HBO 2
+http://tv70.icu:8080/nGPk1j/057265/9816
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png",HBO 2 Canada HD
+http://tv70.icu:8080/nGPk1j/057265/57438
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59839_dark_360w_270h.png",HBO Comedy
+http://tv70.icu:8080/nGPk1j/057265/17773
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family
+http://tv70.icu:8080/nGPk1j/057265/17772
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59363_dark_360w_270h.png",HBO Signature
+http://tv70.icu:8080/nGPk1j/057265/9266
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59845_dark_360w_270h.png",HBO Zone
+http://tv70.icu:8080/nGPk1j/057265/9265
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_cinema_east.png",Starz
+http://tv70.icu:8080/nGPk1j/057265/9299
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_east.png",Starz Cinema
+http://tv70.icu:8080/nGPk1j/057265/17775
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_edge_east.png",Starz Edge
+http://tv70.icu:8080/nGPk1j/057265/16143
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_encore_us_black_east.png",Starz Encore Black
+http://tv70.icu:8080/nGPk1j/057265/16141
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_encore_us_westerns_east.png",Starz Encore Westerns
+http://tv70.icu:8080/nGPk1j/057265/16263
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_in_black_east.png",Starz in Black
+http://tv70.icu:8080/nGPk1j/057265/17779
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz-2-ca.png",Starz West
+http://tv70.icu:8080/nGPk1j/057265/21091
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33668_dark_360w_270h.png",HDNet Movies
+http://tv70.icu:8080/nGPk1j/057265/16265
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png",MGM+
+http://tv70.icu:8080/nGPk1j/057265/13214
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68409_dark_360w_270h.png",MGM+ Drive-In
+http://tv70.icu:8080/nGPk1j/057265/14193
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74073_dark_360w_270h.png",MGM+ Hits
+http://tv70.icu:8080/nGPk1j/057265/12730
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73075_dark_360w_270h.png",MGM+ Marquee
+http://tv70.icu:8080/nGPk1j/057265/12744
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53711_dark_360w_270h.png",Showcase TV Canada
+http://tv70.icu:8080/nGPk1j/057265/47366
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime_east.png",Showtime
+http://tv70.icu:8080/nGPk1j/057265/46214
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11116_dark_360w_270h.png",Showtime 2
+http://tv70.icu:8080/nGPk1j/057265/13219
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18086_dark_360w_270h.png",Showtime Extreme
+http://tv70.icu:8080/nGPk1j/057265/13220
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25274_dark_360w_270h.png",Showtime FamilyZone
+http://tv70.icu:8080/nGPk1j/057265/13481
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25270_dark_360w_270h.png",Showtime Next
+http://tv70.icu:8080/nGPk1j/057265/9316
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25272_dark_360w_270h.png",Showtime Women
+http://tv70.icu:8080/nGPk1j/057265/17778
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34290_dark_360w_270h.png",Silver Screen Classics
+http://tv70.icu:8080/nGPk1j/057265/107190
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61177_dark_360w_270h.png",Sky Cinema Action
+http://tv70.icu:8080/nGPk1j/057265/35254
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61182_dark_360w_270h.png",Sky Cinema Comedy
+http://tv70.icu:8080/nGPk1j/057265/53661
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61179_dark_360w_270h.png",Sky Cinema Drama
+http://tv70.icu:8080/nGPk1j/057265/35251
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61181_dark_360w_270h.png",Sky Cinema Family
+http://tv70.icu:8080/nGPk1j/057265/53699
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24042_dark_360w_270h.png",Sky Cinema Greats
+http://tv70.icu:8080/nGPk1j/057265/35249
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49453_dark_360w_270h.png",Sky Cinema Hits
+http://tv70.icu:8080/nGPk1j/057265/35255
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61178_dark_360w_270h.png",Sky Cinema Horror
+http://tv70.icu:8080/nGPk1j/057265/35248
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59691_dark_360w_270h.png",Sky Cinema Premier
+http://tv70.icu:8080/nGPk1j/057265/35256
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://www.thewrap.com/wp-content/uploads/2015/06/CBS-logo-618x412.jpg",CBS East
 http://51.81.244.172:25461/ryanscott/ryanscott/39726
