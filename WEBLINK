@@ -489,6 +489,10 @@ http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:15:D7:0
 http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
 http://195.26.87.217/live.ts?channelId=123915&uid=7214&deviceMac=00:1A:79:15:D7:0C
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U Movies Backup
+http://170.246.160.2/ttorigin01/live/smil:B4U_MOVIES.smil/playlist.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/B4U-Music.png",B4U Music Backup
+http://170.246.160.2/ttorigin01/live/smil:B4U_MUSIC.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwg0Vl0oBeCuvnaw9yaxqw0XMKOFP_HJL9rS1ZxQ=s900-c-k-c0x00ffffff-no-rj",Colors
 http://starshare.live:8080/live/546745/546745/195.ts
@@ -3182,70 +3186,11 @@ http://195.26.87.217/live.ts?channelId=259&uid=2568&deviceMac=00:1A:79:15:D7:0C
 http://195.26.87.217/live.ts?channelId=102888&uid=2568&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://tv.cloudcdn.me/images/af1466fbx.png",WOW KID
 http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:15:D7:0C
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://storage.googleapis.com/techsauce-prod/uploads/2019/08/netflix-disney.png" group-title="KIDS" ,Netflix Disney
-http://195.26.87.217/live.ts?channelId=46036&uid=2568&deviceMac=00:1A:79:15:D7:0C
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/QNwbBzzC/Happy-Kids.png",HAPPY KIDS Jr
-https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png",Young Hollywood 
-https://younghollywood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/vZHtxQb.png",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg",DUCK TV
-https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/BABY SHARK TV_logo_dark.png",BABY SHARK TV
-https://b804413309624ef1b04591c47e82e14c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eUhMzubzCLEWpUricwcK&ads.plex_id=60d4eddeb2fdec002c141137&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidoodletv_logo_v3.png",Kidoodle TV
-https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/playlist.m3u8?ads.wurl_channel=484&ads.wurl_name=KidoodleTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eUhMzubzCLEWpUricwcK&ads.plex_id=5eea605574085f0040ddc79a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidspangtv_logo_dark.png",Kids Pang TV
-https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eUhMzubzCLEWpUricwcK&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png",KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eUhMzubzCLEWpUricwcK&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eUhMzubzCLEWpUricwcK&custom_7=5eea605574085f0040ddc797
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png",Team Spirit
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60faf9368c7ad900082bc9a8/colorLogoPNG.png",Find Out Why
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png",Garfield and Friends
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/colorLogoPNG.png",Grande-ish
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fafef7c2440500071266e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png",Baby Shark TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png",LEGO Kids TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb01a24795a6000762fe83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png",Rainbow Squad
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png",Kartoon Channel!
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png",Transformers TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png",Ryan and Friends
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb584b7613a31000789de5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png",Little Baby Bum
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb301b7395671000780d100/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png",pocket.watch
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png",Kids Movie Club
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png",No Parents Allowed
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",TOTALLY TURTLES
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png",Dora TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG-1646154941424.png",Nick Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",Nick Jr. Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png",Forever Kids
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png",Little Stars Universe
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
-http://fortv.cc:8080/FJ7b1k/037357/119435
+http://fortv.cc:8080/j3McKd/673709/119435
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
 https://is.gd/eQBQub
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
@@ -3291,15 +3236,15 @@ http://ky-iptv.com/harrell421/pass421/1862575.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 5
 http://ky-iptv.com/harrell421/pass421/1862535.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.imgur.com/VcwHims.png",Classic Kungfu 1
-http://supersonictv.live:8080/102413/544469/61940
+http://supersonictv.live:8080/esaletv2/2226677442/61940
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.imgur.com/VcwHims.png",Classic Kungfu 2
-http://supersonictv.live:8080/102413/544469/61941
+http://supersonictv.live:8080/esaletv2/2226677442/61941
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.imgur.com/VcwHims.png",Classic Kungfu 3
-http://supersonictv.live:8080/102413/544469/61942
+http://supersonictv.live:8080/esaletv2/2226677442/61942
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.imgur.com/VcwHims.png",Classic Kungfu 4
-http://supersonictv.live:8080/102413/544469/61943
+http://supersonictv.live:8080/esaletv2/2226677442/61943
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.imgur.com/VcwHims.png",Classic Kungfu 5
-http://supersonictv.live:8080/102413/544469/61944
+http://supersonictv.live:8080/esaletv2/2226677442/61944
 
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CINEBOX: ANIMATION
 http://fortv.cc:8080/ronda/ronda/119420
@@ -3412,247 +3357,247 @@ http://restream-live.realiptv.to:8080/meme/meme/331835
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Everybody Hates Chris
 http://restream-live.realiptv.to:8080/meme/meme/511434
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Good Doctor
-http://supersonictv.live:8080/102413/544469/81318
+http://supersonictv.live:8080/esaletv2/2226677442/81318
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Rookie
-http://supersonictv.live:8080/102413/544469/81444
+http://supersonictv.live:8080/esaletv2/2226677442/81444
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",House
-http://supersonictv.live:8080/102413/544469/80011
+http://supersonictv.live:8080/esaletv2/2226677442/80011
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Sopranos
-http://supersonictv.live:8080/102413/544469/76846
+http://supersonictv.live:8080/esaletv2/2226677442/76846
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",All in the Family
-http://supersonictv.live:8080/102413/544469/77102
+http://supersonictv.live:8080/esaletv2/2226677442/77102
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Airwolf
-http://supersonictv.live:8080/102413/544469/77103
+http://supersonictv.live:8080/esaletv2/2226677442/77103
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Beverly Hills, 90210
-http://supersonictv.live:8080/102413/544469/77104
+http://supersonictv.live:8080/esaletv2/2226677442/77104
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Bewitched
-http://supersonictv.live:8080/102413/544469/77105
+http://supersonictv.live:8080/esaletv2/2226677442/77105
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Bonanza
-http://supersonictv.live:8080/102413/544469/77106
+http://supersonictv.live:8080/esaletv2/2226677442/77106
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Brady Bunch
-http://supersonictv.live:8080/102413/544469/77107
+http://supersonictv.live:8080/esaletv2/2226677442/77107
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Cheers
-http://supersonictv.live:8080/102413/544469/77108
+http://supersonictv.live:8080/esaletv2/2226677442/77108
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",CHiPs
-http://supersonictv.live:8080/102413/544469/77109
+http://supersonictv.live:8080/esaletv2/2226677442/77109
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Coach
-http://supersonictv.live:8080/102413/544469/77110
+http://supersonictv.live:8080/esaletv2/2226677442/77110
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Columbo
-http://supersonictv.live:8080/102413/544469/77111
+http://supersonictv.live:8080/esaletv2/2226677442/77111
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Dallas
-http://supersonictv.live:8080/102413/544469/77112
+http://supersonictv.live:8080/esaletv2/2226677442/77112
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Dennis The Menace
-http://supersonictv.live:8080/102413/544469/77113
+http://supersonictv.live:8080/esaletv2/2226677442/77113
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Diff'rent Strokes
-http://supersonictv.live:8080/102413/544469/77114
+http://supersonictv.live:8080/esaletv2/2226677442/77114
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Doogie Howser
-http://supersonictv.live:8080/102413/544469/77115
+http://supersonictv.live:8080/esaletv2/2226677442/77115
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Due South
-http://supersonictv.live:8080/102413/544469/77116
+http://supersonictv.live:8080/esaletv2/2226677442/77116
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Everybody Loves Raymond
-http://supersonictv.live:8080/102413/544469/77117
+http://supersonictv.live:8080/esaletv2/2226677442/77117
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Family Matters
-http://supersonictv.live:8080/102413/544469/77118
+http://supersonictv.live:8080/esaletv2/2226677442/77118
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Family Ties
-http://supersonictv.live:8080/102413/544469/77119
+http://supersonictv.live:8080/esaletv2/2226677442/77119
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Fawlty Towers
-http://supersonictv.live:8080/102413/544469/77120
+http://supersonictv.live:8080/esaletv2/2226677442/77120
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Frasier
-http://supersonictv.live:8080/102413/544469/77121
+http://supersonictv.live:8080/esaletv2/2226677442/77121
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Friends
-http://supersonictv.live:8080/102413/544469/77122
+http://supersonictv.live:8080/esaletv2/2226677442/77122
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Gilligan's Island
-http://supersonictv.live:8080/102413/544469/77123
+http://supersonictv.live:8080/esaletv2/2226677442/77123
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Gomer Pyle, U.S.M.C.
-http://supersonictv.live:8080/102413/544469/77124
+http://supersonictv.live:8080/esaletv2/2226677442/77124
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Good Times
-http://supersonictv.live:8080/102413/544469/77125
+http://supersonictv.live:8080/esaletv2/2226677442/77125
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Green Acres
-http://supersonictv.live:8080/102413/544469/77126
+http://supersonictv.live:8080/esaletv2/2226677442/77126
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Happy Days
-http://supersonictv.live:8080/102413/544469/77127
+http://supersonictv.live:8080/esaletv2/2226677442/77127
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Hogan's Heroes
-http://supersonictv.live:8080/102413/544469/77128
+http://supersonictv.live:8080/esaletv2/2226677442/77128
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Home Improvement
-http://supersonictv.live:8080/102413/544469/77129
+http://supersonictv.live:8080/esaletv2/2226677442/77129
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",I Dream Of Jeannie
-http://supersonictv.live:8080/102413/544469/77130
+http://supersonictv.live:8080/esaletv2/2226677442/77130
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",I Love Lucy
-http://supersonictv.live:8080/102413/544469/77131
+http://supersonictv.live:8080/esaletv2/2226677442/77131
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",It's Always Sunny in Philadelphia
-http://supersonictv.live:8080/102413/544469/77132
+http://supersonictv.live:8080/esaletv2/2226677442/77132
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Knight Rider
-http://supersonictv.live:8080/102413/544469/77133
+http://supersonictv.live:8080/esaletv2/2226677442/77133
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Laverne & Shirley
-http://supersonictv.live:8080/102413/544469/77134
+http://supersonictv.live:8080/esaletv2/2226677442/77134
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Leave It to Beaver
-http://supersonictv.live:8080/102413/544469/77135
+http://supersonictv.live:8080/esaletv2/2226677442/77135
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Little House on the Prairie
-http://supersonictv.live:8080/102413/544469/77136
+http://supersonictv.live:8080/esaletv2/2226677442/77136
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Lost In Space
-http://supersonictv.live:8080/102413/544469/77137
+http://supersonictv.live:8080/esaletv2/2226677442/77137
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Married... with Children
-http://supersonictv.live:8080/102413/544469/77138
+http://supersonictv.live:8080/esaletv2/2226677442/77138
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Martin
-http://supersonictv.live:8080/102413/544469/77139
+http://supersonictv.live:8080/esaletv2/2226677442/77139
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",MASH
-http://supersonictv.live:8080/102413/544469/77140
+http://supersonictv.live:8080/esaletv2/2226677442/77140
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mister Ed
-http://supersonictv.live:8080/102413/544469/77141
+http://supersonictv.live:8080/esaletv2/2226677442/77141
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Night Court
-http://supersonictv.live:8080/102413/544469/77142
+http://supersonictv.live:8080/esaletv2/2226677442/77142
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Only Fools And Horses
-http://supersonictv.live:8080/102413/544469/77143
+http://supersonictv.live:8080/esaletv2/2226677442/77143
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Oz
-http://supersonictv.live:8080/102413/544469/77144
+http://supersonictv.live:8080/esaletv2/2226677442/77144
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Parks & Recreation
-http://supersonictv.live:8080/102413/544469/77145
+http://supersonictv.live:8080/esaletv2/2226677442/77145
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Petticoat Junction
-http://supersonictv.live:8080/102413/544469/77146
+http://supersonictv.live:8080/esaletv2/2226677442/77146
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Pimp My Ride
-http://supersonictv.live:8080/102413/544469/77147
+http://supersonictv.live:8080/esaletv2/2226677442/77147
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Roseanne
-http://supersonictv.live:8080/102413/544469/77148
+http://supersonictv.live:8080/esaletv2/2226677442/77148
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Sanford & Son
-http://supersonictv.live:8080/102413/544469/77149
+http://supersonictv.live:8080/esaletv2/2226677442/77149
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Seinfeld
-http://supersonictv.live:8080/102413/544469/77150
+http://supersonictv.live:8080/esaletv2/2226677442/77150
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Some Mothers Do 'Ave 'Em
-http://supersonictv.live:8080/102413/544469/77151
+http://supersonictv.live:8080/esaletv2/2226677442/77151
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Step By Step
-http://supersonictv.live:8080/102413/544469/77152
+http://supersonictv.live:8080/esaletv2/2226677442/77152
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Andy Griffith Show
-http://supersonictv.live:8080/102413/544469/77153
+http://supersonictv.live:8080/esaletv2/2226677442/77153
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Beverly Hillbillies
-http://supersonictv.live:8080/102413/544469/77154
+http://supersonictv.live:8080/esaletv2/2226677442/77154
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Cosby Show
-http://supersonictv.live:8080/102413/544469/77155
+http://supersonictv.live:8080/esaletv2/2226677442/77155
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Facts of Life
-http://supersonictv.live:8080/102413/544469/77156
+http://supersonictv.live:8080/esaletv2/2226677442/77156
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Tales from the Crypt
-http://supersonictv.live:8080/102413/544469/77157
+http://supersonictv.live:8080/esaletv2/2226677442/77157
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png", The Dukes of Hazzard
-http://supersonictv.live:8080/102413/544469/77158
+http://supersonictv.live:8080/esaletv2/2226677442/77158
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",That '70s Show
-http://supersonictv.live:8080/102413/544469/77159
+http://supersonictv.live:8080/esaletv2/2226677442/77159
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Addams Family
-http://supersonictv.live:8080/102413/544469/77160
+http://supersonictv.live:8080/esaletv2/2226677442/77160
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Fresh Prince of Bel-Air
-http://supersonictv.live:8080/102413/544469/77161
+http://supersonictv.live:8080/esaletv2/2226677442/77161
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Golden Girls
-http://supersonictv.live:8080/102413/544469/77162
+http://supersonictv.live:8080/esaletv2/2226677442/77162
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Honeymooners
-http://supersonictv.live:8080/102413/544469/77163
+http://supersonictv.live:8080/esaletv2/2226677442/77163
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Jeffersons
-http://supersonictv.live:8080/102413/544469/77164
+http://supersonictv.live:8080/esaletv2/2226677442/77164
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Munsters
-http://supersonictv.live:8080/102413/544469/77165
+http://supersonictv.live:8080/esaletv2/2226677442/77165
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Simpsons
-http://supersonictv.live:8080/102413/544469/77166
+http://supersonictv.live:8080/esaletv2/2226677442/77166
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Sopranos
-http://supersonictv.live:8080/102413/544469/77167
+http://supersonictv.live:8080/esaletv2/2226677442/77167
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",The Three Stooges
-http://supersonictv.live:8080/102413/544469/77168
+http://supersonictv.live:8080/esaletv2/2226677442/77168
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Three's Company
-http://supersonictv.live:8080/102413/544469/77169
+http://supersonictv.live:8080/esaletv2/2226677442/77169
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Welcome Back, Kotter
-http://supersonictv.live:8080/102413/544469/77170
+http://supersonictv.live:8080/esaletv2/2226677442/77170
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",What's Happening!!
-http://supersonictv.live:8080/102413/544469/77171
+http://supersonictv.live:8080/esaletv2/2226677442/77171
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Action Movie
-http://supersonictv.live:8080/102413/544469/40480
+http://supersonictv.live:8080/esaletv2/2226677442/40480
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Action Movie 1
-http://supersonictv.live:8080/102413/544469/61935
+http://supersonictv.live:8080/esaletv2/2226677442/61935
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Action Movie 2
-http://supersonictv.live:8080/102413/544469/61936
+http://supersonictv.live:8080/esaletv2/2226677442/61936
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Action Movie 3
-http://supersonictv.live:8080/102413/544469/61937
+http://supersonictv.live:8080/esaletv2/2226677442/61937
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Action Movie 4
-http://supersonictv.live:8080/102413/544469/61938
+http://supersonictv.live:8080/esaletv2/2226677442/61938
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Action Movie 5
-http://supersonictv.live:8080/102413/544469/61939
+http://supersonictv.live:8080/esaletv2/2226677442/61939
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Adventure Movie
-http://supersonictv.live:8080/102413/544469/40482
+http://supersonictv.live:8080/esaletv2/2226677442/40482
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Animation Movie
-http://supersonictv.live:8080/102413/544469/40483
+http://supersonictv.live:8080/esaletv2/2226677442/40483
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Comedy Movie
-http://supersonictv.live:8080/102413/544469/40484
+http://supersonictv.live:8080/esaletv2/2226677442/40484
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Comedy Movie 2
-http://supersonictv.live:8080/102413/544469/40485
+http://supersonictv.live:8080/esaletv2/2226677442/40485
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Crime Movie
-http://supersonictv.live:8080/102413/544469/40486
+http://supersonictv.live:8080/esaletv2/2226677442/40486
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Documentary Movie
-http://supersonictv.live:8080/102413/544469/40487
+http://supersonictv.live:8080/esaletv2/2226677442/40487
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Documentary Movie
-http://supersonictv.live:8080/102413/544469/40488
+http://supersonictv.live:8080/esaletv2/2226677442/40488
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Drama Movie
-http://supersonictv.live:8080/102413/544469/40489
+http://supersonictv.live:8080/esaletv2/2226677442/40489
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Family Movie
-http://supersonictv.live:8080/102413/544469/40490
+http://supersonictv.live:8080/esaletv2/2226677442/40490
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Family Movie 2
-http://supersonictv.live:8080/102413/544469/40491
+http://supersonictv.live:8080/esaletv2/2226677442/40491
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Horror Movie
-http://supersonictv.live:8080/102413/544469/40492
+http://supersonictv.live:8080/esaletv2/2226677442/40492
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Horror Movie 2
-http://supersonictv.live:8080/102413/544469/40493
+http://supersonictv.live:8080/esaletv2/2226677442/40493
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kungfu
-http://supersonictv.live:8080/102413/544469/40494
+http://supersonictv.live:8080/esaletv2/2226677442/40494
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kungfu 1
-http://supersonictv.live:8080/102413/544469/40495
+http://supersonictv.live:8080/esaletv2/2226677442/40495
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Kungfu 2
-http://supersonictv.live:8080/102413/544469/40496
+http://supersonictv.live:8080/esaletv2/2226677442/40496
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mob Movie
-http://supersonictv.live:8080/102413/544469/40497
+http://supersonictv.live:8080/esaletv2/2226677442/40497
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mob Movie 2
-http://supersonictv.live:8080/102413/544469/40498
+http://supersonictv.live:8080/esaletv2/2226677442/40498
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mob Movie 3
-http://supersonictv.live:8080/102413/544469/40499
+http://supersonictv.live:8080/esaletv2/2226677442/40499
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mob Movie 4
-http://supersonictv.live:8080/102413/544469/40500
+http://supersonictv.live:8080/esaletv2/2226677442/40500
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Mob Movie 5
-http://supersonictv.live:8080/102413/544469/40501
+http://supersonictv.live:8080/esaletv2/2226677442/40501
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Music Movie
-http://supersonictv.live:8080/102413/544469/40502
+http://supersonictv.live:8080/esaletv2/2226677442/40502
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Oscar Winning Movie 2020
-http://supersonictv.live:8080/102413/544469/40503
+http://supersonictv.live:8080/esaletv2/2226677442/40503
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Romance Movie
-http://supersonictv.live:8080/102413/544469/40504
+http://supersonictv.live:8080/esaletv2/2226677442/40504
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Science & Fiction Movie
-http://supersonictv.live:8080/102413/544469/40505
+http://supersonictv.live:8080/esaletv2/2226677442/40505
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Star Wars Movie
-http://supersonictv.live:8080/102413/544469/40506
+http://supersonictv.live:8080/esaletv2/2226677442/40506
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Western Movie
-http://supersonictv.live:8080/102413/544469/40507
+http://supersonictv.live:8080/esaletv2/2226677442/40507
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Alien Movie 1
-http://supersonictv.live:8080/102413/544469/47635
+http://supersonictv.live:8080/esaletv2/2226677442/47635
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Alien Movie 2
-http://supersonictv.live:8080/102413/544469/47636
+http://supersonictv.live:8080/esaletv2/2226677442/47636
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Alien Movie 3
-http://supersonictv.live:8080/102413/544469/47637
+http://supersonictv.live:8080/esaletv2/2226677442/47637
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Alien Movie 4
-http://supersonictv.live:8080/102413/544469/47638
+http://supersonictv.live:8080/esaletv2/2226677442/47638
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Alien Movie 5
-http://supersonictv.live:8080/102413/544469/47639
+http://supersonictv.live:8080/esaletv2/2226677442/47639
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 01
-http://supersonictv.live:8080/102413/544469/47644
+http://supersonictv.live:8080/esaletv2/2226677442/47644
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 03
-http://supersonictv.live:8080/102413/544469/47646
+http://supersonictv.live:8080/esaletv2/2226677442/47646
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 04
-http://supersonictv.live:8080/102413/544469/47647
+http://supersonictv.live:8080/esaletv2/2226677442/47647
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 05
-http://supersonictv.live:8080/102413/544469/47648
+http://supersonictv.live:8080/esaletv2/2226677442/47648
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 06
-http://supersonictv.live:8080/102413/544469/47649
+http://supersonictv.live:8080/esaletv2/2226677442/47649
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 07
-http://supersonictv.live:8080/102413/544469/47650
+http://supersonictv.live:8080/esaletv2/2226677442/47650
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 08
-http://supersonictv.live:8080/102413/544469/47651
+http://supersonictv.live:8080/esaletv2/2226677442/47651
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 09
-http://supersonictv.live:8080/102413/544469/47652
+http://supersonictv.live:8080/esaletv2/2226677442/47652
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 10
-http://supersonictv.live:8080/102413/544469/47653
+http://supersonictv.live:8080/esaletv2/2226677442/47653
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 02
-http://supersonictv.live:8080/102413/544469/47645
+http://supersonictv.live:8080/esaletv2/2226677442/47645
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN US
 https://is.gd/T97GnP
@@ -3712,8 +3657,10 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
 https://is.gd/bQlQiT
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://studionetworksolutions.com/wp-content/uploads/2013/03/sportsmax-logo.png",SPORTSMAX 1
+http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX_2.smil/chunklist_b8500000.m3u8
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/195868
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2
+http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX_2.smil/chunklist_b8500000.m3u8
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/195869
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://t20slam.com/wp-content/uploads/2021/07/willow-tv-live-stream-world-2021-800x450.jpg",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
