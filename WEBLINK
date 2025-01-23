@@ -489,10 +489,6 @@ http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:15:D7:0
 http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:15:D7:0C
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
 http://195.26.87.217/live.ts?channelId=123915&uid=7214&deviceMac=00:1A:79:15:D7:0C
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U Movies Backup
-http://170.246.160.2/ttorigin01/live/smil:B4U_MOVIES.smil/playlist.m3u8
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/B4U-Music.png",B4U Music Backup
-http://170.246.160.2/ttorigin01/live/smil:B4U_MUSIC.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwg0Vl0oBeCuvnaw9yaxqw0XMKOFP_HJL9rS1ZxQ=s900-c-k-c0x00ffffff-no-rj",Colors
 http://starshare.live:8080/live/546745/546745/195.ts
