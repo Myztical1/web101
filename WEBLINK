@@ -19,24 +19,18 @@ https://is.gd/3R6LAd
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/195830
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/cnc3.car.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-http://starshare.live:8080/live/546745/546745/154137.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://is.gd/2TYJQB
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/268269
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ccn.tv6.tt.car.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-http://starshare.live:8080/live/546745/546745/154303.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/Kz6eVj
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/400200042
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ttt.car.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-http://starshare.live:8080/live/546745/546745/154489.ts
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",SYNERGY TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
@@ -479,41 +473,15 @@ https://is.gd/RKWx4Z
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/268300
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/B4U-Music.png",B4U MUSIC
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/268301
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/09/16/star.jpg",STAR PLUS
-http://starshare.live:8080/live/99252/99252/154459.ts
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
-http://195.26.87.217/live.ts?channelId=86150&uid=7214&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=86150&uid=7214&deviceMac=00:1A:79:00:20:D1
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png",BBO HD
-http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:00:20:D1
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood Classic
-http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:00:20:D1
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
-http://195.26.87.217/live.ts?channelId=123915&uid=7214&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=123915&uid=7214&deviceMac=00:1A:79:00:20:D1
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwg0Vl0oBeCuvnaw9yaxqw0XMKOFP_HJL9rS1ZxQ=s900-c-k-c0x00ffffff-no-rj",Colors
-http://starshare.live:8080/live/546745/546745/195.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://lo1.in/ind/colrind.png",COLORS INFINITY FHD
-http://starshare.live:8080/live/546745/546745/9390.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwg0Vl0oBeCuvnaw9yaxqw0XMKOFP_HJL9rS1ZxQ=s900-c-k-c0x00ffffff-no-rj",Colors Tamil
-http://starshare.live:8080/live/546745/546745/9970.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://lo1.in/ind/colcin.png",COLORS CINEPLEX FHD
-http://starshare.live:8080/live/546745/546745/9378.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://lo1.in/ind/clrsod.png",COLORS Oriya
-http://starshare.live:8080/live/546745/546745/37073.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://lo1.in/ind/rishclr.png",COLORS RISHTEY FHD
-http://starshare.live:8080/live/546745/546745/241.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://lo1.in/ind/clrsod.png",COLORS FHD Oriya
-http://starshare.live:8080/live/546745/546745/37073.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV 
-http://starshare.live:8080/live/546745/546745/154023.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",STAR PLUS
-http://starshare.live:8080/live/546745/546745/154459.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
-http://starshare.live:8080/live/546745/546745/154451.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",ZEE CINEMA
-http://starshare.live:8080/live/546745/546745/154514.ts
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",ZEE HD
-http://starshare.live:8080/live/546745/546745/154515.ts
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png",& Pictures FHD
 http://195.26.87.217/live.ts?channelId=139&uid=7214&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png",& TV FHD
@@ -1075,217 +1043,217 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg",CRACKLE
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ilovesatellitetv.com/images/flix-logo.gif",Flix
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165254
+http://xyza.ltd:25461/brenda57/5164346644/165254
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",5 StarMAX FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42389
+http://xyza.ltd:25461/brenda57/5164346644/42389
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Action MAX FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42381
+http://xyza.ltd:25461/brenda57/5164346644/42381
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Action MAX FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42382
+http://xyza.ltd:25461/brenda57/5164346644/42382
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",CineMAX FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42383
+http://xyza.ltd:25461/brenda57/5164346644/42383
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Cinemax FHD (East).
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/19847
+http://xyza.ltd:25461/brenda57/5164346644/19847
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Cinemax Moremax FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/19655
+http://xyza.ltd:25461/brenda57/5164346644/19655
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Cinemax OuterMAX FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42388
+http://xyza.ltd:25461/brenda57/5164346644/42388
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",EPIX 2 FHD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/40915
+http://xyza.ltd:25461/brenda57/5164346644/40915
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",Epix Drive-In FHD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165207
+http://xyza.ltd:25461/brenda57/5164346644/165207
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",EPIX FHD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/5874
+http://xyza.ltd:25461/brenda57/5164346644/5874
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",Epix Hits HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/40890
+http://xyza.ltd:25461/brenda57/5164346644/40890
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fq8Ib0P9k2U5JHqgWPJRGAHaC1%26pid%3DApi&f=1&ipt=b48be9c184bae3aeeb5658dc4bce00aac92e419ac3cd97b0eb72e8d930fa1df0&ipo=images",HBO 2 FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42045
+http://xyza.ltd:25461/brenda57/5164346644/42045
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fq8Ib0P9k2U5JHqgWPJRGAHaC1%26pid%3DApi&f=1&ipt=b48be9c184bae3aeeb5658dc4bce00aac92e419ac3cd97b0eb72e8d930fa1df0&ipo=images",HBO 2 FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42549
+http://xyza.ltd:25461/brenda57/5164346644/42549
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ipIboCuw6m-IIH0t7uZqVAHaE8%26pid%3DApi&f=1&ipt=23ef761e7c577f082160b6c109b62842c011557ffb266452882f2af5988bfb32&ipo=images",HBO Comedy FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/5879
+http://xyza.ltd:25461/brenda57/5164346644/5879
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ipIboCuw6m-IIH0t7uZqVAHaE8%26pid%3DApi&f=1&ipt=23ef761e7c577f082160b6c109b62842c011557ffb266452882f2af5988bfb32&ipo=images",HBO Comedy FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42550
+http://xyza.ltd:25461/brenda57/5164346644/42550
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.-pNGKpQVNA3pwgv-2l5CEgHaFj%26pid%3DApi&f=1&ipt=1288aba10cf38c489cb3eba642a4d4bf6dee8a059b34f227c63c1a3ef5964dff&ipo=images",HBO Family FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41405
+http://xyza.ltd:25461/brenda57/5164346644/41405
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.-pNGKpQVNA3pwgv-2l5CEgHaFj%26pid%3DApi&f=1&ipt=1288aba10cf38c489cb3eba642a4d4bf6dee8a059b34f227c63c1a3ef5964dff&ipo=images",HBO Family FHD  (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42391
+http://xyza.ltd:25461/brenda57/5164346644/42391
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.osscav8LjAQE2GON3SDKtAHaDZ%26pid%3DApi&f=1&ipt=d5771dfcbcc71d0fb40b7c203b798993f8dd0243cdc16c55db46322f3c759feb&ipo=images",HBO FHD  (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42548
+http://xyza.ltd:25461/brenda57/5164346644/42548
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.osscav8LjAQE2GON3SDKtAHaDZ%26pid%3DApi&f=1&ipt=d5771dfcbcc71d0fb40b7c203b798993f8dd0243cdc16c55db46322f3c759feb&ipo=images",HBO FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/21761
+http://xyza.ltd:25461/brenda57/5164346644/21761
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.X9qF4O4oQaTIKsbCFApQ9wHaEP%26pid%3DApi&f=1&ipt=ef301435c47cde707356a65ed97c5851fa92ed66d9d7effbe9354953ace0e5c4&ipo=images",HBO Signature FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/5880
+http://xyza.ltd:25461/brenda57/5164346644/5880
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.X9qF4O4oQaTIKsbCFApQ9wHaEP%26pid%3DApi&f=1&ipt=ef301435c47cde707356a65ed97c5851fa92ed66d9d7effbe9354953ace0e5c4&ipo=images",HBO Signature FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42393
+http://xyza.ltd:25461/brenda57/5164346644/42393
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.RNsF46-dShMmv3lE4lq5ewHaEo%26pid%3DApi&f=1&ipt=ffd533bf8275b725d0a756701907a6a8e28c62dab7a41b2a7d964344bcd6b691&ipo=images",HBO Zone FHD  (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42395
+http://xyza.ltd:25461/brenda57/5164346644/42395
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.RNsF46-dShMmv3lE4lq5ewHaEo%26pid%3DApi&f=1&ipt=ffd533bf8275b725d0a756701907a6a8e28c62dab7a41b2a7d964344bcd6b691&ipo=images",HBO Zone FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42394
+http://xyza.ltd:25461/brenda57/5164346644/42394
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.h3roSVCBF-AonB2d3D3pAAHaEK%26pid%3DApi&f=1&ipt=c750b3a23fcb94332443cb35eaebc461dd0419fa938d88a14c175a10ee69d32b&ipo=images",IndiePlex (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42408
+http://xyza.ltd:25461/brenda57/5164346644/42408
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.h3roSVCBF-AonB2d3D3pAAHaEK%26pid%3DApi&f=1&ipt=c750b3a23fcb94332443cb35eaebc461dd0419fa938d88a14c175a10ee69d32b&ipo=images",IndiePlex (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42409
+http://xyza.ltd:25461/brenda57/5164346644/42409
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AaG_KuMpY-NQnK97gK-pQQAAAA%26pid%3DApi&f=1&ipt=df4c5b6d16bb3e815864f4d15d57d7fb4d2d73eba9272dfe2e77e75ebc993b70&ipo=images",MovieMAX FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42387
+http://xyza.ltd:25461/brenda57/5164346644/42387
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.q2npRL33h2iw3tm1X5miEAHaFj%26pid%3DApi&f=1&ipt=3d5a8cea978392c92f5a200b65eea71bf19bb6a5cf54081246479c9075f846a5&ipo=images",MoviePlex (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42411
+http://xyza.ltd:25461/brenda57/5164346644/42411
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.q2npRL33h2iw3tm1X5miEAHaFj%26pid%3DApi&f=1&ipt=3d5a8cea978392c92f5a200b65eea71bf19bb6a5cf54081246479c9075f846a5&ipo=images",MoviePlex FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42410
+http://xyza.ltd:25461/brenda57/5164346644/42410
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wzMOQEh12b8MGT8FsOQK5gHaBo%26pid%3DApi&f=1&ipt=f4bf6844c9782b169b0608f7842cbc7a1b7d1f471e4c047d1d181ebb40e0b88f&ipo=images",RetroPlex FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42412
+http://xyza.ltd:25461/brenda57/5164346644/42412
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wzMOQEh12b8MGT8FsOQK5gHaBo%26pid%3DApi&f=1&ipt=f4bf6844c9782b169b0608f7842cbc7a1b7d1f471e4c047d1d181ebb40e0b88f&ipo=images",RetroPlex HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42413
+http://xyza.ltd:25461/brenda57/5164346644/42413
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Eq_2hcA88MwyIzsNUIgWAwHaFj%26pid%3DApi&f=1&ipt=ecb7d6c276e2c555d90270553f84194fd8f4121106a6a2597c2f8554a2087004&ipo=images",ScreenPix Action HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165209
+http://xyza.ltd:25461/brenda57/5164346644/165209
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Eq_2hcA88MwyIzsNUIgWAwHaFj%26pid%3DApi&f=1&ipt=ecb7d6c276e2c555d90270553f84194fd8f4121106a6a2597c2f8554a2087004&ipo=images",ScreenPix HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165208
+http://xyza.ltd:25461/brenda57/5164346644/165208
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Eq_2hcA88MwyIzsNUIgWAwHaFj%26pid%3DApi&f=1&ipt=ecb7d6c276e2c555d90270553f84194fd8f4121106a6a2597c2f8554a2087004&ipo=images",ScreenPix Voices HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165210
+http://xyza.ltd:25461/brenda57/5164346644/165210
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Eq_2hcA88MwyIzsNUIgWAwHaFj%26pid%3DApi&f=1&ipt=ecb7d6c276e2c555d90270553f84194fd8f4121106a6a2597c2f8554a2087004&ipo=images",ScreenPix (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165211
+http://xyza.ltd:25461/brenda57/5164346644/165211
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/8186
+http://xyza.ltd:25461/brenda57/5164346644/8186
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41400
+http://xyza.ltd:25461/brenda57/5164346644/41400
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime 2 FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42398
+http://xyza.ltd:25461/brenda57/5164346644/42398
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime 2 FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42399
+http://xyza.ltd:25461/brenda57/5164346644/42399
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime 2 FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/5883
+http://xyza.ltd:25461/brenda57/5164346644/5883
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.s0bQWK0aOU0CJa4hTJ3OqgHaC9%26pid%3DApi&f=1&ipt=7fd892a94e289b3775d529ba89548499bbf37c5b655d13e8f0f727920fd3cb5e&ipo=images",Showtime Extreme FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42401
+http://xyza.ltd:25461/brenda57/5164346644/42401
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.s0bQWK0aOU0CJa4hTJ3OqgHaC9%26pid%3DApi&f=1&ipt=7fd892a94e289b3775d529ba89548499bbf37c5b655d13e8f0f727920fd3cb5e&ipo=images",Showtime Extreme FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/19666
+http://xyza.ltd:25461/brenda57/5164346644/19666
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.s0bQWK0aOU0CJa4hTJ3OqgHaC9%26pid%3DApi&f=1&ipt=7fd892a94e289b3775d529ba89548499bbf37c5b655d13e8f0f727920fd3cb5e&ipo=images",Showtime Extreme FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165221
+http://xyza.ltd:25461/brenda57/5164346644/165221
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.c-ZfBwGyiSjaMNg5zvu1LwAAAA%26pid%3DApi&f=1&ipt=3dab66be47eabbca5271cdad245b9b1a9b7ea892da45272fdcd1128576de46ce&ipo=images",Showtime Family Zone FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42402
+http://xyza.ltd:25461/brenda57/5164346644/42402
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.c-ZfBwGyiSjaMNg5zvu1LwAAAA%26pid%3DApi&f=1&ipt=3dab66be47eabbca5271cdad245b9b1a9b7ea892da45272fdcd1128576de46ce&ipo=images",Showtime Family Zone HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42403
+http://xyza.ltd:25461/brenda57/5164346644/42403
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Axrhm_Y3rktOgonoLLXWUwAAAA%26pid%3DApi&f=1&ipt=0813d5702cfe8f3ff9887b63cfc43cc8260310e8f3bb653ad7d4f6427d5c6a89&ipo=images",Showtime Next FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42404
+http://xyza.ltd:25461/brenda57/5164346644/42404
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Axrhm_Y3rktOgonoLLXWUwAAAA%26pid%3DApi&f=1&ipt=0813d5702cfe8f3ff9887b63cfc43cc8260310e8f3bb653ad7d4f6427d5c6a89&ipo=images",Showtime Next FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42405
+http://xyza.ltd:25461/brenda57/5164346644/42405
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.0t0ePG9SrmUS7h_guw19TAAAAA%26pid%3DApi&f=1&ipt=2ee18e89c5171dcf521e6de7e2b47c36dafa90dbb8de08b700d9c72e17028b13&ipo=images",Showtime Showcase FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/19664
+http://xyza.ltd:25461/brenda57/5164346644/19664
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.0t0ePG9SrmUS7h_guw19TAAAAA%26pid%3DApi&f=1&ipt=2ee18e89c5171dcf521e6de7e2b47c36dafa90dbb8de08b700d9c72e17028b13&ipo=images",Showtime Showcase FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165220
+http://xyza.ltd:25461/brenda57/5164346644/165220
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.aNQxoIhwH7I2xCYMzSrw5QHaCM%26pid%3DApi&f=1&ipt=82a46ae0f4ad35a80a9f253ee2c4bcfd41bf5b354cca7fad2a391628de9d41f3&ipo=images",Showtime Women FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42406
+http://xyza.ltd:25461/brenda57/5164346644/42406
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.aNQxoIhwH7I2xCYMzSrw5QHaCM%26pid%3DApi&f=1&ipt=82a46ae0f4ad35a80a9f253ee2c4bcfd41bf5b354cca7fad2a391628de9d41f3&ipo=images",Showtime Women HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42407
+http://xyza.ltd:25461/brenda57/5164346644/42407
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.daDVwpcnhRVK5A5g1IDy5wAAAA%26pid%3DApi&f=1&ipt=2c15d372a506c45ac9368ed57eb6a3a6e53b3ff3fce42b0121afb176ce5fc36f&ipo=images",SHOxBET FHD  (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/164597
+http://xyza.ltd:25461/brenda57/5164346644/164597
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.daDVwpcnhRVK5A5g1IDy5wAAAA%26pid%3DApi&f=1&ipt=2c15d372a506c45ac9368ed57eb6a3a6e53b3ff3fce42b0121afb176ce5fc36f&ipo=images",SHOxBET FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/164596
+http://xyza.ltd:25461/brenda57/5164346644/164596
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2RS614Z8Ywkuxh33Epat1gHaEK%26pid%3DApi&f=1&ipt=8cb671c1b124f0fd18351f21f004d0362bb3778662a1b564cf2b86f33f507b16&ipo=images",Sony Movies HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/19725
+http://xyza.ltd:25461/brenda57/5164346644/19725
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/22502
+http://xyza.ltd:25461/brenda57/5164346644/22502
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Cinema FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42416
+http://xyza.ltd:25461/brenda57/5164346644/42416
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Cinema HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42417
+http://xyza.ltd:25461/brenda57/5164346644/42417
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Comedy FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42418
+http://xyza.ltd:25461/brenda57/5164346644/42418
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Comedy FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42419
+http://xyza.ltd:25461/brenda57/5164346644/42419
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Edge FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42420
+http://xyza.ltd:25461/brenda57/5164346644/42420
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Edge HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42421
+http://xyza.ltd:25461/brenda57/5164346644/42421
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Action
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41393
+http://xyza.ltd:25461/brenda57/5164346644/41393
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Action FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42424
+http://xyza.ltd:25461/brenda57/5164346644/42424
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Action HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42425
+http://xyza.ltd:25461/brenda57/5164346644/42425
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Black HD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42426
+http://xyza.ltd:25461/brenda57/5164346644/42426
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Black HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42427
+http://xyza.ltd:25461/brenda57/5164346644/42427
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Classic
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41392
+http://xyza.ltd:25461/brenda57/5164346644/41392
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Classic FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42428
+http://xyza.ltd:25461/brenda57/5164346644/42428
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Classic HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42429
+http://xyza.ltd:25461/brenda57/5164346644/42429
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Family
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41391
+http://xyza.ltd:25461/brenda57/5164346644/41391
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Family FHD  (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42430
+http://xyza.ltd:25461/brenda57/5164346644/42430
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Family HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42431
+http://xyza.ltd:25461/brenda57/5164346644/42431
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42422
+http://xyza.ltd:25461/brenda57/5164346644/42422
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42423
+http://xyza.ltd:25461/brenda57/5164346644/42423
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Suspense
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41390
+http://xyza.ltd:25461/brenda57/5164346644/41390
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Suspense FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42432
+http://xyza.ltd:25461/brenda57/5164346644/42432
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Suspense HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42433
+http://xyza.ltd:25461/brenda57/5164346644/42433
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Westerns FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42434
+http://xyza.ltd:25461/brenda57/5164346644/42434
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Westerns HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/25047
+http://xyza.ltd:25461/brenda57/5164346644/25047
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Westerns HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42435
+http://xyza.ltd:25461/brenda57/5164346644/42435
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz HD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41398
+http://xyza.ltd:25461/brenda57/5164346644/41398
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz in Black
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41389
+http://xyza.ltd:25461/brenda57/5164346644/41389
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz in Black FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42436
+http://xyza.ltd:25461/brenda57/5164346644/42436
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz in Black HD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42437
+http://xyza.ltd:25461/brenda57/5164346644/42437
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Kids & Family (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/41388
+http://xyza.ltd:25461/brenda57/5164346644/41388
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Kids & Family (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/6852
+http://xyza.ltd:25461/brenda57/5164346644/6852
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Zl1O5l8DelZd-noc_ZAuAwHaCx%26pid%3DApi&f=1&ipt=47e011d6f4b592026d023b6af3d3d7fc97704b0fc145c4566643cc00d5828e02&ipo=images",The Movie Channel Extra HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165206
+http://xyza.ltd:25461/brenda57/5164346644/165206
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Zl1O5l8DelZd-noc_ZAuAwHaCx%26pid%3DApi&f=1&ipt=47e011d6f4b592026d023b6af3d3d7fc97704b0fc145c4566643cc00d5828e02&ipo=images",The Movie Channel HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/165205
+http://xyza.ltd:25461/brenda57/5164346644/165205
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.tvpassport.com%2Fimage%2Fstation%2F240x135%2Fthrillermax.png&f=1&nofb=1&ipt=ab543a2d7ad75be62d054bc319653e841d4539b9f1c65237f7a1d0af7d9f8279&ipo=images",Thriller MAX FHD (East)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42385
+http://xyza.ltd:25461/brenda57/5164346644/42385
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.tvpassport.com%2Fimage%2Fstation%2F240x135%2Fthrillermax.png&f=1&nofb=1&ipt=ab543a2d7ad75be62d054bc319653e841d4539b9f1c65237f7a1d0af7d9f8279&ipo=images",Thriller MAX FHD (West)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42386
+http://xyza.ltd:25461/brenda57/5164346644/42386
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Atlantic FHD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42117
+http://xyza.ltd:25461/brenda57/5164346644/42117
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Action & Adventure
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42111
+http://xyza.ltd:25461/brenda57/5164346644/42111
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Comedy
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42118
+http://xyza.ltd:25461/brenda57/5164346644/42118
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Crime & Thriller
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/22962
+http://xyza.ltd:25461/brenda57/5164346644/22962
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Disney HD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42113
+http://xyza.ltd:25461/brenda57/5164346644/42113
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Drama & Romance FHD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42112
+http://xyza.ltd:25461/brenda57/5164346644/42112
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Greats FHD
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42116
+http://xyza.ltd:25461/brenda57/5164346644/42116
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Hits
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42115
+http://xyza.ltd:25461/brenda57/5164346644/42115
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Premiere
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42114
+http://xyza.ltd:25461/brenda57/5164346644/42114
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Premiere +1
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42122
+http://xyza.ltd:25461/brenda57/5164346644/42122
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema SciFi & Horror
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42121
+http://xyza.ltd:25461/brenda57/5164346644/42121
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Ce16WojQysTAnMtDRpbhqwHaEW%26pid%3DApi&f=1&ipt=1a25125298c021eeb47ffa77434babd73428079a8046d550d0689d644c7f5cb3&ipo=images",Redbox Comedy
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/42454
+http://xyza.ltd:25461/brenda57/5164346644/42454
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 1 HD (fixed)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/164903
+http://xyza.ltd:25461/brenda57/5164346644/164903
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 2 HD (fixed)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/164904
+http://xyza.ltd:25461/brenda57/5164346644/164904
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 3 HD (fixed)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/164905
+http://xyza.ltd:25461/brenda57/5164346644/164905
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 4 HD (fixed)
-http://xyza.ltd:25461/timmytv1/IKAHI1cjmU/164906
+http://xyza.ltd:25461/brenda57/5164346644/164906
 
 #EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax
 http://51.81.244.172:25461/ryanscott/ryanscott/52157
@@ -3024,55 +2992,55 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Anime_Network_2014_logo.png",ANIME
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/aa7be678.jpg",Baby TV
-http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg",Boomerang
-http://195.26.87.217/live.ts?channelId=243&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=243&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonito.jpg",Cartoonito
-http://195.26.87.217/live.ts?channelId=247&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=247&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network Hindi
-http://195.26.87.217/live.ts?channelId=244&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=244&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network UK FHD
-http://195.26.87.217/live.ts?channelId=245&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=245&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network USA FHD
-http://195.26.87.217/live.ts?channelId=246&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=246&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/CBeebies.png",CBeeBies FHD
-http://195.26.87.217/live.ts?channelId=248&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=248&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/9ce4f63e",Disney Channel FHD
-http://195.26.87.217/live.ts?channelId=249&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=249&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/c1280ca4",Disney Junior FHD
-http://195.26.87.217/live.ts?channelId=250&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=250&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/4fc2a98b",Disney XD FHD
-http://195.26.87.217/live.ts?channelId=251&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=251&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://logopond.com/logos/b683ab7538c677bf1bc93848a9545644.png",KIDS TV
-http://195.26.87.217/live.ts?channelId=123913&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=123913&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/1277436f-e4cc-4485-bbe9-d65039f78028/1005123036/kids-tv-gd3-logo",KIDS TV NURSERY RHYMES AND BABY SONGS
-http://195.26.87.217/live.ts?channelId=123914&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=123914&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a807ee7a",Nickelodeon FHD
-http://195.26.87.217/live.ts?channelId=254&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=254&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/dc96b2fb",Nick Jr. FHD
-http://195.26.87.217/live.ts?channelId=252&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=252&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/8c0b7abf",Nick Jr. too
-http://195.26.87.217/live.ts?channelId=253&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=253&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/bbb73c52.jpg",NickToons
-http://195.26.87.217/live.ts?channelId=255&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=255&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/POGOHINDI.png",Pogo
-http://195.26.87.217/live.ts?channelId=256&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=256&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/d722a848",Pop
-http://195.26.87.217/live.ts?channelId=257&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=257&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/popmax.uk.png",POP MAX+1
-http://195.26.87.217/live.ts?channelId=38625&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=38625&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/11/nick-and-sonic-logos-1-2.jpg",Sonic Nickelodeon
-http://195.26.87.217/live.ts?channelId=40476&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=40476&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png",Sony YAY!
-http://195.26.87.217/live.ts?channelId=78849&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=78849&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/88d83eb.png",TeleToon
-http://195.26.87.217/live.ts?channelId=72428&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=72428&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/5d74c008",Tiny Pop
-http://195.26.87.217/live.ts?channelId=259&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=259&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/016dcb7.png",Treehouse TV
-http://195.26.87.217/live.ts?channelId=102888&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=102888&uid=2568&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://tv.cloudcdn.me/images/af1466fbx.png",WOW KID
-http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:15:D7:0C
+http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
@@ -3544,8 +3512,10 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
 https://is.gd/bQlQiT
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://studionetworksolutions.com/wp-content/uploads/2013/03/sportsmax-logo.png",SPORTSMAX 1
+http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/195868
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2
+http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 http://uzesrjy.mexamo.xyz:80/1800529529/0898626807/195869
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
@@ -3559,148 +3529,6 @@ https://is.gd/3pj8sV
 http://fortv.cc:8080//KP@6720MIR/3052052689/99569
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2 Backup
 http://fortv.cc:8080/KP@6720MIR/3052052689/119471
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.top4top.io/p_2473omzjs1.png",STARZPLAY CricLife 1 (FHD)
-http://starshare.live:8080/live/74998/74998/122979.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.top4top.io/p_2473omzjs1.png",STARZPLAY CricLife 2 FHD
-http://starshare.live:8080/live/74998/74998/122980.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/KhcPH6m/download-46.png",FOX CRICKET 501
-http://starshare.live:8080/live/74998/74998/1856.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",SUPER SPORTS CRICKET (4K)
-http://starshare.live:8080/live/74998/74998/158442.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS (CRICKET)
-http://starshare.live:8080/live/74998/74998/2496.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K)
-http://starshare.live:8080/live/74998/74998/124269.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K).
-http://starshare.live:8080/live/74998/74998/114479.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET (4K)
-http://starshare.live:8080/live/74998/74998/23566.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://h.top4top.io/p_247357nqz1.png",SKY SPORTS CRICKET
-http://starshare.live:8080/live/74998/74998/12.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="CRICKET",CRI:ASTRO CRICKET HD
-http://starshare.live:8080/live/74998/74998/2494.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",WILLOW CRICKET
-http://starshare.live:8080/live/74998/74998/215.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",WILLOW CRICKET.
-http://starshare.live:8080/live/74998/74998/23943.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/willowxtra.png",WILLOW CRICKET XTRA
-http://starshare.live:8080/live/74998/74998/5040.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/btsport1hd.png",CRI: TNT SPORT 1
-http://starshare.live:8080/live/74998/74998/23564.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/btsport2hd.png",CRI: TNT SPORT 2.
-http://starshare.live:8080/live/74998/74998/23565.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/btsport3hd.png",TNT Sports 3 FHD
-http://starshare.live:8080/live/74998/74998/148090.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS
-http://starshare.live:8080/live/74998/74998/89.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS (4K)
-http://starshare.live:8080/live/74998/74998/61674.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/asportshd.png",A Sports ARY
-http://starshare.live:8080/live/74998/74998/43444.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/p4knk5y/images-4.png",A SPORTS ARY (4K)
-http://starshare.live:8080/live/74998/74998/43447.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.5gtv.online/logo/geosuper.png",GEO SUPER
-http://starshare.live:8080/live/74998/74998/101.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png",TEN SPORTS
-http://starshare.live:8080/live/74998/74998/98.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/TenCricket.png",TEN CRICKET (FHD)
-http://starshare.live:8080/live/74998/74998/196594.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/TenCricket.png",TEN CRICKET
-http://starshare.live:8080/live/74998/74998/9886.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORT 1 HD
-http://starshare.live:8080/live/74998/74998/148.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",Star Sport-1  (FHD)
-http://starshare.live:8080/live/74998/74998/9397.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 (4K)
-http://starshare.live:8080/live/74998/74998/124281.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/LnKFDym/download-4.png",STAR SPORTS 2 HD
-http://starshare.live:8080/live/74998/74998/239.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/LnKFDym/download-4.png",Star Sport-2  (FHD)
-http://starshare.live:8080/live/74998/74998/9398.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 2 (4K)
-http://starshare.live:8080/live/74998/74998/124284.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://static.epg.best/in/StarSports1Hindi.in.png",STAR SPORTS HINDI HD
-http://starshare.live:8080/live/74998/74998/211.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://static.epg.best/in/StarSports1Hindi.in.png",Star Sport 1 HINDI (FHD)
-http://starshare.live:8080/live/74998/74998/9399.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS 1 HINDI (4K)
-http://starshare.live:8080/live/74998/74998/124287.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/4WyFqRF/download-4.png",STAR SPORTS SELECT 1 HD
-http://starshare.live:8080/live/74998/74998/238.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/s1pcKpw/Star-Sports-Select-2-logo-2.png",STAR SPORTS SELECT 2 HD
-http://starshare.live:8080/live/74998/74998/148801.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://static.epg.best/in/StarSports1.in.png",STAR SPORTS TAMIL 1 HD
-http://starshare.live:8080/live/74998/74998/9722.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/p4knk5y/images-4.png",STAR SPORTS TELUGU 1 (4K)
-http://starshare.live:8080/live/74998/74998/177843.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/9yh9Yjd/download-4.png",STAR SPORTS 3
-http://starshare.live:8080/live/74998/74998/1080.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS FHD
-http://starshare.live:8080/live/74998/74998/18452.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T SPORTS.
-http://starshare.live:8080/live/74998/74998/130714.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/rtasports.png",RTA Sports
-http://starshare.live:8080/live/74998/74998/1039.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png",SONY TEN 1 HD
-http://starshare.live:8080/live/74998/74998/154.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",SONY Ten 2 HD.
-http://starshare.live:8080/live/74998/74998/31314.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",CRI: SONY Ten 2 HD
-http://starshare.live:8080/live/74998/74998/192.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png",SONY TEN 3 HD
-http://starshare.live:8080/live/74998/74998/146.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/p4knk5y/images-4.png",SONY TEN 4 (4K)
-http://starshare.live:8080/live/74998/74998/29469.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png",SONY 5 HD
-http://starshare.live:8080/live/74998/74998/176.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png",SONY ESPN HD
-http://starshare.live:8080/live/74998/74998/155.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://l.top4top.io/p_3149r4vn11.png",Jio Cricket HD
-http://starshare.live:8080/live/74998/74998/158899.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",Sky Sport 1 HD
-http://starshare.live:8080/live/74998/74998/150854.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/skysports3.png",Sky Sport 3 CRICKET FHD.
-http://starshare.live:8080/live/74998/74998/24018.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/SportsMax.png",Carib SportsMax Cricket 
-http://starshare.live:8080/live/74998/74998/142048.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://w7.pngwing.com/pngs/683/355/png-transparent-premier-league-flow-sports-2018-fifa-world-cup-caribbean-premier-league-television-blue-text-thumbnail.png",FLOW SPORTS
-http://starshare.live:8080/live/74998/74998/34489.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://d.top4top.io/p_3149ins7o1.png",ATN Plus Cricket
-http://starshare.live:8080/live/74998/74998/85829.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/eurosports.png",EUROSPORTS
-http://starshare.live:8080/live/74998/74998/216.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://b.top4top.io/p_247364akp1.png",UK: Sky Sports F1 (4K)
-http://starshare.live:8080/live/74998/74998/122181.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://f.top4top.io/p_2473anxmd1.png",Sky Sports News (4K)
-http://starshare.live:8080/live/74998/74998/122408.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://b.top4top.io/p_2473t4qmh1.png",Sky Sports Main Event (4k)
-http://starshare.live:8080/live/74998/74998/122409.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://g.top4top.io/p_25631cq331.png",Sky Sports Premier League (4K)
-http://starshare.live:8080/live/74998/74998/122410.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://j.top4top.io/p_2563b7cdj1.png",Sky Sports Football (4K)
-http://starshare.live:8080/live/74998/74998/122411.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://h.top4top.io/p_247357nqz1.png",Sky Sports Cricket (4K)
-http://starshare.live:8080/live/74998/74998/122412.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://i.top4top.io/p_2473ezaox1.png",Sky Sports Action/NFL (4K)
-http://starshare.live:8080/live/74998/74998/122413.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://l.top4top.io/p_2473e4g9y1.png",Sky Sports Arena (4K)
-http://starshare.live:8080/live/74998/74998/122414.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://c.top4top.io/p_24736p3vs1.png",Sky Sports Racing (4K)
-http://starshare.live:8080/live/74998/74998/122415.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://h.top4top.io/p_2473pjofr1.png",Sky Sports Mix (4K)
-http://starshare.live:8080/live/74998/74998/122416.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://f.top4top.io/p_2473u7j351.png",Sky Sports Golf (4K)
-http://starshare.live:8080/live/74998/74998/122417.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://supersport-cms-prod.azureedge.net/media/m1tnc4h4/supersport-ott-1.png",SuperSport OTT 1
-http://starshare.live:8080/live/74998/74998/137517.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://supersport-cms-prod.azureedge.net/media/ofwjhfg4/supersport-ott-2.png",SuperSport OTT 2
-http://starshare.live:8080/live/74998/74998/137518.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://supersport-cms-prod.azureedge.net/media/j4zgc2cs/supersport-ott-3.png",: SuperSport OTT 3
-http://starshare.live:8080/live/74998/74998/137519.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://supersport-cms-prod.azureedge.net/media/scofujew/supersport-ott-4.png",SuperSport OTT 4
-http://starshare.live:8080/live/74998/74998/137520.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://supersport-cms-prod.azureedge.net/media/qwlihdeu/supersport-ott-5.png",SuperSport OTT 5
-http://starshare.live:8080/live/74998/74998/137521.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.roku.com/developer_channels/prod/a2bb7765c49b787365c03a616dd0d35615280cc23fcc6e6756f788d4a885bd5d.png",USA Tennis Channel UHD
 http://supersonictv.live:8080/452721/helfacker/40433
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://3.bp.blogspot.com/-YQvwuCKxV7s/Uq_-L3ABhSI/AAAAAAAAdJ0/ylPsBPbCP20/s1600/Golf+Channel+logo+2014.png",USA The Golf Channel
