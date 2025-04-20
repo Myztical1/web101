@@ -1,4 +1,4 @@
-#EXTINF:-1,#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
@@ -18,7 +18,7 @@ https://is.gd/OBGoCB
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://is.gd/iCxKQ3
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195830
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195830
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/cnc3.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
@@ -26,7 +26,7 @@ https://is.gd/2TYJQB
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://is.gd/Q9Ydhq
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268269
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268269
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ccn.tv6.tt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
@@ -34,7 +34,7 @@ https://is.gd/Kz6eVj
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/PMUFp6
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400200042
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400200042
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ttt.car.m3u8
 
@@ -49,413 +49,413 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",Caribbean Gospel TV (1080p)
 https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/espcar.png",ESPN CARIBBEAN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/401242211
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/401242211
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/espcar.png",ESPN 2 CARIBBEAN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/401242210
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/401242210
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",ESPN 3 CARIBBEAN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/401242209
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/401242209
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fxsopl.png",FOX SOCCER PLUS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376171
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376171
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/starcmd.png",STAR COMEDY FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376172
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376172
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fxbu.png",FOX BUSINESS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376173
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376173
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/bonaire.png",BONAIRE TV
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400617000
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400617000
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/3abcar.png",3ABN CARIBBEAN SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195816
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195816
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/arts.png",ARTS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195817
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195817
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/bhmas.png",BAHAMAS PARLIAMENT HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195818
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195818
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/meg.png",MEGA TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/379694
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/379694
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/wapa20.png",WAPA 2 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/379693
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/379693
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/wapa.png",WAPA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/379692
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/379692
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cal6.png",CANAL 6 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/379245
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/379245
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cars.png",CARS TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195824
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195824
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cbct.png",CBC TV 8 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195825
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195825
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nos1.png",NOS PAIS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195855
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195855
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/slanlu.png",ISLAND LUCK TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195848
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195848
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cgtdoc.png",CGTN DOCUMENTARY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195827
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195827
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cns6gg.png",CNS 6 GUYANA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195831
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195831
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cvmjam.png",CVM JAMAICA FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195833
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195833
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/espcar.png",ESPN 2 CARIBBEAN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195836
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195836
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/espcar.png",ESPN CARIBBEAN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195837
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195837
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cgtn.png",CGTN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195842
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195842
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbocar.png",HBO CARIBBEAN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195843
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195843
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hope.png",HOPE TV SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195844
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195844
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hype.png",HYPE TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195845
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195845
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/jnn.png",JNN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195850
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195850
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/mel.png",MELLO TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195853
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195853
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/uk/nicjr.png",NICK JR CARIBBEAN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195854
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195854
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/pet.png",PETS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195860
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195860
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ret.png",RETV SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195862
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195862
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/rnn.png",RNN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195863
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195863
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/smilech.png",SMILE SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195866
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195866
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/sptmx.png",SPORTS MAX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195868
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195868
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/sptmx.png",SPORTS MAX 2 FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195869
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195869
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",C SPORT HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/82150
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/82150
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",C SPORT 2 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/82151
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/82151
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tbn.png",TBN TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195874
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195874
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/teleun.png",TELEUNION HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195889
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195889
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tdir.png",TV DIRECT 13 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195895
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195895
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tjjma.png",TVJ JAMAICA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195896
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195896
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tjsp.png",TVJ SPORTS JAMAICA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195897
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195897
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nst.png",ZNS TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195901
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195901
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/wgn9.png",WGN9 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268271
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268271
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/fr/wartv.png",WARNER HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268272
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268272
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/pbs.png",PBS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268276
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268276
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/e1.png",E! FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268287
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268287
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dsnj.png",DISNEY JUNIOR FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268290
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268290
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tten.png",TTEN TRINIDAD SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195893
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195893
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/zeecn.png",ZEE CINEMA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376245
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376245
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/halcha.png",HALLMARK CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376243
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376243
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dncha.png",DENCEHALL REGGAE SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/7113
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/7113
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/city.png",CITY TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376242
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376242
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/eurns.png",EURONEWS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376238
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376238
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/stuuni.png",STUDIO UNIVERSAL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376237
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376237
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/msnbc1.png",MSNBC FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376236
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376236
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/brvo1.png",BRAVO FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376235
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376235
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fyi.png",FYI FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376234
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376234
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/toonc.png",TOONCAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376233
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376233
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/syfy.png",SYFY FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376232
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376232
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tcm.png",TCM HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376231
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376231
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/discsci.png",DISCOVERY SCIENCE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376229
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376229
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/invedis.png",INVESTIGATION DISCOVERY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376228
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376228
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hist.png",HISTORY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376226
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376226
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/max.png",MAX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376223
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376223
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tbs.png",TBS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376221
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376221
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fxm.png",FXM HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376220
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376220
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fx.png",FX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376219
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376219
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ane.png",A&E FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376218
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376218
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nbcsn.png",NBCSN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376215
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376215
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/est.png",ESTV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376213
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376213
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hts.png",HTS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/42020
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/42020
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dbs.png",DBS SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/42021
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/42021
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/outdch.png",OUTDOOR CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376208
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376208
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/betgsp.png",BET GOSPEL SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376207
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376207
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/travch.png",TRAVEL CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376206
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376206
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/diynet.png",DIY NETWORK HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376205
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376205
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/ger/vh10.png",VH1 CLASSIC HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376197
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376197
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ziz1.png",ZIZ HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28410
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28410
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/mtv2.png",MTV 2 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376196
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376196
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/mtvlv.png",MTV LIVE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376195
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376195
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/afrch1.png",AFRICA CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376194
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376194
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/mydes.png",MY DESTINATION TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376193
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376193
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/recp.png",RECIPE TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376192
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376192
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/vicel.png",VICELAND HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376191
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376191
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/juscen.png",JUSTICE CENTRAL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376190
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376190
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbopl1.png",HBO PLUS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376189
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376189
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbofm.png",HBO FAMILY FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376188
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376188
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbosgnt.png",HBO SIGNATURE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376187
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376187
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbo.png",HBO EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376186
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376186
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/hbo2.png",HBO 2 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376184
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376184
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/uk/cnn.png",CNN INTERNATIONAL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376182
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376182
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ctvcmy.png",CTV COMEDY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376181
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376181
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/parnte.png",PARAMOUNT NETWORK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376180
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376180
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/lfmv.png",LIFETIME MOVIES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376179
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376179
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/lfmwom.png",LIFETIME REAL WOMEN SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376178
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376178
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/liftm.png",LIFETIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376177
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376177
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/calsny.png",CANAL SONY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376176
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376176
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/wordnet.png",WORLD FISHING NETWORK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376175
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376175
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/axs1.png",AXS TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376165
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376165
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/bbyt.png",BABY TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376164
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376164
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/bomr.png",BOOMERANG HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376162
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376162
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/mtm.png",MTM TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376161
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376161
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ceen.png",CEEN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376160
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376160
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fev.png",FEVA TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376158
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376158
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",RUSH + HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76412
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76412
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/rusp.png",RUSH SPORTS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376153
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376153
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dsnch.png",DISNEY CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376151
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376151
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/jamvs.png",JAM VISION SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376150
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376150
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/natgeo.png",NAT GEO HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376149
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376149
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/natgew.png",NAT GEO WILD HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376148
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376148
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flwsp.png",FLOW SPORTS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376145
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376145
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flwsp2.png",FLOW SPORTS 2 FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376144
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376144
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/telrac.png",TELECURACAO FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376143
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376143
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ruba.png",ARUBA TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/376142
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/376142
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/awe.png",AWE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268302
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268302
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/b4ums.png",B4U MUSIC HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268301
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268301
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/b4mv.png",B4U MOVIES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268300
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268300
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/bbyfrs1.png",BABY FIRST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268299
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268299
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/betsl.png",BET SOUL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268297
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268297
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/betjm.png",BET JAMS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268296
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268296
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/beth1.png",BET HER FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268295
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268295
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/uk/cnn.png",CNN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268294
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268294
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cookch1.png",COOKING CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268293
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268293
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cuba.png",CUBAV SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268292
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268292
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/dayst.png",DAYSTAR SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268291
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268291
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/uk/distrb.png",DISCOVERY TURBO HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268289
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268289
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/gsn.png",GSN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268285
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268285
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nhkwl1.png",NHK WORLD HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268282
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268282
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nbcglf.png",NBC GOLF FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268281
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268281
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tnt.png",TNT FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268275
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268275
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tru.png",TRU TV SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268274
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268274
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/usanet.png",USA NETWORK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268273
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268273
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/telmnd.png",TELEMUNDO FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195883
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195883
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/telrub.png",TELE ARUBA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195876
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195876
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/gbn.png,"(GRENADA) GBN TV
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195806
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195806
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ttt.png",TTT HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400200042
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400200042
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ccntt.png",CCN TV6 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268269
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268269
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/tent.png",TEN TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400200044
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400200044
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cnc3tr.png",CNC3 TRINIDAD FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195830
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195830
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/synerg.png",SYNERGY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400208904
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400208904
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",TV JAAGRITI SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76409
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76409
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",TRINITY SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76410
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76410
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",SANKHYA TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/710920
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/710920
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",TEMPO HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76411
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76411
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",IETV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76413
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76413
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",IBN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76414
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76414
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",STAR PLUS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34900
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34900
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",TVJ SPORTS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34901
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34901
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",GAYELLE THE CARIBBEAN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76415
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76415
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/calac.png",CALA ACTION HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318027
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318027
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CALA WESTERN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76416
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76416
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CALA WEATHER FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76417
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76417
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CALA CLASSIC FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76418
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76418
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CALA BASH FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76419
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76419
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ntn.png",NTN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318053
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318053
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flow.png",Think Caribbean Television HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318051
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318051
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/cbn.png",CBN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318049
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318049
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flow.png",Euronews HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318047
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318047
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/glitz.png",GLITZ HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318045
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318045
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flow.png",LOVE TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318040
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318040
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/own.png",OWN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318036
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318036
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nbt.png",NBTV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318030
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318030
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/ginx.png",GINX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318025
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318025
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flow.png",TRAV  HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318024
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318024
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/danex.png",DANCHALL EXTREME HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318023
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318023
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/zeewr.png",ZEE WORLD HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318022
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318022
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/uwi.png",UWI TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318021
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318021
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/flow.png",Sur Peru  HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318018
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318018
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/gisdo.png",GIS Dominica HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400318017
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400318017
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",AFRO GLOBAL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34940
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34940
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",AL JAZEERA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34939
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34939
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",ANIMAL PLANET HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34938
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34938
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",AXN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34937
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34937
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",BET HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34935
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34935
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",BLOOMBERG HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34934
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34934
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",CCTV 4 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34932
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34932
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",ZNSTV BAHAMAS
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34930
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34930
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/CUBAVISION.png",CUBAVISION SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34929
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34929
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/pa/cubvinte.png",CUBAVISION INTERNACIONAL
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/37168
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/37168
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",FLOW 1 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34928
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34928
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",PREVU HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34927
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34927
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",BVN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34926
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34926
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",DISCOVERY CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34925
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34925
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",DISCOVERY HOME AND HEALTH SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34924
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34924
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",DISCOVERY KIDS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34923
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34923
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",ESPN 3 CARIBBEAN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34922
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34922
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",EWTN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34921
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34921
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",FIGHT SPORTS SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34920
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34920
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",FOOD NETWORK HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34919
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34919
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",HGTV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34918
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34918
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",HISTORY2 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34917
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34917
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",ISAT SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34915
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34915
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",MTV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34914
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34914
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",MY 33 (Miami) HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34913
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34913
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",OAN AMERICA NEWS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34911
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34911
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",PBC JAMAICA SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34910
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34910
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",PBS KIDS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34909
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34909
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",RT DOCUMENTARY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34908
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34908
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",SPACE SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34907
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34907
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",TLC SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34906
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34906
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",VH1 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34905
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34905
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/nicr.png",TELEMICRO INTERNACIONAL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34903
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34903
 
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.telus.com/common/cms/images/tv/piktv/channel-logos/square/AapkaColors.png",AAPKA_COLORS 
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:AAPKA_COLORS.smil/playlist.m3u8
@@ -476,9 +476,9 @@ https://is.gd/l33fea
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://indiantvinfo.com/media/2022/09/Zing-Channel-Logo-300x158.jpg",Zing
 https://is.gd/RKWx4Z
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U MOVIES (IND)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268300
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268300
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/B4U-Music.png",B4U MUSIC
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/268301
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268301
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
 http://195.26.87.217/live.ts?channelId=86150&uid=7214&deviceMac=00:1A:79:00:20:D1
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png",BBO HD
@@ -1466,699 +1466,699 @@ http://51.81.244.172:25461/ryanscott/ryanscott/39727
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://i.pinimg.com/474x/f3/26/67/f32667e973be7970e1f1aee7bb552f7b.jpg",(L) CBS
 http://51.81.244.172:25461/ryanscott/ryanscott/44010
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE FIRST
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77616
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77616
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ntna0.png",ANTENNA TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400425883
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400425883
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hgtv.png",HGTV EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176668
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176668
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/etl.png",ET-LIVE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400310677
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400310677
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hgtv.png",HGTV HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33970
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33970
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/tlc.png",TLC EAST
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176700
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176700
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/tlc.png",TLC WEST
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400372471
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400372471
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hallmr.png",HALLMARK CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176712
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176712
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/ae1.png",A&E FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176585
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176585
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/game.png",GAME SHOW NETWORK HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181375
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181375
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/freo.png",FREEFORM HD [EAST] 
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176741
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176741
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FREEFORM HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33968
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33968
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/foodn.png",FOOD NETWORK HD (WEST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176692
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176692
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/foodn.png",FOOD NETWORK HD (EAST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176691
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176691
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/lftm.png",LIFETIME HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176707
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176707
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsih.png",COMEDY CENTRAL EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176762
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176762
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsih.png",COMEDY CENTRAL HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34036
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34036
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/oprw.png",OPRAH WINFREY NETWORK HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176708
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176708
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/mtv.png",MTV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181112
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181112
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/cook.png",COOKING CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176683
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176683
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/vh1.png",VH1 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181110
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181110
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/tnw.png",TNT WEST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176756
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176756
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/cmt.png",CMT HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176763
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176763
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsih1.png",E! ENTERTAINMENT EAST HD 
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176752
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176752
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsih1.png",E! ENTERTAINMENT WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34037
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34037
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/bonc.png",BOUNCE TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176745
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176745
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/adlt.png",ADULT SWIM HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/362317
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/362317
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/cour.png",COURT TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176759
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176759
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/jtv1.png",JTV ( JEWELRY )
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77806
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77806
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/wet.png",WE TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176698
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176698
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/pp.png",POP HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13584
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13584
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/twist.png",TWIST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/43180
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/43180
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/dog.png",DOG TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13550
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13550
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/vice0.png",VICE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176699
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176699
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/heri.png",HEROES & ICONS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176746
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176746
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/awe.png",AWE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176716
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176716
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ahero0.png",AMERICAN HEROES CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13529
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13529
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/tru.png",TRU TV (East) FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176757
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176757
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/tru.png",Tru TV (West) HD 
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34231
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34231
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/thc.png",THE COWBOY CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253092
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253092
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/fer0.png",FETV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400241669
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400241669
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/laff.png",LAFF FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400309672
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400309672
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/wgm0.png",WGN AMERICA FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176717
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176717
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/lwr.png",LAW AND CRIME HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176727
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176727
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/qvch.png",QVC NOW FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176686
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176686
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/qvc1.png",QVC 1 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176706
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176706
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/qvc2.png",QVC 2 FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176705
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176705
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/qvc3.png",QVC 3 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176721
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176721
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hsn.png",HSN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176697
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176697
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hsn.png",HSN 2 SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28296
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28296
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/tas0.png",TASTEMADE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176685
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176685
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/rev.png",REVOLT HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176704
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176704
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/gdtv.png",GOD TV HD+
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176694
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176694
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/fail.png",FAIL ARMY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181032
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181032
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/3tv.png",3TV PHOENIX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176760
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176760
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/estv.png",ESTV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176751
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176751
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/gems0.png",GEM SHOPPING HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176715
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176715
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/uptv.png",UP TV 
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/182245
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/182245
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/fm.png",FM FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176714
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176714
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/nbcu.png",UNIVERSO SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28279
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28279
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/lmn.png",LMN HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28295
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28295
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/own.png",OWN SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28294
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28294
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/sci.png",SCI HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28293
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28293
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/tr3s.png",TR3S SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28280
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28280
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",DEFIANCE
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33938
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33938
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",AFV TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77460
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77460
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",LOL NETWORK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77461
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77461
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",PRESTON & BRIANNA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77475
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77475
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",PICKLEBALL TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77443
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77443
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",UNSPEAKABLE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77453
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77453
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",KIDS IN THE HALL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77459
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77459
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",GAMEPLAY ROBLOX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77476
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77476
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",GAMEPLAY MINECRAFT fHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77477
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77477
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MYTHICAL 24/7 FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77478
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77478
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MRBEAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77479
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77479
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",DUNGEONS & DRAGONS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77480
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77480
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",PLAYERS TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77545
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77545
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",ESTRELLA TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77558
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77558
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",SAY YES TO THE DRESS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77576
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77576
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BIZARRE FOODS WITH ANDREW ZIMMERN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77577
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77577
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE CHALLENGE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77596
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77596
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MODERN MARVELS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77281
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77281
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MYSTERIOUS WORLDS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77277
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77277
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",REUTERS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77267
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77267
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/idi.png",ID INVESTIGATION DISCOVERY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176612
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176612
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/idi.png",ID INVESTIGATION DISCOVERY (WEST) HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/54913
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/54913
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hicc.png",HISTORY CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176584
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176584
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/h2.png",HISTORY CHANNEL 2 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/212528
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/212528
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",HISTORY MILITARY
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33953
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33953
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/oxy.png",OXYGEN EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176596
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176596
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/dcC.png",DISCOVERY CHANNEL EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176620
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176620
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/sci.png",DISCOVERY SCIENCE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176650
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176650
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/dfF.png",DISCOVERY FAMILY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176651
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176651
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/dislyy.png",DISCOVERY LIFE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176652
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176652
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",DISCOVERY TURBO
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33954
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33954
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ntg.png",NAT GEO HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176654
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176654
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ntw.png",NAT GEO WILD HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176653
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176653
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/anpp.png",ANIMAL PLANET HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176603
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176603
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/anpp.png",ANIMAL PLANET WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176638
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176638
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/smtt.png",SMITHSONIAN CHANNEL EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176667
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176667
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",SMITHSONIAN HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33971
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33971
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/destT.png",DESTINATION AMERICA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176627
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176627
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/vicc.png",VICELAND FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176597
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176597
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CHASING CRIMINALS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77254
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77254
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/crmm.png",CRIME AND INVESTIGATION HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13494
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13494
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CRIME CULTS KILLERS BY A AND E FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77240
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77240
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",OXYGEN TRUE CRIME ARCHIVES FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77285
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77285
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png", REEL TRUTH CRIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77307
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77307
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CRIME TIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77310
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77310
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",REAL CRIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77311
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77311
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",TRUE CRIME NOW FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77312
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77312
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FILMRISE TRUE CRIME HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77315
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77315
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CRIME THRILLHER FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77316
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77316
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",WONDERY EXHIBIT C TRUE CRIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77319
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77319
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CRIME SCENES FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77572
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77572
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CRIME 360 FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77574
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77574
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/trvlchn.png",TRAVEL CHANNEL EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/212527
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/212527
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/trvlchn.png",TRAVEL WEST  FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176640
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176640
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/fyi.png",FYI HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176662
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176662
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/outt.png",OUTDOOR CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176606
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176606
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ahc0.png",AHC FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176659
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176659
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ahc0.png",AHC HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176725
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176725
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/wfnn.png",WORLD FISHING NETWORK HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176631
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176631
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/nasa.png",NASA 
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176657
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176657
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/grcrrr.png",GREAT AMERICAN COUNTRY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176634
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176634
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ovtt.png",OVATION HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176608
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176608
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/prrst.png",PURSUIT CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176607
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176607
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/otsd.png",OUTSIDE TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176629
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176629
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/free.png",FREE SPEECH TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253161
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253161
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/aprr.png",ASPIRE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176609
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176609
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",Wild Earth HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/6615
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/6615
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/lovenatt.png",Love Nature FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/6616
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/6616
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/spy.png",WEATHERSPY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/42196
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/42196
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",JAIL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77251
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77251
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",WORLD'S WILDEST POLICE VIDEOS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77250
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77250
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",LIVING WITH EVIL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77256
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77256
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CHEDDAR NEWS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77259
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77259
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",TIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77260
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77260
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",VICE NEWS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77261
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77261
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FORENSIC FILES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77246
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77246
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",COLD CASE FILES FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77245
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77245
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",WORLD'S MOST EVIL KILLERS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77243
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77243
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",UNSOLVED MYSTERIES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77242
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77242
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",REALITY CHECK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77297
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77297
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/lovenatt.png",Love Nature en Español HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/42257
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/42257
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/cimx.png",CINEMAX ACTION HD (EAST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/170628
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/170628
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/cime.png",CINEMAX EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181589
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181589
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/cmrm.png",CINEMAX MORE MAX WEST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13621
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13621
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/ctrm.png",CINEMAX OUTER MAX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/170172
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/170172
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/cith.png",CINEMAX THRILLER MAX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/170629
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/170629
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/cime.png",CINEMAX 5 HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13618
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13618
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/cin.png",CINEMAX WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/170600
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/170600
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CINEMAX MOVIEMAX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33963
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33963
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CINEVAULT WESTERNS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77367
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77367
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/cinelife.png",CINE LIFE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/42198
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/42198
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CINE RETRO FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77559
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77559
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CINE DE ORO FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77586
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77586
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/amc.png",AMC HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181627
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181627
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BBC GAME SHOWS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77323
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77323
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BBC SCI-FI FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77419
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77419
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BBC COMEDY FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77458
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77458
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/bet1.png",BET (EAST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181111
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181111
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/bet1.png",BET (WEST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181611
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181611
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ciz.png",COZI HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181623
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181623
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/gtt.png",GETTV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181626
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181626
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",24-7 LAUGHS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77608
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77608
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",WONDERY 
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77451
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77451
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",WAYPOINT TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77442
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77442
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BLOOMBERG ORIGINALS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77450
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77450
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",JOHNNY CARSON TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77492
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77492
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE CAROL BURNETT SHOW FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77494
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77494
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BACKSTAGE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77505
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77505
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",RUPAUL'S DRAG RACE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77607
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77607
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",REALITY TV: SHORES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77614
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77614
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE WALKING DEAD CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77548
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77548
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",SHOUT! FACTORY TV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77457
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77457
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",ENCORE ACTION EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77594
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77594
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",STARZ INBLACK EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77595
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77595
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",UNIVERSAL CRIME HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77241
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77241
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CRIME & JUSTICE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77609
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77609
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MGM PRESENTS: CRIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77253
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77253
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",UNIVERSAL WESTERNS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77368
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77368
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",AMERICAN HORRORS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/8522
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/8522
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/5s.png",5 STAR MAX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/183625
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/183625
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ac.png",ACTIONMAX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/183627
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/183627
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/dv.png",DOVE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181554
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181554
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MURDER SHE WROTE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77248
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77248
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",LEVERAGE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77247
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77247
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MIDSOMER MURDERS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77244
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77244
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/fs.png",FUSE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181560
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181560
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MAVERICK BLACK CINEMA FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77436
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77436
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FILMRISE CLASSIC TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77361
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77361
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FILMRISE BLACK TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77362
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77362
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FILMRISE BRITISH TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77363
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77363
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FILMRISE FREE MOVIES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77364
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77364
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FILMRISE ACTION HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77365
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77365
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MOVIE FAVORITES BY LIFETIME FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77369
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77369
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/fx.png",FX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/212539
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/212539
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxes.png",FX WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181581
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181581
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxm.png",FXM HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181585
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181585
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxx.png",FXX EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13559
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13559
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FXX WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33962
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33962
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",PIXL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33961
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33961
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/prm.png",PARAMOUNT NETWORK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400360339
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400360339
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/prm.png",PARAMOUNT NETWORK HD (EAST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176601
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176601
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CLASSIC CINEMA FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77372
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77372
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE ASYLUM MOVIE CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77418
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77418
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MOVIES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77597
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77597
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hea.png",HBO EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181617
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181617
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbw.png",HBO WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181618
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181618
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hb2.png",HBO 2 FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181616
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181616
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbc.png",HBO COMEDY EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13634
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13634
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbc.png",HBO COMEDY HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33978
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33978
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbf.png",HBO FAMILY WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13635
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13635
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbz.png",HBO ZONE [EAST ]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13637
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13637
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbz.png",HBO ZONE [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33977
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33977
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbo.png",HBO SIGNATURE EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/212519
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/212519
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hbo.png",HBO SIGNATURE HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33976
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33976
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hd.png",HD NET MOVIES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253140
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253140
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",Electric NOW HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/6640
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/6640
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hallmark1.png",HALLMARK MOVIES & MYSTERIES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181587
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181587
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hlld.png",HALLMARK DRAMA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181591
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181591
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/mgm.png",MGM  EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181596
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181596
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsim.png",MGM+ Marquee HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34031
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34031
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsihd.png",MGM+ Drive-In HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34032
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34032
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsihh.png",MGM+ Hits HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34033
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34033
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsihe.png",MGM+ East HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34034
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34034
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/fxsihh.png",MGM+ West HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/34035
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/34035
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/lvi.png",MOVIE MAX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181598
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181598
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/mvpx.png",MOVIE PLEX HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253137
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253137
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/mro.png",MORE MAX FHD (WEST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176613
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176613
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/mro.png",MORE MAX FHD (EAST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176614
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176614
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/rteo.png",RETRO PLEX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253139
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253139
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/lmn.png",LIFETIME MOVIE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181558
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181558
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/inde.png",INDIE PLEX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253138
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253138
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/ifc.png",IFC HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181559
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181559
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/insp.png",INSP HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181592
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181592
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/syf.png",SYFY East HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181556
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181556
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",SYFY HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33960
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33960
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",FUBO MOVIES
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33964
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33964
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/sda.png",SUNDANCE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181583
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181583
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/sny.png",SONY MOVIES FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181584
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181584
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/usw.png",USA NETWORK EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13612
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13612
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/usw.png",USA NETWORK WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76460
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76460
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/tnt.png",TNT EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/212536
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/212536
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/tbs.png",TBS EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176677
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176677
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/tbw.png",TBS WEST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176754
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176754
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/tfe.png",THE FILM DETECTIVE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181553
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181553
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/tvl.png",TV LAND EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181555
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181555
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",TV LAND HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33969
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33969
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/tcm.png",TCM HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181603
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181603
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",START TV HD WEST
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33972
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33972
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strz.png",STARZ CINEMA FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/170173
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/170173
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzb.png",STARZ EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181568
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181568
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/srzw.png",STARZ WEST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400230191
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400230191
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/stae.png",STARZ EDGE EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13626
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13626
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/stae.png",STARZ EDGE WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400230201
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400230201
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strc.png",STARZ COMEDY EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13625
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13625
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strc.png",STARZ COMEDY WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400230200
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400230200
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzb.png",STARZ ENCORE EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181566
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181566
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzb.png",STARZ ENCORE WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400230192
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400230192
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzbbl.png",STARZ ENCORE BLACK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181574
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181574
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzbcl.png",STARZ ENCORE CLASSIC FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181573
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181573
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzbf.png",STARZ ENCORE FAMILY FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181572
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181572
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzbac.png",STARZ ENCORE ACTION EAST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181567
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181567
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strzbac.png",STARZ ENCORE ACTION WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/400230202
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400230202
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/stcw1.png",STARZ ENCORE WESTERNS  EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/13628
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/13628
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strb.png",STARZ IN BLACK HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33988
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33988
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strz.png",STARZ ENCORE SUSPENSE EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33989
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33989
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/strz.png",STARZ ENCORE ESPANOL HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33990
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33990
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/stre.png",STARZ ENCORE ESPANOL HD [EAST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33991
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33991
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/smee.png",SHOWTIME EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181564
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181564
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/shwt.png",SHOWTIME HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33980
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33980
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/shwt.png",SHOWTIME 2 FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181563
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181563
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/bet1.png",SHOWTIME BET FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253113
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253113
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/sex.png",SHOWTIME EXTREME EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181562
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181562
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/shwt.png",SHOWTIME EXTREME HD [WEST]
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/33979
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/33979
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/swfam1.png",SHOWTIME FAMILY ZONE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253114
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253114
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/stmn.png",SHOWTIME WOMEN FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253116
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253116
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/stxn.png",SHOWTIME NEXT HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253115
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253115
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/stx.png",SHOWTIME SHOWCASE FHD EAST
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253112
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253112
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/hallmark1.png",Hallmark Movies & More HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/42187
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/42187
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/LONE.png",LONA STAR HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/32500
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/32500
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/sp.png",SCREENPIX SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28292
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28292
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/sa.png",SCREENPIX ACTION SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28291
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28291
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/sv.png",SCREENPIX VOICES SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28290
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28290
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/sw.png",SCREENPIX WESTERNS SD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/28289
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/28289
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/usa/greataf.png",GREAT AMERICAN FAMILY HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/31930
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/31930
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",AT THE MOVIES FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77371
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77371
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",ALL DAY DRAMA HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77601
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77601
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",90S SITCOM HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77602
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77602
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",80S SITCOM HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77603
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77603
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",TOTALLY 90'S FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77447
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77447
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",HEARTLAND HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77448
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77448
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BOUNCEXL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77449
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77449
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",GENERATION DRAMA FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77452
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77452
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MAXIMUM EFFORT CHANNEL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77456
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77456
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",KIM'S CONVENIENCE HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77463
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77463
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",MYSTERY SCIENCE THEATER 3000 
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77464
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77464
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",RIFFTRAX FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77465
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77465
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",NEIGHBOURS LOOKING BACK FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77483
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77483
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",NEIGHBOURS: A NEW CHAPTER FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77484
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77484
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE THREE STOOGES + HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77485
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77485
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE ED SULLIVAN SHOW FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77486
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77486
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",21 JUMP STREET HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77487
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77487
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE REAL MCCOYS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77488
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77488
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",LIFE AND LEGEND OF WYATT EARP HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77490
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77490
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",WANTED: DEAD OR ALIVE FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77491
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77491
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",POWER RANGERS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77493
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77493
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",THE DICK VAN DYKE SHOW HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77497
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77497
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",HUNTER HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77498
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77498
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",TELENOVELAS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77550
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77550
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",HISTORIAS DE AMOR HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77552
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77552
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",LOVE KILLS
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77575
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77575
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",NOSTALGIC HITS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77599
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77599
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",TV CLASSICS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77600
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77600
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",SURVIVOR HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77611
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77611
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",BLACK VOICES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77613
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77613
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/univk.png",UNIVERSAL KIDS EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77617
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77617
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/nkjr0.png",NICK JR WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176806
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176806
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/nkld.png",NICKELODEON EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176817
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176817
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/nktt.png",NICKTOONS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176798
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176798
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/strsff.png",STARZ KIDS & FAMILY (EAST) FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/181565
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/181565
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/strsff.png",STARZ KIDS AND FAMILY WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176837
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176837
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/teenn.png",TEENNICK EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176799
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176799
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/bbf.png",BABY FIRST FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176814
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176814
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/bbt.png",BABYTV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176802
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176802
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/bmrn.png",BOOMERANG HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176822
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176822
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/arkidss/cn.png",CARTOON NETWORK EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176847
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176847
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/fwc/osndisney.png",DISNEY CHANNEL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176818
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176818
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/fwc/osndisney.png",DISNEY CHANNEL (WEST) HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176841
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176841
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/fwc/disneyju.png",DISNEY JUNIOR (EAST) HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176819
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176819
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/fwc/disneyju.png",DISNEY JUNIOR HD (WEST)
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176843
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176843
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/disxx.png",DISNEY XD (EAST) HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176820
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176820
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/disxx.png",DISNEY XD WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176832
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176832
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/dukt.png",DUCKTV FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176823
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176823
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/hboyy.png",HBO FAMILY EAST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176815
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176815
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/pbk.png",PBS KIDS HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176809
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176809
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/3abk.png",3ABN KIDS TV HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/253093
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/253093
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/univk.png",UNIVERSAL KIDS WEST HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/176800
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/176800
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CORNER GAS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77462
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77462
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",RETROCRUSH FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77474
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77474
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",HUNTER X HUNTER FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77481
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77481
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",CRUNCHYROLL FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77482
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77482
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",TRANSFORMERS FHD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77489
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77489
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",PAW PATROL HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77610
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77610
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",ANIMATION FAVORITES HD
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/77612
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/77612
 
 #EXTINF:-1 group-title="UK CHANNELS" tvg-logo="http://181.233.124.53:80/images/7a5df23d3355b2ef539f8b2d68f91429.png",Zee Cinema
 http://ky-iptv.com:80/harrell421/pass421/175781.ts
@@ -3016,7 +3016,7 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-western-logo.jpg",PinkWestern
 https://tvnow.best/api/stream/yale/yale/livetv.epg/pink.western.rs.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png",CALA WESTERN
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/76416
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/76416
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ytimg.com/vi/rZZUxFdEk4w/hqdefault.jpg",24/7 Superstar Western Movie 1
 https://is.gd/9wEdhf
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://image.roku.com/developer_channels/prod/723e3da2af338ea74fb1b52b2957540f66c214f73b7de28515f4481f9b6ac05d.jpg",Old West TV
@@ -3477,10 +3477,10 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 https://is.gd/bQlQiT
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://studionetworksolutions.com/wp-content/uploads/2013/03/sportsmax-logo.png",SPORTSMAX 1
 http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195868
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195868
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2
 http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
-http://fprvjetz.mexamo.xyz/B35DKUNA/HX3WLEH7/195869
+http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195869
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH
