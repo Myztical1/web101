@@ -3008,7 +3008,7 @@ http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:00:05:A
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="http://clipart-library.com/images/BigrqGR6T.png",CINEBOX WESTERN
-http://fortv.cc:8080/j3McKd/673709/119435
+http://xxip25.top:8080/66575255/66575255/119435
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/PNNpTDH/screenpix-westerns-us.png",SCREENPIXWESTERNS-US
 https://is.gd/eQBQub
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.ibb.co/dcmMXz8/starz-encore-westerns.png",STARZENCOREWESTERNS-US
@@ -3444,6 +3444,26 @@ https://a1xs.vip/lovent4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",ALL DOCUMENTERY
+http://xxip25.top:8080/66575255/66575255/119439
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",DISCOVERY
+http://xxip25.top:8080/66575255/66575255/119440
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",DW DOCUMENTERY
+http://xxip25.top:8080/66575255/66575255/119441
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",FREE DOCUMENTERY
+http://xxip25.top:8080/66575255/66575255/119442
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",FREE DOCUMENTERY ANILAMS
+http://xxip25.top:8080/66575255/66575255/119443
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",FRONTLINE PBS
+http://xxip25.top:8080/66575255/66575255/119444
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",NAT GEO WILD
+http://xxip25.top:8080/66575255/66575255/119447
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",NETFLIX
+http://xxip25.top:8080/66575255/66575255/119448
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",REAL CRIME
+http://xxip25.top:8080/66575255/66575255/119449
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",REAL WILD
+http://xxip25.top:8080/66575255/66575255/119451
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/77OXe64.jpg",Real Stories
 https://lds-realstories-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstoriessimplestream/CDN/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/kwdX93h.jpg",Real Crime
@@ -3481,7 +3501,7 @@ http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195868
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2
 http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195869
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/WLLOW.png",Willow Cricket HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://ujm.from-in.com/imageicon/WILLOWCRICKETHD.jpg",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
@@ -3491,6 +3511,24 @@ https://is.gd/fIC80r
 http://fortv.cc:8080/Smiley/Smiley/99569
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2 Backup
 http://fortv.cc:8080/Smiley/Smiley/119471
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://studionetworksolutions.com/wp-content/uploads/2013/03/sportsmax-logo.png",SPORTSMAX 1 Backup
+http://xxip25.top:8080/66575255/66575255/99569
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2 Backup
+http://xxip25.top:8080/66575255/66575255/119471
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cloudfront.bernews.com/wp-content/uploads/2016/09/Flow-Sports-generic-TC-gr1.jpg",FLOW SPORTS Backup
+http://xxip25.top:8080/66575255/66575255/79544
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH Backup
+http://xxip25.top:8080/66575255/66575255/100043
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH 2 Backup
+http://xxip25.top:8080/66575255/66575255/99568
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 1 Backup
+http://xxip25.top:8080/66575255/66575255/99624
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",ESPN 2 Backup
+http://xxip25.top:8080/66575255/66575255/99623
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/0rDnCQK/TNT-SPORTS-1.png",TNT SPORTS-1
+http://xxip25.top:8080/66575255/66575255/53708
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Cw3jGxV/TNT-SPORTS-2.png",TNT SPORTS-2
+http://xxip25.top:8080/66575255/66575255/53709
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC NETWORK
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true",BEIN SPORTS
