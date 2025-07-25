@@ -879,8 +879,6 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DIY.smil/playlist.m3u8
 https://is.gd/UoeTjP
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.astra2sat.com/wp-content/uploads/2015/10/vice-e1445607678165.jpg",VICE
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ilovesatellitetv.com/images/flix-logo.gif",Flix
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/165254
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",5 StarMAX FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42389
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Action MAX FHD (East)
@@ -893,23 +891,27 @@ http://xyza.ltd:25461/Jocelyn/f6gsesdy/42383
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/19847
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Cinemax Moremax FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/19655
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Cinemax Moremax FHD (West)
+http://xyza.ltd:25461/Jocelyn/f6gsesdy/22818
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Frageworksmediafiles%2Fwp-content%2Fuploads%2F2015%2F09%2F21032421%2FCinemax-Logo.png&f=1&nofb=1&ipt=6197a925d19270af6cbaeef5c490aa8e9e226c03d47ba461de55b43791ccfc54&ipo=images",Cinemax OuterMAX FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42388
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",EPIX 2 FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ilovesatellitetv.com/images/flix-logo.gif",Flix
+http://xyza.ltd:25461/Jocelyn/f6gsesdy/165254
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/640px-MGM%2B_Hits_2023.svg.png",MGM+ Hits
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/40915
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",Epix Drive-In FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/640px-MGM%2B_Drive-In_2023.svg.png",MGM+ Drive-In
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/165207
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",EPIX FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/1920px-MGM%2B_logo.svg.png",MGM +
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/5874
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Eayo83-fZpTP1FIstfmMoAHaEK%26pid%3DApi&f=1&ipt=2a5cd19a157c9245dad273231d885cd8ba2312c85a1feb91c9da87c7c69f8d3a&ipo=images",Epix Hits HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/1024px-MGM%2B_Marquee_2023.svg.png",MGM+ Marquee
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/40890
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fq8Ib0P9k2U5JHqgWPJRGAHaC1%26pid%3DApi&f=1&ipt=b48be9c184bae3aeeb5658dc4bce00aac92e419ac3cd97b0eb72e8d930fa1df0&ipo=images",HBO 2 FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42045
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fq8Ib0P9k2U5JHqgWPJRGAHaC1%26pid%3DApi&f=1&ipt=b48be9c184bae3aeeb5658dc4bce00aac92e419ac3cd97b0eb72e8d930fa1df0&ipo=images",HBO 2 FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42549
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ipIboCuw6m-IIH0t7uZqVAHaE8%26pid%3DApi&f=1&ipt=23ef761e7c577f082160b6c109b62842c011557ffb266452882f2af5988bfb32&ipo=images",HBO Comedy FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/1920px-HBO_Comedy_%282014%29.svg.png",HBO Comedy FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/5879
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ipIboCuw6m-IIH0t7uZqVAHaE8%26pid%3DApi&f=1&ipt=23ef761e7c577f082160b6c109b62842c011557ffb266452882f2af5988bfb32&ipo=images",HBO Comedy FHD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/1920px-HBO_Comedy_%282014%29.svg.png",HBO Comedy FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42550
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.-pNGKpQVNA3pwgv-2l5CEgHaFj%26pid%3DApi&f=1&ipt=1288aba10cf38c489cb3eba642a4d4bf6dee8a059b34f227c63c1a3ef5964dff&ipo=images",HBO Family FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41405
@@ -931,15 +933,15 @@ http://xyza.ltd:25461/Jocelyn/f6gsesdy/42394
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42408
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.h3roSVCBF-AonB2d3D3pAAHaEK%26pid%3DApi&f=1&ipt=c750b3a23fcb94332443cb35eaebc461dd0419fa938d88a14c175a10ee69d32b&ipo=images",IndiePlex (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42409
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AaG_KuMpY-NQnK97gK-pQQAAAA%26pid%3DApi&f=1&ipt=df4c5b6d16bb3e815864f4d15d57d7fb4d2d73eba9272dfe2e77e75ebc993b70&ipo=images",MovieMAX FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logo.iptveditor.com/cinemaxmoviemax.png",MovieMAX FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42387
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.q2npRL33h2iw3tm1X5miEAHaFj%26pid%3DApi&f=1&ipt=3d5a8cea978392c92f5a200b65eea71bf19bb6a5cf54081246479c9075f846a5&ipo=images",MoviePlex (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42411
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.q2npRL33h2iw3tm1X5miEAHaFj%26pid%3DApi&f=1&ipt=3d5a8cea978392c92f5a200b65eea71bf19bb6a5cf54081246479c9075f846a5&ipo=images",MoviePlex FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42410
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wzMOQEh12b8MGT8FsOQK5gHaBo%26pid%3DApi&f=1&ipt=f4bf6844c9782b169b0608f7842cbc7a1b7d1f471e4c047d1d181ebb40e0b88f&ipo=images",RetroPlex FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/retroplex.png",RetroPlex FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42412
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wzMOQEh12b8MGT8FsOQK5gHaBo%26pid%3DApi&f=1&ipt=f4bf6844c9782b169b0608f7842cbc7a1b7d1f471e4c047d1d181ebb40e0b88f&ipo=images",RetroPlex HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/retroplex.png",RetroPlex HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42413
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Eq_2hcA88MwyIzsNUIgWAwHaFj%26pid%3DApi&f=1&ipt=ecb7d6c276e2c555d90270553f84194fd8f4121106a6a2597c2f8554a2087004&ipo=images",ScreenPix Action HD
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/165209
@@ -949,15 +951,15 @@ http://xyza.ltd:25461/Jocelyn/f6gsesdy/165208
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/165210
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Eq_2hcA88MwyIzsNUIgWAwHaFj%26pid%3DApi&f=1&ipt=ecb7d6c276e2c555d90270553f84194fd8f4121106a6a2597c2f8554a2087004&ipo=images",ScreenPix (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/165211
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png",Showtime FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/8186
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime FHD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png",Showtime FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41400
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime 2 FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1920px-Showtime_2.svg.png",Showtime 2 FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42398
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime 2 FHD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1920px-Showtime_2.svg.png",Showtime 2 FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42399
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a2aXlnjM2xXA7mVqOTyPjwHaEK%26pid%3DApi&f=1&ipt=5fee8ccb48efedaf671641903f972780c00a4b0de9d5bf8de3370c4f88e7272d&ipo=images",Showtime 2 FHD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1920px-Showtime_2.svg.png",Showtime 2 FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/5883
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.s0bQWK0aOU0CJa4hTJ3OqgHaC9%26pid%3DApi&f=1&ipt=7fd892a94e289b3775d529ba89548499bbf37c5b655d13e8f0f727920fd3cb5e&ipo=images",Showtime Extreme FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42401
@@ -997,47 +999,47 @@ http://xyza.ltd:25461/Jocelyn/f6gsesdy/42417
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42418
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Comedy FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42419
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Edge FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Edge FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42420
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Edge HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Edge HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42421
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Action
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Action
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41393
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Action FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Action FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42424
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Action HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Action HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42425
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Black HD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Black HD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42426
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Black HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Black HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42427
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Classic
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Classic
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41392
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Classic FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Classic FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42428
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Classic HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Classic HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42429
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Family
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Family
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41391
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Family FHD  (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Family FHD  (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42430
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Family HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Family HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42431
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42422
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore FHD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42423
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Suspense
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Suspense
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41390
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Suspense FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Suspense FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42432
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Suspense HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Suspense HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42433
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Westerns FHD (East)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Westerns FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42434
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Westerns HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Westerns HD
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/25047
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Encore Westerns HD (West)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1920px-Starz_Encore_Logo_2022.svg.png",Starz Encore Westerns HD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42435
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz HD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41398
@@ -1051,47 +1053,24 @@ http://xyza.ltd:25461/Jocelyn/f6gsesdy/42437
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/41388
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Zu2WjfKNYePwTr3KmjsSegAAAA%26pid%3DApi&f=1&ipt=77989b2af8b723d2a9e69956e02be670b901762e0e4d0e31096963ccb010dd67&ipo=images",Starz Kids & Family (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/6852
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Zl1O5l8DelZd-noc_ZAuAwHaCx%26pid%3DApi&f=1&ipt=47e011d6f4b592026d023b6af3d3d7fc97704b0fc145c4566643cc00d5828e02&ipo=images",The Movie Channel Extra HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/1920px-The_Movie_Channel.svg.png",The Movie Channel Extra HD
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/165206
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Zl1O5l8DelZd-noc_ZAuAwHaCx%26pid%3DApi&f=1&ipt=47e011d6f4b592026d023b6af3d3d7fc97704b0fc145c4566643cc00d5828e02&ipo=images",The Movie Channel HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/1920px-The_Movie_Channel.svg.png",The Movie Channel HD
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/165205
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.tvpassport.com%2Fimage%2Fstation%2F240x135%2Fthrillermax.png&f=1&nofb=1&ipt=ab543a2d7ad75be62d054bc319653e841d4539b9f1c65237f7a1d0af7d9f8279&ipo=images",Thriller MAX FHD (East)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42385
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.tvpassport.com%2Fimage%2Fstation%2F240x135%2Fthrillermax.png&f=1&nofb=1&ipt=ab543a2d7ad75be62d054bc319653e841d4539b9f1c65237f7a1d0af7d9f8279&ipo=images",Thriller MAX FHD (West)
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42386
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Atlantic FHD
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/42117
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Action & Adventure
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/42111
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Comedy
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42118
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Crime & Thriller
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Thriller
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/22962
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Disney HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Animation HD
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42113
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Drama & Romance FHD
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/42112
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Greats FHD
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42116
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Hits
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/42115
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Premiere
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/42114
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema Premiere +1
 http://xyza.ltd:25461/Jocelyn/f6gsesdy/42122
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iDVDI71QqG9-FdV8Fxc5EAHaEl%26pid%3DApi&f=1&ipt=068cc651d325941a14fe67ca9172a3a7b110f77c2ca0fcd8e3210c52c9717a40&ipo=images",Sky Cinema SciFi & Horror
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/42121
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Ce16WojQysTAnMtDRpbhqwHaEW%26pid%3DApi&f=1&ipt=1a25125298c021eeb47ffa77434babd73428079a8046d550d0689d644c7f5cb3&ipo=images",Redbox Comedy
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/42454
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 1 HD (fixed)
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/164903
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 2 HD (fixed)
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/164904
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 3 HD (fixed)
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/164905
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bellmedia.ca%2Flede%2Fwp-content%2Fuploads%2F2020%2F01%2FCRAVE_MC_Image-communiqu%25C3%25A9.png&f=1&nofb=1",Crave 4 HD (fixed)
-http://xyza.ltd:25461/Jocelyn/f6gsesdy/164906
-
 #EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax
 http://51.81.244.172:25461/ryanscott/ryanscott/52157
 #EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax West
