@@ -38,7 +38,7 @@ http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/400200042
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ttt.car.m3u8
 
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static.wixstatic.com/media/23dfd0_16cdbcfafe1e4a09bdf95b995bf32676~mv2.png/v1/fill/w_630,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/23dfd0_16cdbcfafe1e4a09bdf95b995bf32676~mv2.png",97.1FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://trinidad-radio.com/uploads/img/music-radio-97.jpg",97.1FM
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:97_1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn-profiles.tunein.com/s100261/images/logog.png",Boom Champions 94.1FM 
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:94_1.smil/playlist.m3u8
@@ -50,10 +50,10 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:96_1.smil/playlist.m3u8
 https://fms.ttrn.org/live/961wefm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/551/red-967-fm.2c394ad5.png",96.7 RED
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RED96_7.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://www.sweet100fm.com/img/sweet100.png",100.1FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://trinidad-radio.com/uploads/img/radio-sweet-fm.jpg",100.1FM
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:100_1.smil/playlist.m3u8
 http://media.streambrothers.com:18448/stream
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://tbcradionetwork.co.tt/slam1005fm/wp-content/uploads/sites/2/2021/05/cropped-SLAM-logo.png",Slam 100.5 FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://trinidad-radio.com/uploads/img/radio-slam.jpg",Slam 100.5 FM
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:100_5.smil/playlist.m3u8
 https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static-media.streema.com/media/cache/cc/93/cc93236a9959b0d11f4d102a2fb68076.jpg",103.1FM
@@ -105,8 +105,6 @@ https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen
 https://fms.ttrn.org/live/star947.sdp/chunklist_w1265073750.m3u8
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://tbcradionetwork.co.tt/wp-content/uploads/2021/05/Sangeet-512-x-512.png",Sangeet 106.1FM
 https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://tbcradionetwork.co.tt/slam1005fm/wp-content/uploads/sites/2/2021/05/cropped-SLAM-logo.png",Slam Progressive Urban 100.5FM
-http://streams.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn-profiles.tunein.com/s296485/images/bannerx.jpg?t=636892896860000000",Soca Switch Radio
 https://stream.zeno.fm/4f738mzizi1uv
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn-profiles.tunein.com/s107924/images/logod.png?t=637618919680000000",Next 99.1FM
@@ -117,7 +115,7 @@ https://audio-edge-5bkfj.fra.h.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae
 https://audio-edge-vqwx4.yyz.g.radiomast.io/efe56859-e3cb-4563-8e94-0320488b7cbd
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gzwdggg2xkme.png",Woods Hit Radio
 http://stream.zenolive.com/z2rpt80t4mzuv
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static-media.streema.com/media/cache/b7/5d/b75d1c7c510ded0ab062ac45f4c08cca.jpg",The Street 919FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static-media.streema.com/media/cache/b7/5d/b75d1c7c510ded0ab062ac45f4c08cca.jpg",The Street 91.9FM
 https://tinyurl.com/cczh9vn9
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://pbs.twimg.com/profile_images/1213655604033662976/fj4DsQpt_400x400.png",Mixx 97.7FM
 http://uk22freenew.listen2myradio.com:15911/;
