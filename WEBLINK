@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg" ,CNC3
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
@@ -13,21 +13,21 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 https://is.gd/encr5K
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 https://is.gd/iCxKQ3
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195830
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/cnc3.car.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 https://is.gd/2TYJQB
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 https://is.gd/Q9Ydhq
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268269
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6 Backup
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ccn.tv6.tt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/Kz6eVj
@@ -154,7 +154,7 @@ http://s3.citrus3.com:8002/stream
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://play-lh.googleusercontent.com/zcCTEGhYxfWXqgB_tHNUgwuKcvCONsRvAbg48FXerRI32Vp6m7I1la2-re7Ydkqq3co",Fully Catholic Radio
 http://usa12.fastcast4u.com:5344/stream
 
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",SYNERGY TV
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209568_synergy-tv.png",SYNERGY TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
@@ -591,9 +591,9 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_BOLLYWOOD.smil/playlist.m3u
 https://is.gd/l33fea
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://indiantvinfo.com/media/2022/09/Zing-Channel-Logo-300x158.jpg",Zing
 https://is.gd/RKWx4Z
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U MOVIES (IND)
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png",B4U MOVIES (IND)
 http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268300
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/B4U-Music.png",B4U MUSIC
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/e1ee774.png",B4U MUSIC
 http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268301
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
 http://195.26.87.217/live.ts?channelId=86150&uid=7214&deviceMac=00:1A:79:00:20:D1
@@ -839,7 +839,7 @@ http://195.26.87.217/live.ts?channelId=219&uid=7214&deviceMac=00:1A:79:00:05:A3
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png",Zoom TV
 http://195.26.87.217/live.ts?channelId=121&uid=7214&deviceMac=00:1A:79:00:05:A3
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-tv.cc:80:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209572_trinity-tv.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",Islamic Broadcasting Network
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IBN.smil/playlist.m3u8
@@ -3379,7 +3379,7 @@ http://supersonictv.live:8080/esaletv2/2226677442/47653
 #EXTINF:-1 group-title="24/7" tvg-logo="http://4.bp.blogspot.com/-85LiPuUn7Jg/VEGVjQJbhHI/AAAAAAAABh4/icXhb3qhUQY/s1600/movie%2Bicon.png",Movie-2020 02
 http://supersonictv.live:8080/esaletv2/2226677442/47645
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN US
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209618_own.png",OWN US
 https://is.gd/T97GnP
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",Science
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:SCIENCE.smil/playlist.m3u8
@@ -3451,15 +3451,15 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
 https://is.gd/bQlQiT
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://studionetworksolutions.com/wp-content/uploads/2013/03/sportsmax-logo.png",SPORTSMAX 1
-http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
+http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX.smil/chunklist_b4000000.m3u8
 http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195868
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/SportsMax-2-HD.jpeg",SPORTSMAX 2
-http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
+http://170.246.160.2/ttorigin07/live/smil:SPORTSMAX_2.smil/chunklist_b4000000.m3u8
 http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/195869
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ujm.from-in.com/imageicon/WILLOWCRICKETHD.jpg",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH
-http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
+http://170.246.160.2/ttorigin03/live/smil:RUSH.smil/chunklist_b4000000_slen.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH 2
 https://is.gd/fIC80r
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://studionetworksolutions.com/wp-content/uploads/2013/03/sportsmax-logo.png",SPORTSMAX 1 Backup
