@@ -129,12 +129,8 @@ http://patmos.cdnstream.com:9605/stream
 http://stream.zeno.fm/6ap6hzns5rhvv
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2020/05/tdg-radio.jpg",TDG Radio
 http://stream.zeno.fm/p24bfbnspwzuv
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://m.media-amazon.com/images/I/7162umlSyXS.png",Storm HD Radio
-http://stream.zeno.fm/genh5b4ntbgvv
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://true-trini-network.com/upload/photos/2021/04/gEao2dgTudxHGAtZCllN_13_63994b1633e5dfaf6e749cb6ba9e79ae_image.jpg",Radio12TT
 http://s2.radio.co/s23ce3db62/listen
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn-profiles.tunein.com/s253216/images/logog.jpg",4 Elements Radio
-http://198.245.61.103:8027/stream
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn.instant.audio/images/logos/trinidadradiostations-net/our.png"",O.U.R Radio
 http://s4.radio.co/s3f123e0f6/listen
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/07/smash-radio-tt.jpg",Smash Radio TT
@@ -3840,19 +3836,19 @@ http://195.26.87.217/live.ts?channelId=125451&uid=3453&deviceMac=00:1A:79:13:65:
 http://195.26.87.217/live.ts?channelId=125452&uid=3453&deviceMac=00:1A:79:13:65:70
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC BLACK
-http://168.205.87.198:8555/live/1858/123456/232.ts
+http://tv.mapfibra.com.br:8555/live/1858/123456/232.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC CLASSICS
-http://168.205.87.198:8555/live/1858/123456/231.ts
+http://tv.mapfibra.com.br:8555/live/1858/123456/231.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC HITS
-http://168.205.87.198:8555/live/1858/123456/233.ts
+http://tv.mapfibra.com.br:8555/live/1858/123456/233.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC LATINO
-http://168.205.87.198:8555/live/1858/123456/234.ts
+http://tv.mapfibra.com.br:8555/live/1858/123456/234.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC PARTY
-http://168.205.87.198:8555/live/1858/123456/235.ts
+http://tv.mapfibra.com.br:8555/live/1858/123456/235.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC POP
-http://168.205.87.198:8555/live/1858/123456/236.ts
+http://tv.mapfibra.com.br:8555/live/1858/123456/236.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC ROCK
-http://168.205.87.198:8555/live/1858/123456/237.ts
+http://tv.mapfibra.com.br:8555/live/1858/123456/237.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Alternative
 http://ky-tv.cc:80/Roberta1/Roberta2/177087.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Dance/ EDM
