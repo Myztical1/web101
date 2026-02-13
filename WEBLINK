@@ -14,31 +14,31 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
-https://is.gd/xhXRT7
+https://starshare.st:443/live/081652/081652/154137.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
-https://is.gd/5ac8rr
+https://is.gd/5tdrdr
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 http://fjzeyjcz.mossaptv.com:80/B35DKUNA/HX3WLEH7/35333
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/cnc3.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
-https://is.gd/2TYJQB
+https://is.gd/fmas0M
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
-https://is.gd/vD9oQJ
+https://starshare.st/live/081652/081652/154303.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 http://fjzeyjcz.mossaptv.com:80/B35DKUNA/HX3WLEH7/53530
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ccn.tv6.tt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-https://is.gd/Kz6eVj
+https://is.gd/jgv8n9
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
-https://is.gd/X1e1TA
+https://starshare.st/live/081652/081652/154031.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 http://fjzeyjcz.mossaptv.com:80/B35DKUNA/HX3WLEH7/149591
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ttt.car.m3u8
 
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://trinidad-radio.com/uploads/img/music-radio-97.jpg",97.1FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn.instant.audio/images/logos/trinidadradiostations-net/music.png",97.1FM
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:97_1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn-profiles.tunein.com/s100261/images/logog.png",Boom Champions 94.1FM 
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:94_1.smil/playlist.m3u8
@@ -50,10 +50,10 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:96_1.smil/playlist.m3u8
 https://fms.ttrn.org/live/961wefm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/551/red-967-fm.2c394ad5.png",96.7 RED
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RED96_7.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://trinidad-radio.com/uploads/img/radio-sweet-fm.jpg",100.1FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn.instant.audio/images/logos/trinidadradiostations-net/sweet.png",100.1FM
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:100_1.smil/playlist.m3u8
 http://media.streambrothers.com:18448/stream
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://trinidad-radio.com/uploads/img/radio-slam.jpg",Slam 100.5 FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn.instant.audio/images/logos/trinidadradiostations-net/slam.png",Slam 100.5 FM
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:100_5.smil/playlist.m3u8
 https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static-media.streema.com/media/cache/cc/93/cc93236a9959b0d11f4d102a2fb68076.jpg",103.1FM
@@ -79,7 +79,7 @@ http://c13.radioboss.fm:8470/stream
 https://stream.radio.co/s9f46a9bb1/low
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn.webrad.io/images/logos/trinidadradiostations-net/107.png",107.7FM Music For Life
 https://fms.ttrn.org/live/1077fm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://www.radio.net/300/platinumtrini.png?version=73dfda7c5805e07d6e70b7d7fdc81f9d",Platinum Trini Hot 97 FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static-media.streema.com/media/cache/cb/9a/cb9a036372ba0529487d166f79739043.jpg",Platinum Trini Hot 97 FM
 http://streaming.live365.com/a07630
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://static-media.streema.com/media/cache/1e/96/1e9641f012912ec57b9a89f7095c4fc0.jpg",Omega 99.1FM
 http://stream.zeno.fm/myrkddsn2uhvv
@@ -808,239 +808,239 @@ http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:13:65:7
 http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:13:65:70
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png",& Pictures FHD
-http://195.26.87.217/live.ts?channelId=139&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=139&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png",& TV FHD
-http://195.26.87.217/live.ts?channelId=140&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=140&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png",& TV HD USA
-http://195.26.87.217/live.ts?channelId=141&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=141&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/923856a.png",9x Jalwa
-http://195.26.87.217/live.ts?channelId=142&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=142&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png",9xm
-http://195.26.87.217/live.ts?channelId=143&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=143&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png",Aaj Tak FHD
-http://195.26.87.217/live.ts?channelId=144&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=144&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png",Aaj Tak UK
-http://195.26.87.217/live.ts?channelId=145&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=145&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/887fb6b.png",Aastha Bhajan
-http://195.26.87.217/live.ts?channelId=146&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=146&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png",Aastha TV
-http://195.26.87.217/live.ts?channelId=147&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=147&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png",Aastha TV UK
-http://195.26.87.217/live.ts?channelId=148&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=148&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/56eaab9.png",ABP News India
-http://195.26.87.217/live.ts?channelId=149&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=149&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/552f92c.png",Animal Planet Hindi
-http://195.26.87.217/live.ts?channelId=151&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=151&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/27cf79e.png",B4U Kadak
-http://195.26.87.217/live.ts?channelId=35383&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=35383&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png",B4U Movies
-http://195.26.87.217/live.ts?channelId=152&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=152&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/e1ee774.png",B4U Music
-http://195.26.87.217/live.ts?channelId=153&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=153&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d11d123.png",B4U Plus
-http://195.26.87.217/live.ts?channelId=154&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=154&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
-http://195.26.87.217/live.ts?channelId=86150&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=86150&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png",BBO HD
-http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=86148&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood Classic
-http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=123916&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
-http://195.26.87.217/live.ts?channelId=123915&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=123915&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/53b880f.png",CNBC Awaaz FHD
-http://195.26.87.217/live.ts?channelId=86147&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=86147&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://147.182.195.61/panel/imageicon/21a37a8.png",CNBC TV 18
-http://195.26.87.217/live.ts?channelId=49404&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=49404&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5b37a02.png",CNN News 18 FHD
-http://195.26.87.217/live.ts?channelId=28125&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=28125&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png",Colors Cineplex Bollywood FHD
-http://195.26.87.217/live.ts?channelId=62412&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=62412&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png",Colors Cineplex FHD
-http://195.26.87.217/live.ts?channelId=470&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=470&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/99398d7.png",Colors Cineplex HD UK
-http://195.26.87.217/live.ts?channelId=156&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=156&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a7b988.png",Colors Cineplex Superhits FHD
-http://195.26.87.217/live.ts?channelId=62413&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=62413&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://tv.cloudcdn.online/images/biggboss.png",Colors Bigg Boss Main CAM
-http://195.26.87.217/live.ts?channelId=57&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=57&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad083a7.png",Colors Infinity FHD
-http://195.26.87.217/live.ts?channelId=157&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=157&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://tv.cloudcdn.online/images/biggboss.png",Colors Bigg Boss Garden CAM
-http://195.26.87.217/live.ts?channelId=59&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=59&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png",Colors Rishtey FHD
-http://195.26.87.217/live.ts?channelId=158&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=158&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png",Colors Rishtey UK
-http://195.26.87.217/live.ts?channelId=159&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=159&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png",Colors TV FHD
-http://195.26.87.217/live.ts?channelId=160&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=160&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png",Colors TV FHD.
-http://195.26.87.217/live.ts?channelId=36129&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=36129&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png",Colors TV FHD UK
-http://195.26.87.217/live.ts?channelId=161&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=161&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/794387b.png",DD News
-http://195.26.87.217/live.ts?channelId=163&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=163&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/1ae366e.png",Discovery HD Hindi FHD
-http://195.26.87.217/live.ts?channelId=164&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=164&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/bfd984c.png",Discovery Science Hindi
-http://195.26.87.217/live.ts?channelId=166&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=166&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/766d3d6.png",Divyang News
-http://195.26.87.217/live.ts?channelId=38555&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=38555&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/16520b2.png",Divya TV
-http://195.26.87.217/live.ts?channelId=33135&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=33135&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5c49268.png",ET Now FHD
-http://195.26.87.217/live.ts?channelId=167&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=167&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b35aa95.png",Food Food
-http://195.26.87.217/live.ts?channelId=169&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=169&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c5f05af.png",GNT News
-http://195.26.87.217/live.ts?channelId=36272&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=36272&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png",Hare Krsna TV
-http://195.26.87.217/live.ts?channelId=33132&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=33132&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c2f5c44.png",HBO
-http://195.26.87.217/live.ts?channelId=49858&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=49858&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c65ab6d.png",India News
-http://195.26.87.217/live.ts?channelId=33324&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=33324&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b1f1bc.png",India Today
-http://195.26.87.217/live.ts?channelId=36126&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=36126&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/71881e5.png",India TV
-http://195.26.87.217/live.ts?channelId=171&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=171&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png",Krishna Vani
-http://195.26.87.217/live.ts?channelId=29210&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=29210&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c3b2eec.png",Mastiii TV
-http://195.26.87.217/live.ts?channelId=172&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=172&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/33145d2.png",Movies Now
-http://195.26.87.217/live.ts?channelId=162&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=162&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/ee6b44e.png",MTV Beats
-http://195.26.87.217/live.ts?channelId=173&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=173&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/78c8cc9.png",MTV HD
-http://195.26.87.217/live.ts?channelId=174&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=174&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png",Music India
-http://195.26.87.217/live.ts?channelId=175&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=175&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png",Nat Geo English
-http://195.26.87.217/live.ts?channelId=125057&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=125057&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png",Nat Geo Hindi
-http://195.26.87.217/live.ts?channelId=176&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=176&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/1380d86.png",Nat Geo Wild Hindi
-http://195.26.87.217/live.ts?channelId=177&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=177&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f7d3859.png",NDTV 24X7
-http://195.26.87.217/live.ts?channelId=29208&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=29208&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7ae6a0.png",NDTV India
-http://195.26.87.217/live.ts?channelId=178&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=178&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/593385a.png",NDTV Profit
-http://195.26.87.217/live.ts?channelId=179&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=179&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/cd686e0.png",News18
-http://195.26.87.217/live.ts?channelId=61901&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=61901&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/17135d6.png",News Nation
-http://195.26.87.217/live.ts?channelId=29702&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=29702&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/7380374.png",NewsX India
-http://195.26.87.217/live.ts?channelId=36127&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=36127&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f193ed.png",Param Satta TV
-http://195.26.87.217/live.ts?channelId=33150&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=33150&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/3ae517f.png",Republic TV
-http://195.26.87.217/live.ts?channelId=33168&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=33168&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://tv.cloudcdn.online/images/republicbharat.png",Republic Bharat
-http://195.26.87.217/live.ts?channelId=126084&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=126084&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/bb811d4.png",Sanskar TV
-http://195.26.87.217/live.ts?channelId=181&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=181&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/08c1472.png",Satsang TV
-http://195.26.87.217/live.ts?channelId=182&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=182&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png",Sony Max 2 FHD
-http://195.26.87.217/live.ts?channelId=183&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=183&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png",Sony Max 2 UK
-http://195.26.87.217/live.ts?channelId=40479&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=40479&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png",Sony Max FHD
-http://195.26.87.217/live.ts?channelId=184&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=184&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png",Sony Max FHD.
-http://195.26.87.217/live.ts?channelId=185&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=185&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png",Sony Max HD UK
-http://195.26.87.217/live.ts?channelId=186&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=186&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png",Sony Pal FHD
-http://195.26.87.217/live.ts?channelId=188&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=188&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0deace4.png",Sony Pix FHD
-http://195.26.87.217/live.ts?channelId=189&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=189&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png",Sony Sab FHD
-http://195.26.87.217/live.ts?channelId=191&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=191&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/2e77ad4.png",Sony Sab FHD.
-http://195.26.87.217/live.ts?channelId=260&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=260&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png",Sony Sab HD UK
-http://195.26.87.217/live.ts?channelId=192&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=192&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png",Sony TV FHD
-http://195.26.87.217/live.ts?channelId=193&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=193&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png",Sony TV FHD.
-http://195.26.87.217/live.ts?channelId=12356&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=12356&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png",Sony TV FHD UK
-http://195.26.87.217/live.ts?channelId=194&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=194&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png",Sony Wah FHD
-http://195.26.87.217/live.ts?channelId=187&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=187&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png",Star Bharat FHD
-http://195.26.87.217/live.ts?channelId=195&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=195&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png",Star Bharat FHD UK
-http://195.26.87.217/live.ts?channelId=305&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=305&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png",Star Gold 2 FHD
-http://195.26.87.217/live.ts?channelId=33165&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=33165&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png",Star Gold FHD
-http://195.26.87.217/live.ts?channelId=196&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=196&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png",Star Gold FHD UK
-http://195.26.87.217/live.ts?channelId=12358&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=12358&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png",Star Gold Select FHD
-http://195.26.87.217/live.ts?channelId=197&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=197&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png",Star Movies FHD
-http://195.26.87.217/live.ts?channelId=198&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=198&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png",Star Movies Select FHD
-http://195.26.87.217/live.ts?channelId=199&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=199&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png",Star Plus FHD
-http://195.26.87.217/live.ts?channelId=200&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=200&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png",Star Plus FHD.
-http://195.26.87.217/live.ts?channelId=12357&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=12357&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png",Star Plus FHD UK
-http://195.26.87.217/live.ts?channelId=201&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=201&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png",Star Utsav
-http://195.26.87.217/live.ts?channelId=12364&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=12364&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b4c4bfd.png",Swar Shree
-http://195.26.87.217/live.ts?channelId=61658&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=61658&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/e83cabf.png",Times Now FHD
-http://195.26.87.217/live.ts?channelId=204&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=204&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/1098de6.png",TLC World HD
-http://195.26.87.217/live.ts?channelId=205&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=205&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b43b7a.png",TV NRI
-http://195.26.87.217/live.ts?channelId=33136&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=33136&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/bec6fb2.png",WION NEWS FHD
-http://195.26.87.217/live.ts?channelId=85499&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=85499&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png",Zee Action
-http://195.26.87.217/live.ts?channelId=207&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=207&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/75016fe.png",Zee Anmol
-http://195.26.87.217/live.ts?channelId=208&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=208&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/86b8496.png",Zee Anmol Cinema
-http://195.26.87.217/live.ts?channelId=209&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=209&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/597c1ee.png",Zee Bollywood
-http://195.26.87.217/live.ts?channelId=210&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=210&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f37e353.png",Zee Business
-http://195.26.87.217/live.ts?channelId=211&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=211&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/47ceb8d.png",Zee Café FHD
-http://195.26.87.217/live.ts?channelId=212&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=212&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png",Zee Cinema FHD
-http://195.26.87.217/live.ts?channelId=213&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=213&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png",Zee Cinema HD.
-http://195.26.87.217/live.ts?channelId=12359&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=12359&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png",Zee Cinema UK
-http://195.26.87.217/live.ts?channelId=214&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=214&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/187b8c7.png",Zee Classic
-http://195.26.87.217/live.ts?channelId=43379&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=43379&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a940f8d.png",Zee Hindustan
-http://195.26.87.217/live.ts?channelId=25528&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=25528&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ece589.png",Zee News
-http://195.26.87.217/live.ts?channelId=216&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=216&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f0673bc.png",Zee TV FHD UK
-http://195.26.87.217/live.ts?channelId=218&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=218&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/550c14d.png",Zee TV FHD
-http://195.26.87.217/live.ts?channelId=217&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=217&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/6248328.png",Zee TV FHD.
-http://195.26.87.217/live.ts?channelId=12301&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=12301&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7147ce.png",Zee Zest FHD
-http://195.26.87.217/live.ts?channelId=29704&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=29704&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png",Zing TV
-http://195.26.87.217/live.ts?channelId=219&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=219&uid=7214&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png",Zoom TV
-http://195.26.87.217/live.ts?channelId=121&uid=7214&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=121&uid=7214&deviceMac=00:1A:79:0E:F9:02
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209572_trinity-tv.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
@@ -3232,55 +3232,55 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Anime_Network_2014_logo.png",ANIME
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/aa7be678.jpg",Baby TV
-http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg",Boomerang
-http://195.26.87.217/live.ts?channelId=243&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=243&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonito.jpg",Cartoonito
-http://195.26.87.217/live.ts?channelId=247&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=247&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network Hindi
-http://195.26.87.217/live.ts?channelId=244&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=244&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network UK FHD
-http://195.26.87.217/live.ts?channelId=245&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=245&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network USA FHD
-http://195.26.87.217/live.ts?channelId=246&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=246&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/CBeebies.png",CBeeBies FHD
-http://195.26.87.217/live.ts?channelId=248&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=248&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/9ce4f63e",Disney Channel FHD
-http://195.26.87.217/live.ts?channelId=249&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=249&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/c1280ca4",Disney Junior FHD
-http://195.26.87.217/live.ts?channelId=250&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=250&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/4fc2a98b",Disney XD FHD
-http://195.26.87.217/live.ts?channelId=251&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=251&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://logopond.com/logos/b683ab7538c677bf1bc93848a9545644.png",KIDS TV
-http://195.26.87.217/live.ts?channelId=123913&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=123913&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/1277436f-e4cc-4485-bbe9-d65039f78028/1005123036/kids-tv-gd3-logo",KIDS TV NURSERY RHYMES AND BABY SONGS
-http://195.26.87.217/live.ts?channelId=123914&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=123914&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a807ee7a",Nickelodeon FHD
-http://195.26.87.217/live.ts?channelId=254&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=254&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/dc96b2fb",Nick Jr. FHD
-http://195.26.87.217/live.ts?channelId=252&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=252&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/8c0b7abf",Nick Jr. too
-http://195.26.87.217/live.ts?channelId=253&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=253&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/bbb73c52.jpg",NickToons
-http://195.26.87.217/live.ts?channelId=255&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=255&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/POGOHINDI.png",Pogo
-http://195.26.87.217/live.ts?channelId=256&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=256&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/d722a848",Pop
-http://195.26.87.217/live.ts?channelId=257&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=257&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/popmax.uk.png",POP MAX+1
-http://195.26.87.217/live.ts?channelId=38625&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=38625&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/11/nick-and-sonic-logos-1-2.jpg",Sonic Nickelodeon
-http://195.26.87.217/live.ts?channelId=40476&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=40476&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png",Sony YAY!
-http://195.26.87.217/live.ts?channelId=78849&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=78849&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/88d83eb.png",TeleToon
-http://195.26.87.217/live.ts?channelId=72428&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=72428&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/5d74c008",Tiny Pop
-http://195.26.87.217/live.ts?channelId=259&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=259&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/016dcb7.png",Treehouse TV
-http://195.26.87.217/live.ts?channelId=102888&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=102888&uid=2568&deviceMac=00:1A:79:0E:F9:02
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://tv.cloudcdn.me/images/af1466fbx.png",WOW KID
-http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:00:04:31
+http://195.26.87.217/live.ts?channelId=91169&uid=2568&deviceMac=00:1A:79:0E:F9:02
 
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",GRIT TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
@@ -4158,37 +4158,37 @@ http://tv.mapfibra.com.br:8555/live/1858/123456/323.m3u8
 http://tv.mapfibra.com.br:8555/live/1858/123456/324.m3u8 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Emusic20.jpg",E-MUSIC ROCK
 http://tv.mapfibra.com.br:8555/live/1858/123456/325.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Alternative
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Alternative
 http://ky-tv.cc:80/Roberta1/Roberta2/177087.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Dance/ EDM
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Dance/ EDM
 http://ky-tv.cc:80/Roberta1/Roberta2/177089.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Hip-Hop and R&B
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Hip-Hop and R&B
 http://ky-tv.cc:80/Roberta1/Roberta2/177090.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Hit List
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Hit List
 http://ky-tv.cc:80/Roberta1/Roberta2/177091.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Indie
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Indie
 http://ky-tv.cc:80/Roberta1/Roberta2/177094.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Kidz Only!
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Kidz Only!
 http://ky-tv.cc:80/Roberta1/Roberta2/177096.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Mexicana
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Mexicana
 http://ky-tv.cc:80/Roberta1/Roberta2/177098.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Musica Urbana
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Musica Urbana
 http://ky-tv.cc:80/Roberta1/Roberta2/177101.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Pop & Country
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Pop & Country
 http://ky-tv.cc:80/Roberta1/Roberta2/177102.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Pop Hits
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Pop Hits
 http://ky-tv.cc:80/Roberta1/Roberta2/177103.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Pop Latino
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Pop Latino
 http://ky-tv.cc:80/Roberta1/Roberta2/177104.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",R&B
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",R&B
 http://ky-tv.cc:80/Roberta1/Roberta2/177105.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",R&B Soul
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",R&B Soul
 http://ky-tv.cc:80/Roberta1/Roberta2/177106.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Rock
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Rock
 http://ky-tv.cc:80/Roberta1/Roberta2/177109.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Teen Beats
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Teen Beats
 http://ky-tv.cc:80/Roberta1/Roberta2/177111.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/220px-Music_Choice_logo.png",Throwback Jamz
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://armstrongonewire.com/sites/Portals/1/EasyDNNnews/612/Music-Choice_Black_BeveledStyle.jpg",Throwback Jamz
 http://ky-tv.cc:80/Roberta1/Roberta2/177112.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://edgecdn.io:8080/img/stingray.png",Holidayscapes (1080p)
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
