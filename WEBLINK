@@ -2988,8 +2988,10 @@ https://d3e900fnvjyq99.cloudfront.net/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://image.roku.com/developer_channels/prod/33e925aa6d39aa7e847cedd0e0cdee6f14d9aff6d60839c4baa3530cc7f804ed.png",Cowboy Classics
 https://d3e900fnvjyq99.cloudfront.net/d/HSKV2TFJKIB08IVJ32W0/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657295
 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png",Hi-YAH!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="KUNG FU" tvg-logo="https://i.ibb.co/K57Xz3k/Flicks-of-Fury.png",Flicks of Fury
+https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 1
 http://ky-tv.cc:80/Roberta1/Roberta2/1357468.ts
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="http://whitecranekungfuaustralia.com.au/images/kungfu.png",KUNG FU Classic Kungfu 2
@@ -7882,26 +7884,6 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HISTORY.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TRAVEL_CHANNEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-INUZbyhghTA/T-YI3CY_KQI/AAAAAAAAUNk/WDNXnnq3-XU/w1200-h630-p-k-no-nu/h&h-hd.png",Discovery H&H
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISCOVERY_HOME_HEALTH.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",ALL DOCUMENTERY
-http://xxip25.top:8080/66575255/66575255/119439
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",DISCOVERY
-http://xxip25.top:8080/66575255/66575255/119440
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",DW DOCUMENTERY
-http://xxip25.top:8080/66575255/66575255/119441
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",FREE DOCUMENTERY
-http://xxip25.top:8080/66575255/66575255/119442
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",FREE DOCUMENTERY ANILAMS
-http://xxip25.top:8080/66575255/66575255/119443
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",FRONTLINE PBS
-http://xxip25.top:8080/66575255/66575255/119444
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",NAT GEO WILD
-http://xxip25.top:8080/66575255/66575255/119447
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",NETFLIX
-http://xxip25.top:8080/66575255/66575255/119448
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",REAL CRIME
-http://xxip25.top:8080/66575255/66575255/119449
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.cableman.ru/sites/default/files/docubox_hd.png",REAL WILD
-http://xxip25.top:8080/66575255/66575255/119451
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/77OXe64.jpg",Real Stories
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/kwdX93h.jpg",Real Crime
