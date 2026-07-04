@@ -8434,10 +8434,6 @@ https://is.gd/bQlQiT
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH
 http://170.246.160.2/ttorigin03/live/smil:RUSH.smil/chunklist_b4000000_slen.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH Backup
-http://103.176.90.189:80/play/live.php?mac=00:1A:79:00:00:98&stream=1371500&extension=m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH Backup
-http://103.176.90.189:80/play/live.php?mac=00:1A:79:00:01:10&stream=1371500&extension=m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH 2
 https://is.gd/fIC80r
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tv.cloudcdn.me/images/590b531.png",1Sports
