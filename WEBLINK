@@ -8430,11 +8430,11 @@ http://131.72.76.184/live/smil:FOXSPORTS2.smil/chunklist_b4000000.m3u8
 https://is.gd/bQlQiT
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ujm.from-in.com/imageicon/WILLOWCRICKETHD.jpg",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.assets.prezly.com/a90864f6-d3e9-4d2c-9e70-af1bb39cbc06/-/preview/-/format/auto/RushLiveAndLouder_Logo16x9.jpg.jpeg"RUSH LIVE AND LOUDER
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://liveandlouder.com/img/logo-channel.svg"RUSH LIVE AND LOUDER
 https://131.72.76.184/live/smil:RUSHLIVE.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwpleague.in%2Fwp-content%2Fuploads%2F2026%2F06%2FRush-Sports.png",RUSH
 http://170.246.160.2/ttorigin03/live/smil:RUSH.smil/chunklist_b4000000_slen.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209664_rush.png",RUSH 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwpleague.in%2Fwp-content%2Fuploads%2F2026%2F06%2FRush-Sports.png",RUSH 2
 https://is.gd/fIC80r
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU",USA Willow Extra
 http://limited-name.com/1122334455/1122334455/1116401.ts
