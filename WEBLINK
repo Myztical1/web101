@@ -20,6 +20,7 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/701274
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/35333
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
+http://hostengine.live/live/Jordan3/yUWqg2eYgEe9/236051.m3u
 https://tvnow.best/api/stream/yale/yale/livetv.epg/cnc3.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 https://is.gd/fmas0M
@@ -28,6 +29,7 @@ http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/701275
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/53530
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
+http://hostengine.live/live/Jordan3/yUWqg2eYgEe9/218020.m3u
 https://tvnow.best/api/stream/yale/yale/livetv.epg/ccn.tv6.tt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/jgv8n9
@@ -8430,7 +8432,9 @@ http://131.72.76.184/live/smil:FOXSPORTS2.smil/chunklist_b4000000.m3u8
 https://is.gd/bQlQiT
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ujm.from-in.com/imageicon/WILLOWCRICKETHD.jpg",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.assets.prezly.com/a90864f6-d3e9-4d2c-9e70-af1bb39cbc06/-/preview/-/format/auto/RushLiveAndLouder_Logo16x9.jpg.jpeg",RUSH LIVE AND LOUDER
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.assets.prezly.com/a90864f6-d3e9-4d2c-9e70-af1bb39cbc06/-/preview/-/format/auto/RushLiveAndLouder_Logo16x9.jpg.jpeg",RUSH LIVE AND LOUDER (SD)
+https://131.72.76.184/ttorigin03/live/smil:RUSHSPORTS3.smil/chunklist_b4000000_slen.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.assets.prezly.com/a90864f6-d3e9-4d2c-9e70-af1bb39cbc06/-/preview/-/format/auto/RushLiveAndLouder_Logo16x9.jpg.jpeg",RUSH LIVE AND LOUDER (HD)
 https://131.72.76.184/live/smil:RUSHLIVE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwpleague.in%2Fwp-content%2Fuploads%2F2026%2F06%2FRush-Sports.png",RUSH
 http://170.246.160.2/ttorigin03/live/smil:RUSH.smil/chunklist_b4000000_slen.m3u8
@@ -8454,7 +8458,7 @@ http://limited-name.com/1122334455/1122334455/2210035.ts
 http://limited-name.com/1122334455/1122334455/2210036.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tv.cloudcdn.me/images/de06576.png",A Sport HD
 http://limited-name.com/1122334455/1122334455/2295564.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png",AU Fox Sports 501
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/l/o/6/6550.1489224113.png",AU Fox Sports 501
 http://limited-name.com/1122334455/1122334455/189787.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tv.cloudcdn.me/images/criclife1.png",StarzPlay Criclife 1
 http://limited-name.com/1122334455/1122334455/2757087.ts
