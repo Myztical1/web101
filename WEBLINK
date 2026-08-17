@@ -5,6 +5,8 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5kAkoB0-LZZB0hLHmF7XyK4sVq52ZWI7_Y_Aj_dgWQ&s",IAN Network
+https://131.72.76.184/live/smil:IAN_NETWORK.smil/chunklist_b6000000_slen.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",PARLIAMENT CHANNEL
@@ -13,6 +15,8 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://pbs.twimg.com/profile_images/1446863458276978688/0NK836lT.jpg",Tobago Updates
+https://is.gd/98qrJK
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 https://186.96.222.105:443/LIVE/CNC3/stream_multi.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
@@ -154,8 +158,6 @@ http://usa12.fastcast4u.com:5344/stream
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://pbs.twimg.com/profile_images/1446863458276978688/0NK836lT.jpg",Tobago Updates
-https://is.gd/98qrJK
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209566_wesn.png",WESN
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/bhmas.png",BAHAMAS PARLIAMENT HD
@@ -1048,6 +1050,8 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CGTV.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DAYSTAR.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.pinimg.com/originals/3c/e3/c8/3ce3c824928923014ef9aa83caefaaad.jpg",HILLSONG
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HILLSONG.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.god.tv/wp-content/uploads/2026/06/cropped-gtv-site-icon-1-1.png",GOD TV
+https://131.72.76.184/ttorigin07/live/smil:GOD_TV.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:3ABN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN PRAISE
@@ -8432,14 +8436,14 @@ http://131.72.76.184/live/smil:FOXSPORTS2.smil/chunklist_b4000000.m3u8
 https://is.gd/bQlQiT
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ujm.from-in.com/imageicon/WILLOWCRICKETHD.jpg",Willow Cricket HD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.assets.prezly.com/a90864f6-d3e9-4d2c-9e70-af1bb39cbc06/-/preview/-/format/auto/RushLiveAndLouder_Logo16x9.jpg.jpeg",RUSH LIVE AND LOUDER (SD)
-https://131.72.76.184/ttorigin03/live/smil:RUSHSPORTS3.smil/chunklist_b4000000_slen.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.assets.prezly.com/a90864f6-d3e9-4d2c-9e70-af1bb39cbc06/-/preview/-/format/auto/RushLiveAndLouder_Logo16x9.jpg.jpeg",RUSH LIVE AND LOUDER (HD)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.assets.prezly.com/a90864f6-d3e9-4d2c-9e70-af1bb39cbc06/-/preview/-/format/auto/RushLiveAndLouder_Logo16x9.jpg.jpeg",RUSH LIVE AND LOUDER
 https://131.72.76.184/live/smil:RUSHLIVE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwpleague.in%2Fwp-content%2Fuploads%2F2026%2F06%2FRush-Sports.png",RUSH
 http://170.246.160.2/ttorigin03/live/smil:RUSH.smil/chunklist_b4000000_slen.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwpleague.in%2Fwp-content%2Fuploads%2F2026%2F06%2FRush-Sports.png",RUSH 2
 https://is.gd/fIC80r
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwpleague.in%2Fwp-content%2Fuploads%2F2026%2F06%2FRush-Sports.png",RUSH 3
+https://131.72.76.184/ttorigin03/live/smil:RUSHSPORTS3.smil/chunklist_b6000000_slen.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS1KOa5Etrq8YBSpdqpSXxdsUzZtnI0JGOQ&usqp=CAU",USA Willow Extra
 http://limited-name.com/1122334455/1122334455/1116401.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.110.220.61:80/images/af563d1f32e8bee40ca29899d6b9b60b.png",AF SuperSport Cricket HD
