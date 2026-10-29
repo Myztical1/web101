@@ -257,6 +257,14 @@ https://131.72.76.184/ttorigin03/live/smil:WEATHER_CHANNEL.smil/chunklist_b40000
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1280px-Logo_Univision_2019.svg.png",UNIVISION 23
 https://131.72.76.184/ttorigin03/live/smil:UNIVISION.smil/chunklist_b4000000.m3u8
 
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209568_synergy-tv.png",SYNERGY TV
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="tvg-logo="https://tinyurl.com/4k7jztxc",VIBES
+https://131.72.76.184/live/smil:VIBES.smil/chunklist_b4000000_slen.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209566_wesn.png",WESN
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/starcmd.png",STAR COMEDY FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/96611
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://lo1.in/car/fxbu.png",FOX BUSINESS HD
@@ -2413,555 +2421,555 @@ http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/18840
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/flg.png",PAW PATROL HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/18921
 
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc1.png",BBC 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc1.png",BBC 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2291
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc1.png",BBC 1 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc1.png",BBC 1 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883284
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc2.png",BBC 2 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc2.png",BBC 2 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2290
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc2.png",BBC 2 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc2.png",BBC 2 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883283
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/flg.png",BBC 3 CBBC HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/flg.png",BBC 3 CBBC HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2142
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc4.png",BBC 4 / CBEEBIES HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc4.png",BBC 4 / CBEEBIES HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28972
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cbbc.png",CBBC HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cbbc.png",CBBC HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29100
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",ITV 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",ITV 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34110
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",ITV 1 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",ITV 1 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883282
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",(ITVX) ITV1
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",(ITVX) ITV1
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/933150
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",ITV+ 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",ITV+ 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29002
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv20.png",ITV 2 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv20.png",ITV 2 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28975
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv20.png",ITV 2 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv20.png",ITV 2 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883281
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",(ITVX) ITV2
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",(ITVX) ITV2
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/933151
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv30.png",ITV 3 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv30.png",ITV 3 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29004
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv30.png",ITV 3 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv30.png",ITV 3 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883280
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",(ITVX) ITV3
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",(ITVX) ITV3
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/933152
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv40.png",ITV 4 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv40.png",ITV 4 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28977
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv40.png",ITV 4 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv40.png",ITV 4 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883279
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",(ITVX) ITV4
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",(ITVX) ITV4
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/933153
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv40.png",ITV 4 +1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv40.png",ITV 4 +1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/18618
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal4.png",CHANNEL 4 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal4.png",CHANNEL 4 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2286
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal4.png",CHANNEL 4 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal4.png",CHANNEL 4 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883278
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal5.png",CHANNEL 5 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal5.png",CHANNEL 5 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2285
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal5.png",CHANNEL 5 [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal5.png",CHANNEL 5 [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/883277
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chp.png",CHANNEL 5 + 1  HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chp.png",CHANNEL 5 + 1  HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29005
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/e40.png",E4 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/e40.png",E4 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2284
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/e40.png",E4 EXTRA
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/e40.png",E4 EXTRA
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1046581
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/4sev.png",4SEVEN HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/4sev.png",4SEVEN HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28981
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/alibi.png",ALIBI HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/alibi.png",ALIBI HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2282
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/alibi.png",ALIBI +1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/alibi.png",ALIBI +1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29012
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbcns.png",BBC NEWS HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbcns.png",BBC NEWS HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34204
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cnn.png",CNN HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cnn.png",CNN HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/717
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/rte1.png",RTE 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/rte1.png",RTE 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1409702
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tre2.png",RTE 2 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tre2.png",RTE 2 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1409703
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/24 NEWS.png",I24 NEWS HD ENGLISH
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/24 NEWS.png",I24 NEWS HD ENGLISH
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1196
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyns.png",SKY NEWS HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyns.png",SKY NEWS HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34337
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/aljz.png",AL JAZEERA HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/aljz.png",AL JAZEERA HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164249
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/gb0.png",GB NEWS HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/gb0.png",GB NEWS HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/149593
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/CNBC FHD.png",CNBC HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/CNBC FHD.png",CNBC HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29117
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/utv.png",UTV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/utv.png",UTV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34057
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/FOX NEWS.png",FOX NEWS HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/FOX NEWS.png",FOX NEWS HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29118
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/blomb.png",BLOOMBERG HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/blomb.png",BLOOMBERG HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29121
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/stv1.png",STV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/stv1.png",STV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29001
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/TRT WORLD.png",TRT WORLD HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/TRT WORLD.png",TRT WORLD HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164242
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/nbcn0.png",NBC NEWS NOW HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/nbcn0.png",NBC NEWS NOW HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/19162
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc1.png",BBC 1 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc1.png",BBC 1 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28970
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc1.png",BBC 1 4k
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc1.png",BBC 1 4k
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/247025
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc2.png",BBC 2 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc2.png",BBC 2 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28971
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc4.png",BBC 4 / CBEEBIES FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc4.png",BBC 4 / CBEEBIES FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33294
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",ITV 1 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",ITV 1 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28973
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv20.png",ITV 2 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv20.png",ITV 2 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29003
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv30.png",ITV 3 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv30.png",ITV 3 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28976
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv40.png",ITV 4 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv40.png",ITV 4 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2287
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal4.png",CHANNEL 4 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal4.png",CHANNEL 4 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28979
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal4.png",CHANNEL 4 HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal4.png",CHANNEL 4 HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102188
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal5.png",CHANNEL 5 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal5.png",CHANNEL 5 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28980
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tal.png",TALK TV FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tal.png",TALK TV FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1156
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cbbc.png",CBBC FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cbbc.png",CBBC FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2283
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/e4.png",E4 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/e4.png",E4 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28982
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/e40.png",E4 HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/e40.png",E4 HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102191
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/4sev0.png",4SEVEN FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/4sev0.png",4SEVEN FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34056
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/alibi.png",ALIBI FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/alibi.png",ALIBI FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28992
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/alibi.png",ALIBI HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/alibi.png",ALIBI HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102193
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/blomb.png",BLOOMBERG FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/blomb.png",BLOOMBERG FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2280
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbcns.png",BBC NEWS FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbcns.png",BBC NEWS FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29112
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyns.png",SKY NEWS FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyns.png",SKY NEWS FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29114
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyns.png",SKY NEWS HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyns.png",SKY NEWS HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102218
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/gb0.png",GB NEWS FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/gb0.png",GB NEWS FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/149592
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/aljz.png",AL JAZEERA FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/aljz.png",AL JAZEERA FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29116
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/fr240.png",FRANCE 24 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/fr240.png",FRANCE 24 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29120
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/stv1.png",STV FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/stv1.png",STV FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34059
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/stv1.png",STV HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/stv1.png",STV HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102183
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/s4c.png",S4C FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/s4c.png",S4C FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29123
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/utv.png",UTV FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/utv.png",UTV FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29124
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cnn.png",CNN FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cnn.png",CNN FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29119
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/rte1.png",RTE 1 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/rte1.png",RTE 1 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164201
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tre2.png",RTE 2 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tre2.png",RTE 2 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164200
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mta1w.png",MTA 1 WORLD FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mta1w.png",MTA 1 WORLD FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34427
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mataf.png",MTA AFRICA FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mataf.png",MTA AFRICA FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34428
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/TRT WORLD.png",TRT WORLD FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/TRT WORLD.png",TRT WORLD FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164205
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/CNBC FHD.png",CNBC FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/CNBC FHD.png",CNBC FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/19160
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc1.png",BBC 1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc1.png",BBC 1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34330
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc2.png",BBC 2 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc2.png",BBC 2 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34329
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/BBC 3.png",BBC 3 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/BBC 3.png",BBC 3 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/6367
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc4.png",BBC 4 / CBEEBIES SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc4.png",BBC 4 / CBEEBIES SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34086
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv0.png",ITV 1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv0.png",ITV 1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28974
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv20.png",ITV 2 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv20.png",ITV 2 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2288
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv20.png",ITV 2+1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv20.png",ITV 2+1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164248
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv30.png",ITV 3 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv30.png",ITV 3 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34389
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv3.png",ITV 3+1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv3.png",ITV 3+1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164236
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/itv40.png",ITV 4 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/itv40.png",ITV 4 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34390
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal5.png",CHANNEL 5 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal5.png",CHANNEL 5 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34324
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal4.png",CHANNEL 4 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal4.png",CHANNEL 4 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34323
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal4.png",CHANNEL 4+1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal4.png",CHANNEL 4+1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164243
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/e40.png",E4 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/e40.png",E4 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34149
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbcns.png",BBC NEWS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbcns.png",BBC NEWS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2281
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cnn.png",CNN SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cnn.png",CNN SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34282
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyns.png",SKY NEWS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyns.png",SKY NEWS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34104
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/utv.png",UTV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/utv.png",UTV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2253
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/virgn.png",VIRGIN ONE SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/virgn.png",VIRGIN ONE SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164251
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/aljz.png",AL JAZEERA SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/aljz.png",AL JAZEERA SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164250
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/CNBC FHD.png",CNBC SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/CNBC FHD.png",CNBC SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164239
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/eurns.png",EURO NEWS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/eurns.png",EURO NEWS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29115
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/gb0.png",GB NEWS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/gb0.png",GB NEWS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/149594
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/FOX NEWS.png",FOX NEWS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/FOX NEWS.png",FOX NEWS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/6558
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/abpns.png",ABP NEWS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/abpns.png",ABP NEWS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34322
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/4sev.png",4SEVEN SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/4sev.png",4SEVEN SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/941432
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/stv1.png",STV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/stv1.png",STV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34061
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/stv1.png",STV EAST SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/stv1.png",STV EAST SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34089
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/stv1.png",STV WEST SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/stv1.png",STV WEST SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34078
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/s4c.png",S4C SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/s4c.png",S4C SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34111
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/takb.png",TAKBEER TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/takb.png",TAKBEER TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34074
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/alibi.png",ALIBI SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/alibi.png",ALIBI SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164237
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/blomb.png",BLOOMBERG SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/blomb.png",BLOOMBERG SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164235
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/flg.png",CHSTV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/flg.png",CHSTV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/19166
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/ahlby.png",AHLULBAYT TV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/ahlby.png",AHLULBAYT TV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29141
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/revl.png",REVELATION HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/revl.png",REVELATION HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29139
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/isla.png",ISLAM TV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/isla.png",ISLAM TV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29140
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/kic.png",KICC TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/kic.png",KICC TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34387
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/eman.png",EMAN CHANNEL
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/eman.png",EMAN CHANNEL
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34171
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/faitwl.png",FAITH WORLD TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/faitwl.png",FAITH WORLD TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34172
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/godch.png",GOD CHANNEL SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/godch.png",GOD CHANNEL SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34195
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/hidy.png",HIDAYAT TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/hidy.png",HIDAYAT TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34203
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/nor.png",NOOR TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/nor.png",NOOR TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34358
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/DEEN TV.png",DEEN TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/DEEN TV.png",DEEN TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164254
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/isla.png",ISLAM CHANNEL SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/isla.png",ISLAM CHANNEL SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164253
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/islacr.png",ISLAM CH URDU SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/islacr.png",ISLAM CH URDU SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164252
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cbsrl.png",CBS REALITY HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cbsrl.png",CBS REALITY HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28990
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/GOLD.png",GOLD HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/GOLD.png",GOLD HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29011
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/fodnet.png",FOOD NETWORK HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/fodnet.png",FOOD NETWORK HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28995
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/fodnet.png",FOOD NETWORK + 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/fodnet.png",FOOD NETWORK + 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29007
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/que.png",QUEST HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/que.png",QUEST HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28986
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/que.png",QUEST +1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/que.png",QUEST +1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29009
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/red.png",QUEST RED+1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/red.png",QUEST RED+1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2254
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/5usa.png",5 USA HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/5usa.png",5 USA HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28984
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/usa.png",5 USA+1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/usa.png",5 USA+1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33810
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28993
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL +1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL +1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29013
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cmdxt.png",COMEDY XTRA HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cmdxt.png",COMEDY XTRA HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28994
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/DAVE.png",DAVE HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/DAVE.png",DAVE HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28989
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mor4.png",MORE4 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mor4.png",MORE4 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28983
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/sony.png",SONY TV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/sony.png",SONY TV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34342
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/Quiz.png",ITV QUIZ HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/Quiz.png",ITV QUIZ HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34077
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tlc.png",TLC HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tlc.png",TLC HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28996
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tlc.png",TLC+1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tlc.png",TLC+1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2252
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyart.png",SKY ARTS HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyart.png",SKY ARTS HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28997
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SKY ATLANTIC.png",SKY ATLANTIC HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SKY ATLANTIC.png",SKY ATLANTIC HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28998
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skywtn.png",SKY WITNESS HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skywtn.png",SKY WITNESS HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28999
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/ger/skyon.png",SKY ONE HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/ger/skyon.png",SKY ONE HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34359
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SkyComedy.png",SKY COMEDY HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SkyComedy.png",SKY COMEDY HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1108012
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/alb/skymx.png",Sky MAX HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/alb/skymx.png",Sky MAX HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/719
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SkyMix.png",SKY MIX HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SkyMix.png",SKY MIX HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1478327
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/real.png",REALLY HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/real.png",REALLY HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28987
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/flg.png",THE CHAT SHOW CHANNEL
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/flg.png",THE CHAT SHOW CHANNEL
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1105676
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prmnt.png",PARAMOUNT NETWORK HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prmnt.png",PARAMOUNT NETWORK HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33833
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/idp8.png",DISCOVERY ID+1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/idp8.png",DISCOVERY ID+1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33801
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/syfy.png",SYFY HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/syfy.png",SYFY HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28991
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/5STAR.png",5STAR HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/5STAR.png",5STAR HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28985
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/5STAR + 1.png",5STAR + 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/5STAR + 1.png",5STAR + 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29006
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/qvc.png",QVC HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/qvc.png",QVC HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34426
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/redbl.png",RED BULL TV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/redbl.png",RED BULL TV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29145
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/watc.png",WATCH HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/watc.png",WATCH HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164262
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/DAYSTAR.png",DAYSTAR HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/DAYSTAR.png",DAYSTAR HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/19165
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyart.png",SKY ARTS FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyart.png",SKY ARTS FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34214
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyatl.png",SKY ATLANTIC FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyatl.png",SKY ATLANTIC FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34215
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skywtn.png",SKY WITNESS FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skywtn.png",SKY WITNESS FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34208
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SkyComedy.png",SKY COMEDY FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SkyComedy.png",SKY COMEDY FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1108011
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SkyMix.png",SKY MIX FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SkyMix.png",SKY MIX FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1478328
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/Quiz.png",ITV QUIZ FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/Quiz.png",ITV QUIZ FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29152
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mor4.png",MORE4 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mor4.png",MORE4 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34217
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/que.png",QUEST FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/que.png",QUEST FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34216
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/sony.png",SONY TV FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/sony.png",SONY TV FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34206
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tlc.png",TLC FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tlc.png",TLC FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34205
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/DAVE.png",DAVE FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/DAVE.png",DAVE FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33959
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/GOLD.png",GOLD FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/GOLD.png",GOLD FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33950
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/londlv.png",LONDON LIVE FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/londlv.png",LONDON LIVE FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29000
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/watc.png",WATCH FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/watc.png",WATCH FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164208
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/syfy.png",SYFY FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/syfy.png",SYFY FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164207
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/ger/skyon.png",SKY ONE FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/ger/skyon.png",SKY ONE FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34211
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/alb/skymx.png",Sky MAX FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/alb/skymx.png",Sky MAX FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/720
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164206
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/flg.png",LOVE WORLD FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/flg.png",LOVE WORLD FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/19164
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/ger/skyon.png",SKY ONE HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/ger/skyon.png",SKY ONE HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102219
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SKY ATLANTIC.png",SKY ATLANTIC HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SKY ATLANTIC.png",SKY ATLANTIC HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102205
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/alb/skymx.png",Sky MAX HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/alb/skymx.png",Sky MAX HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102204
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skywtn.png",SKY WITNESS HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skywtn.png",SKY WITNESS HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102203
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyart.png",SKY ARTS HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyart.png",SKY ARTS HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102202
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/sony.png",SONY TV HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/sony.png",SONY TV HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102199
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mor4.png",MORE4 HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mor4.png",MORE4 HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102197
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/GOLD.png",GOLD HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/GOLD.png",GOLD HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102192
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/DAVE.png",DAVE HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/DAVE.png",DAVE HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102190
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/watc.png",WATCH HEVC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/watc.png",WATCH HEVC
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/102187
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skyart.png",SKY ARTS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skyart.png",SKY ARTS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34109
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SKY ATLANTIC.png",SKY ATLANTIC SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SKY ATLANTIC.png",SKY ATLANTIC SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34108
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/skywtn.png",SKY WITNESS SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/skywtn.png",SKY WITNESS SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34100
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/alb/skymx.png",Sky MAX SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/alb/skymx.png",Sky MAX SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/718
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/sky2.png",SKY TWO SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/sky2.png",SKY TWO SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34101
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/SkyComedy.png",SKY COMEDY SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/SkyComedy.png",SKY COMEDY SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1108010
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/atnbn.png",ATN BANGLA UK SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/atnbn.png",ATN BANGLA UK SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34331
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/besdr.png",BEST DIRECT SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/besdr.png",BEST DIRECT SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33830
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cbsrl.png",CBS REALITY SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cbsrl.png",CBS REALITY SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34327
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/chal.png",CHALLENGE SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/chal.png",CHALLENGE SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34328
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cmdcen.png",COMEDY CENTRAL SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34278
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cmdxt.png",COMEDY XTRA SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cmdxt.png",COMEDY XTRA SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34281
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/5DRAMA.png",5 DRAMA SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/5DRAMA.png",5 DRAMA SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34341
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/5STAR.png",5STAR SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/5STAR.png",5STAR SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34339
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/DAVE.png",DAVE SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/DAVE.png",DAVE SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34124
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/davj.png",DAVE JA-VU SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/davj.png",DAVE JA-VU SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33829
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/fodnet.png",FOOD NETWORK SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/fodnet.png",FOOD NETWORK SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34192
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/GOLD.png",GOLD SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/GOLD.png",GOLD SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34196
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/GOLD+1.png",GOLD+1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/GOLD+1.png",GOLD+1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164267
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/5usa.png",5 USA SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/5usa.png",5 USA SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34340
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/pick.png",PICK SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/pick.png",PICK SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34360
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/red.png",QUEST RED SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/red.png",QUEST RED SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34120
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/que.png",QUEST SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/que.png",QUEST SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34119
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/qvcbty0.png",QVC BEAUTY SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/qvcbty0.png",QVC BEAUTY SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29144
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/qvcex.png",QVC EXTRA SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/qvcex.png",QVC EXTRA SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33817
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/qvc.png",QVC SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/qvc.png",QVC SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29142
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/qvcsl0.png",QVC STYLE SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/qvcsl0.png",QVC STYLE SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29143
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/flgk.png",TOGETHER SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/flgk.png",TOGETHER SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1473962
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/real.png",REALLY SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/real.png",REALLY SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34117
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/sheflv.png",SHEFFIELD LIVE TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/sheflv.png",SHEFFIELD LIVE TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34431
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mor4.png",MORE4 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mor4.png",MORE4 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29008
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mor4.png",MORE4+1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mor4.png",MORE4+1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164265
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/sony.png",SONY TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/sony.png",SONY TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34091
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/syfy.png",SYFY SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/syfy.png",SYFY SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2239
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tlc.png",TLC SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tlc.png",TLC SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34072
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/trvlx.png",TRAVELXP SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/trvlx.png",TRAVELXP SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34071
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/tbn.png",TBN UK SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/tbn.png",TBN UK SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164268
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/e40.png",E4+1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/e40.png",E4+1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164266
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/cour.png",COURT TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/cour.png",COURT TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164264
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/ger/skyon.png",SKY ONE SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/ger/skyon.png",SKY ONE SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34103
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/watc.png",WATCH SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/watc.png",WATCH SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164263
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prmnt.png",PARAMOUNT NETWORK SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prmnt.png",PARAMOUNT NETWORK SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/6674
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/laig0.png",LALIGA TV FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/laig0.png",LALIGA TV FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33866
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29043
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 FHD [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 FHD [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1508515
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29044
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 FHD [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 FHD [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1508518
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS RUGBY FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS RUGBY FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1480026
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/figbox.png",FIGHT BOX FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/figbox.png",FIGHT BOX FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29147
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mut.png",MUTV FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mut.png",MUTV FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/97594
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/lfc.png",LFC TV FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/lfc.png",LFC TV FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33847
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/laig0.png",LALIGA TV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/laig0.png",LALIGA TV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34105
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34351
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 HD [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 HD [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1508516
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33832
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 HD [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 HD [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1508519
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS RUGBY HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS RUGBY HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1480027
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/VIAP.png",VIAPLAY 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/VIAP.png",VIAPLAY 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/50725
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/VIAP.png",VIAPLAY 2 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/VIAP.png",VIAPLAY 2 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/50716
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bxna0.png",BOX NATION HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bxna0.png",BOX NATION HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29048
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/bss/bs1eng.png",BEIN SPORTS 01 ENGLISH FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/bss/bs1eng.png",BEIN SPORTS 01 ENGLISH FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1502522
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/bss/bs2eng.png",BEIN SPORTS 02 ENGLISH FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/bss/bs2eng.png",BEIN SPORTS 02 ENGLISH FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1502523
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/lfc.png",LFC TV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/lfc.png",LFC TV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29047
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mut.png",MUTV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mut.png",MUTV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29046
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/flg.png",EQU TV HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/flg.png",EQU TV HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/2399
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/ca/dzncaleo.png",DAZN UK 1 HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/ca/dzncaleo.png",DAZN UK 1 HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1459675
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bbc1.png",BBC RED BUTTON 01
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bbc1.png",BBC RED BUTTON 01
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/28967
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/rangers1.png",RANGERS TV HD (LIVE ON MATCHES)
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/rangers1.png",RANGERS TV HD (LIVE ON MATCHES)
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/225593
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/laig0.png",LALIGA TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/laig0.png",LALIGA TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29045
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/lfc.png",LFC TV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/lfc.png",LFC TV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33848
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/mut.png",MUTV SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/mut.png",MUTV SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34368
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34123
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 SD [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS 1 SD [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1508517
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164233
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 SD [BK]
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp20.png",PREMIER SPORTS 2 SD [BK]
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1508520
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/prsp10.png",PREMIER SPORTS RUGBY SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/prsp10.png",PREMIER SPORTS RUGBY SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/1480028
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/bxna0.png",BOX NATION SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/bxna0.png",BOX NATION SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/164232
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/racg.png",RACING UK FHD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/racg.png",RACING UK FHD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34213
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/hrscnt.png",HORSE AND COUNTRY
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/hrscnt.png",HORSE AND COUNTRY
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29051
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/racg.png",RACING UK HD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/racg.png",RACING UK HD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/29042
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/racg.png",RACING UK SD
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/racg.png",RACING UK SD
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/34118
-#EXTINF:-1 group-title="UK CHANNELS" tvg-logo=""https://lo1.in/uk/racg.png",RACING.COM
+#EXTINF:-1 group-title="UK CHANNELS" tvg-logo="https://lo1.in/uk/racg.png",RACING.COM
 http://sethbuaz.asqflk.com:80/TVANKNU7/AGGVQB4V/33839
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.vhv.rs/dpng/d/446-4462610_wqpt-pbs-kids-pbs-kids-logo-hd-png.png",PBS_KIDS
